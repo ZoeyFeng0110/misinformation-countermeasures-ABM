@@ -1,0 +1,1316 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 24 Mar 2015 09:52:41 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 109
+Connection: keep-alive
+Cache-Control: private, max-age=90
+Location: http://trib.al/c99sxZY
+Mime-Version: 1.0
+Set-Cookie: _bit=551133e9-00143-0505b-291cf10a;domain=.on.wsj.com;expires=Sun Sep 20 09:52:41 2015;path=/; HttpOnly
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html;charset=utf-8
+Date: Tue, 24 Mar 2015 09:52:41 GMT
+Location: http://www.wsj.com/articles/shooting-at-paris-office-of-charlie-hebdo-magazine-kills-12-1420630438?mod=e2tw
+Server: CherryPy/3.2.4
+Set-Cookie: tribal="JfoCeLNSSf+LkZ/A2WQJ9g=="; expires=Fri, 06 Jan 2034 23:13:40 GMT; Path=/; Version=2
+Content-Length: 269
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: Tesla
+X-UA-Compatible: IE=edge
+X-UA-Compatible: IE=Edge
+X-Distil-DC: f84094ad-7e5c-4fad-8b2d-1bd63e54f712
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Expires: Tue, 24 Mar 2015 09:52:42 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 24 Mar 2015 09:52:42 GMT
+Content-Length: 19797
+Connection: keep-alive
+Set-Cookie: DJSESSION=country%3Dgb%7C%7Ccontinent%3Deu%7C%7Cregion%3Den%7C%7Ccity%3Dwarwick%7C%7Clatitude%3D52.28%7C%7Clongitude%3D-1.58%7C%7Ctimezone%3Dgmt%7C%7Czip%3D%7C%7CORCS%3Deurope; Domain=.wsj.com; Path=/
+Set-Cookie: DJCOOKIE=ORC%3Deurope; Domain=.wsj.com; Path=/
+Set-Cookie: wsjregion=europe; Domain=.wsj.com; Path=/; Expires=Thu, 23 Apr 2015 09:52:41 GMT
+
+<!DOCTYPE html>
+<!-- TESLA DESKTOP16 V1 -->
+<!-- RESPONSIVE_SNIPPET -->
+<html
+  itemscope=""
+  itemtype="http://schema.org/WebPage"
+  xmlns="http://www.w3.org/1999/xhtml"
+  lang="en-US"
+  data-env="prod"
+  data-site="wsj"
+  data-region="europe"
+  data-layouttype="article">
+
+  <head>
+
+    <title>
+      Charlie Hebdo Office in Paris Attacked by Gunmen; 12 Killed - WSJ
+    </title>
+    <script type='text/javascript'>window.NREUM||(NREUM={});NREUM.info = {"agent":"js-agent.newrelic.com/nr-627.min.js","beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"a29706356f","applicationID":"3444062","applicationTime":92.78107,"transactionName":"dUARQwkPF1QRQlpXWVNGTR0=","queueTime":0,"ttGuid":289125,"agentToken":null}; (window.NREUM||(NREUM={})).loader_config={xpid:"UAEHUVBWGwAEUFVSAQM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=n(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=n(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var u=0;c>u;u++)e.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="dj.asn" content="192-82" />
+<meta name="user.type" content="nonsubscriber" />
+<meta name="user.exp" content="default" />
+<meta name="page.site" content="wsj" />
+<meta name="page.region" content="europe" />
+<meta name="page.section" content="Article" />
+<meta name="page.content.type" content="article" />
+<meta name="page.content.format" content="responsive" />
+<meta name="og:type" content="article" />
+<meta name="page.content.source" content="WSJ Online Article" />
+<meta name="article.template" content="snippet" />
+<meta name="article.id" content="SB12274156626456164535504580384942519103662" />
+<meta name="article.type" content="Europe News" />
+<meta name="article.access" content="paid" />
+<meta name="article.origheadline" content="At Least 10 Killed in Attack on Office of French Magazine" />
+<meta name="article.headline" content="Shooting at Paris office of Charlie Hebdo magazine kills 12" />
+<meta name="article.summary" content="Armed men stormed the Paris offices of Charlie Hebdo, a satirical magazine targeted in the past for its cartoons on Islam, leaving 12 people dead. Three suspects, all Frenchmen, were identified. One turned himself in to police; the two others remain at large." />
+<meta name="article.page" content="World" />
+<meta name="article.section" content="World" />
+<meta name="article.published" content="2015-01-08T04:13:00.000Z" />
+<meta itemprop="datePublished" content="2015-01-08T04:13:00.000Z" />
+<meta name="article.updated" content="2015-01-08T04:13:00.000Z" />
+<meta itemprop="dateModified" content="2015-01-08T04:13:00.000Z" />
+<meta name="article.created" content="2015-01-07T11:33:00.000Z" />
+<meta itemprop="dateCreated" content="2015-01-07T11:33:00.000Z" />
+<meta name="author" content="Inti Landauro, Noémie Bisserbe and David Gauthier-Villars" />
+<meta name="keywords" content="charlie hebdo,france killings,france shooting,french magazine,paris attack,paris killings,paris shooting,paris terror,satirical magazine,shooting,Charlie Hebdo,political,general news,national security,crime,courts,murder,manslaughter,risk news,acts of terror,printing,publishing,magazine publishing,media,entertainment" />
+<meta name="news_keywords" content="charlie hebdo,france killings,france shooting,french magazine,paris attack,paris killings,paris shooting,paris terror,satirical magazine,shooting" />
+<meta name="description" content="Armed men stormed the Paris offices of Charlie Hebdo, a satirical magazine targeted in the past for its cartoons on Islam, leaving 12 people dead. Three suspects, all Frenchmen, were identified. One turned himself in to police; the two others remain at large." />
+<meta itemprop="description" content="Armed men stormed the Paris offices of Charlie Hebdo, a satirical magazine targeted in the past for its cartoons on Islam, leaving 12 people dead. Three suspects, all Frenchmen, were identified. One turned himself in to police; the two others remain at large." />
+<meta name="robots" content="noarchive,noodp" />
+<meta name="language" content="en-US" />
+<meta itemprop="inLanguage" content="en-US" />
+<meta name="twitter:title" content="Charlie Hebdo Office in Paris Attacked by Gunmen; 12 Killed" />
+<meta name="twitter:description" content="Armed men stormed the Paris offices of Charlie Hebdo, a satirical magazine targeted in the past for its cartoons on Islam, leaving 12 people dead. Three suspects, all Frenchmen, were identified. One turned himself in to police; the two others remain at large." />
+<meta name="twitter:image" content="http://si.wsj.net/public/resources/images/AI-CN200_LIONDO_D_20150106141608.jpg" />
+<meta name="twitter:image:src" content="http://si.wsj.net/public/resources/images/AI-CN200_LIONDO_G_20150106141608.jpg" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:creator" content="@landauro" />
+<meta name="twitter:site" content="@WSJ" />
+<meta name="twitter:domain" content="wsj.com" />
+<meta name="fb:app_id" content="368513495882" />
+<meta property="og:title" content="Charlie Hebdo Office in Paris Attacked by Gunmen; 12 Killed" />
+<meta property="og:description" content="Armed men stormed the Paris offices of Charlie Hebdo, a satirical magazine targeted in the past for its cartoons on Islam, leaving 12 people dead. Three suspects, all Frenchmen, were identified. One turned himself in to police; the two others remain at large." />
+<meta property="og:url" content="http://www.wsj.com/articles/shooting-at-paris-office-of-charlie-hebdo-magazine-kills-12-1420630438" />
+<meta itemprop="image" content="http://si.wsj.net/public/resources/images/AI-CN200_LIONDO_G_20150106141608.jpg" />
+<meta property="og:image" content="http://si.wsj.net/public/resources/images/AI-CN200_LIONDO_G_20150106141608.jpg" />
+<meta property="og:image:width" content="553" />
+<meta property="og:image:height" content="369" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="article" />
+<meta property="og:site_name" content="WSJ" />
+<meta property="article:publisher" content="https://www.facebook.com/wsj" />
+
+      <link rel="canonical" href="http://www.wsj.com/articles/shooting-at-paris-office-of-charlie-hebdo-magazine-kills-12-1420630438" />
+
+    <!-- H&Co Gziped Fonts -->
+    <link rel="stylesheet" type="text/css" href="//fonts.wsj.net/HCo_Chronicle/font_HCo_Chronicle.css"/>
+    <link rel="stylesheet" type="text/css" href="//fonts.wsj.net/HCo_Whitney/font_HCo_Whitney.css"/>
+
+    <!-- Styles -->
+
+  <link href='//asset.wsj.net/public/snippet.production-c5277e32.css' media='all' rel='stylesheet' type='text/css'/>
+
+  <!--[if IE 9]>
+    <link rel="stylesheet" type="text/css" href="//fonts.wsj.net/HCo_Chronicle/font_HCo_Chronicle-ie.css" />
+    <link rel="stylesheet" type="text/css" href="//fonts.wsj.net/HCo_Whitney/font_HCo_Whitney-ie.css" />
+  <![endif]-->
+
+  <!--[if lte IE 9]>
+    
+    
+  <![endif]-->
+
+  <!--[if lte IE 8]>
+    <link href='//asset.wsj.net/public/globalIE.production-dc1750b1.css' media='all' rel='stylesheet' type='text/css'/>
+    <link href='//asset.wsj.net/public/lteIe8.production-7f04a329.css' media='all' rel='stylesheet' type='text/css'/>
+  <![endif]-->
+
+
+
+    <!-- Media queries for ie8 -->
+    <!--[if lt IE 9]>
+      <script src="//cdnjs.cloudflare.com/ajax/libs/modernizr/2.8.3/modernizr.min.js"></script>
+      <script src="//css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+    <![endif]-->
+
+
+  <script type="text/javascript" src="/ga.782123.js" defer></script><style type="text/css">#d__fFH{position:absolute;top:-5000px;left:-5000px}#d__fF{font-family:serif;font-size:200px;visibility:hidden}#szybauaw{display:none!important}</style></head>
+
+  <body id="article_body" class="pageFrame subType-unsubscribed logged-out" intent in-width="*" in-interaction="*" itemscope itemtype="http://schema.org/NewsArticle">
+    <meta itemprop="publisher" content="wsj.com">
+    <!-- Nav drawer and section links for 4u -->
+    <div class="nameplate drawerNav">
+        <nav class="touchNav" data-drag-x="false" data-drag-y="true" data-strict="true" data-bounding-box=".drawerNav" data-keepposition="false" data-subunits="ul">
+
+<div data-module-id="10" data-module-name="dj.module.nav.Module" data-module-zone="drawer_nav" class="zonedModule">
+    <ul class="level-0 loginsubscribe">
+      <li class="login"><a href="https://id.wsj.com/access/50f5723cbd7fb2d2f6629af4/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fshooting-at-paris-office-of-charlie-hebdo-magazine-kills-12-1420630438%3Fmod%3De2tw">Log In</a><span id="szybauaw"><a rel="file" style="display: none;" href="bvtauqxuufew.html">zxtcaavztwtses</a></span></li>
+      <li class="subscribe">
+        <a href="https://join.wsjeuropesubs.com/000HA"><small>Subscribe Now</small></a>
+      </li>
+    </ul>
+
+
+  <h5>Sections</h5>
+  <ul class="level-2">
+          <li><a href="http://www.wsj.com/m/">Home</a></li>
+          <li class="selected"><a href="http://www.wsj.com/m/news-global-world">World</a></li>
+          <li><a href="/news-european-union">Europe</a></li>
+          <li><a href="/uk">U.K.</a></li>
+          <li><a href="/news-world-business">U.S.</a></li>
+          <li><a href="/news-business-us">Business</a></li>
+          <li><a href="/news-financial-markets-stock">Markets</a></li>
+          <li><a href="http://markets.wsj.com/europeoverview">Market Data</a></li>
+          <li><a href="http://online.wsj.com/news/technology">Tech</a></li>
+          <li><a href="/life-style-arts">Life & Culture</a></li>
+          <li><a href="/news-opinion-commentary">Opinion</a></li>
+          <li><a href="/news-wall-street-heard">Heard on the Street</a></li>
+          <li><a href="/news-real-estate-europe">Property</a></li>
+    </ul>
+</div> <!-- data-module-name="dj.module.nav.Module" -->
+
+
+<div data-module-id="11" data-module-name="dj.module.quicklinks.Module" data-module-zone="drawer_quicklinks" class="zonedModule">
+<h5>Quick Links</h5>
+	<ul class="level-2">
+	    <li><a href="http://blogs.wsj.com/?mod=WSJ_formfactor">Blogs</a></li>
+	    <li><a href="http://live.wsj.com/?mod=WSJ_formfactor">Video</a></li>
+	    <li><a href="http://europe.wsj.com/itp">Today's Paper</a></li>
+	    <li><a href="http://online.wsj.com/public/page/latest-opinion-analysis-columns.html?dsk=y">Columns</a></li>
+	</ul>
+	<h5>MORE FROM WSJ</h5>
+	<ul class="level-2">
+	    <li><a href="http://online.wsj.com/user/profile/m-myjnav?mod=WSJ_mobile_nav">My Journal</a></li>
+	    <li><a href="http://m.europe.wsj.com/real-estate-luxury">Mansion</a></li>
+	</ul>
+
+</div> <!-- data-module-name="dj.module.quicklinks.Module" -->
+
+        </nav>
+    </div>
+
+    <div class="sliderBox">
+      <div class="full_width cookie_policy">
+        <div class="sector">
+          <div class="column">
+            <div class="module">
+
+<div data-module-id="14" data-module-name="resp.module.cookie_policy.Module" data-module-zone="cookie_policy" class="zonedModule">
+<div class="cookie-notice-container">
+  <div class="cookie-notice">
+    <div class="wrapper">
+        <p>We use cookies to help us deliver our online services.  By using our website or by closing this message box, you agree to our use of cookies as described in our <a href="http://online.wsj.com/public/page/cookie-policy.html" target="_blank">Cookie Policy</a><!-- i18n-1 -->.</p>
+        <a class="close" href="#">Do not show again</a>
+    </div>
+  </div>
+</div>
+
+</div> <!-- data-module-name="resp.module.cookie_policy.Module" -->
+
+            </div>
+          </div>
+        </div>
+      </div>
+
+        <div class="full_width hat hide4">
+          <div class="sector">
+            <div class="column">
+              <div class="module">
+
+<div data-module-id="16" data-module-name="resp.module.hat.DesktopHat" data-module-zone="hat" class="zonedModule">
+<div class="module hat" data-fxgridwrap="hatWrapBG" data-fxgridtarget=".colgroup-lv1.hat">
+<nav class="rw-hat"><ul>
+<li class="hat-tab current wsj nonregistered">
+  <a class="hat-link " href="http://www.wsj.com">
+    <h4 class="product-name">WSJ EUROPE</h4>
+    <ul class="social-links">
+      <li class="social-icon facebook" title="Follow WSJEurope on Facebook">
+        <div id="hatFacebook" style="border: none;">&lt;h4&gt;WSJEurope on Facebook&lt;/h4&gt;&lt;div style=&quot;border: none; padding: 2px 3px;&quot; class=&quot;fb-like&quot; data-href=&quot;http://www.facebook.com/wsjeurope&quot; data-send=&quot;false&quot; data-layout=&quot;button_count&quot; data-width=&quot;250&quot; data-show-faces=&quot;false&quot; data-action=&quot;recommend&quot;&gt;&lt;/div&gt;</div>
+      </li>
+      <li class="social-icon twitter" title="Follow WSJEurope on Twitter">
+        <div id="hatTwitter">&lt;h4&gt;WSJEurope on Twitter&lt;/h4&gt;&lt;a href=&quot;https://twitter.com/wsjeurope&quot; class=&quot;twitter-follow-button&quot; data-show-count=&quot;true&quot;&gt;Follow @wsjeurope&lt;/a&gt;</div>
+      </li>
+    </ul>
+  </a>
+</li>
+<li class="hat-tab wsjlive">
+  <a class="hat-link" href="http://live.wsj.com">
+    <h4 class="product-name">WSJ LIVE</h4>
+    <ul class="social-links">
+      <li class="social-icon facebook ">
+        <div><h4>WSJ Live on Facebook</h4></div>
+      </li>
+      <li class="social-icon twitter">
+        <div><h4>WSJ Live on Twitter</h4></div>
+      </li>
+    </ul>
+  </a>
+</li>
+<!-- <li class="hat-tab market">
+  <a class="hat-link" href="http://www.marketwatch.com">
+    <h4 class="product-name">MARKETWATCH</h4>
+    <ul class="social-links">
+      <li class="social-icon facebook">
+        <div><h4>MarketWatch on Facebook</h4></div>
+      </li>
+      <li class="social-icon twitter">
+        <div><h4>MarketWatch on Twitter</h4></div>
+      </li>
+    </ul>
+  </a>
+</li> -->
+<li class="hat-tab realtor">
+  <a class="hat-link " href="http://www.realtor.com">
+    <h4 class="product-name">REALTOR.COM</h4>
+    <ul class="social-links">
+      <li class="social-icon realtor">
+        <div><h4>Realtor on Facebook</h4></div>
+      </li>
+      <li class="social-icon twitter">
+        <div><h4>Realtor on Twitter</h4></div>
+      </li>
+    </ul>
+  </a>
+</li>
+<li class="hat-tab barrons">
+  <a class="hat-link " href="http://online.barrons.com/home">
+    <h4 class="product-name">BARRON'S</h4>
+    <ul class="social-links">
+      <li class="social-icon facebook ">
+        <div><h4>Barron's on Facebook</h4></div>
+      </li>
+      <li class="social-icon twitter">
+        <div><h4>Barron's on Twitter</h4></div>
+      </li>
+    </ul>
+  </a>
+</li>
+<!-- moving into more -->
+<li class="hat-tab wsjplus" intent in-at4units-class="" in-at8units-class="" in-at12units-class="hat-tab wsjplus" in-at16units-class="hat-tab wsjplus" in-base-after=".hat-tab.barrons" in-at8units-append="#morehatlinks ul.more-list">
+  <a class="hat-link " href="http://www.wsjplus.com">
+    <h4 class="product-name">Membership</h4>
+    <ul class="social-links">
+      <li class="social-icon facebook ">
+        <div><h4>Member on Facebook</h4></div>
+      </li>
+      <li class="social-icon twitter">
+        <div><h4>Member on Twitter</h4></div>
+      </li>
+    </ul>
+  </a>
+</li>
+<!-- <li class="hat-tab portfolio" intent in-at4units-class="" in-at8units-class="" in-at12units-class="hat-tab portfolio" in-at16units-class="hat-tab portfolio" in-base-after=".hat-tab.barrons" in-at8units-append="#morehatlinks ul.more-list">
+  <a class="hat-link " href="http://portfolio.wsj.com?mod=wsj_port_hat">
+    <h4 class="product-name">Portfolio</h4>
+    <ul class="social-links">
+      <li class="social-icon facebook ">
+        <div><h4>Portfolio on Facebook</h4></div>
+      </li>
+      <li class="social-icon twitter">
+        <div><h4>Portfolio on Twitter</h4></div>
+      </li>
+    </ul>
+  </a>
+</li> -->
+<!-- moving into more -->
+<li class="hat-tab productx" intent in-at4units-class="" in-at8units-class="" in-at12units-class="hat-tab productx" in-at16units-class="hat-tab productx" in-base-before="#morehatlinks" in-at8units-append="#morehatlinks ul.more-list">
+  <a class="hat-link" href="http://dj.wsj.com/hub?mod=WSJEurope_Hat">
+    <h4 class="product-name">DJX</h4>
+    <ul class="social-links">
+      <li class="social-icon facebook ">
+        <div><h4>Product X on Facebook</h4></div>
+      </li>
+      <li class="social-icon twitter">
+        <div><h4>Product X on Twitter</h4></div>
+      </li>
+    </ul>
+  </a>
+  <ul class="productx-dropdown">
+      <li class="productx-products"><a class="rt" href="https://id.wsj.com/access/pages/wsj/us/login_standalone.html?mg=reno64-wsj&amp;url=http%3A%2F%2Fonline.wsj.com%2Fpage%2FDJX.html%3Fmod%3DProdX_MktgHub">RT</a></li>
+      <li class="productx-products"><a class="f" href="http://global.factiva.com?mod=ProdX_MktgHub">F</a></li>
+      <li class="productx-products"><a class="rc" href="https://djrc.dowjones.com/?mod=ProdX_MktgHub">R&amp;C</a></li>
+    	<li class="productx-products"><a class="pevc" href="http://pevc.dowjones.com/?mod=ProdX_MktgHub">PE&amp;VC</a></li>
+      <li class="productx-products disabled"><a class="wsj" href="#">WSJ</a></li>
+    	<li class="productx-products"><a class="b" href="https://id.barrons.com/access/pages/barrons/us/login_standalone.html?url=http%3A%2F%2Fonline.barrons.com%2Fhome-page%3Fmod%3DProdX_MktgHub">B</a></li>
+			<li class="tri"></li>
+  </ul>
+</li>
+<li class="hat-tab more" id="morehatlinks">
+  <div class="hat-link ">
+    <h4 class="product-name menu">MORE</h4>
+    <ul class="more-list">
+      <li>
+        <a href="https:/portfolio.wsj.com/" class="more-item" rel="nofollow">Portfolio</a>
+      </li>
+      <li>
+        <a href="https://secure.wsj.com/" class="more-item" rel="nofollow">WSJ Secure</a>
+      </li>
+      <li>
+        <a href="http://bigcharts.marketwatch.com/" class="more-item" rel="nofollow">BigCharts</a>
+      </li>
+      <li>
+        <a href="http://www.efinancialnews.com/" class="more-item" rel="nofollow">Financial News</a>
+      </li>
+      <li>
+        <a href="http://professor.wsj.com/" class="more-item" rel="nofollow">Professor Journal</a>
+      </li>
+      <li>
+        <a href="http://wsjstudent.com/" class="more-item" rel="nofollow">Student Journal</a>
+      </li>
+      <li>
+        <a href="http://www.marketwatch.com/Game/" class="more-item" rel="nofollow">Virtual Stock Exchange</a>
+      </li>
+      <li>
+        <a href="http://classifieds.wsj.com/" class="more-item" rel="nofollow">WSJ Classifieds</a>
+      </li>
+      <li>
+        <a href="http://classroom.wsj.com/" class="more-item" rel="nofollow">WSJ Classrooms</a>
+      </li>
+      <li>
+        <a href="http://www.wsjwine.com/" class="more-item" rel="nofollow">WSJ Wine</a>
+      </li>
+    </ul>
+  </div>
+</li>
+</ul>
+<div class="rw-header-search wsj-search">
+  <div class="container ">
+    <form><input type="text" value="News, Quotes, Companies, Videos" class="hdrSearchInput unUsed" id="globalHatSearchInput" size="28">
+      <button class="button-search" type="button">Search</button>
+    </form>
+  </div>
+  <div id="epGlobalHeaderAutoComplete" class="search-list" 
+       data-symbol="Companies &amp; Quotes"
+       data-private="Private Companies" 
+	     data-recent="Recent Searches"
+	     data-all="View All Search Results »"></div>
+</div>
+</nav>
+</div>
+
+</div> <!-- data-module-name="resp.module.hat.DesktopHat" -->
+
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="full_width header">
+          <div class="sector">
+            <header class="column hide4">
+              <div class="module">
+
+<div data-module-id="13" data-module-name="dj.module.header.DesktopHeader" data-module-zone="desktop_header" class="zonedModule">
+<!-- module slimheader -->
+<div class="slimheader_c headerType-dark" data-fxgridwrap="headerWrapBG" data-fxgridtarget=".colgroup-lv1.header">
+	<div class="module slimheader">
+      <div class="leftCol"><a class="headerLogo" href="http://www.wsj.com/">The Wall Street Journal</a></div>
+      <div class="centerCol">
+        <div class="popC lnMenuC">
+          <span id="popButton" class="popTrigger lnMenu">Menu</span>
+          <div class="popBox pop-secs">
+            <div class="colA">
+              <ul>
+                <li class="lnLi"><a href="http://www.wsj.com/europe">Home</a></li>
+                <li class="lnLi current"><a href="http://www.wsj.com/public/page/news-global-world.html">World</a></li>
+                <li class="lnLi"><a href="/public/page/news-european-union.html">Europe</a></li>
+                <li class="lnLi"><a href="/public/page/uk.html">U.K.</a></li>
+                <li class="lnLi"><a href="/public/page/news-world-business.html">U.S.</a></li>
+                <li class="lnLi"><a href="/public/page/news-business-us.html">Business</a></li>
+                <li class="lnLi"><a href="/public/page/news-financial-markets-stock.html">Markets</a></li>
+                <li class="lnLi"><a href="http://markets.wsj.com/europeoverview">Market Data</a></li>
+                <li class="lnLi"><a href="http://online.wsj.com/news/technology">Tech</a></li>
+                <li class="lnLi"><a href="/public/page/life-style-arts.html">Life &amp; Culture</a></li>
+                <li class="lnLi"><a href="/public/page/news-opinion-commentary.html">Opinion</a></li>
+                <li class="lnLi"><a href="/public/page/news-wall-street-heard.html">Heard on the Street</a></li>
+                <li class="lnLi"><a href="/public/page/news-real-estate-europe.html">Property</a></li>
+              </ul>
+            </div>
+            <div class="colB">
+              <ul>
+
+
+                <li class="lnLi"><a href="http://www.wsj.com/public/page/news-global-world.html">World Home</a></li>
+                <li class="lnLi"><a href="http://www.wsj.com/public/page/news-asia-business.html">Asia</a></li>
+                <li class="lnLi"><a href="http://www.wsj.com/public/page/news-china.html">China</a></li>
+                <li class="lnLi"><a href="/public/page/mideast.html">Middle East</a></li>
+                <li class="lnLi"><a href="/public/page/news-africa.html">Africa</a></li>
+                <li class="lnLi"><a href="/public/page/news-canada.html">Canada</a></li>
+                <li class="lnLi"><a href="/public/page/news-latin-america.html">Latin America</a></li>
+                <li class="lnLi"><a href="http://blogs.wsj.com/chinarealtime/ ">China Real Time</a></li>
+                <li class="lnLi"><a href="http://blogs.wsj.com/japanrealtime/">Japan Real Time</a></li>
+                <li class="lnLi"><a href="http://blogs.wsj.com/korearealtime/">Korea Real Time</a></li>
+              </ul>
+            </div>
+          </div> <!--[if lte IE 9]><![endif]-->
+        </div>
+      <div class="siteDesc"><a class="lnSection" href="http://www.wsj.com/public/page/news-global-world.html">World</a></div>
+      </div>
+      <div class="rightCol">
+           <menu class="unsubNav">
+            <li><a class="ln" href="https://id.wsj.com/access/50f5723cbd7fb2d2f6629af4/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fshooting-at-paris-office-of-charlie-hebdo-magazine-kills-12-1420630438%3Fmod%3De2tw" ref="nofollow" data-widget="LIFP.login">Sign In</a></li>
+            <li><a class="ln" href="https://join.wsjeuropesubs.com/000HA" ref="nofollow">Subscribe</a></li>
+            <li class="subPromo"><div class="subPromo" id="AD_J" data-dj-adwidgettype="googleCircAd" data-dj-adwidgetdivid="AD_J" data-dj-adactivate="true" data-dj-adsize="[[377,50]]" data-dj-admetazone="" data-dj-adsite="europe.wsj.com" data-dj-adpage="worldnews_europe_story" data-dj-admsrcvalue="e2tw" data-dj-showcircad="true" data-dj-adcircvalue="snippet" data-cb-ad-id="HeaderPromo">
+</div>
+</li>
+          </menu>
+            <div class="subPromo" id="AD_J" data-dj-adwidgettype="googleCircAd" data-dj-adwidgetdivid="AD_J" data-dj-adactivate="true" data-dj-adsize="[[377,50]]" data-dj-admetazone="" data-dj-adsite="europe.wsj.com" data-dj-adpage="worldnews_europe_story" data-dj-admsrcvalue="e2tw" data-dj-showcircad="true" data-dj-adcircvalue="snippet" data-cb-ad-id="HeaderPromo">
+            </div>
+      </div>
+</div>
+</div>
+<!-- end module slimheader -->
+
+</div> <!-- data-module-name="dj.module.header.DesktopHeader" -->
+
+              </div>
+            </header>
+
+            <header class="column hide8 hide12 hide16">
+              <div class="module">
+
+<div data-module-id="18" data-module-name="dj.module.header.Module" data-module-zone="mobile_header" class="zonedModule">
+<header>
+  <div class="nameplate module mastheadOps fxCard">
+    <div class="mastHead cardFace-front">
+      <button class="navButton" data-role="none">Reveal Navigation Options</button>
+
+
+
+      <a href="/home-page">The Wall Street Journal</a>
+
+
+        <button class="searchButton" data-role="none">show search</button>
+    </div>
+      <div class="searchBar cardFace-back">
+        <div class="searchContents">
+          <button class="closeButton" type="button" name="closeQ">Close Search</button>
+          <form action="http://online.wsj.com/search/term" id="searchHeader">
+            <input name="KEYWORDS" placeholder="Search" type="search" autosave="rw-headerSearchSave" id="searchTxtHeader">
+            <button class="searchButton" type="submit">Submit Search</button>
+          </form>
+        </div>
+      </div>
+  </div>
+</header>
+
+</div> <!-- data-module-name="dj.module.header.Module" -->
+
+              </div>
+            </header>
+          </div>
+        </div>
+
+
+      <div class="middleBlock">
+        <!--[if lte IE 8]>
+
+<div data-module-id="9" data-module-name="article.app/lib/module/ieWarning" data-module-zone="ie_warning" class="zonedModule">
+<div class="ie-flag">
+  <button class="ie-button"></button>
+
+  <div class="ie-warning-wrapper">
+    <p><span id="warning-label">BROWSER UPDATE</span> To gain access to the full experience, please upgrade your browser: </p>
+    <ul>
+      <li><a href="https://www.google.com/intl/en_us/chrome/browser/">Chrome</a> | </li>
+      <li><a href="http://support.apple.com/downloads/#safari">Safari</a> | </li>
+      <li><a href="https://www.mozilla.org/en-US/firefox/new/">Firefox</a> | </li>
+      <li><a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie">Internet Explorer</a></li>
+    </ul><br>
+    <p><span id="warning-note">Note: If you are running Internet Explorer 9 and above, make sure it is not in compatibility mode</span></p>
+  </div>
+</div>
+
+</div> <!-- data-module-name="article.app/lib/module/ieWarning" -->
+
+        <![endif]-->
+
+        <div id="article_sector" class="sector">
+          <div id="article_tools"
+               class="column empty disableScroll
+                
+                at8-col7
+                at12-col1 at16-col1">
+            <div class="module toggle-parent">
+
+<div data-module-id="7" data-module-name="article.app/lib/module/shareTools" data-module-zone="article_tools" class="zonedModule">
+<ul class="article_tools clearFix">
+  <li
+    data-url="http://online.wsj.com/articles/shooting-at-paris-office-of-charlie-hebdo-magazine-kills-12-1420630438"
+    data-text="Shooting at Paris office of Charlie Hebdo magazine kills 12"
+    data-total="3710"
+    title="Facebook" aria-label="Facebook"
+    class="icon facebook">
+      3710
+      <meta itemprop="interactionCount" content="UserLikes:3710">
+   </li>
+
+  <li
+    data-url="http://online.wsj.com/articles/shooting-at-paris-office-of-charlie-hebdo-magazine-kills-12-1420630438"
+    data-text="Shooting at Paris office of Charlie Hebdo magazine kills 12"
+    data-total="2019"
+    title="Twitter" aria-label="Twitter"
+    class="icon twitter">
+      2019
+      <meta itemprop="interactionCount" content="UserTweets:2019">
+  </li>
+
+  <li class="icon email mobile-scrim"
+    title="Email" aria-label="Email"
+    data-scrim='{&quot;type&quot;:&quot;email&quot;,&quot;header&quot;:&quot;Email this article&quot;,&quot;list&quot;:[{&quot;type&quot;:&quot;mailto&quot;,&quot;icon&quot;:&quot;email&quot;,&quot;url&quot;:&quot;http%3A%2F%2Fwww.wsj.com%2Farticle_email%2Fshooting-at-paris-office-of-charlie-hebdo-magazine-kills-12-1420630438-lMyQjAxMTI1MjI3NDQyMTQ1Wj&quot;,&quot;text&quot;:&quot;Email Article&quot;}],&quot;info&quot;:{&quot;image&quot;:&quot;http://si.wsj.net/public/resources/images/AI-CN200_LIONDO_D_20150106141608.jpg&quot;,&quot;headline&quot;:&quot;Shooting at Paris office of Charlie Hebdo magazine kills 12&quot;,&quot;timestamp&quot;:&quot;Updated Jan. 7, 2015 11:13 p.m. ET&quot;}}'
+    data-headline="Shooting at Paris office of Charlie Hebdo magazine kills 12"
+    data-url="http%3A%2F%2Fwww.wsj.com%2Farticle_email%2Fshooting-at-paris-office-of-charlie-hebdo-magazine-kills-12-1420630438-lMyQjAxMTI1MjI3NDQyMTQ1Wj"
+    data-timestamp="Updated Jan. 7, 2015 11:13 p.m. ET"
+    
+    data-emailimgsrc="http://si.wsj.net/public/resources/images/AI-CN200_LIONDO_D_20150106141608.jpg">
+  </li>
+
+  <li class="icon article-save mobile-scrim hasMenu contextualMenu" id="article-save" data-scrim='{"id":"article-save", "header":"Save Article","list":[{"type":"link","text":"Log In to Save", "url": "https://id.wsj.com/access/50f5723cbd7fb2d2f6629af4/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fshooting-at-paris-office-of-charlie-hebdo-magazine-kills-12-1420630438%3Fmod%3De2tw"},{"type":"link","text":"Subscribe to WSJ", "url": "https://join.wsjeuropesubs.com/000HA"}]}'
+    title="Save Article" aria-label="Save Article"
+  >
+    <menu>
+      <li class="tri"></li>
+      <li class="menu-header">Save Article</li>
+        <li class="option sign-in"><a href="https://id.wsj.com/access/50f5723cbd7fb2d2f6629af4/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fshooting-at-paris-office-of-charlie-hebdo-magazine-kills-12-1420630438%3Fmod%3De2tw" ref="nofollow" data-widget="LIFP.login">Sign In to Save</a></li>
+        <li class="option subscribe"><a href="https://join.wsjeuropesubs.com/000HA">Subscribe to WSJ</a></li>
+    </menu>
+  </li>
+
+  <li class="icon evernote evernote-clip-button"
+    data-id="SB12274156626456164535504580384942519103662"
+    data-headline="Charlie Hebdo Office in Paris Attacked by Gunmen; 12 Killed"
+    data-url="http://online.wsj.com/articles/shooting-at-paris-office-of-charlie-hebdo-magazine-kills-12-1420630438"
+    data-authors="Inti Landauro, Noémie Bisserbe and David Gauthier-Villars"
+    data-date="Updated Jan. 7, 2015 11:13 p.m. ET"
+    data-summary="Satirical Magazine Targeted in Past for Cartoons on Islam; Hollande Calls Shooting a Terror Attack"
+    title="Evernote" aria-label="Evernote"
+    ></li>
+
+  <li class="icon text-size mobile-scrim hasMenu contextualMenu " id="text-size" data-scrim='{"id":"text-size","header":"Text Size","list":[{"type":"option","class":"selected regular","text":"Regular"},{"type":"option","class":"medium","text":"Medium"},{"type":"option","class":"large","text":"Large"}]}'
+    title="Text Resize" aria-label="Text Resize"
+  >
+    <menu>
+      <li class="tri"></li>
+      <li class="menu-header">Text Size</li>
+      <li class="option regular selected">Regular</li>
+      <li class="option medium">Medium</li>
+      <li class="option large">Large</li>
+    </menu>
+  </li>
+
+  <li class="icon more mobile-scrim hasMenu" data-scrim='{"header":"More Tools","list":[{"type":"share","icon":"google","url":"example_url","text":"Google+"},{"type":"share","icon":"linked","url":"example_url","text":"LinkedIn"}
+  
+  
+  ,{"type":"link","icon":"print","url":"javascript:window.print();","text":"Print"}]}'
+    title="More" aria-label="More">
+    <menu>
+      <li class="tri"></li>
+      <li
+        title="Google+" aria-label="Google+"
+        data-url="http://online.wsj.com/articles/shooting-at-paris-office-of-charlie-hebdo-magazine-kills-12-1420630438"
+        data-text="Shooting at Paris office of Charlie Hebdo magazine kills 12"
+        data-total=""
+        class="icon google">Google+
+      </li>
+      <li
+        title="LinkedIn" aria-label="LinkedIn"
+        data-url="http://online.wsj.com/articles/shooting-at-paris-office-of-charlie-hebdo-magazine-kills-12-1420630438"
+        data-text="Shooting at Paris office of Charlie Hebdo magazine kills 12"
+        data-total=""
+        class="icon linked">LinkedIn
+      </li>
+      <li class="border"></li>
+      <li title="Print" aria-label="Print" class="icon print">Print</li>
+    </menu>
+  </li>
+</ul>
+
+</div> <!-- data-module-name="article.app/lib/module/shareTools" -->
+
+            </div>
+          </div>
+
+          <article
+            class="column
+              
+              at8-col7
+              at12-col11 at16-col15"
+            mainContentOfPage>
+
+            <header class="article_header  module">
+
+<div data-module-id="6" data-module-name="article.app/lib/module/articleHeadline" data-module-zone="article_header" class="zonedModule">
+<div class="wsj-article-headline-wrap ">
+  <div class="category">
+
+    <span class="article-breadCrumb-wrapper">
+      <ul itemscope itemtype="http://schema.org/BreadcrumbList">
+
+            <li class="article-breadCrumb" itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
+              <a href="/news/types/europe-news" class="flashline-category" itemprop="item">
+                  Europe News
+              </a>
+            </li>
+
+      </ul>
+    </span>
+
+
+    <span class="oldSearchUrl">
+        <a href="/news/types/europe-news" class="flashline-category" itemprop="articleSection">Europe News</a>
+    </span>
+
+
+
+  </div>
+
+  <h1 class="wsj-article-headline" itemprop="headline">Charlie Hebdo Office in Paris Attacked by Gunmen; 12 Killed</h1>
+
+    <h2 class="sub-head" itemprop="description">Satirical Magazine Targeted in Past for Cartoons on Islam; Hollande Calls Shooting a Terror Attack</h2>
+
+
+
+</div>
+
+</div> <!-- data-module-name="article.app/lib/module/articleHeadline" -->
+
+            </header>
+
+            <div class="column
+                  
+                  col7
+                  at16-col9 at16-offset1">
+              <div class="module">
+
+<div data-module-id="5" data-module-name="article.app/lib/module/articleSnippet" data-module-zone="article_snippet" class="zonedModule">
+
+
+<div class="snippet">
+
+
+<div class="byline">
+
+
+    <span>By</span>
+          <div class="author mobile-scrim hasMenu" data-scrim='{"type":"author","header":"Inti Landauro","subhead":"The Wall Street Journal","list":[{"type":"link","icon":"bio","url":"http://topics.wsj.com/person/A/biography/7376","text":"Biography"},{"type":"link","icon":"email","url":"mailto:Inti.Landauro@dowjones.com","text":"Inti.Landauro@dowjones.com"},{"type":"link","icon":"twitter","url":"http://twitter.com/landauro","text":"@landauro"}]}' itemscope itemprop="author" itemtype="http://schema.org/Person">
+              <span class="name" itemprop="name">Inti Landauro</span>, 
+              <ul class="author-info">
+                <li class="tri"></li>
+                <div class="info-name">Inti Landauro</div>
+                <div class="info-title">The Wall Street Journal</div>
+                <div class="close-button-container">
+                  <a href="#" class="close-button">CANCEL</a>
+                </div>
+                <li><a href="http://topics.wsj.com/person/A/biography/7376" class="author icon bio">Biography</a><a href="http://topics.wsj.com/person/A/biography/7376" style="display:none;" itemprop="url" rel="author">Inti Landauro</a></li>
+                <li><a href="mailto:Inti.Landauro@dowjones.com" class="author icon email" itemprop="email">Inti.Landauro@dowjones.com</a></li>
+                <li><a href="http://twitter.com/landauro" target="blank" class="author icon twitter">@landauro</a></li>
+                
+                
+              </ul>
+          </div>
+          <div class="author  hasMenu" data-scrim='{"type":"author","header":"Noémie Bisserbe","subhead":"The Wall Street Journal","list":[]}' itemscope itemprop="author" itemtype="http://schema.org/Person">
+              <span itemprop="name">Noémie Bisserbe</span> and 
+          </div>
+          <div class="author mobile-scrim hasMenu" data-scrim='{"type":"author","header":"David Gauthier-Villars","subhead":"The Wall Street Journal","list":[{"type":"link","icon":"bio","url":"http://topics.wsj.com/person/A/biography/7230","text":"Biography"},{"type":"link","icon":"email","url":"mailto:David.Gauthier-Villars@wsj.com","text":"David.Gauthier-Villars@wsj.com"},{"type":"link","icon":"twitter","url":"http://twitter.com/gauthiervillars","text":"@gauthiervillars"}]}' itemscope itemprop="author" itemtype="http://schema.org/Person">
+              <span class="name" itemprop="name">David Gauthier-Villars</span>
+              <ul class="author-info">
+                <li class="tri"></li>
+                <div class="info-name">David Gauthier-Villars</div>
+                <div class="info-title">The Wall Street Journal</div>
+                <div class="close-button-container">
+                  <a href="#" class="close-button">CANCEL</a>
+                </div>
+                <li><a href="http://topics.wsj.com/person/A/biography/7230" class="author icon bio">Biography</a><a href="http://topics.wsj.com/person/A/biography/7230" style="display:none;" itemprop="url" rel="author">David Gauthier-Villars</a></li>
+                <li><a href="mailto:David.Gauthier-Villars@wsj.com" class="author icon email" itemprop="email">David.Gauthier-Villars@wsj.com</a></li>
+                <li><a href="http://twitter.com/gauthiervillars" target="blank" class="author icon twitter">@gauthiervillars</a></li>
+                
+                
+              </ul>
+          </div>
+
+</div>
+
+<time class="timestamp">
+  Updated Jan. 7, 2015 11:13 p.m. ET
+</time>
+  <div class="wsj-snippet-body">
+    
+
+ <p>PARIS—Masked gunmen stormed the offices of French satirical magazine Charlie Hebdo on Wednesday, killing a dozen people and decimating a newsroom that long took pride in defying the outrage—and death threats—stirred by its caricatures lampooning Islam. </p> <p>The brutal rampage shocked a nation that has been living in dread of reprisal attacks since joining the fight against Islamist insurgents in Africa and the Middle East. The attack—by...
+  </div>
+
+<div class="wsj-snippet-login">
+  <span class="wsj-snippet-login-text">
+    To Read the Full Story,
+  </span>
+  <span>
+    <a class="logInLink" href="https://join.wsjeuropesubs.com/000HS">
+      Subscribe
+    </a>
+    or
+    <a class="logInLink" href="https://id.wsj.com/access/50f5723cbd7fb2d2f6629af4/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fshooting-at-paris-office-of-charlie-hebdo-magazine-kills-12-1420630438%3Fmod%3De2tw">
+      
+      Log In
+    </a>
+  </span>
+</div>
+
+</div>
+
+
+</div> <!-- data-module-name="article.app/lib/module/articleSnippet" -->
+
+              </div>
+
+              <div id="cx-snippetad" class="module wsj-snippet-ad">
+              </div>
+
+            </div>
+
+            <div id="right-rail" class="column hide4 hide8 col4 at16-offset1">
+              <div class="module snippet-right-ad">
+
+<div data-module-id="4" data-module-name="article.app/lib/module/responsiveAd" data-module-zone="rightRailAd1" class="zonedModule">
+  <div
+    class="wsj-responsive-ad-wrap"
+    id='AD_G'
+    data-ad-options='{&quot;adId&quot;:&quot;AD_G&quot;,&quot;adUnitPath&quot;:&quot;/2/europe.wsj.com/worldnews_europe_story&quot;,&quot;adSize&quot;:[[336,280],[300,250],[336,850],[300,600],[300,1050]],&quot;adSizeMap&quot;:null,&quot;autoRefresh&quot;:false,&quot;adTargeting&quot;:{&quot;metazone&quot;:null,&quot;msrc&quot;:&quot;e2tw&quot;,&quot;circ&quot;:&quot;snippet&quot;,&quot;p39&quot;:null}}'
+    data-tracking="europe.wsj.com/worldnews_europe_story"
+    data-cb-ad-id="TopRectangle">
+  </div>
+
+</div> <!-- data-module-name="article.app/lib/module/responsiveAd" -->
+
+              </div>
+            </div>
+          </article>
+        </div>
+
+        <div class="full_width strap top-stories-strap hide12 hide16">
+          <div class="sector">
+            <h4 class="subhead module">
+              Popular on WSJ
+            </h4>
+          </div>
+        </div>
+
+        <div
+          class="sector"
+          id="trending_now_sector">
+          <div
+            class="column col4 at8-col8"
+            id="trending_now"
+            intent
+            in-at4units-append="#trending_now_sector"
+            in-at8units-append="#trending_now_sector"
+            in-base-append="#right-rail">
+
+<div data-module-id="23" data-module-name="resp.module.trendingNow.DesktopModule" data-module-zone="trending" class="zonedModule">
+<div class="module trending_now  ">
+
+  <div class="strap main">
+    <h2 class="subhead">Popular on WSJ</h2>
+  </div>
+
+  <div class="trending_articles">
+    <div class="strap secondary">
+      <h2 class="subhead">Articles</h2>
+    </div>
+    <ul class="clear">
+        <li class="clear " itemscope itemtype="http://schema.org/ImageObject">
+            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/BN-HO029_ISPYjp_C_20150323163419.jpg" />
+            <a href="http://www.wsj.com/articles/israel-spied-on-iran-talks-1427164201?mod=trending_now_1" class="image">
+              <img alt="Israel Spied on Iran Talks With U.S." src="http://s.wsj.net/public/resources/images/BN-HO029_ISPYjp_C_20150323163419.jpg" width="111"/>
+            </a>
+
+          <h4 class="headline  no-key truncate-head">
+            <a href="http://www.wsj.com/articles/israel-spied-on-iran-talks-1427164201?mod=trending_now_1">Israel Spied on Iran Talks With U.S.</a>
+          </h4>
+        </li>
+        <li class="clear subPrev" itemscope itemtype="http://schema.org/ImageObject">
+            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/BI-AA948A_PALEO_C_20150319113855.jpg" />
+            <a href="http://www.wsj.com/articles/is-a-paleo-diet-healthy-1427079648?mod=trending_now_2" class="image">
+              <img alt="Is a Paleo Diet Healthy?" src="http://s.wsj.net/public/resources/images/BI-AA948A_PALEO_C_20150319113855.jpg" width="111"/>
+            </a>
+
+          <h4 class="headline  no-key truncate-head">
+            <a href="http://www.wsj.com/articles/is-a-paleo-diet-healthy-1427079648?mod=trending_now_2">Is a Paleo Diet Healthy?</a>
+          </h4>
+        </li>
+        <li class="clear subPrev" itemscope itemtype="http://schema.org/ImageObject">
+            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/BF-AJ425_HERBIC_C_20150320210159.jpg" />
+            <a href="http://www.wsj.com/articles/health-agency-says-widely-used-herbicide-likely-carcinogenic-1426885547?mod=trending_now_3" class="image">
+              <img alt="Health Agency Says Popular Herbicide Likely Carcinogenic" src="http://s.wsj.net/public/resources/images/BF-AJ425_HERBIC_C_20150320210159.jpg" width="111"/>
+            </a>
+
+          <h4 class="headline  no-key truncate-head">
+            <a href="http://www.wsj.com/articles/health-agency-says-widely-used-herbicide-likely-carcinogenic-1426885547?mod=trending_now_3">Health Agency Says Popular Herbicide Likely Carcinogenic</a>
+          </h4>
+        </li>
+        <li class="clear subPrev" itemscope itemtype="http://schema.org/ImageObject">
+            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/BN-HN722_0322LK_C_20150323005245.jpg" />
+            <a href="http://www.wsj.com/articles/lee-kuan-yew-singapores-founding-father-dies-at-91-1427056223?mod=trending_now_4" class="image">
+              <img alt="Lee Kuan Yew, Singapore’s Founding Father, Dies at 91" src="http://s.wsj.net/public/resources/images/BN-HN722_0322LK_C_20150323005245.jpg" width="111"/>
+            </a>
+
+          <h4 class="headline  no-key truncate-head">
+            <a href="http://www.wsj.com/articles/lee-kuan-yew-singapores-founding-father-dies-at-91-1427056223?mod=trending_now_4">Lee Kuan Yew, Singapore’s Founding Father, Dies at 91</a>
+          </h4>
+        </li>
+        <li class="clear " itemscope itemtype="http://schema.org/ImageObject">
+            <meta itemprop="contentUrl" content="http://s.wsj.net/public/resources/images/BN-HN630_EMIRAT_C_20150322171743.jpg" />
+            <a href="http://www.wsj.com/articles/labor-strife-an-unwelcome-novelty-for-emirates-airline-1426857624?mod=trending_now_5" class="image">
+              <img alt="Labor Strife an Unwelcome Novelty for Emirates Airline" src="http://s.wsj.net/public/resources/images/BN-HN630_EMIRAT_C_20150322171743.jpg" width="111"/>
+            </a>
+
+          <h4 class="headline  no-key truncate-head">
+            <a href="http://www.wsj.com/articles/labor-strife-an-unwelcome-novelty-for-emirates-airline-1426857624?mod=trending_now_5">Labor Strife an Unwelcome Novelty for Emirates Airline</a>
+          </h4>
+        </li>
+    </ul>
+  </div>
+
+  <div class="trending_videos">
+    <div class="strap secondary">
+      <h2 class="subhead">Videos</h2>
+    </div>
+    <ul class="video">
+        <li class="clear" itemscope itemtype="http://schema.org/ImageObject">
+          <meta itemprop="contentUrl" content="http://m.wsj.net/video/20150323/032315birther2/032315birther2_167x94.jpg" />
+          <div class="video-hover-container">
+            <a href="http://www.wsj.com/video/is-ted-cruz-born-in-canada-eligible-to-be-president/8BF329E2-4B95-4650-92C3-A3C07095C997.html?mod=trending_now_video_1" class="image">
+              <div class="video_play"></div>
+              <img alt="[http://m.wsj.net/video/20150323/032315birther2/032315birther2_167x94.jpg]" src="http://m.wsj.net/video/20150323/032315birther2/032315birther2_167x94.jpg"/>
+            </a>
+            <h4 class="headline no-key truncate-head"><a href="http://www.wsj.com/video/is-ted-cruz-born-in-canada-eligible-to-be-president/8BF329E2-4B95-4650-92C3-A3C07095C997.html?mod=trending_now_video_1">Is Ted Cruz, Born in Canada, Eligible to Be President?</a></h4>
+          </div>
+        </li>
+        <li class="clear" itemscope itemtype="http://schema.org/ImageObject">
+          <meta itemprop="contentUrl" content="http://m.wsj.net/video/20150323/031715bubblewrap/031715bubblewrap_167x94.jpg" />
+          <div class="video-hover-container">
+            <a href="http://www.wsj.com/video/bubble-wrap-helps-schools-pop-into-the-record-books/BD2890FA-AB20-4CC1-82AE-EEBDEE09C99B.html?mod=trending_now_video_2" class="image">
+              <div class="video_play"></div>
+              <img alt="[http://m.wsj.net/video/20150323/031715bubblewrap/031715bubblewrap_167x94.jpg]" src="http://m.wsj.net/video/20150323/031715bubblewrap/031715bubblewrap_167x94.jpg"/>
+            </a>
+            <h4 class="headline no-key truncate-head"><a href="http://www.wsj.com/video/bubble-wrap-helps-schools-pop-into-the-record-books/BD2890FA-AB20-4CC1-82AE-EEBDEE09C99B.html?mod=trending_now_video_2">Bubble Wrap Helps Schools Pop Into the Record Books</a></h4>
+          </div>
+        </li>
+        <li class="clear" itemscope itemtype="http://schema.org/ImageObject">
+          <meta itemprop="contentUrl" content="http://m.wsj.net/video/20150320/031715fixer/031715fixer_167x94.jpg" />
+          <div class="video-hover-container">
+            <a href="http://www.wsj.com/video/a-computer-monitor-the-tv-you-didnt-know-you-had/63D51B08-CDDF-43F5-A8D8-BDB87AB36EA7.html?mod=trending_now_video_3" class="image">
+              <div class="video_play"></div>
+              <img alt="[http://m.wsj.net/video/20150320/031715fixer/031715fixer_167x94.jpg]" src="http://m.wsj.net/video/20150320/031715fixer/031715fixer_167x94.jpg"/>
+            </a>
+            <h4 class="headline no-key truncate-head"><a href="http://www.wsj.com/video/a-computer-monitor-the-tv-you-didnt-know-you-had/63D51B08-CDDF-43F5-A8D8-BDB87AB36EA7.html?mod=trending_now_video_3">A Computer Monitor: The TV You Didn't Know You Had</a></h4>
+          </div>
+        </li>
+        <li class="clear" itemscope itemtype="http://schema.org/ImageObject">
+          <meta itemprop="contentUrl" content="http://m.wsj.net/video/20150322/032215leekuanyewfix/032215leekuanyewfix_167x94.jpg" />
+          <div class="video-hover-container">
+            <a href="http://www.wsj.com/video/father-of-singapore-lee-kuan-yew-dies/6D6D8B66-356F-4791-88DD-EA39165F30A2.html?mod=trending_now_video_4" class="image">
+              <div class="video_play"></div>
+              <img alt="[http://m.wsj.net/video/20150322/032215leekuanyewfix/032215leekuanyewfix_167x94.jpg]" src="http://m.wsj.net/video/20150322/032215leekuanyewfix/032215leekuanyewfix_167x94.jpg"/>
+            </a>
+            <h4 class="headline no-key truncate-head"><a href="http://www.wsj.com/video/father-of-singapore-lee-kuan-yew-dies/6D6D8B66-356F-4791-88DD-EA39165F30A2.html?mod=trending_now_video_4">Father of Singapore Lee Kuan Yew Dies</a></h4>
+          </div>
+        </li>
+        <li class="clear" itemscope itemtype="http://schema.org/ImageObject">
+          <meta itemprop="contentUrl" content="http://m.wsj.net/video/20150323/032315lunchcopycat/032315lunchcopycat_167x94.jpg" />
+          <div class="video-hover-container">
+            <a href="http://www.wsj.com/video/crossfit-spawns-copycat-workouts/8D871D96-1C41-4EA4-8942-15136BF9FEF6.html?mod=trending_now_video_5" class="image">
+              <div class="video_play"></div>
+              <img alt="[http://m.wsj.net/video/20150323/032315lunchcopycat/032315lunchcopycat_167x94.jpg]" src="http://m.wsj.net/video/20150323/032315lunchcopycat/032315lunchcopycat_167x94.jpg"/>
+            </a>
+            <h4 class="headline no-key truncate-head"><a href="http://www.wsj.com/video/crossfit-spawns-copycat-workouts/8D871D96-1C41-4EA4-8942-15136BF9FEF6.html?mod=trending_now_video_5">CrossFit Spawns Copycat Workouts</a></h4>
+          </div>
+        </li>
+    </ul>
+  </div>
+
+</div>
+
+</div> <!-- data-module-name="resp.module.trendingNow.DesktopModule" -->
+
+          </div>
+        </div>
+
+        <div class="full_width strap top-stories-strap">
+          <div class="sector">
+            <h2 class="subhead module">
+              Editors&rsquo; Picks
+            </h2>
+          </div>
+        </div>
+
+        <div class="sector">
+          <div class="column">
+            <div class="module">
+
+<div data-module-id="22" data-module-name="article.app/lib/module/topStories" data-module-zone="top_stories" class="zonedModule">
+<ul class="top_stories clear">
+
+
+    <li class="">
+      <a href="http://www.wsj.com/articles/u-s-car-making-boom-not-for-workers-1427154627?mod=WSJ_article_EditorsPicks_0"><img intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-HO150_autowa_E_20150323184705.jpg" src="http://s.wsj.net/public/resources/images/BN-HO150_autowa_D_20150323184705.jpg"></a>
+      <h4 class="category section-business">Business</h4>
+      <h3><a href="http://www.wsj.com/articles/u-s-car-making-boom-not-for-workers-1427154627?mod=WSJ_article_EditorsPicks_0" class="headline"><p>
+
+U.S. Car-Making Boom? Not for Workers</p></a></h3>
+    </li>
+
+    <li class="">
+      <a href="http://www.wsj.com/articles/why-starbucks-takes-on-social-issues-1427155129?mod=WSJ_article_EditorsPicks_1"><img intent in-at4units-src="http://s.wsj.net/public/resources/images/BT-AA709_B1SKY2_E_20150323191642.jpg" src="http://s.wsj.net/public/resources/images/BT-AA709_B1SKY2_D_20150323191642.jpg"></a>
+      <h4 class="category section-business">Business</h4>
+      <h3><a href="http://www.wsj.com/articles/why-starbucks-takes-on-social-issues-1427155129?mod=WSJ_article_EditorsPicks_1" class="headline"><p>
+
+Why Starbucks Takes On Social Issues</p></a></h3>
+    </li>
+
+    <li class="">
+      <a href="http://www.wsj.com/articles/life-in-singapore-slows-amid-tributes-to-lee-kuan-yew-1427179104?mod=WSJ_article_EditorsPicks_2"><img intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-HO216_leetan_E_20150324022601.jpg" src="http://s.wsj.net/public/resources/images/BN-HO216_leetan_D_20150324022601.jpg"></a>
+      <h4 class="category section-world">World News</h4>
+      <h3><a href="http://www.wsj.com/articles/life-in-singapore-slows-amid-tributes-to-lee-kuan-yew-1427179104?mod=WSJ_article_EditorsPicks_2" class="headline"><p>
+
+Singaporeans Pay Tribute to Lee Kuan Yew</p></a></h3>
+    </li>
+
+    <li class="subPrev">
+      <a href="http://www.wsj.com/articles/is-a-paleo-diet-healthy-1427079648?mod=WSJ_article_EditorsPicks_3"><img intent in-at4units-src="http://s.wsj.net/public/resources/images/BI-AA948A_PALEO_E_20150319113855.jpg" src="http://s.wsj.net/public/resources/images/BI-AA948A_PALEO_D_20150319113855.jpg"></a>
+      <h4 class="category section-life">Health Care</h4>
+      <h3><a href="http://www.wsj.com/articles/is-a-paleo-diet-healthy-1427079648?mod=WSJ_article_EditorsPicks_3" class="headline"><p>
+
+Is a Paleo Diet Healthy?</p></a></h3>
+    </li>
+
+    <li class="subPrev">
+      <a href="http://www.wsj.com/articles/angry-outbursts-really-do-hurt-your-health-doctors-find-1427150596?mod=WSJ_article_EditorsPicks_4"><img intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-HN850_0324an_E_20150323110445.jpg" src="http://s.wsj.net/public/resources/images/BN-HN850_0324an_D_20150323110445.jpg"></a>
+      <h4 class="category section-life">Health & Wellness</h4>
+      <h3><a href="http://www.wsj.com/articles/angry-outbursts-really-do-hurt-your-health-doctors-find-1427150596?mod=WSJ_article_EditorsPicks_4" class="headline"><p>
+
+Angry Outbursts Really Do Hurt Your Health, Doctors Find</p></a></h3>
+    </li>
+
+    <li class="subPrev">
+      <a href="http://www.wsj.com/articles/love-at-first-sight-of-a-punching-bag-an-l-a-designers-boxing-workout-1427130241?mod=WSJ_article_EditorsPicks_5"><img intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-HN856_0324wo_E_20150323111052.jpg" src="http://s.wsj.net/public/resources/images/BN-HN856_0324wo_D_20150323111052.jpg"></a>
+      <h4 class="category section-life">
+                    What’s Your Workout
+                </h4>
+      <h3><a href="http://www.wsj.com/articles/love-at-first-sight-of-a-punching-bag-an-l-a-designers-boxing-workout-1427130241?mod=WSJ_article_EditorsPicks_5" class="headline"><p>
+
+Love at First Sight of a Punching Bag</p></a></h3>
+    </li>
+
+    <li class="">
+      <a href="http://www.wsj.com/articles/far-right-flocks-to-russia-to-berate-the-west-1427059613?mod=WSJ_article_EditorsPicks_6"><img intent in-at4units-src="http://s.wsj.net/public/resources/images/BN-HN626_RUSMEE_E_20150322171043.jpg" src="http://s.wsj.net/public/resources/images/BN-HN626_RUSMEE_D_20150322171043.jpg"></a>
+      <h4 class="category section-world">Russia</h4>
+      <h3><a href="http://www.wsj.com/articles/far-right-flocks-to-russia-to-berate-the-west-1427059613?mod=WSJ_article_EditorsPicks_6" class="headline"><p>
+
+Far-Right Flocks to Russia to Berate the West</p></a></h3>
+    </li>
+
+  <li class="video subPrev">
+    <a class="image" href="http://www.marketwatch.com/video/10-countries-with-the-worst-retirement-security/EAD5E8C5-ACCC-42C1-B6BF-C4BFE0B7F164.html"
+        intent
+        in-touch-href="http://m.wsj.net/video/20150323/032315retirement/032315retirement_v2_ec464k.mp4"
+        in-mouse-href="http://www.marketwatch.com/video/10-countries-with-the-worst-retirement-security/EAD5E8C5-ACCC-42C1-B6BF-C4BFE0B7F164.html">
+      <div class="center-image">
+       <img src="http://m.wsj.net/video/20150323/032315retirement/032315retirement_512x288.jpg">
+      </div>
+      <span class="video-play">PLAY</span>
+    </a>
+  <h4 class="category">World </h4>
+    <h3><a href="http://www.marketwatch.com/video/10-countries-with-the-worst-retirement-security/EAD5E8C5-ACCC-42C1-B6BF-C4BFE0B7F164.html" class="headline"
+        intent
+        in-touch-href="http://m.wsj.net/video/20150323/032315retirement/032315retirement_v2_ec464k.mp4"
+        in-mouse-href="http://www.marketwatch.com/video/10-countries-with-the-worst-retirement-security/EAD5E8C5-ACCC-42C1-B6BF-C4BFE0B7F164.html">
+        <p>10 Countries with the Worst Retirement Security</p>
+    </a></h3>
+  </li>
+
+</ul>
+
+</div> <!-- data-module-name="article.app/lib/module/topStories" -->
+
+            </div>
+          </div>
+        </div>
+
+        <div class="sponsored-links">
+          <div class="sector">
+            <div class="module">
+
+<div data-module-id="21" data-module-name="resp.module.msn_links.module" data-module-zone="sponsored_links" class="zonedModule">
+<div id="623653805">
+</div>
+
+</div> <!-- data-module-name="resp.module.msn_links.module" -->
+
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+      <div class="full_width footer">
+        <div class="sector">
+          <footer
+            class="column"
+            intent
+            in-at4units-class="col4"
+            in-at8units-class="col8"
+            in-at12units-class="col12"
+            in-at16units-class="col16">
+            <div class="module hide4">
+
+<div data-module-id="12" data-module-name="dj.module.footer.DesktopFooter" data-module-zone="desktop_footer" class="zonedModule">
+<div class="module deskfoot" data-fxgridwrap="footWrapBG" data-fxgridtarget=".colgroup-lv1.footer">
+  <div class="newFooterWrap r-dsk">
+    <div class="newFooter units12wide" intent="" in-at4units-class="nix" in-at8units-class="units8wide" in-at12units-class="units12wide" in-at16units-class="units16wide">
+      <!--TOP BAR LINKS-->
+      <menu class="topLinks clearFix">
+        <li class="wsjLogo"><a href="http://www.wsj.com/?mod=WSJDE_footer">Wall Street Journal</a></li>
+        <li class="socialLogo"><a title="Facebook" href="http://www.facebook.com/wsj" class="facebook">Facebook</a></li>
+        <li class="socialLogo"><a title="Twitter" href="http://twitter.com/WSJ" class="twitter">Twitter</a></li>
+        <li class="socialLogo"><a title="LinkedIn" href="http://www.linkedin.com/today/online.wsj.com" class="linkedin">LinkedIn</a></li>
+        <li class="socialLogo"><a title="FourSquare" href="https://foursquare.com/wsj" class="foursquare">FourSquare</a></li>
+        <li class="socialLogo"><a title="Google+" href="https://plus.google.com/117720626238470886461/posts" class="gplus" rel="publisher">Google+</a></li>
+        <li class="socialLogo"><a title="YouTube" href="http://www.youtube.com/user/WSJDigitalNetwork" class="youtube">YouTube</a></li>
+        <li class="socialLogo"><a title="Podcasts" href="http://www.wsj.com/public/page/podcast.html?mod=WSJ_footer" class="podcast">Podcasts</a></li>
+        <li class="socialLogo"><a title="RSS" href="http://www.wsj.com/public/page/rss_news_and_feeds.html?mod=WSJ_footer" class="rssfeed">RSS Feed</a></li>
+        <li class="socialLogo"><a title="AppStore" href="https://itunes.apple.com/us/app/the-wall-street-journal./id364387007?mt=8" class="appstore">AppStore</a></li>
+        <li class="login_sub">
+          <menu class="clearFix">
+            <li class="subscribe"><a href="https://join.wsjeuropesubs.com/000HA">Subscribe</a></li>
+            <li class="login"><span>/</span><a href="https://id.wsj.com/access/50f5723cbd7fb2d2f6629af4/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fshooting-at-paris-office-of-charlie-hebdo-magazine-kills-12-1420630438%3Fmod%3De2tw" ref="nofollow" data-widget="LIFP.login">Sign In</a></li>
+          </menu>
+        </li>
+        <li class="backToTop"><a href="#top">Back to Top<span class="rotate">«</span></a></li>
+      </menu>
+      <!--MIDDLE COLUMN LINKS-->
+      <menu class="contentLinks clearFix">
+        <li class="linksCol"><h4>Customer Service</h4>
+          <menu>
+            <li><a href="http://help.wsj.com/customer-service/?mod=WSJ_footer">Customer Center</a></li>
+            <li><a href="http://www.subscribe.wsj.com/getweekendnow?mod=WSJ_footer">WSJ Weekend</a></li>
+            <li><a href="https://customercenter.wsj.com/view/ctdir/contactdirectory.html?mod=WSJ_footer">Contact Directory</a></li>
+            <li><a href="http://www.wsj.com/news/column/Corrections?mod=WSJ_footer">Corrections</a></li>
+          </menu>
+        </li>
+        <li class="linksCol"><h4>Policy</h4>
+          <menu>
+            <li><a href="http://www.wsj.com/policy/privacy-policy?mod=WSJ_footer" rel="nofollow">Privacy Policy</a></li>
+            <li><a href="http://www.wsj.com/policy/cookie-policy?mod=WSJ_footer" rel="nofollow">Cookie Policy</a></li>
+            <li><a href="http://www.wsj.com/policy/data-policy?mod=WSJ_footer" rel="nofollow">Data Policy</a></li>
+            <li><a href="http://www.wsj.com/policy/copyright-policy?mod=WSJ_footer" rel="nofollow">Copyright Policy</a></li>
+            <li><a href="http://www.wsj.com/policy/subscriber-agreement?mod=WSJ_footer" rel="nofollow">
+            Updated&nbsp;:&nbsp;
+            Subscriber Agreement<br>&amp; Terms of Use
+            </a></li>
+            <li><a href="http://www.wsj.com/policy/cookie-policy?mod=WSJ_footer#cookies_advertising" rel="nofollow">Your Ad Choices</a></li>
+          </menu>
+        </li>
+        <li class="linksCol"><h4>Ads</h4>
+          <menu>
+            <li><a href="http://www.wsjdigital.com/?mod=WSJ_footer">Advertise</a></li>
+            <li><a href="http://classifieds.wsj.com/?mod=WSJ_footer">Place a Classified Ad</a></li>
+            <li><a href="https://classifieds.wsj.com/ad/Residential-Real-Estate-Ads?mod=WSJ_footer">Sell Your Home</a></li>
+            <li><a href="https://classifieds.wsj.com/ad/Business-For-Sale-Ads?mod=WSJ_footer">Sell Your Business</a></li>
+            <li><a href="https://classifieds.wsj.com/ad/Commercial-Real-Estate-Ads?mod=WSJ_footer">Commercial Real Estate Ads</a></li>
+            <li><a href="https://classifieds.wsj.com/ad/Job-Ads?mod=WSJ_footer">Recruitment &amp; Career Ads</a></li>
+            <li><a href="https://classifieds.wsj.com/ad/Franchise-For-Sale-Ads?mod=WSJ_footer">Franchising</a></li>
+            <li><a href="http://www.wsjlocal.com/?mod=WSJ_footer">Advertise Locally</a></li>
+          </menu>
+        </li>
+        <li class="linksCol"><h4>Tools &amp; Features</h4>
+          <menu>
+            <li><a href="http://www.wsj.com/public/page/designtech-wsjModuleHome.html?mod=WSJ_footer">Apps</a></li>
+            <li><a href="http://www.wsj.com/public/page/email-setup.html?mod=WSJ_footer">Emails &amp; Alerts</a></li>
+            <li><a href="http://www.wsj.com/public/page/news-interactive-features-trends.html?mod=WSJ_footer">Graphics &amp; Photos</a></li>
+            <li><a href="http://www.wsj.com/page/columnists.html?mod=WSJ_footer">Columns</a></li>
+            <li><a href="http://topics.wsj.com/?mod=WSJ_footer">Topics</a></li>
+            <li><a href="http://www.wsj.com/public/page/guides.html?mod=WSJ_footer">Guides</a></li>
+            <li><a href="http://portfolio.wsj.com/?mod=wsj_port_foot">Portfolio</a></li>
+          </menu>
+        </li>
+        <li class="linksCol"><h4>More</h4>
+          <menu>
+            <li><a class="registerUserClass" rel="nofollow" href="https://id.wsj.com/access/50f5723cbd7fb2d2f6629af4/latest/register_standalone.html" ref="nofollow" data-widget="LIFP.freeregistration">Register for Free</a></li>
+            <li><a href="http://www.djreprints.com/?mod=WSJ_footer">Reprints</a></li>
+            <li><a href="http://wsj.com/partner/?mod=WSJ_footer">Content Partnerships</a></li>
+            <li><a href="http://www.wsj.com/conferences?mod=WSJ_footer">Conferences</a></li>
+            <li><a href="http://www.wsj.com/maketime">Make Time</a></li>
+            <li><a href="https://www.wsjsafehouse.com/">SafeHouse</a></li>
+            <li><a href="http://m.wsj.com" id="mobilesite">Mobile Site</a></li>
+            <li><a href="http://www.wsj.com/public/page/archive.html">News Archive</a></li>
+          </menu>
+        </li>
+      </menu>
+      <!--FOOTNOTE LINKS-->
+      <menu class="footnoteLinks clearFix">
+        <li class="http://www.dowjones.com/careers.asp?mod=WSJ_footer"><a href="http://www.dowjones.com/careers.asp?mod=WSJ_footer">Jobs at WSJ</a></li>
+        <li class="copyright">Copyright &copy;2015 <a href="#">Dow Jones &amp; Company</a>, Inc. All Rights Reserved.</li>
+      </menu>
+    </div>
+  </div>
+</div>
+
+<div id="cX-root" class="test" style="display:none"><!--PLEASE DO NOT REMOVE--></div>
+
+
+<div id='SI_73f3k49S18cgGAR'><!--DO NOT REMOVE-CONTENTS PLACED HERE--></div>
+
+</div> <!-- data-module-name="dj.module.footer.DesktopFooter" -->
+
+            </div>
+            <div class="module hide8 hide12 hide16">
+
+<div data-module-id="20" data-module-name="dj.module.sections.Module" data-module-zone="footer_sections" class="zonedModule">
+<h3 class="section subsections">Sections</h3>
+<div class="content module sectionsBox">
+<nav class="subsectional"> 
+  <ul>
+  </ul>
+</nav>
+<nav class="sectional"> 
+  <ul>
+    <li><a href="http://www.wsj.com/m/">Home</a></li>
+    <li><a href="http://www.wsj.com/m/news-global-world">World</a></li>
+    <li><a href="/news-european-union">Europe</a></li>
+    <li><a href="/uk">U.K.</a></li>
+    <li><a href="/news-world-business">U.S.</a></li>
+    <li><a href="/news-business-us">Business</a></li>
+    <li><a href="/news-financial-markets-stock">Markets</a></li>
+    <li><a href="http://markets.wsj.com/europeoverview">Market Data</a></li>
+    <li><a href="http://online.wsj.com/news/technology">Tech</a></li>
+    <li><a href="/life-style-arts">Life &amp; Culture</a></li>
+    <li><a href="/news-opinion-commentary">Opinion</a></li>
+    <li><a href="/news-wall-street-heard">Heard on the Street</a></li>
+    <li><a href="/news-real-estate-europe">Property</a></li>
+  </ul>
+</nav>
+</div>
+
+
+
+</div> <!-- data-module-name="dj.module.sections.Module" -->
+
+
+<div data-module-id="19" data-module-name="dj.module.footer.Module" data-module-zone="mobile_footer" class="zonedModule">
+  <div class="footplate module footerBox">
+    <div class="footerOps">
+      <div class="editionSwitch">
+        <label for="edition">Edition:</label>
+        <select id="edition" style="width: 90px;">
+            <option value="na,us" id="us" data-domain="http://m.us.wsj.com/" >U.S.</option>
+            <option value="asia" id="asia" data-domain="http://m.asia.wsj.com/" >Asia</option>
+            <option value="europe" id="europe" data-domain="http://m.europe.wsj.com/" selected>Europe</option>
+            <option value="na,lat" id="latinamerica" data-domain="http://lat.wsj.com/" >Am&#233;rica Latina</option>
+            <option value="na,br" id="brazil" data-domain="http://br.wsj.com/" >Brasil</option>
+            <option value="asia,cn" id="china" data-domain="http://m.cn.wsj.com/" >&#20013;&#22269; (China)</option>
+            <option value="asia,india" id="india" data-domain="http://m.india.wsj.com/" >India</option>
+            <option value="asia,indo" id="indonesia" data-domain="http://m.indo.wsj.com/" >Indonesia</option>
+            <option value="asia,jp" id="japan" data-domain="http://jp.wsj.com/" >&#26085;&#26412; (Japan)</option>
+            <option value="asia,kr" id="korea" data-domain="http://m.kr.wsj.com/" >&#54620;&#44397; (Korea)</option>
+        </select>
+      </div>
+      <div class="fontSwitch" title="click to change font size ">
+        <label for="fontController">Text Size:</label>
+        <select id="fontController">
+            <option value="small" id="small" >Small</option>
+            <option value="medium" id="medium" >Medium</option>
+            <option value="large" id="large" >Large</option>
+        </select>
+      </div>
+    </div>
+    <div class="folio">
+          <p>
+            <span class="loginOps"><a href="https://id.wsj.com/access/50f5723cbd7fb2d2f6629af4/latest/login_standalone.html?url=http%3A%2F%2Fwww.wsj.com%2Farticles%2Fshooting-at-paris-office-of-charlie-hebdo-magazine-kills-12-1420630438%3Fmod%3De2tw">Sign In</a></span> <span class="loginOps"><a href="https://join.wsjeuropesubs.com/000HA">Subscribe</a></span>
+          </p>
+      <small class="copyright">&copy;2015 Dow Jones & Company, Inc. All Rights Reserved.</small> <nav>
+      <ul>
+        <li class="nav-Home"><a href="http://www.wsj.com/policy/legal-policies">Legal Policies</a></li>
+        
+        <li class="nav-About"><a href="http://help.wsj.com/customer-service">Customer Center</a></li>
+        
+      </ul>
+      </nav>
+    </div>
+    <div class="searchBar cardFace-back">
+    <div class="searchContents">
+      <form action="http://online.wsj.com/search/term" id="searchFooter">
+        <div class="clearfix"></div>
+        <input type="search" autosave="rw-headerSearchSave" placeholder=" Search" name="KEYWORDS" id="searchTxtFooter">
+                    <button type="submit" class="searchButton">Submit Search</button>
+      </form>
+    </div>
+    </div>
+  </div>
+
+</div> <!-- data-module-name="dj.module.footer.Module" -->
+
+            </div>
+          </footer>
+        </div>
+      </div>
+
+
+    <!-- Google ad inline JS so non-blocking. -->
+    <script src="//stags.peer39.net/712/trg_712.js" type="text/javascript" id="peer39ScriptLoader"></script>
+
+    <script type='text/javascript'>
+      var googletag = googletag ? googletag : {};
+          googletag.cmd = googletag.cmd ? googletag.cmd : [];
+          (function() {
+          var gads = document.createElement('script');
+          gads.async = true;
+          gads.type = 'text/javascript';
+          var useSSL = 'https:' == document.location.protocol;
+          gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+          var node = document.getElementsByTagName('script')[0];
+          node.parentNode.insertBefore(gads, node);
+          })();
+    </script>
+
+    <script type='text/javascript'>
+      var googleAdSlots = {};
+    </script>
+
+    <script type='text/javascript'>
+      googletag.cmd.push(function() {
+        googletag.pubads().setTargeting("page","article");
+        googletag.companionAds().setRefreshUnfilledSlots(true);
+        googletag.enableServices();
+      });
+    </script>
+
+    <!-- Require.js from CDN -->
+    <script src="//cdnjs.cloudflare.com/ajax/libs/require.js/2.1.14/require.min.js " type="text/javascript"></script>
+
+    <!-- COMMON -->
+    <script type="text/javascript" src="http://stv.wsj.net/dpm/scripts?key=36b7e315a5bdb76bdc63755f5076c764d28df0a7"></script>
+    <script type="text/javascript" src="http://stv.wsj.net/dpm/scripts?key=166f111597d79b8655efedee65f3076203fb7a1c"></script>
+    <!-- END COMMON -->
+    <!-- MODULES -->
+      <script type="text/javascript" src="http://stv.wsj.net/dpm/scripts?key=a6211453882c93c182c19f41e59e8cc0fc0f3317"></script>
+    <!-- END MODULES -->
+
+    <!-- Module to initialize all require modules -->
+    <script type="text/javascript" src="http://stv.wsj.net/dpm/scripts?key=3702a632c74edd9eb74295e228a547ee338a772d"></script>
+
+  </body>
+</html>

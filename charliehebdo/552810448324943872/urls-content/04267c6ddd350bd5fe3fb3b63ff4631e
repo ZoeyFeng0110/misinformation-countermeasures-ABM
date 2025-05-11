@@ -1,0 +1,999 @@
+HTTP/1.1 200 OK
+Date: Tue, 24 Mar 2015 11:40:30 GMT
+Server: Apache/2.2.26 (Unix) mod_ssl/2.2.26 OpenSSL/1.0.1e-fips mod_bwlimited/1.4
+X-Powered-By: PHP/5.4.26
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=07c22da617e1b23ca4ff5c59e82b9ea9; path=/
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html dir="ltr" lang="en">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="google-site-verification" content="3ndH11Z4jw6cEFJlbNkYYAvdfxWkKhJ6LDHMcDeZfsk" />
+<meta name='robots' content='all, index, follow'>
+<meta name='revisit-after' content='5 days'>
+<meta name='author' content='Minhaj Internet Bureau'>
+<meta name='identifier' content='http://www.minhajbooks.com'>
+<meta name='organization-Email' content='mib@minhaj.org'>
+<meta name='language' content='English, Urdu, Arabic'>
+<meta name='country' content='Pakistan'>
+<meta name='distribution' content='Global'>
+<meta name='coverage' content='Worldwide'>
+<meta name='rating' content='General'>
+<meta name='copyright' content='Minhaj-ul-Quran International. 2009'>
+<link rel="stylesheet" type="text/css" href="/thm-mb-en/tags.css">
+<link rel="stylesheet" type="text/css" href="/thm-mb-en/classes.css">
+<link rel="stylesheet" type="text/css" href="/thm-mb-en/rating.css">
+<script language="javascript1.2" type="text/javascript" src="/include/UrduEditor.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js"></script>
+<script type="text/javascript" src="/include/scrolltopcontrol.js"></script>
+<script type="text/javascript" src="/include/jquery-1.2.6.min.js"></script>
+<script language="JavaScript" type="text/javascript" src="/include/js.js"></script>
+<script language="javascript" type="text/javascript">                                         
+   // we will add our javascript code here           
+   
+$(document).ready(function(){
+
+$("#ajax-sponsor-form").submit(function(){
+
+var str = $(this).serialize();
+
+   $.ajax({
+   type: "POST",
+   url: "/include/ajax-sponsor.php",
+   data: str,
+   success: function(msg){
+    
+$("#notesponsor").ajaxComplete(function(event, request, settings){
+
+if(msg == 'OK') // Message Sent? Show the 'Thank You' message and hide the form
+{
+result = '<div class="notification_ok">Your message has been sent. Thank you!</div>';
+$("#filedssponsor").hide();
+}
+else
+{
+result = msg;
+}
+
+$(this).html(result);
+
+});
+
+}
+
+ });
+
+return false;
+
+});
+
+
+
+$("#ajax-review-form").submit(function(){
+
+var str = $(this).serialize();
+
+   $.ajax({
+   type: "POST",
+   url: "/include/ajax-mainreview.php",
+   data: str,
+   success: function(msg){
+    
+$("#notereview").ajaxComplete(function(event, request, settings){
+
+if(msg == 'OK') // Message Sent? Show the 'Thank You' message and hide the form
+{
+result = '<div class="notification_ok">Your message has been sent. Thank you!</div>';
+$("#filedsreview").hide();
+}
+else
+{
+result = msg;
+}
+
+$(this).html(result);
+
+});
+
+}
+
+ });
+
+return false;
+
+});
+
+
+$("#ajax-bookreview-form").submit(function(){
+
+var str = $(this).serialize();
+
+   $.ajax({
+   type: "POST",
+   url: "/include/ajax-bookreview.php",
+   data: str,
+   success: function(msg){
+    
+$("#notebookreview").ajaxComplete(function(event, request, settings){
+
+if(msg == 'OK') // Message Sent? Show the 'Thank You' message and hide the form
+{
+result = '<div class="notification_ok">Your message has been sent. Thank you!</div>';
+$("#filedsbookreview").hide();
+}
+else
+{
+result = msg;
+}
+
+$(this).html(result);
+
+});
+
+}
+
+ });
+
+return false;
+
+});
+
+$("#ajax-tellfriend-form").submit(function(){
+
+var str = $(this).serialize();
+
+   $.ajax({
+   type: "POST",
+   url: "/include/ajax-tellafriend.php",
+   data: str,
+   success: function(msg){
+    
+$("#notetellfriend").ajaxComplete(function(event, request, settings){
+
+if(msg == 'OK') // Message Sent? Show the 'Thank You' message and hide the form
+{
+result = '<div class="notification_ok">Your message has been sent to your friend. Thank you!</div>';
+$("#friendsfed").hide();
+}
+else
+{
+result = msg;
+}
+
+$(this).html(result);
+
+});
+
+}
+
+ });
+
+return false;
+
+});
+
+$("#ajax-join-form").submit(function(){
+
+var str = $(this).serialize();
+
+   $.ajax({
+   type: "POST",
+   url: "/include/ajax-join.php",
+   data: str,
+   success: function(msg){
+    
+$("#notejoin").ajaxComplete(function(event, request, settings){
+
+if(msg == 'OK') // Message Sent? Show the 'Thank You' message and hide the form
+{
+result = '<div class="notification_ok">You successfully subscribe or unsubscribe yourself for our newsletter. Thank you!</div>';
+$("#filedsjoin").hide();
+}
+else
+{
+result = msg;
+}
+
+$(this).html(result);
+
+});
+
+}
+
+ });
+
+return false;
+
+});
+
+});
+
+</script>  
+<script language = "Javascript">
+<!--
+
+function stoperror()
+    {
+        return true;
+    }
+window.onerror=stoperror;
+
+function showhide_review()
+    {
+        if (document.getElementById('review_box').style.display == 'none')
+            {
+                document.getElementById('review_box').style.display = '';
+            }
+        else
+            {
+                document.getElementById('review_box').style.display = 'none';
+            }
+    }
+    
+//-->
+
+function showhide_tell()
+    {
+        if (document.getElementById('tell_box').style.display == 'none')
+            {
+                document.getElementById('tell_box').style.display = '';
+            }
+        else
+            {
+                document.getElementById('tell_box').style.display = 'none';
+            }
+    }
+
+
+function showhide_join()
+    {
+        if (document.getElementById('join_box').style.display == 'none')
+            {
+                document.getElementById('join_box').style.display = '';
+            }
+        else
+            {
+                document.getElementById('join_box').style.display = 'none';
+            }
+    }
+
+
+//-->
+function showhide_sp()
+    {
+        if (document.getElementById('sp_box').style.display == 'none')
+            {
+                document.getElementById('sp_box').style.display = '';
+            }
+        else
+            {
+                document.getElementById('sp_box').style.display = 'none';
+            }
+    }
+    
+//-->
+</script>
+<style type="text/css">
+
+#dhtmltooltip{
+position: absolute;
+left: -300px;
+width: 320px;
+border: 1px solid black;
+padding: 2px;
+background-color: #F1FFCA;
+color:black;
+font-size:10px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-weight:normal;
+visibility: hidden;
+z-index: 100;
+/*Remove below line to remove shadow. Below line should always appear last within this CSS*/
+filter: progid:DXImageTransform.Microsoft.Shadow(color=#999999,direction=135);
+}
+#dhtmlpointer{
+position:absolute;
+left: -300px;
+z-index: 101;
+visibility: hidden;
+}
+
+</style>
+
+
+
+
+
+
+
+
+<script type="text/javascript">
+//<![CDATA[
+  (function() {
+    var shr = document.createElement('script');
+    shr.setAttribute('data-cfasync', 'false');
+    shr.src = '//dsms0mj1bbhn4.cloudfront.net/assets/pub/shareaholic.js';
+    shr.type = 'text/javascript'; shr.async = 'true';
+    shr.onload = shr.onreadystatechange = function() {
+      var rs = this.readyState;
+      if (rs && rs != 'complete' && rs != 'loaded') return;
+      var apikey = '82724c3b5e0560c1d4e512d88d7a6d41'
+      try { Shareaholic.init(apikey); } catch (e) {}
+    };
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(shr, s);
+  })();
+//]]>
+</script>
+
+
+
+
+
+
+</head>
+<body>
+<div id="fb-root"></div>
+<script>
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_GB/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
+_ga.trackFacebook();
+</script>
+<script type="text/javascript">
+
+/***********************************************
+* Cool DHTML tooltip script II-  Dynamic Drive DHTML code library (www.dynamicdrive.com)
+* This notice MUST stay intact for legal use
+* Visit Dynamic Drive at http://www.dynamicdrive.com/ for full source code
+***********************************************/
+
+var offsetfromcursorX=12 //Customize x offset of tooltip
+var offsetfromcursorY=10 //Customize y offset of tooltip
+
+var offsetdivfrompointerX=10 //Customize x offset of tooltip DIV relative to pointer image
+var offsetdivfrompointerY=14 //Customize y offset of tooltip DIV relative to pointer image. Tip: Set it to (height_of_pointer_image-1).
+
+document.write('<div id="dhtmltooltip"></div>') //write out tooltip DIV
+document.write('<img id="dhtmlpointer" src="/include/arrow2.gif">') //write out pointer image
+
+var ie=document.all
+var ns6=document.getElementById && !document.all
+var enabletip=false
+if (ie||ns6)
+var tipobj=document.all? document.all["dhtmltooltip"] : document.getElementById? document.getElementById("dhtmltooltip") : ""
+
+var pointerobj=document.all? document.all["dhtmlpointer"] : document.getElementById? document.getElementById("dhtmlpointer") : ""
+
+function ietruebody(){
+return (document.compatMode && document.compatMode!="BackCompat")? document.documentElement : document.body
+}
+
+function ddrivetip(thetext, thewidth, thecolor){
+if (ns6||ie){
+if (typeof thewidth!="undefined") tipobj.style.width=thewidth+"px"
+if (typeof thecolor!="undefined" && thecolor!="") tipobj.style.backgroundColor=thecolor
+tipobj.innerHTML=thetext
+enabletip=true
+return false
+}
+}
+
+function positiontip(e){
+if (enabletip){
+var nondefaultpos=false
+var curX=(ns6)?e.pageX : event.clientX+ietruebody().scrollLeft;
+var curY=(ns6)?e.pageY : event.clientY+ietruebody().scrollTop;
+//Find out how close the mouse is to the corner of the window
+var winwidth=ie&&!window.opera? ietruebody().clientWidth : window.innerWidth-20
+var winheight=ie&&!window.opera? ietruebody().clientHeight : window.innerHeight-20
+
+var rightedge=ie&&!window.opera? winwidth-event.clientX-offsetfromcursorX : winwidth-e.clientX-offsetfromcursorX
+var bottomedge=ie&&!window.opera? winheight-event.clientY-offsetfromcursorY : winheight-e.clientY-offsetfromcursorY
+
+var leftedge=(offsetfromcursorX<0)? offsetfromcursorX*(-1) : -1000
+
+//if the horizontal distance isn't enough to accomodate the width of the context menu
+if (rightedge<tipobj.offsetWidth){
+//move the horizontal position of the menu to the left by it's width
+tipobj.style.left=curX-tipobj.offsetWidth+"px"
+nondefaultpos=true
+}
+else if (curX<leftedge)
+tipobj.style.left="5px"
+else{
+//position the horizontal position of the menu where the mouse is positioned
+tipobj.style.left=curX+offsetfromcursorX-offsetdivfrompointerX+"px"
+pointerobj.style.left=curX+offsetfromcursorX+"px"
+}
+
+//same concept with the vertical position
+if (bottomedge<tipobj.offsetHeight){
+tipobj.style.top=curY-tipobj.offsetHeight-offsetfromcursorY+"px"
+nondefaultpos=true
+}
+else{
+tipobj.style.top=curY+offsetfromcursorY+offsetdivfrompointerY+"px"
+pointerobj.style.top=curY+offsetfromcursorY+"px"
+}
+tipobj.style.visibility="visible"
+if (!nondefaultpos)
+pointerobj.style.visibility="visible"
+else
+pointerobj.style.visibility="hidden"
+}
+}
+
+function hideddrivetip(){
+if (ns6||ie){
+enabletip=false
+tipobj.style.visibility="hidden"
+pointerobj.style.visibility="hidden"
+tipobj.style.left="-1000px"
+tipobj.style.backgroundColor=''
+tipobj.style.width=''
+}
+}
+document.onmousemove=positiontip
+</script>
+<script language="javascript" type="text/javascript">
+function ajaxFunction(){
+	var ajaxRequest;  // The variable that makes Ajax possible!
+	try{
+		ajaxRequest = new XMLHttpRequest();
+	} catch (e){
+		try{
+			ajaxRequest = new ActiveXObject("Msxml2.XMLHTTP");
+		} catch (e) {
+			try{
+				ajaxRequest = new ActiveXObject("Microsoft.XMLHTTP");
+			} catch (e){
+				alert("Your browser broke!");
+				return false;
+			}
+		}
+	}
+	ajaxRequest.onreadystatechange = function(){
+		if(ajaxRequest.readyState == 4){
+			var ajaxDisplay = document.getElementById('ajaxDiv');
+			ajaxDisplay.innerHTML = ajaxRequest.responseText;
+		}
+	}
+	var idbook		= document.getElementById('idbook').value;
+	var iduser		= document.getElementById('iduser').value;
+	var idlang		= document.getElementById('idlang').value;
+	var sp_amount	= document.getElementById('sp_amount').value;
+	var sp_msg		= document.getElementById('sp_msg').value;
+	var queryString = "?idbook=" + idbook + "&iduser=" + iduser + "&idlang=" + idlang + "&sp_amount=" + sp_amount + "&sp_msg=" + sp_msg;
+	ajaxRequest.open("GET", "/include/ajax-tellafriend.php" + queryString, true);
+	ajaxRequest.send(null); 
+}
+</script>
+<center>
+<table border="0" style="border-collapse: collapse" cellpadding="0" width="1000" cellspacing="0" align="center" bgcolor="#729761">
+<tr>
+	<td align="center" valign="top"><table border="0" width="100%" style="border-collapse: collapse" cellpadding="0" cellspacing="0">
+<tr>
+	<td valign="top"><a href="/english/index.html" title="Home Islamic Books">
+	<img src="/thm-mb-en/hdr-01.gif" width="156" height="99" border="0" alt="islamic books minhajbooks.com"></a></td>
+	<td valign="top"><a href="/english/index.html" title="Home Islamic Books">
+	<img src="/thm-mb-en/hdr-02.gif" width="338" height="99" border="0" alt="islamic books minhajbooks.com"></a></td>
+	<td valign="top"><a href="/english/index.html" title="Home Islamic Books">
+	<img src="/thm-mb-en/hdr-03.gif" width="37" height="99" border="0" alt="minhajbooks.com"></a></td>
+	<td valign="top"><!--a href="/english/tid/6/Shaykh-ul-Islam-Dr-Muhammad-Tahir-ul-Qadri.html" title="Shaykh-ul-Islam Dr Muhammad Tahir-ul-Qadri"-->
+	<img src="/thm-mb-en/hdr-04.gif" width="238" height="99" border="0" alt="minhajbooks.com"><!--/a--></td>
+	<td valign="top"><!--a href="/english/tid/6/Shaykh-ul-Islam-Dr-Muhammad-Tahir-ul-Qadri.html" title="Shaykh-ul-Islam Dr Muhammad Tahir-ul-Qadri"-->
+	<img src="/thm-mb-en/hdr-05.gif" width="231" height="99" border="0" alt="minhajbooks.com"><!--/a--></td>
+</tr>
+<tr>
+	<td valign="top" colspan="5">
+	<img src="/thm-mb-en/hdr-8.gif" alt=" Islamic Books minhajbooks.com" width="1000" height="40" border="0" usemap="#Map2"></td>
+</tr>
+</table>
+<map name="Map2" id="Map2">
+	<area shape="rect" coords="33,14,94,34" href="/english/index.html" title="Home" alt="Home Islamic Books">
+	<area shape="rect" coords="126,14,194,35" href="/english/tid/5/about-us.html" title="About Us" alt="About us">
+	<area shape="rect" coords="313,10,400,34" href="/english/English/english-islamic-books.html" title="English Books" alt="English Books">
+	<area shape="rect" coords="413,12,492,35" href="/english/Arabic/arabic-islamic-books.html" title="Arabic Books" alt="Arabic Books">
+	<area shape="rect" coords="513,13,586,33" href="/english/PDF/free-download-islamic-books-in-pdf-format.html" title="Download Books" alt="Download Books">
+	<area shape="rect" coords="603,12,690,35" href="/english/Txtformat/islamic-books-in-unicode-text-format.html" title="Text Format Books" alt="Text format Books">
+	<area shape="rect" coords="900,14,974,33" href="/english/tid/7/contact-us-for-books-by-shaykh-ul-islam-dr-muhammad-tahir-ul-qadri.html" title="Contact Us" alt="Contact Us">
+	<area shape="rect" coords="701,11,784,34" href="/english/Imgformat/islamic-books-in-image-format.html" title="Images format Books" alt="Images format Books">
+	<area shape="rect" coords="801,13,881,33" href="http://www.minhaj.biz/" alt="Buy Books at www.Minhaj.biz">
+	<area shape="rect" coords="217,11,297,36" href="/english/Urdu/urdu-islamic-books.html" title="Urdu Books" alt="Urdu Books">
+</map></td>
+</tr>
+<tr>
+	<td align="center" valign="top">
+<table border="0" style="border-collapse: collapse" cellpadding="0" width="982" cellspacing="0" align="center" bgcolor="#DEE7CC">	
+<tr>
+	<td height="5" colspan="3"></td>
+</tr>
+<tr>
+	<td colspan="3">
+<script type="text/javascript" language="javascript" src="/include/marquee_start.js"></script>
+<a href="http://minhaj.org/english/tid/8505/Appeal-for-Minhaj-Internet-Fund.html" target="_blank" class="engnormal">
+Do you want more & more books to download for FREE? We need your help, it will be a great sadqa e jariah. Click for details...</a>
+<script type="text/javascript" language="javascript" src="/include/marquee_end.js"></script>
+	
+	
+	</td>
+</tr>
+<tr>
+	<td height="5" colspan="3"></td>
+</tr>
+<tr>
+	<td align="center" valign="top" width="146" nowrap="nowrap"><table width="100%" cellspacing="0" cellpadding="0" align="center" style="border-collapse: collapse">
+<tr>
+	<td align="center" valign="top"><table width="129" cellspacing="0" cellpadding="0" align="center" class="border1" style="border-collapse: collapse">
+<tr>
+	<td valign="top" class="lefttop"></td>
+</tr>
+<tr>
+	<td align="center">
+<table width="92%" cellspacing="0" cellpadding="0" align="center" style="border-collapse: collapse">
+<tr>
+	<td valign="top" height="3"></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/index.html" title="Home">Home</a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/Fehrist/books-index-by-shaykh-ul-islam-dr-muhammad-tahir-ul-qadri.html" title="Books Index"><b>Complete Index</b></a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/NewPrinted/newly-printed-books-by-shaykh-ul-islam-dr-muhammad-tahir-ul-qadri.html" title="Newly Printed"><b>New Printed</b></a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/NewOnline/newly-online-books-by-shaykh-ul-islam-dr-muhammad-tahir-ul-qadri.html" title="Newly Online"><b>New Online</b></a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/LatestTxtformat/newly-online-books-by-shaykh-ul-islam-dr-muhammad-tahir-ul-qadri.html" title="Newly Online"><b>New in Text</b></a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/LatestImgformat/newly-online-books-by-shaykh-ul-islam-dr-muhammad-tahir-ul-qadri.html" title="Newly Online"><b>New in Images</b></a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/Topread/Top-read-books-by-shaykh-ul-islam-dr-muhammad-tahir-ul-qadri.html" title="Top Read Books"><b>Top Read</b></a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/Topdownload/top-downloaded-books-by-shaykh-ul-islam-dr-muhammad-tahir-ul-qadri.html" title="Top Downloaded Books"><b>Top Downloads</b></a></td>
+</tr>
+
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/athid/2/books-by-shaykh-ul-islam-dr-muhammad-tahir-ul-qadri.html" title="Books by Shaykh-ul-Islam Dr Muhammad Tahir-ul-Qadri"><b>Shaykh-ul-Islam</b></a></td>
+</tr>
+
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/athid/7/books-by-Farid-e-Millat-Dr-Farid-ud-Din-Qadri.html" title="Books by Farid-e-Millat Dr Farid-ud-Din Qadri"><b>Farid-e-Millat</b></a></td>
+</tr>
+
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/athid/4/books-by-Sahibzada-Hussain-Mohi-ud-Din-Qadri.html" title="Books by Hussain Mohi-ud-Din Qadri"><b>Dr Hussain Qadri</b></a></td>
+</tr>
+
+
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/SponsorList/sponsorship-scheme-for-books-by-shaykh-ul-islam-dr-muhammad-tahir-ul-qadri.html" title="Sponsors List for Online Literature">Online Sponsors</a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/tid/7/contact-us-for-books-by-shaykh-ul-islam-dr-muhammad-tahir-ul-qadri.html" title="Contact Us">Contact Us</a></td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+<div style="height:10px;"></div>
+<table width="129" cellspacing="0" cellpadding="0" align="center" class="border1" style="border-collapse: collapse">
+<tr>
+	<td valign="top" class="lefttopic"></td>
+</tr>
+<tr>
+	<td align="center">
+<table width="92%" cellspacing="0" cellpadding="0" align="center" style="border-collapse: collapse">
+<tr>
+	<td valign="top" height="3"></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/1/Islamic-Books-on-Quranic-Sciences.html" title="The Quran and the Quranic Sciences"><b>The Quran</b></a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/2/Islamic-Books-on-Hadith-Sciences.html" title="The Hadith">The Hadith</a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/3/Islamic-Books-on-Science-of-Faith-and-Worship.html" title="Science of Faith and Worship">Science of Faith</a></td>
+</tr>
+
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/4/Islamic-Books-on-Science-of-Beliefs-(Bases-and-Branches).html" title="Science of Beliefs (Bases and Branches)">Science of Beliefs</a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/5/Islamic-Books-on-The-Prophets-life-Conduct-and-Virtues.html" title="The Prophets life Conduct and Virtues">The Prophet's life</a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/6/Islamic-Books-on-Finality-of-Prophethood-and-the-Comparative-Study.html" title="Finality of Prophethood and the Comparative Study">Finality</a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/7/Islamic-Books-on-Jurisprudence.html" title="Jurisprudence">Jurisprudence</a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/8/Islamic-Books-on-Morality-and-Spiritualism.html" title="Morality and Spiritualism">Morality</a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/9/Islamic-Books-on-Religious-Litanies-and-Devotions-(Awrad-and-Wazaif.html" title="Religious Litanies and Devotions (Awrad and Wazaif)">Religious Litanies</a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/10/Islamic-Books-on-Economics.html" title="Economics">Economics</a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/11/Islamic-Books-on-Ideologies.html" title="Ideologies">Ideologies</a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/12/Islamic-Books-on-Constitutions-and-Legislative-Practices.html" title="Constitutions and Legislative Practices">Constitutions</a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/13/Islamic-Books-on-Celebrities-and-Luminaries.html" title="Celebrities and Luminaries">Celebrities</a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/14/Islamic-Books-on-Islam-and-Science.html" title="Islam and Science">Islam & Science</a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/15/Islamic-Books-on-Human-Rights-and-Contemporary-Era.html" title="Human Rights and Contemporary Era">Human Rights</a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/16/Islamic-Books-on-Islamic-Teachings-Series.html" title="Islamic Teachings Series">Islamic Teachings</a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/17/Islamic-Books-on-English-Books.html" title="English Books">English Books</a></td>
+</tr>
+<!--tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/19/Islamic-Books-on-Poetry.html" title="Poetry">Poetry</a></td>
+</tr-->
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/23/Islamic-Books-on-Farid-e-Millat.html" title="Farid-e-Millat">Farid-e-Millat</a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/22/Islamic-Books-on-Hussain-Mohi-ud-Din.html" title="Hussain Mohi-ud-Din">H. Mohi-ud-Din</a></td>
+</tr>
+<tr>
+	<td valign="middle" class="leftmid"><a class="leftnavi" href="/english/catid/18/Islamic-Books-on-MISc.html" title="MISc">MISc</a></td>
+</tr>
+<tr>
+	<td valign="top" height="3"></td>
+</tr>
+	</table>
+	</td>
+</tr>	
+</table>
+	</td>
+</tr>
+<tr>
+	<td align="center" height="7"></td>
+</tr>
+</table>
+<br><br>
+	<div align="center"><font face="Tahoma" size="1" dir="ltr"><!--Hits :--> 
+<script type="text/javascript" src="http://jb.revolvermaps.com/r.js"></script>
+<script type="text/javascript">rm_f1st('8','1','true','false','000000','1rmEzewxw1y','true','54ff00');</script><noscript>
+<applet codebase="http://rb.revolvermaps.com/j" code="core.RE" width="1" height="1" archive="g.jar">
+<param name="cabbase" value="g.cab" />
+<param name="r" value="true" />
+<param name="n" value="false" />
+<param name="i" value="1rmEzewxw1y" />
+<param name="m" value="8" />
+<param name="s" value="1" />
+<param name="c" value="54ff00" />
+<param name="v" value="true" />
+<param name="b" value="000000" />
+<param name="rfc" value="true" />
+</applet>
+</noscript>
+
+
+</font></div>
+<br></td>
+	<td align="center" valign="top" width="676" nowrap="nowrap">
+<p id="join_box" style="z-index: 1; display: none;">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tr>
+	<td valign="top" class="midtop"></td>
+</tr>
+<tr>
+	<td valign="top" class="midmid" align="center">
+	<h1>Subscribe / unsubscribe yourself for Newsletter</h1>
+<div id="notejoin" align="center"></div>	
+<div id='filedsjoin' align='center'>
+<form id="ajax-join-form" action="javascript:alert('success!');">	
+<table width="475" border="0" cellpadding="2" cellspacing="2" align="center">
+<tr> 
+	<td align="right" class="engnormal">Your Name <font color="#F00">*</font> :</td>
+	<td><input type='text' name="name" class='input' size='35' value=""></td>
+</tr>
+<tr> 
+	<td align="right" class="engnormal">Your Email <font color="#F00">*</font> :</td>
+	<td><input type='text' name="email" class='input' size='35' value=""></td>
+</tr>
+<tr> 
+	<td align="right" class="engnormal">Subscribe <font color="#F00">*</font> :</td>
+	<td><input type="radio" class="radio" name="shown" value='1' checked> Yes&nbsp;
+	<input type="radio" class="radio" name="shown" value='0'> No</td>
+</tr>
+<tr>
+	<td colspan="2" align="center">
+	<input type="submit" name="submit" value=" Join Us "  class='btn' >
+	&nbsp;&nbsp;<input type='reset' value='Refresh' class='btn'>
+	</td>
+</tr>
+</table>
+</form>
+</div>
+<br>
+	</td>
+</tr>
+<tr>
+	<td valign="top" class="midbtm"></td>
+</tr>
+</table></p>	
+<p id="tell_box" style="z-index: 1; display: none;">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tr>
+	<td valign="top" class="midtop"></td>
+</tr>
+<tr>
+	<td valign="top" class="midmid" align="center">
+	<h1>Tell A Friend</h1>
+<div id="notetellfriend" align="center"></div>	
+<div id='friendsfed' align='center'>
+<form id="ajax-tellfriend-form" action="javascript:alert('success!');">	
+<input type="hidden" name="myurl" id="myurl" value="http://www.minhajbooks.com/en.php?control=Download&bid=384">
+<input type="hidden" name="lang" id="lang" value="en">
+<table width="475" border="0" cellpadding="2" cellspacing="2" align="center">
+<tr> 
+	<td align="right" class="engnormal">Your Name <font color="#F00">*</font> :</td>
+	<td><input type='text' name="name_from" class='input' size='35' value=""></td>
+</tr>
+<tr> 
+	<td align="right" class="engnormal">Your Email <font color="#F00">*</font> :</td>
+	<td><input type='text' name="email_from" class='input' size='35' value=""></td>
+</tr>
+<tr> 
+	<td align="right" class="engnormal">Friend's Name <font color="#F00">*</font> :</td>
+	<td><input type='text' name="name_to" class='input' size='35' value=""></td>
+</tr>
+<tr> 
+	<td align="right" class="engnormal">Friend's Email <font color="#F00">*</font> :</td>
+	<td><input type='text' name="email_to" class='input' size='35' value=""></td>
+</tr>
+<tr> 
+	<td align="right" class="engnormal">Message :</td>
+	<td><textarea  name="msg_to" class='input' cols='35' rows='3'></textarea></td>
+</tr>
+<tr>
+	<td colspan="2" align="center">
+	<input type="submit" name="submit" value="Send Message"  class='btncart' >
+	&nbsp;&nbsp;<input type='reset' value='Refresh' class='btncart'>
+	</td>
+</tr>
+</table>
+</form>
+</div>
+<br>
+	</td>
+</tr>
+<tr>
+	<td valign="top" class="midbtm"></td>
+</tr>
+</table></p>	
+<title> English Books > Fatwa: Suicide Bombing and Terrorism (French) - Islamic Library</title>
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
+<tr>
+	<td valign="top" class="midtop"></td>
+</tr>
+<tr>
+	<td valign="top" class="midmid" align="center">
+	<h1>Fatwa: Suicide Bombing and Terrorism (French)</h1>
+	
+	<div class="eng14pt" align="left">&nbsp;&nbsp;&nbsp;<b>> <a href="/english/Fehrist/books-index-by-shaykh-ul-islam-dr-muhammad-tahir-ul-qadri.html" title="Read Books">Read Books</a> > 
+	<a href="/english/catid/17/Islamic-Books-on-English-Books.html" title="English Books">English Books</a>
+	 > Fatwa: Suicide Bombing and Terrorism (French)</b></div><br />
+	<div align="center" class="engnormal">
+	This book is already downloaded by <font color="maroon"><b>1,967</b></font> times.&nbsp;&nbsp;</div><br />
+<table align="center" width="80%" cellpadding="4" cellspacing="4">
+<tr>
+<td class=engnormal><a target='_blank' title=' Download File No. 1 ' href='http://minhajbook.kortechx.netdna-cdn.com/images-books/Fatwa-Summary_french/Fatwa-Summary_french_1.pdf'>
+<img border='0' src='/thm-mb-en/pdf_button.png'></a></td>
+<td class=engnormal><a target='_blank' title=' Download File No. 1 ' href='http://minhajbook.kortechx.netdna-cdn.com/images-books/Fatwa-Summary_french/Fatwa-Summary_french_1.pdf'>File No. 1</a>
+</td>
+<td width='30'>&nbsp;</td></table>
+
+
+<div align="center"><img src="/thm-mb-en/big-line.gif" border="0"></div>
+<div class="normal"><font color="red"><b>Do you want more and more people download this book for FREE?</b></font></div>
+<div align="center"><img src="/thm-mb-en/big-line.gif" border="0"></div>
+
+<p class="eng14pt"><b>Book Sponsorship Scheme: the Best Sadaqa-e-Jaria</b></p>
+<p class="normal">Please pay <b>10</b> euro for annual sponsorship of this book.</p>
+
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="4KES5VBXPFATQ">
+<input type="hidden" name="cancel_return" value="http://www.minhajbooks.com/english/Download/bid/384/Fatwa-Suicide-Bombing-and-Terrorism-French-by-Shaykh-ul-Islam-Dr-Muhammad-Tahir-ul-Qadri.html">
+<input type="hidden" name="return" value="http://www.minhajbooks.com/english/Success/IDbk/384/Fatwa-Suicide-Bombing-and-Terrorism-French-by-Shaykh-ul-Islam-Dr-Muhammad-Tahir-ul-Qadri.html">
+<input type="image" src="https://www.paypal.com/en_US/GB/i/btn/btn_subscribeCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypal.com/en_GB/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+<table width="625" nowrap="nowrap" border="0">
+<tr>
+<td align="left" class="normal"><b>Important:</b> Your name will be published at our <a href="/english/SponsorList/Books-Sponsorship-Scheme.html">Sponsors' List</a>.
+<br>Please don't forget to write your message after the payment to publish online. Thanks
+
+<p><b>Books by Shaykh-ul-Islam Dr Muhammad Tahir-ul-Qadri are spreading the true message of Islam around the world. We need your help to make its online publishing & downloading possible.</b></p>
+
+<ul>
+	<li class="normal">After your cooperation, there will be thousands of Duas (prayers) by the readers with you during all the year.</li>
+	<li class="normal">A new page will be added to the web site named by you, containing your message, where you may publish your photo too.</li>
+	<li class="normal">You may do niyyat ن&#1740;ت of Eisal-e-Sawab for your parents & love ones.</li>
+	<li class="normal">After your cooperation we will be able to publish more and more books.</li>
+</ul>
+
+<div class="engh1">Review on Book</div>
+
+<div align="center" style="margin-top:10px;">
+<div id="fb-root"></div><script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+<fb:comments href="http://www.minhajbooks.com/english/bookid/384/Fatwa-Suicide-Bombing-and-Terrorism-French-by-Shaykh-ul-Islam-Dr-Muhammad-Tahir-ul-Qadri.html" num_posts="3" width="630"></fb:comments>
+</div>
+<div style="clear:both;"></div>
+<div align="center" style="margin-top:10px;">
+<iframe src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2FTahirulqadri&amp;width=630&amp;colorscheme=light&amp;show_faces=true&amp;border_color&amp;stream=true&amp;header=true&amp;height=400" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:630px; height:400px;"></iframe>
+</div>
+<div style="clear:both;"></div></td>
+</tr>
+</table>
+
+
+	
+	</td>
+</tr>
+<tr>
+	<td valign="top" class="midbtm"></td>
+</tr>
+</table>	</td>
+	<td align="center" valign="top" width="160" nowrap="nowrap"><table border="0" width="96%" cellpadding="0" style="border-collapse: collapse" align="center">
+<tr>
+	<td align="center" valign="middle" colspan="2">
+<table border="0" width="155" cellspacing="0" cellpadding="0" align="center">
+<tr>
+	<td valign="top" class="logintop"></td>
+</tr>
+<tr>
+	<td valign="top" class="loginmid" align="center">
+<div align="center">
+<form method="GET" name="frm" action="/en.php">
+<input type="hidden" name="control" id="control" value="Search">
+	<a href="/en.php?control=Download&bid=384" title="English version">
+	<img src="/thm-mb-en/uk-flag.gif" border="0" alt="minhajbooks.com"></a>
+	<a href="/ur.php?control=Download&bid=384" title="Urdu version">
+	<img src="/thm-mb-en/pak-flag.gif" border="0" alt="minhajbooks.com"></a> 
+<br><b>Search Books</b>
+	<input type="text" name="title" size="16" class="input" id="title"><br>
+	<input value="Urdu" name="toggle1" onclick='setUrdu("title")' type="radio"> اردو
+	<input value="English" name="toggle1" checked="checked" onclick='setEnglish("title")' type="radio"> <font class="normal">English</font>
+</form>	
+<script language="JavaScript" type="text/javascript">
+	makeUrduEditor("title", 14);
+</script>
+<a href="javascript:void();" onClick="showhide_tell()"><img src="/thm-mb-en/btn-tellafriend.gif" border="0" alt="minhajbooks.com"></a>
+<div align="center"><a href="javascript:void();" onClick="showhide_join()"><img src="/thm-mb-en/join-us-button.png" border="0" alt="Join Us for Newsletter"></a></div>
+</div>
+	</td>
+</tr>
+<tr>
+	<td valign="top" class="loginbtm"></td>
+</tr>
+</table>		
+	
+	</td>
+</tr>
+<tr>
+	<td align="center" valign="middle" colspan="2"><table border="0" width="155" cellspacing="0" cellpadding="0" align="center">
+<tr>
+	<td valign="top" class="logintop"></td>
+</tr>
+<tr>
+	<td valign="top" class="loginmid">
+<table width="96%" align="center" cellpadding="2" cellspacing="1" border="0">
+<tr>
+<td class="engnormal" align="center" dir="ltr"><a class="normal" href="http://www.minhajbooks.com/english/control/SponsorList/Books-Sponsorship-Scheme.html" title="Sponsors List for Online Literature"><b>Online Sponsors</b></a><p>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="VTQNKX4MJSSCA">
+<input type="hidden" name="cancel_return" value="http://www.minhaj.org/english/tid/8505/Appeal-for-Minhaj-Internet-Fund.html">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online.">
+<img alt="" border="0" src="https://www.paypal.com/en_US/i/scr/pixel.gif" width="1" height="1"> </form>
+</p>
+</td>
+</tr>
+</table>	
+	</td>
+</tr>
+<tr>
+	<td valign="top" class="loginbtm"></td>
+</tr>
+</table></td>
+</tr>
+<tr>
+	<td align="center" valign="middle" height="5" colspan="2"></td>
+</tr>
+
+<tr>
+	<td align="center" valign="middle" colspan="2"><a href="http://www.minhajbooks.com/downloads/Fehrist-Books-by-Shaykh-ul-Islam-Dr-Tahir-ul-Qadri.pdf" target="_blank"><img src="/thm-mb-en/Books-Index_download-btn.jpg" border="0" alt="Index Books"></a>
+</td>
+</tr>
+
+<tr>
+	<td align="center" valign="middle" height="5" colspan="2"></td>
+</tr>
+</table></td>
+</tr>
+</table>	
+	</td>
+</tr>
+<tr>
+	<td class="footerbg"></td>
+</tr>
+<tr>
+	<td valign="top" align="center"><table border="0" cellspacing="0" cellpadding="2" width="982">
+<tr>
+<td class="hdr">&nbsp;<b>Minhaj-ul-Quran International in Cyber Space</b></td>
+</tr>
+<tr>
+	<td background="http://www.minhajbooks.com/thm-mb-en/bg_cell_navi2.gif">
+<a class="footer" href="http://www.minhaj.org/english/index.html">Minhaj-ul-Quran International</a> |
+<a class="footer" href="http://www.welfare.org.pk/english/index.html">Minhaj Welfare Foundation</a> |
+<a class="footer" href="http://www.minhajsisters.com/en.php">Minhaj-ul-Quran Women League</a> |
+<a class="footer" href="http://www.minhajoverseas.com/en.php">Minhaj Overseas</a> |
+<a class="footer" href="http://www.mcdf.info/en.php">Muslim Christian Dialogue Forum (MCDF)</a> |
+<a class="footer" href="http://www.gosha-e-durood.com/durood/index.php">Gosha-e-Durood</a> |
+<a class="footer" href="http://www.itikaf.com/">Itikaf City</a> |
+<a class="footer" href="http://www.irfan-ul-quran.com/quran/english/index.html">Irfan-ul-Quran</a> |
+<a class="footer" href="http://www.deenislam.com/islam.html">Islamic Multimedia</a> |
+<a class="footer" href="http://www.minhajbooks.com/english/index.html">Islamic Library</a> |
+<a class="footer" href="http://www.minhaj.info/mag/index.php?mod=mags">Monthly Minhaj-ul-Quran</a> |
+<a class="footer" href="http://www.minhaj.info/di/index.php?mod=mags">Monthly Dukhtran-e-Islam</a> |
+<a class="footer" href="http://www.minhaj.org.pk/">Minhaj Encyclopedia (Urdu)</a> |
+
+</td>
+</tr>
+</table></td>
+</tr>
+
+<tr>
+	<td valign="top" align="center"><font face="Tahoma" size="1" dir="ltr">Copyright © 1999 - 2015 
+	<a href=http://www.minhaj.org/>Minhaj-ul-Quran International</a>. All rights reserved.</font></td>
+</tr>
+</table>
+</center>	
+<p><script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-9036472-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+</body>
+</html>

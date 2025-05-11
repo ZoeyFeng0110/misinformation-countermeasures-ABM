@@ -1,0 +1,787 @@
+HTTP/1.1 200 OK
+Server: nginx/1.0.15
+Date: Tue, 24 Mar 2015 11:24:10 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.3.3
+Set-Cookie: lang=en; expires=Fri, 18-Mar-2016 11:24:10 GMT; path=/
+Set-Cookie: PHPSESSID=n2c7lte5j3tltfih0r3l3ad6q1; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Encoding: gzip
+
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html   xmlns:fb="http://ogp.me/ns/fb#"
+      xmlns="http://www.w3.org/1999/xhtml"  >
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Read or download Bigotry: The Dark Danger</title>
+<meta name="keywords" content="Read,or,download,Bigotry,The,Dark,Danger" />
+<meta name="description" content="Read online Bigotry The Dark Danger book download pdf doc books download harun yahya info about Bigotry The Dark Danger book  free book download Bigotry The Dark Danger related books adnan oktar share on social network like facebook, share on social media on twitter pocket book of Bigotry The Dark Danger" />	
+<meta property="og:type" content="book"/>
+<meta property="og:title" content="Bigotry The Dark Danger - Harunyahya.com"/>   
+<meta property="og:url" content="http://www.harunyahya.com/en/Books/191085/bigotry-the-dark-danger" />
+<meta property="og:image" content="http://imgaws1.fmanager.net/Image/objects/1-kitaplar/the_dark_danger_bigotry_adnan_oktar.jpg"/>
+<meta property="og:image:type" content="image/jpeg" />
+<meta property="og:image:width" content="300" />
+<meta property="og:image:height" content="300" />
+<meta property="book:release_date"       content="2014-09-15 01:13:29">
+<meta property="book:author"             content="Harun Yahya">
+<meta property="book:tag"                content="Quranic Rulings,Radicalism,Bigot">
+<meta name="robots" content="index,follow" />
+<meta name="robots" content="all" />
+<meta name="robots" content="index,archive" />
+<meta name="author" content="Harun Yahya" />
+<meta name="apple-itunes-app" content="app-id=382003103"/>
+
+<!-- GOOGLE+ PROFILE  BEGIN -->
+<link rel="author" href="https://plus.google.com/u/0/117418889851392694506">
+<!-- GOOGLE+ PROFILE  END -->
+
+<link rel="alternate" type="application/rss+xml" title="Harunyahya.com - All works" href="http://harunyahya.com/rss" />
+
+<script type="text/javascript" src="/assets/js/google.jquery.1.4.2.min.js" charset="UTF-8"></script>
+<!--<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js" charset="UTF-8"></script> -->
+
+
+
+
+
+<link href="/assets/css/bundle_ad2bf160756a641991c843a821599cac.css?1419165045" media="screen" rel="stylesheet" type="text/css" /><!--[if gt IE 7]><link href="/assets/css/book-ie.css" rel="stylesheet" type="text/css" /><![endif]-->
+<!--[if lte IE 7]><link href="/assets/css/book-ie6-7.css" rel="stylesheet" type="text/css" /><![endif]-->
+<link rel="canonical" href="http://www.harunyahya.com/en/Books/191085/bigotry-the-dark-danger"/>
+<script language='javascript' type='text/javascript'>if (top.location!= self.location) top.location = self.location;</script>
+</head>
+
+<body  class=''  >
+<div id="bg-wrp" >
+<div id="bg" >
+
+<!--NAV-start-->
+<script type="text/javascript">
+ window.search=function(){
+	 var searchText=document.getElementById('searchText').value;
+	 if(searchText!=''){
+	 	window.location = '/s/'+searchText;
+	 }
+	 return false;
+}
+</script>
+  <div id="top-nav-bg"><div id="top-nav">
+    <div id="top-nav-right">
+    <div id="languagesWrapper"><select id="languages" class="select-language"><option value="ky" rel="ky.harunyahya.com" >Kyrghyz / Кыргызча</option><option value="tr" rel="harunyahya.org" >Turkish  / Türkçe</option><option value="en" selected="selected"  rel="harunyahya.com" >English</option></select>
+<script type="text/javascript">
+function strpos (haystack, needle, offset) {
+  var i = (haystack+'').indexOf(needle, (offset || 0));
+  return i === -1 ? false : i;
+}
+$(document).ready(function() {
+  $('#languagesWrapper #languages').change(function(){
+	  var rel = $(this + "option:selected").attr("rel");
+	  var pathname = window.location.pathname;
+ 	  if(strpos($(this).val(),"http") === false){
+			var temp = pathname.split("/");
+			if( ( temp[1].length == 2 || temp[1].length == 3 ) && temp[1] != $(this).val() ){
+				temp[1] = $(this).val();
+				window.location = "http://"+rel+temp.join("/");
+			}else{
+				window.location = "http://"+rel+window.location.pathname;
+			}
+	  }else{
+		window.location = rel+window.location.pathname;
+	  }
+  });
+});
+</script>
+</div>
+    <div id="searchWrapper"><div id="search"><div id="search-left">
+    <div id="search-right" onclick="search();">
+      <div id="search-bg">
+      <form method="get" onkeydown="if(event.keyCode==13) { search(); return false;}" onsubmit="search(); return false;" id="search">
+        <input type="text" style="border: medium none; margin-top: 2px; background: none repeat scroll 0pt 0pt rgb(255, 255, 255);" 
+        		value="" name="s" id="searchText" class="keyboardInput" />
+        </form>
+       </div>
+    </div></div></div></div>
+    </div>
+    <div id="navmenu">
+	 <ul><li><a href='/'>Home
+</a></li><li><a href='/bilgi/contact-us'>Contact Us
+</a></li><li><a href='/bilgi/membership'>Membership
+</a></li><li><a href='/bilgi/sitemap'>Site Map
+</a></li><li><a href='/search/detailed-search'>Detailed search
+</a></li></ul>    </div>
+    <div class="clear"></div>
+  </div></div>
+<!--NAV-end-->
+  <div class="center">
+    <div id="header" ><a href="/"></a></div>
+    <div id="dock_wrapper">
+    <!--mbcontainer buton alanı start-->
+      <div id="dock"> </div>
+      <div style="clear:both;"></div>
+    <!--mbcontainer buton alanı end-->
+	<div id="catname"><p>
+        </p></div>
+    </div>
+    <div class="clear"></div>
+
+    <div id="main-top"><div id="bg01"><div id="bg02"><div id="bg03"></div></div></div></div>
+      <!-- AddThis Smart Layers BEGIN -->
+      <!-- Go to http://www.addthis.com/get/smart-layers to customize -->
+      <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid="></script>
+      <script type="text/javascript">
+          addthis.layers({
+              'theme' : 'light',
+              'share' : {
+                  'position' : 'left',
+                  'numPreferredServices' : 5
+              },
+              'whatsnext' : {},
+              'recommended' : {
+                  'title': 'Sizin için önerilen:'
+              }
+          });
+      </script>
+      <!-- AddThis Smart Layers END -->
+<style>
+	
+	#shortinformation{
+	text-align: center;
+	margin: 0 auto;
+	padding: 0px 120px;	
+	}
+
+
+.addthis_floating_style.addthis_32x32_style {
+width: 54px;
+}
+
+</style>
+<!--KİTAP header-->
+<meta http-equiv="Content-Type" content="text/html; charset=">
+<div id="bookheaderwrap">
+<div style="width:978px; border-left:1px solid #999; border-right:1px solid #999; background:#fff; float:left;">
+  <h1><p class="bookname">Bigotry: The Dark Danger</p></h1></div>
+  <div id="popup1" class="popup_block"> <img   src='http://aws.fmanager.net/functions/thumb.php?image=http://207.44.240.34/Image/objects/1-kitaplar/the_dark_danger_bigotry_adnan_oktar.jpg&width=320'width='320'   /> </div>
+  <!--<div id="popup1" class="popup_block"> <img src="images/kitapkapak-b.png" /></div>-->
+    <div id="rectangle">
+                       	<!-- AddThis Button BEGIN -->
+                        <!--
+						<div class="addthis_toolbox addthis_floating_style addthis_32x32_style">
+						<a class="addthis_button_pinterest_pinit"></a>
+						<a class="addthis_button_preferred_1"></a>
+						<a class="addthis_button_preferred_2"></a>
+						<a class="addthis_button_preferred_3"></a>
+						<a class="addthis_button_preferred_4"></a>
+						<a class="addthis_button_compact"></a>
+						</div>
+						<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f20029401ff5b07&async=1&domready=1"></script>
+  						<!-- AddThis Button END -->                  
+                <div class="acc-bookheader">
+                  <h2>DOWNLOAD THE BOOK
+</h2>
+                  <div class="pane" style="height:180px;">
+                    <div style="float:left; width:40%;">
+                      <a href="/list/type/1/name/kitaplar">
+                      <div style=" background:url(/assets/images/iframe.png) no-repeat top center transparent; height:150px; display:block; margin-right:50px;cursor:pointer;text-align:left; "><< List All  Books</div>
+                      </a>
+                      
+                    	<!-- AddThis Button BEGIN -->
+                        <!--
+						<div class="addthis_toolbox addthis_default_style addthis_32x32_style">
+						<a class="addthis_button_preferred_1"></a>
+						<a class="addthis_button_preferred_2"></a>
+						<a class="addthis_button_preferred_3"></a>
+						<a class="addthis_button_preferred_4"></a>
+						<a class="addthis_button_compact"></a>
+						</div>
+						<script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=xa-4f20029401ff5b07&async=1&domready=1"></script>
+						<!-- AddThis Button END -->
+                    </div>
+                    <div style="float:left; width:20%; text-align:center;">
+                        <div id="emptycover">
+                        <a href="#?w=320"  rel="popup1" class="poplight">
+                            <img   src='http://aws.fmanager.net/functions/thumb.php?image=http://207.44.240.34/Image/objects/1-kitaplar/the_dark_danger_bigotry_adnan_oktar.jpg&width=113'width='113' height='158'   />                            <!--<img src="/assets/images/kitapkapak.jpg" width="113" height="158"/>-->
+                        </a></div>
+                    </div>
+                      <div style="float:left; margin-left:10%; ">
+                                          	<img src="/assets/images/doc.png" width="35" align="absmiddle" border="0" height="25" vspace="0" hspace="5">
+                       		<a onClick="_gaq.push(['_trackEvent', 'Kitaplar', 'DOC', 'Bigotry: The Dark Danger']);"  style='display:inline' class='downloadbutton'  href='/ajax/downloadLinks/work/191085' >
+                       		 Download (DOC)                        </a><br />
+                                             	<img src="/assets/images/pdf.png" width="35" align="absmiddle" border="0" height="25" vspace="0" hspace="5">
+                       		<a onClick="_gaq.push(['_trackEvent', 'Kitaplar', 'PDF', 'Bigotry: The Dark Danger']);"  style='display:inline' class='downloadbutton'  href='/ajax/downloadLinks/work/191085' >
+                       		 Download (PDF)                        </a><br />
+                       
+                                        <img src="/assets/images/buy.gif" width="35" align="absmiddle" border="0" height="30" vspace="0" hspace="5" alt="" />
+                    <a href='http://bookglobal.net/index.php?route=product/product&product_id=174752' target="_blank" >Buy The Book
+</a> <br />
+                                        
+                   <img src="/assets/images/comment.gif" width="25" align="absmiddle" border="0" height="25" vspace="0" hspace="10" alt="" />
+                   <a href="/ajax/get.comments/oid/191085" id="comments">  Comments
+  </a> <br/>
+
+                   <img src="/assets/images/languages.png" vspace="5" width="24" align="absmiddle" border="0" height="24" hspace="10">
+                   <select name="select" class="otherlangs" >
+                     <option value=""  selected="selected">Other Languages
+</option>
+                              	<option value="ky.harunyahya.com/ky/books/200067/КАРАҢГЫ-КОРКУНУЧ-ФАНАТИЗМ">Kyrghyz / Кыргызча</option>
+                                	<option value="harunyahya.org/tr/books/192267/Karanlik-Tehlike-Bagnazlik">Turkish  / Türkçe</option>
+                                  </select>
+                     </div>
+                    <div class="clear"> </div>
+                  </div>
+
+                  <div class="clear"> </div>
+                  <h2 style="border-top:1px dotted #999;">CHAPTERS OF THE BOOK
+</h2>
+                  <div class="pane">
+                    <ul class="booktoc">
+                      <li><a href='/en/books/191085/Bigotry-The-Dark-Danger/chapter/15441/Preface-The-Misunderstood-Islam'
+         >Preface: The Misunderstood Islam</a></li><li><a href='/en/books/191085/Bigotry-The-Dark-Danger/chapter/15442/Ch1-The-Two-Basic-Concepts-Misused-by-Those-Who-Portray-Islam-as-a-Violent-Faith-Sharia-and-Jihad'
+         >Ch1: The Two Basic Concepts Misused by Those Who Portray Islam as a Violent Faith: Sharia and Jihad</a></li><li><a href='/en/books/191085/Bigotry-The-Dark-Danger/chapter/15443/Ch2-The-False-Faith-of-the-Fanatics'
+         >Ch2: The False Faith of the Fanatics</a></li><li><a href='/en/books/191085/Bigotry-The-Dark-Danger/chapter/15444/Ch3-The-Fanatics’-Hatred-of-Women'
+         >Ch3: The Fanatics’ Hatred of Women</a></li><li><a href='/en/books/191085/Bigotry-The-Dark-Danger/chapter/15453/Ch4-The-Fanatics’-Hatred-of-Art'
+         >Ch4: The Fanatics’ Hatred of Art</a></li><li><a href='/en/books/191085/Bigotry-The-Dark-Danger/chapter/15537/Ch5-Jews-and-Christians-in-the-Religion-of-the-Fanatics'
+         >Ch5: Jews and Christians in the Religion of the Fanatics</a></li><li><a href='/en/books/191085/Bigotry-The-Dark-Danger/chapter/15538/Afterword'
+         >Afterword</a></li>                    </ul>
+                  </div>
+                </div>
+    </div>
+    <div id="triangle-wrapper">
+    <div id="triangle-l"></div>
+    <div id="triangle-r"></div>
+    </div>
+
+<div class="clear"></div>
+
+</div>
+<!--KİTAP header sonu-->
+    <div id="main-middle" style="position:relative;">
+      <div id="main-middle-inner">
+        <div class="clear"></div>
+        <div id="onecolumn">
+          <!--ONE COLUMN CONTENT START-->
+          
+        <div id="pagetoc-wrapper">
+        <div id="pagetoc">
+        <div id="flap"> &lt; &lt;</div>
+        </div>
+        </div>
+          <div class="oncekisonraki" style="padding:15px 20px 0 20px;">
+            <div style="float:left"> 1 / total: 7</div>
+            <div style="width:200px; float:right;">
+              <div style="float:left; width:90px;"> </div>
+              <div style="float:left; text-align:center; width:20px;"> |</div>
+              <div style="float:right;"> <a href='/en/books/191085/Bigotry-The-Dark-Danger/chapter/15442/Ch1-The-Two-Basic-Concepts-Misused-by-Those-Who-Portray-Islam-as-a-Violent-Faith-Sharia-and-Jihad'>Forward >>
+</a></div>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="clear"></div>
+
+            <table border="0" cellspacing="0" cellpadding="0" id="bookwrap">
+              <tr id="bookwraptr">
+                <td>
+            <!--KİTAP METNİ BASLANGIC - apiye taşınacak kısmın başlangıcı-->
+              <h1>
+	Preface<strong>:&nbsp;The Misunderstood Islam</strong></h1>
+<p>
+	<img alt="Quran and girl" src="http://www.harunyahya.com/image/karanlik_tehlike_bagnazlik/17_Kuran_okuyan_kiz.jpg" style="width: 350px; height: 462px; float: right;" /></p>
+<p>
+	&ldquo;Adopt my faith, or die!&rdquo; That is the slogan of the fanatics. There is no such concept as democracy, freedom of ideas, love, respect, affection, friendship or altruism in fanaticism. Some people imagine that fanaticism, and its offshoot radicalism, can settle inside a true faith. Yet fanaticism is itself a religion; there are representatives of the religion of fanaticism inside every idea. There are fanatics in Islam, in Judaism and in Christianity, just as there are in Marxism, fascism and atheism. They all espouse the same false faith; &ldquo;I don&#39;t like your ideas! Either go along with my ideas, or die!&rdquo;</p>
+<p>
+	In recent times in particular, this fanaticism has largely wound up being equated with Islam. Indeed, certain groups call this religion of fanaticism Islam and they have turned their fears of fanaticism toward Islam, so much so that Islam, an Abrahamic faith, has come to stand for &ldquo;fear.&rdquo; Islamophobia is talked about all over the world. People are unaware that their fears stem, not from Islam, but from fanaticism. They fail to see that the fanatical faith produced by peddlers of superstition has appeared in the name of Islam; nobody has ever told them that this is not Islam. Neither the radicals who emerge in the name of Islam nor the Islamophobes who fear those radicals have been shown that Islam has nothing to do with this fanatical, terrifying, loveless and hate-filled faith. The radicals of Islam have begun harming the entire world, but Muslims most of all.</p>
+<p>
+	<img alt="Islamophobia" src="http://www.harunyahya.com/image/karanlik_tehlike_bagnazlik/18_islamofobi.jpg" style="width: 350px; height: 568px; float: left;" />The phrase &ldquo;moderate Islam&rdquo; was invented for that reason. As if there were such things as a savage Islam on one hand and a moderate model of Islam on the other, Muslims opposed to the savagery of the radicals began being referred to as &ldquo;moderate Muslims.&rdquo; Voices opposed to Islam admired the advocates of moderate Islam, but regarded them as weak in the face of the radicals. They imagined that some peace-loving people were trying to soften a savage religion (surely Islam is above that). They even called this &ldquo;reform in Islam,&rdquo; and referred to the advocates of moderate Islam as &ldquo;reformists.&rdquo; However nobody has managed to show that this is not a reform, but is in fact the real Islam. Although the opponents of Islam admire the &ldquo;reformists,&rdquo; the false strength stemming from radical violence and the idea that they represent the real Islam predominated.</p>
+<p>
+	Peace-loving Muslims are not trying to soften, reform or moderate Islam. Our main aim as peaceable Muslims is to intellectually eliminate a falsehood that has been propagated under the name of Islam for many years. It is to eliminate the radicalism, fanaticism and bigotry displayed for years under the name of Islam and to eradicate that nonsensical faith that has nothing to do with the true Islam, and to describe the truth of Islam with evidence from the Qur&rsquo;an. It is to put an end to the worst defamation of Islam being done by the fanatics up until now.</p>
+<p>
+	This book responds to the claims made by certain Western opponents of Islam who have actually come to prominence through their criticism of radicalism, and to the terrifying way of thinking of the fanatics. It reveals, with examples from the Qur&rsquo;an, the invalidity of the claims made in various sources of the false, fanatical religion which they are trying to make part of Islam. The particular reason for producing a work responding to these claims is that all the criticisms made of Islam take similar directions and that people confuse the religion of radicalism with the true Islam. The objective, therefore, is to provide those people who are wrongly acquainted with the true Islam due to the groundless accusations made against it, with <em>evidence from the Qur&rsquo;an</em> rebutting those claims.</p>
+<p>
+	The fanatics&rsquo; problem is that they learn their faith from specious superstition. However, those who criticize those fanatics are sometimes just as radical as them and believe in the accuracy of that same superstition. The more we produce evidence from the Qur&rsquo;an, the more they try to produce their own from the superstition the fanatics subscribe to. That is where they make their gravest mistake. If they want to know the true Islam and find a solution to fanaticism, they must heed the true faith described here. Unless they do that, radicalism will continue to plague the world.&nbsp;</p>
+<p style="text-align: center;">
+	<img alt="terrorism, fanaticism" src="http://www.harunyahya.com/image/karanlik_tehlike_bagnazlik/19_terrorism.jpg" style="width: 750px; height: 644px;" /></p>
+<p class="ayrac-muhur">
+	&nbsp;</p>
+            <!--KİTAP METNİ SONU - apiye taşınacak kısmın sonu-->
+                </td>
+              </tr>
+            </table>
+          <div class="oncekisonraki" style="padding: 10px 20px 0 20px;border-top:1px dashed #999;">
+            <div style="float:left"> 1 / total 7</div>
+            <div style="width:200px; float:right;">
+              <div style="float:left; width:90px;"> </div>
+              <div style="float:left; text-align:center; width:20px;"> |</div>
+              <div style="float:right;"> <a href='/en/books/191085/Bigotry-The-Dark-Danger/chapter/15442/Ch1-The-Two-Basic-Concepts-Misused-by-Those-Who-Portray-Islam-as-a-Violent-Faith-Sharia-and-Jihad'>Forward >>
+</a></div>
+            </div>
+            <div class="clear"></div>
+          </div>
+          <div class="clear"></div>
+
+
+          <!--ONE COLUMN CONTENT END-->
+        </div>
+        
+        		
+             		<div id="shortinformation" >
+        	You can read Harun Yahya's book <u><strong>Bigotry: The Dark Danger</strong></u> online, share it on social networks such as Facebook and Twitter, download it to your computer, use it in your homework and theses, and publish, copy or reproduce it on your own web sites or blogs without paying any copyright fee, so long as you acknowledge this site as the reference.        </div>
+		        
+      </div>
+    </div>
+
+
+<script type="text/javascript">    
+    
+$(document).ready(function(){
+	var categoryBodyId="beyazkitap";
+    $("body").attr("id",categoryBodyId);
+});
+  
+
+$(document).ready(function(){
+	$("select.otherlangs").change(function(){
+		if($(this).val() != '' && strpos($(this).val(),"http") === false){
+			window.location = 'http://'+$(this).val();
+		}
+	});
+	//relatedbutton yerine kullanılan
+	$("a.downloadbutton").fancybox({
+		'width' : 500,
+		'height' : 'auto',
+		'autoDimensions' : false,
+		'transitionIn' : 'elastic',
+		'transitionOut' : 'elastic',
+		//'speedIn' : 600,
+		//'speedOut' : 200,
+		//'overlayShow' : false,
+		'overlayColor' : '#000',
+		'overlayOpacity' : '0.4',
+		'type' : 'ajax'
+	}); 
+});
+</script>
+
+
+  </div>
+</div>
+</div>
+  <div id="bottom">
+    <div class="center">
+      <div id="main-bot"><div id="bg04"><div id="bg05"><div id="bg06"></div></div></div></div>
+      <div id="bottomcontent">
+        <!--ALT BANT content-->
+
+        <div class="botcols2">
+              <div class='banner' id='banners_3303859878981' ><link href="/assets/css/scrollable3.css" rel="stylesheet" type="text/css" />
+
+<div class="bot-sutun">
+<h2 style="color:#FC0;">Related Websites
+</h2>
+<div id="scrollable3">
+  <ul>
+    <li>
+    <a href='http://islamicquestions.net/' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=Image/objects/5-web-siteleri/islamic_questions_harun_yahya.jpg&width=113'width='113'   />
+      <h2>Islamic Questions</h2>
+      <div class='linkad'>http://islamicquestions.net/</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://hypocrites.whitesites.us/introduction.html' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=Image/objects/5-web-siteleri/hypocrites_whitesites.jpg&width=113'width='113'   />
+      <h2>Basic Characteristics of Hypocrites - White sites</h2>
+      <div class='linkad'>http://hypocrites.whitesites.us/introduction.html</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://www.englishkuran.com/' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=files/website/resimler/englishkuran_com.jpg&width=113'width='113'   />
+      <h2>English Kuran</h2>
+      <div class='linkad'>www.englishkuran.com/</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://www.quran-translations.com/' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=files/website/resimler/quran_translations_com.jpg&width=113'width='113'   />
+      <h2>Qur'an-translations</h2>
+      <div class='linkad'>www.quran-translations.com/</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://www.replytowikipedia.com/' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=files/website/resimler/wikipedia.jpg&width=113'width='113'   />
+      <h2>Reply to Wikipedia</h2>
+      <div class='linkad'>http://www.replytowikipedia.com/</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://darwinistsdilemma.com/' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=files/website/resimler/darwinistsdilemma_com.jpg&width=113'width='113'   />
+      <h2>Darwinists' Dilemma: The Soul</h2>
+      <div class='linkad'>http://darwinistsdilemma.com/</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://www.quranindex.net/' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=files/website/resimler/quran_index.jpg&width=113'width='113'   />
+      <h2>Quran Index</h2>
+      <div class='linkad'>http://www.quranindex.net/</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://romanticismaweaponofsatan.imanisiteler.com/' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=files/website/resimler/romanticismaweaponofsatan_com.jpg&width=113'width='113'   />
+      <h2>Romanticism: a Weapon of Satan</h2>
+      <div class='linkad'>http://romanticismaweaponofsatan.imanisiteler.com/</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://www.antiantichrist.org' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=files/website/resimler/antiantichrist_org.jpg&width=113'width='113'   />
+      <h2>Anti Antichrist</h2>
+      <div class='linkad'>www.antiantichrist.org</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://hopefulnessinthequran.imanisiteler.com' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=files/website/resimler/hopefulnessinthequran_com.jpg&width=113'width='113'   />
+      <h2>Hopefulness in the Quran</h2>
+      <div class='linkad'>http://hopefulnessinthequran.imanisiteler.com</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://deathresurrectionhell.imanisiteler.com' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=files/website/resimler/deathresurrectionhell_com.jpg&width=113'width='113'   />
+      <h2>Death Resurrection Hell</h2>
+      <div class='linkad'>http://deathresurrectionhell.imanisiteler.com</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://devotedtoallah.imanisiteler.com' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=files/website/resimler/devotedtoallah_com.jpg&width=113'width='113'   />
+      <h2>Devoted to Allah</h2>
+      <div class='linkad'>http://devotedtoallah.imanisiteler.com</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://falseworld.imanisiteler.com' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=files/website/resimler/thefalseworld_net.jpg&width=113'width='113'   />
+      <h2>The False World</h2>
+      <div class='linkad'>http://falseworld.imanisiteler.com</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://honorablequran.imanisiteler.com/' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=files/website/resimler/honorablequran.jpg&width=113'width='113'   />
+      <h2>Honorable Quran</h2>
+      <div class='linkad'>http://honorablequran.imanisiteler.com/</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://www.loveofallah.com/' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=files/website/resimler/loveofAllah.jpg&width=113'width='113'   />
+      <h2>Love of Allah</h2>
+      <div class='linkad'>http://www.loveofallah.com/</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://www.awaitedmahdi.com/' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=files/website/resimler/awaited_mahdi.jpg&width=113'width='113'   />
+      <h2>Awaited Mahdi</h2>
+      <div class='linkad'>http://www.awaitedmahdi.com/</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://www.economicsinislam.net/' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=files/website/resimler/economics_in_islam.jpg&width=113'width='113'   />
+      <h2>Economics in Islam</h2>
+      <div class='linkad'>http://www.economicsinislam.net/</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://www.realityofdeath.com/' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=files/website/resimler/reality_of_death.jpg&width=113'width='113'   />
+      <h2>Reality of Death</h2>
+      <div class='linkad'>http://www.realityofdeath.com/</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://www.mahdiaccordingtofoursunnischools.com/' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=files/website/resimler/mahdi_four_sunni_schools.jpg&width=113'width='113'   />
+      <h2>Mahdi According to Four Sunni Schools</h2>
+      <div class='linkad'>www.mahdiaccordingtofoursunnischools.com/</div>
+      <div style='float:right'> Go to site </div>
+    </a></li><li>
+    <a href='http://www.whatisdestiny.com' target='_blank'><img   src='http://aws.fmanager.net/functions/thumb.php?image=files/website/resimler/whatisdestiny.jpg&width=113'width='113'   />
+      <h2>What is Destiny?</h2>
+      <div class='linkad'>www.whatisdestiny.com</div>
+      <div style='float:right'> Go to site </div>
+    </a></li>
+  </ul>
+</div>
+<a class="prevPage"><span style="font-size:20px;">&lArr;</span></a> <a class="nextPage"><span style="font-size:20px;">&rArr;</span></a>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+    /*
+	$("#scrollable3").scrollable(
+            {vertical:true, size: 3, hoverClass: 'hover', speed: 2000}).circular().navigator({navi:'.navi3'}).mousewheel().autoscroll({
+    steps: 3, 
+    interval: 10000 
+	});*/
+    $("#scrollable3").scrollable();
+});
+</script>
+
+</div> <div class='banner' id='banners_3303869878982' ><div class="bot-sutun">
+<h2 style="color:#FC0;">Related Articles
+</h2>
+<div style="height:226px; overflow:hidden; border-top:1px dotted #999; border-bottom:1px dotted #999; margin:7px 0; padding:7px 0;">
+<ul><li>
+    
+    <a href='/en/Articles/200334/Remembering-Allah-in-times-of-trials'>Remembering Allah in times of trials</a></li><li>
+    <a href='/en/Articles/200003/Language-of-peace-should-prevail-among-nations-'>Language of peace should prevail among nations </a></li><li>
+    <a href='/en/Articles/199984/Islam-has-no-place-for-selfish-desires'>Islam has no place for selfish desires</a></li><li>
+    <a href='/en/Articles/199555/Calling-others-to-divine-truth-a-must-for-believers'>Calling others to divine truth a must for believers</a></li><li>
+    <a href='/en/Articles/199158/Those-who-trust-Allah-never-lose-hope'>Those who trust Allah never lose hope</a></li><li>
+    <a href='/en/Articles/199091/A-Muslim-Woman-Knows-How-to-Dress-in--Accordance-with-the-Quran'>A Muslim Woman Knows How to Dress in  Accordance with the Qur'an</a></li><li>
+    <a href='/en/Articles/199090/Espousing-the-Head-Covering-but-Never---Mentioning-the-“Jilbab”'>Espousing the Head-Covering but Never   Mentioning the “Jilbab”</a></li><li>
+    <a href='/en/Articles/199089/Surat-al-Ahzab-Verse-59'>Surat al-Ahzab Verse 59</a></li><li>
+    <a href='/en/Articles/199087/The-Desire-to-Shut-Only-Women-and-Their-Bodies-Away'>The Desire to Shut Only Women and Their Bodies Away</a>    </li>
+</ul>
+</div>
+<a class="prevPage"><span style="font-size:20px;">&lArr;</span></a> <a class="nextPage"><span style="font-size:20px;">&rArr;</span></a>
+</div>
+</div> <div class='banner' id='banners_330387987893195' ><link href="/assets/css/scrollable5.css" rel="stylesheet" type="text/css" />
+
+<div class="bot-sutun">
+<h2 style="color:#FC0;">Recently Added</h2>
+<div id="scrollable5">
+  <ul>
+    <li>
+    <a href='/en/Adnan-Oktar-Says/200436/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>The owners of Turkey are very strong. The national idealist ...</h2>
+      <div class='linkad'> Adnan Oktar Says...</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Adnan-Oktar-Says/200435/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>The PKK is not a Kurdish political movement. It is a communi...</h2>
+      <div class='linkad'> Adnan Oktar Says...</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Adnan-Oktar-Says/200434/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>The government should put paleontological evidence on displa...</h2>
+      <div class='linkad'> Adnan Oktar Says...</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Adnan-Oktar-Says/200433/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>We would not allow Turkey to be divided. We will never let a...</h2>
+      <div class='linkad'> Adnan Oktar Says...</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Adnan-Oktar-Says/200431/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>Muslims are protected by God from all sorts of devious plots...</h2>
+      <div class='linkad'> Adnan Oktar Says...</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Adnan-Oktar-Says/200430/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>One who does not comply with the Qur'an cannot be reasonable...</h2>
+      <div class='linkad'> Adnan Oktar Says...</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Adnan-Oktar-Says/200429/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>Unbelievers and hypocrites struggle against Muslims. They wi...</h2>
+      <div class='linkad'> Adnan Oktar Says...</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Adnan-Oktar-Says/200428/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>A Muslim should see prayers as very important; prayer is the...</h2>
+      <div class='linkad'> Adnan Oktar Says...</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Adnan-Oktar-Says/200427/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>Reason has a close relation with the Qur'an. For one to be w...</h2>
+      <div class='linkad'> Adnan Oktar Says...</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Harun-Yahya-Impact
+/200415/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>Bigotry Stands in the Way of Peace</h2>
+      <div class='linkad'> Harun Yahya Impact
+</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Harun-Yahya-Impact
+/200412/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>The Bureaucratic-Authoritarian Model Should Be Forsaken in B...</h2>
+      <div class='linkad'> Harun Yahya Impact
+</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Harun-Yahya-Impact
+/200410/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>Yemen must not become a Trojan horse on the Arabian Peninsul...</h2>
+      <div class='linkad'> Harun Yahya Impact
+</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Harun-Yahya-Impact
+/200408/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>Syrian refugees in the fourth year of the crisis</h2>
+      <div class='linkad'> Harun Yahya Impact
+</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Harun-Yahya-Impact
+/200406/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>Sectarianism tearing Iraq apart</h2>
+      <div class='linkad'> Harun Yahya Impact
+</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Harun-Yahya-Impact
+/200404/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>Remembering Allah in times of trials</h2>
+      <div class='linkad'> Harun Yahya Impact
+</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Harun-Yahya-Impact
+/200402/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>The Rohingya Muslims Are Being Exiled in Their Own Lands</h2>
+      <div class='linkad'> Harun Yahya Impact
+</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Harun-Yahya-Impact
+/200400/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>Is PKK's Terror Really Ending in Turkey?</h2>
+      <div class='linkad'> Harun Yahya Impact
+</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Harun-Yahya-Impact
+/200398/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>World in the clutches of have-mores</h2>
+      <div class='linkad'> Harun Yahya Impact
+</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Harun-Yahya-Impact
+/200396/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>World in the clutches of have-mores</h2>
+      <div class='linkad'> Harun Yahya Impact
+</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li><li>
+    <a href='/en/Harun-Yahya-Impact
+/200394/' target='_blank'><img src='/assets/images/hy_muhur.png'/>
+      <h2>World in the clutches of have-mores</h2>
+      <div class='linkad'> Harun Yahya Impact
+</div>
+      <div style='float:right'> Continue…
+ </div>
+    </a></li>
+  </ul>
+</div>
+<a class="prevPage"><span style="font-size:20px;">&lArr;</span></a> <a class="nextPage"><span style="font-size:20px;">&rArr;</span></a>
+</div>
+
+<script type="text/javascript">
+$(document).ready(function() {
+	$("#scrollable5").scrollable({vertical:true, size: 3, hoverClass: 'hover', speed: 2000}).circular().navigator({navi:'.navi5'}).mousewheel().autoscroll({ 
+    steps: 3, 
+    interval: 10000 
+	});
+});
+</script>
+
+</div>         </div>
+
+        <!--ALT BANT SONU-->
+      </div>
+    </div>
+</div>
+
+<!--FOOTER-->  
+<div class="footer1"><div class="center">
+    <a href='/list/type/14/name/Harun Yahya's Influences/'>Harun Yahya's Influences</a> | <a href='/list/type/7/name/Presentations/'>Presentations</a> | <a href='/list/type/3/name/Audio Books/'>Audio Books</a> | <a href='/list/type/15/name/Interactive CDs/'>Interactive CDs</a> | <a href='/list/type/9/name/Conferences/'>Conferences</a>| <a href="http://harunyahya.com/bilgi/sitehakkinda">About this site</a> | <a href="javascript:setHomepage()">Make your homepage</a> | <a href="javascript:addfav()">Add to favorites</a> | <a href="http://harunyahya.com/bilgi/rss"> RSS Feed</a></div></div>
+
+<div class="footer2"><div class="center">
+    All materials can be copied, printed and distributed by referring to this site. </br>(c) All publication rights of the personal photos of Mr. Adnan Oktar that are present in our website and in all other Harun Yahya works belong to Global Publication Ltd. Co. They cannot be used or published without prior consent even if used partially.</br>© 1994 Harun Yahya. www.harunyahya.com - info@harunyahya.com</div></div>
+<!--FOOTER SONU-->
+
+<!-- <a href="#bg" id="toTop">Top of Page</a> -->
+<a href="#triangle-wrapper" id="toTop">page_top</a>
+<script type="text/javascript" src="/assets/js/bundle_587ec135c81cc3b472c9c36d1ac5c77b.js?1399999288"></script>
+<script type="text/javascript">
+$(document).ready(function(){
+  $("a#comments").fancybox({
+    'width'           : 500,
+    'height'          : 'auto',
+    'autoDimensions'  : false,
+    'transitionIn'    : 'elastic',
+    'transitionOut'   : 'elastic',
+    'overlayColor'    : '#000',
+    'overlayOpacity'  : '0.4',
+	'titleShow'			: false,
+    'type'        : 'ajax'
+  });
+	$(".lang").change(function(){
+		var url = $(this).val();
+		if(url != ''){
+			window.location = url;
+		}
+	});
+});
+</script>
+<script type="text/javascript">
+var object_name = "Ingilizce-Karanlik-Tehlike-Bagnazlik";
+var object_language = "Ingilizce";
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-29004252-5']);
+  _gaq.push(['_setDomainName', 'harunyahya.com']);
+  _gaq.push(['_setCustomVar',
+             1,                   // This custom var is set to slot #1.  Required parameter.
+             "Eser_Adi",           // The top-level name for your online content categories.  Required parameter.
+             object_name,  // Sets the value of "Section" to "Life & Style" for this particular aricle.  Required parameter.
+             1                    // Sets the scope to page-level.  Optional parameter.
+          ]);
+  _gaq.push(['_setCustomVar',
+             2,                   
+             "Eser_Turu",         
+             "Kitaplar", 
+             1 
+          ]);
+  _gaq.push(['_setCustomVar',
+             4,                   // This custom var is set to slot #1.  Required parameter.
+             "Eser_Dili",           // The top-level name for your online content categories.  Required parameter.
+             object_language,  
+             1                    // Sets the scope to page-level.  Optional parameter.
+          ]);
+  
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+  <!-- 3 -->
+  
+</script>
+
+<!-- Call for AddThis init() function -->
+<script>
+    function initAddThis()
+     {
+          addthis.init()
+     }
+     initAddThis();
+</script>
+
+
+<style>
+#templatemo_footer {
+   z-index: 100;
+   background-color: black;
+   text-align: center;
+   position:fixed;
+   bottom:0;
+   left:0;
+   width:100%;
+   height:35px;
+ }
+</style>	
+
+</body>
+</html>
+

@@ -1,0 +1,1806 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 24 Mar 2015 09:16:45 GMT
+Server: Apache/2.2.22 (Ubuntu)
+Location: http://www.france24.com/
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 245
+Content-Type: text/html; charset=iso-8859-1
+
+HTTP/1.1 301 Moved Permanently
+Server: AkamaiGHost
+Content-Length: 0
+Location: http://www.france24.com/en/
+Date: Tue, 24 Mar 2015 09:16:45 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Content-Length: 21212
+Cache-Control: public, max-age=87
+Expires: Tue, 24 Mar 2015 09:18:12 GMT
+Date: Tue, 24 Mar 2015 09:16:45 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+
+<!DOCTYPE html>
+<!--[if lt IE 7]><html dir="ltr" lang="en" class="no-js lt-ie9 lt-ie8 lt-ie7" xmlns:hx="http://purl.org/NET/hinclude"><![endif]-->
+<!--[if IE 7]><html dir="ltr" lang="en" class="no-js lt-ie9 lt-ie8" xmlns:hx="http://purl.org/NET/hinclude"><![endif]-->
+<!--[if IE 8]><html dir="ltr" lang="en" class="no-js lt-ie9" xmlns:hx="http://purl.org/NET/hinclude"><![endif]-->
+<!--[if gt IE 8]><!--><html dir="ltr" lang="en" class="no-js" xmlns:hx="http://purl.org/NET/hinclude"><!--<![endif]-->
+
+    <head>
+        <meta charset="UTF-8">
+
+        <title>International&#x20;breaking&#x20;news&#x20;and&#x20;headlines&#x20;-&#x20;France&#x20;24</title>
+
+                <meta http-equiv="X-UA-Compatible" content="IE=edge">        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+
+        
+            <meta name="title" content="International&#x20;breaking&#x20;news&#x20;and&#x20;headlines&#x20;-&#x20;France&#x20;24"><meta name="description" content="Breaking&#x20;news&#x20;and&#x20;world&#x20;news&#x20;from&#x20;France&#x20;24&#x20;on&#x20;Business,&#x20;Sports,&#x20;Culture.&#x20;Video&#x20;news.&#x20;News&#x20;from&#x20;the&#x20;US,&#x20;Europe,&#x20;Asia&#x20;Pacific,&#x20;Africa,&#x20;Middle&#x20;East,&#x20;America"><meta name="news_keywords" content="breaking,&#x20;news,&#x20;international,&#x20;headlines,&#x20;stories,&#x20;reports,&#x20;live,&#x20;vod,&#x20;videos"><link rel="search" type="application/opensearchdescription+xml" href="/opensearch_en.xml?version=20150312102310" title="France 24"><meta name="include_mode" content="async"><meta name="apple-mobile-web-app-capable" content="yes"><meta name="apple-mobile-web-app-status-bar-style" content="black-translucent"><meta name="apple-mobile-web-app-title" content="France 24"><meta name="application-name" content="France 24"><link rel="shortcut icon" href="/favicon.ico?version=20150312102310" type="image/x-icon"><link rel="apple-touch-icon" href="/apple-touch-icon-57x57.png?version=20150312102310" sizes="57x57"><link rel="apple-touch-icon" href="/apple-touch-icon-60x60.png?version=20150312102310" sizes="60x60"><link rel="apple-touch-icon" href="/apple-touch-icon-72x72.png?version=20150312102310" sizes="72x72"><link rel="apple-touch-icon" href="/apple-touch-icon-76x76.png?version=20150312102310" sizes="76x76"><link rel="apple-touch-icon" href="/apple-touch-icon-114x114.png?version=20150312102310" sizes="114x114"><link rel="apple-touch-icon" href="/apple-touch-icon-120x120.png?version=20150312102310" sizes="120x120"><link rel="apple-touch-icon" href="/apple-touch-icon-144x144.png?version=20150312102310" sizes="144x144"><link rel="apple-touch-icon" href="/apple-touch-icon-152x152.png?version=20150312102310" sizes="152x152"><link rel="apple-touch-icon" href="/apple-touch-icon-180x180.png?version=20150312102310" sizes="180x180"><link rel="icon" type="image/png" href="/favicon-16x16.png?version=20150312102310" sizes="16x16"><link rel="icon" type="image/png" href="/favicon-32x32.png?version=20150312102310" sizes="32x32"><link rel="icon" type="image/png" href="/favicon-48x48.png?version=20150312102310" sizes="48x48"><link rel="icon" type="image/png" href="/favicon-64x64.png?version=20150312102310" sizes="64x64"><link rel="icon" type="image/png" href="/favicon-96x96.png?version=20150312102310" sizes="96x96"><link rel="icon" type="image/png" href="/favicon-160x160.png?version=20150312102310" sizes="160x160"><link rel="icon" type="image/png" href="/favicon-192x192.png?version=20150312102310" sizes="192x192"><meta name="msapplication-TileColor" content="#454349"><meta name="msapplication-TileImage" content="/mstile-144x144.png?version=20150312102310"><link rel="icon" type="image/x-icon" href="/favicon.ico?version=20150312102310"><meta property="vf:lang" content="en"><meta property="vf:section" content="en"><meta property="og:site_name" content="France 24"><meta property="og:url" content="http://www.france24.com/en/"><meta property="og:type" content="website"><meta property="og:image" content="http://www.france24.com/bundles/aefhermesf24/img/vf-missing-image.png?version=20150312102310"><meta property="og:title" content="International&#x20;breaking&#x20;news&#x20;and&#x20;headlines&#x20;-&#x20;France&#x20;24"><meta property="og:description" content="Breaking&#x20;news&#x20;and&#x20;world&#x20;news&#x20;from&#x20;France&#x20;24&#x20;on&#x20;Business,&#x20;Sports,&#x20;Culture.&#x20;Video&#x20;news.&#x20;News&#x20;from&#x20;the&#x20;US,&#x20;Europe,&#x20;Asia&#x20;Pacific,&#x20;Africa,&#x20;Middle&#x20;East,&#x20;America"><meta property="fb:app_id" content="121241974571942"><meta name="twitter:card" content="summary_large_image"><meta name="twitter:url" content="http://www.france24.com/en/"><meta name="twitter:creator" content="@FRANCE24"><meta name="twitter:site" content="@FRANCE24"><meta name="twitter:image" content="http://static.france24.com/infographies/meta_og_twcards/F24_TW.png"><meta name="twitter:title" content="International&#x20;breaking&#x20;news&#x20;and&#x20;headlines&#x20;-&#x20;France&#x20;24"><meta name="twitter:description" content="Breaking&#x20;news&#x20;and&#x20;world&#x20;news&#x20;from&#x20;France&#x20;24&#x20;on&#x20;Business,&#x20;Sports,&#x20;Culture.&#x20;Video&#x20;news.&#x20;News&#x20;from&#x20;the&#x20;US,&#x20;Europe,&#x20;Asia&#x20;Pacific,&#x20;Africa,&#x20;Middle&#x20;East,&#x20;America"><meta name="twitter:domain" content="FRANCE24.com"><meta name="twitter:account_id" content="1994321"><meta name="twitter:app:id:iphone" content="364379394"><meta name="twitter:app:id:ipad" content="364379394"><meta name="twitter:app:id:googleplay" content="com.france24.androidapp"><meta name="apple-itunes-app" content="app-id=364379394"><meta name="msApplication-ID" content="57d03d56-dd7c-449e-8fa1-a87c090f54df"><meta name="msApplication-PackageFamilyName" content="FRANCE24.FRANCE24-MCD-RFI_3zfmvk45gp28r"><meta name="twitter:app:name:iphone" content="FRANCE 24"><meta name="twitter:app:name:ipad" content="FRANCE 24"><meta name="twitter:app:name:googleplay" content="FRANCE 24 for Android"><meta property="og:locale" content="en_US"><link rel="alternate" href="http://www.france24.com/fr/" hreflang="fr" /><link rel="alternate" href="http://www.france24.com/ar/" hreflang="ar" /><link href="https://plus.google.com/116536894056162235467/" rel="publisher">
+    <link rel="alternate" type="application/rss+xml" title="Breaking News, Top Stories & Headlines - International News 24/7" href="/en/top-stories/rss/" />
+
+
+                    <link rel="canonical" href="http://www.france24.com/en/" />
+        
+                    <link rel="alternate" media="only screen and (max-width: 640px)" href="http://m.france24.com/en/" >
+        
+                                                    <link rel="stylesheet" type="text/css" href="/css/compiled/main.css?version=20150312102310">
+            
+                            <link rel="stylesheet" type="text/css" href="/css/compiled/print.css?version=20150312102310" media="print">
+                    
+        
+                <script type="text/javascript" src="/bundles/aefhermesf24/js/hacks.js?version=20150312102310"></script>
+        <script type="text/javascript" src="/bundles/aefhermesf24/js/vendor/hinclude.js?version=20150312102310"></script>
+        <!-- [if lt IE 9] -->
+        <script type="text/javascript" src="/bundles/aefhermesf24/js/vendor/modernizr.js?version=20150312102310"></script>
+        <script type="text/javascript" src="/bundles/aefhermesf24/js/vendor/respond.min.js?version=20150312102310"></script>
+        <!-- [endif] -->
+
+                <script type="text/javascript">
+            var domainConfig = {
+    baseDomain: "france24.com",
+    defaultSubdomain: "www",
+    mobileSubdomain: "m",
+    tabletSubdomain: "t",
+    currentSubdomain: "www",
+    currentLocale: {
+        short: "en",
+        long: "en_GB"
+    }
+};
+var isAefHermes = true;
+
+        </script>
+
+                            <script type="application/ld+json">
+            {
+               "@context": "http://schema.org",
+               "@type": "WebSite",
+               "url": "http://www.france24.com/en/",
+               "potentialAction": {
+                 "@type": "SearchAction",
+                 "target": "http://www.france24.com/en/search/?Search%5Bterm%5D={search_term_string}&Search%5Bpage%5D=1",
+                 "query-input": "required name=search_term_string" 
+               }
+            }
+            </script>
+        
+                    <script type="text/javascript" src="/js/compiled/mobile-redirect.js?version=20150312102310"></script>
+        
+                            <script type="text/javascript" data-main="/js/main.built.js?version=20150312102310" src="/js/require.js?version=20150312102310" async></script>
+        
+                                                                                                    <script class='tc-config-vars' type="text/javascript"><!--
+var tc_vars = {};
+tc_vars["site"] = "f24\x2Dmcd\x2Drfi";
+tc_vars["aef_marque"] = "france24";
+tc_vars["aef_acces"] = "gratuit";
+tc_vars["aef_plateforme"] = "";
+tc_vars["aef_type_environnement"] = "site";
+tc_vars["aef_nom_environnement"] = "france24_site";
+tc_vars["aef_perimetre_diffusion"] = "interne";
+tc_vars["page"] = "tc_name_aef_hermes_f24_homepage";
+tc_vars["url provenance"] = "http\x3A\x2F\x2Fwww.google.co.uk\x2Furl\x3Fsa\x3Dt\x26rct\x3Dj\x26q\x3D\x26esrc\x3Ds\x26frm\x3D1\x26source\x3Dweb\x26cd\x3D1\x26ved\x3D0CCEQFjAA\x26url\x3Dhttp\x253A\x252F\x252Fwww.france24.com\x252F\x26ei\x3DIyoRVeruKKia7AaIx4HoCw\x26usg\x3DAFQjCNEYh2oivM7QvkbWS_0XVZcC1CJrbg\x26bvm\x3Dbv.89184060,d.ZGU";
+tc_vars["env_context"] = "main";
+tc_vars["reqtag"] = "";
+tc_vars["locale"] = "en";
+tc_vars["aef_pos_contenu"] = "";
+tc_vars["aef_os"] = "";
+tc_vars["aef_device_marque"] = "";
+tc_vars["aef_device_modele"] = "";
+tc_vars["aef_type_connexion"] = "";
+tc_vars["aef_domaine_externe"] = "";
+tc_vars["aef_url_provenance"] = "";
+tc_vars["aef_page_provenance"] = "";
+tc_vars["aef_user_id"] = "";
+tc_vars["aef_synchro"] = "";
+tc_vars["aef_auteur"] = "";
+tc_vars["aef_dpubli"] = "2015\x2D03\x2D24";
+tc_vars["aef_hpubli"] = "10\x3A11";
+tc_vars["repertoire"] = "a_la_une";
+tc_vars["nom-page"] = "actualites";
+tc_vars["aef_libelle_contenu_page"] = "homepage";
+tc_vars["aef_id_contenu"] = "5cd46f69\x2D129f\x2D4b85\x2Daee7\x2Def302a58e2b2";
+tc_vars["aef_rep1"] = "a_la_une";
+tc_vars["aef_rep2"] = "defaut";
+tc_vars["aef_rep3"] = "defaut";
+tc_vars["aef_rep_global"] = "homepage";
+tc_vars["aef_thema"] = "";
+tc_vars["aef_type_page1"] = "section";
+tc_vars["aef_langue"] = "anglais";
+tc_vars["markup_ftp"] = "accueil";
+tc_vars["sous-repertoire"] = "";
+tc_vars["sous-sous-repertoire"] = "";
+tc_vars["aef_user_connection"] = "visiteur";
+tc_vars["env_work"] = 'prod';
+tc_vars["aef_version_environnement"] = 'v1.25.5';
+
+
+
+
+
+tc_vars["url provenance"] = window.__originalReferrer || document.referrer;
+
+tc_vars["aef_comments_engaged"] = '';
+tc_vars["aef_comments"] = [];
+tc_vars["aef_comments"][0] = [];
+tc_vars["aef_comments"][0]["aef_commented_articles"] = '';
+tc_vars["aef_comments"][0]["aef_related_category"] = '';
+tc_vars["aef_comments"][0]["aef_related_thema"] = '';
+//--></script>
+                                <script type="text/javascript" src="//static.france24.com/tc/tc_France24_23.js"></script>
+
+            </head>
+
+    <body class="fluid-transition">
+        <div class="side-bar">
+                            <header class="identity">
+                    <h1>
+                        <a href="/en/">
+                            France 24 - International news 24/7                        </a>
+                    </h1>
+                    <p>International News 24/7</p>
+                </header>
+                        <nav class="main-nav">
+                                    
+                        <ul>
+                                                                                                                                        
+                                                                    
+                                                
+
+                <li class="nav-filters active">
+                                                                                                                                                                                                                            <a href="/en/" class="modeless" title="International&#x20;breaking&#x20;news&#x20;and&#x20;headlines" >
+                            Top stories
+                        </a>
+                                                                            <dl class="mn-filters">
+                                <dt>Filter the page :</dt>
+                                <dd><a class="modeless filter" title="International&#x20;breaking&#x20;news&#x20;and&#x20;headlines" href="http://www.france24.com/en/wires/">News Wires</a></dd>
+                                <dd><a class="modeless filter" title="The&#x20;last&#x20;24&#x20;hours" href="http://www.france24.com/en/home/24h">24h</a></dd>
+                                <dd><a class="modeless filter" title="videos" href="http://www.france24.com/en/video">Videos</a></dd>
+                                                                                                                            </dl>
+                                                            </li>
+                                                                                                                                
+                                
+                                                
+
+                <li class="">
+                                                                                                                                                                                                                            <a href="/en/tv-shows/" class="modeless" title="TV&#x20;shows,&#x20;VOD,&#x20;exclusive&#x20;interviews&#x20;and&#x20;reports" >
+                            Shows
+                        </a>
+                                                                                    </li>
+                                                                                                                                
+                                
+                                                
+
+                <li class="">
+                                                                                                                                                                                                                            <a href="/en/france/" class="modeless" title="Latest&#x20;news&#x20;reports&#x20;on&#x20;FRANCE,&#x20;French&#x20;politics&#x20;and&#x20;culture" >
+                            France
+                        </a>
+                                                                                    </li>
+                                                                                                                                
+                                
+                                                
+
+                <li class="">
+                                                                                                                                                                                                                            <a href="/en/africa/" class="modeless" title="Breaking&#x20;news&#x20;from&#x20;AFRICA,&#x20;Maghreb&#x20;and&#x20;Sub-Saharan&#x20;Africa" >
+                            Africa
+                        </a>
+                                                                                    </li>
+                                                                                                                                
+                                
+                                                
+
+                <li class="">
+                                                                                                                                                                                                                            <a href="/en/middle-east/" class="modeless" title="Latest&#x20;news&#x20;from&#x20;the&#x20;Middle&#x20;East,&#x20;daily&#x20;international&#x20;news&#x20;reports" >
+                            Middle east
+                        </a>
+                                                                                    </li>
+                                                                                                                                
+                                
+                                                
+
+                <li class="">
+                                                                                                                                                                                                                            <a href="/en/europe/" class="modeless" title="News&#x20;from&#x20;Europe&#x20;-&#x20;Latest&#x20;world&#x20;headlines&#x20;and&#x20;daily&#x20;news&#x20;-&#x20;France&#x20;24" >
+                            Europe
+                        </a>
+                                                                                    </li>
+                                                                                                                                
+                                
+                                                
+
+                <li class="">
+                                                                                                                                                                                                                            <a href="/en/americas/" class="modeless" title="International&#x20;news&#x20;from&#x20;the&#x20;Americas&#x20;-&#x20;France&#x20;24" >
+                            Americas
+                        </a>
+                                                                                    </li>
+                                                                                                                                
+                                
+                                                
+
+                <li class="">
+                                                                                                                                                                                                                            <a href="/en/asia-pacific/" class="modeless" title="News&#x20;from&#x20;Asia&#x20;Pacific&#x20;-&#x20;Latest&#x20;headlines&#x20;and&#x20;news&#x20;reports&#x20;-&#x20;France&#x20;24" >
+                            Asia / pacific
+                        </a>
+                                                                                    </li>
+                                                                                                                                
+                                
+                                                
+
+                <li class="">
+                                                                                                                                                                                                                            <a href="/en/sport/" class="modeless" title="SPORTS&#x20;news,&#x20;stories&#x20;and&#x20;scores&#x20;-&#x20;Football,&#x20;tennis,&#x20;F1&#x2026;" >
+                            Sports
+                        </a>
+                                                                                    </li>
+                                                                                                                                
+                                
+                                                
+
+                <li class="">
+                                                                                                                                                                                                                            <a href="/en/business-tech/" class="modeless" title="Business&#x20;news,&#x20;technology,&#x20;media&#x20;and&#x20;finance&#x20;reports" >
+                            Business / tech
+                        </a>
+                                                                                    </li>
+                                                                                                                                
+                                
+                                                
+
+                <li class="">
+                                                                                                                                                                                                                            <a href="/en/culture/" class="modeless" title="News&#x20;and&#x20;stories&#x20;on&#x20;CULTURE,&#x20;movies,&#x20;music,&#x20;literature" >
+                            Culture
+                        </a>
+                                                                                    </li>
+                                                                                                                                                                    
+                                
+                                                
+
+                <li class="">
+                                                                                                                                                                                                                            <a href="/en/on-the-ground/" class="modeless light" title="Watch&#x20;the&#x20;latest&#x20;&quot;Documentaries&quot;&#x20;reports" >
+                            Documentaries
+                        </a>
+                                                                                    </li>
+                                                                                                                                                                    
+                                
+                                                
+
+                <li class="">
+                                                                                                                                                                                                                            <a href="/en/special-reports" class="modeless light" title="All&#x20;the&#x20;articles&#x20;and&#x20;videos&#x20;about&#x20;main&#x20;international&#x20;issues" >
+                            In depth
+                        </a>
+                                                                                    </li>
+                                                                                                                                                                    
+                                
+                                                
+
+                <li class="">
+                                                                                                                                            <a href="http://observers.france24.com/" class="item-lo" title="The&#x20;Observers"  target="_blank">
+                            The observers
+                        </a>
+                                                                                    </li>
+                        </ul>
+
+
+                            </nav>
+        </div>
+        <div class="page mini-player-context">
+            <div id="loading">
+
+                <div id="squaresWaveG">
+                    <div id="squaresWaveG_1" class="squaresWaveG">
+                    </div>
+                    <div id="squaresWaveG_2" class="squaresWaveG">
+                    </div>
+                    <div id="squaresWaveG_3" class="squaresWaveG">
+                    </div>
+                    <div id="squaresWaveG_4" class="squaresWaveG">
+                    </div>
+                    <div id="squaresWaveG_5" class="squaresWaveG">
+                    </div>
+                    <div id="squaresWaveG_6" class="squaresWaveG">
+                    </div>
+                    <div id="squaresWaveG_7" class="squaresWaveG">
+                    </div>
+                    <div id="squaresWaveG_8" class="squaresWaveG">
+                    </div>
+                </div>
+
+            </div>
+                                <div class="on-air-board-outer">
+
+    <div class="on-air-board">
+
+        <div class="first-row">
+
+                                                                
+            <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['player-live'] = {"medias":{"media":{"type":"video","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"application\/vnd.apple.mpegurl","type":"video","html5_codec":"avc1.42E01E, mp3","bitrate":0},"is_default":0,"source":"http:\/\/static.france24.com\/live\/F24_EN_LO_HLS\/live_web.m3u8","streaming_config":{"is_hls":"1"},"adaptative_config":{"source":[{"bitrate":"248","label":"MP4 LD","short_label":"LD","short_description":"280p"},{"bitrate":"448","label":"MP4 SD","short_label":"SD","short_description":"420p"},{"bitrate":"748","label":"MP4 MD","short_label":"MD","short_description":"720p"}]}}]},"is_active_deported":0,"is_bloggable":1,"exported_code":{"code_iframe":"<iframe src=\"https:\/\/embed.france24.com\/en\/live\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>","code_embed":"<iframe src=\"https:\/\/embed.france24.com\/en\/live\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>"},"is_live":1,"rolls":{"urlpre":"\/\/ad2play.ftv-publicite.fr\/preroll.vast?v=2&sitepage=www.france24.en\/direct"},"title":"","is_active":1,"labels":{"now":"EN CE MOMENT"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"direct_france24","ns_st_ep":"direct_france24","ns_st_pr":"live","ns_st_ty":"video","ns_st_st":"france24_arabe","ns_st_pl":"france24_arabe","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":0,"ns_st_dt":"2015-03-24","aef_streamtype_2":"live","aef_rep_global":"live","aef_type_page1":"player","aef_type_contenu1":"video","aef_section1":"live","aef_auteur":"france24","aef_dpubli":"2015-03-24","aef_hpubli":"10:11","ns_st_li":1,"aef_marque":"france24","name":"a_la_une.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"france24_site","aef_version_environnement":"v1.25.5","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.france24.com\/en\/","aef_page_provenance":"\/en\/","aef_langue":"anglais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+
+            
+           <div id="dynamic-player-element" class="async-load" data-content="http://www.france24.com/en/_fragment/player/tofollow/">
+               <a href="#" class="player-live" data-stream="player-live" data-streamtitle="Watch and comment France 24 live"></a>
+<a href="#" class="player-toggler" ><span></span></a>
+
+<div>
+</div>
+
+    <div class="block">
+        <h3>Don't miss</h3>
+        <div class="oab-rendez"></div>
+    </div>
+
+
+
+<div class="block">
+    <h3>Replay</h3>
+    <ul class="oab-replay">
+            </ul>
+
+</div>
+
+           </div>
+
+            <br style="clear: both; line-height: 0;">
+
+        </div>
+
+        <div class="second-row">
+
+            <div class="oab-first-col">
+
+                <div class="video-player">
+                                                                                                                                            <div id="main-player"></div>
+
+                    <p class="copy">
+                        <hx:include src="http://www.france24.com/en/_fragment/player/nowplaying/"></hx:include>
+                    </p>
+                </div>
+
+                <div class="video-board">
+
+                    <div class="v-header"><h2>LATEST SHOWS</h2></div>
+
+                                                                                                                                                                                                                     <div class="v-item-2" data-bo-type="edition" data-bo-nid="AE83FC3B-0367-4AFB-9362-BA64DED2FDE9">
+                                                                                                
+                                <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['edition-AE83FC3B-0367-4AFB-9362-BA64DED2FDE9'] = {"medias":{"media":{"type":"video","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"video\/mp4","type":"video"},"is_default":1,"source":"http:\/\/medias.france24.com\/en\/ptw\/2015\/03\/23\/WB_EN_WB_F24_WEBDESK_REPORTERS_RAQQA_REBEL_V3_NW262919-A-01-20150323.mp4"}]},"is_active_deported":0,"is_bloggable":1,"exported_code":{"code_iframe":"<iframe src=\"https:\/\/embed.france24.com\/en\/video\/AE83FC3B-0367-4AFB-9362-BA64DED2FDE9\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>","code_embed":"<iframe src=\"https:\/\/embed.france24.com\/en\/video\/AE83FC3B-0367-4AFB-9362-BA64DED2FDE9\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>"},"permalink":"\/en\/20150321-reporters-video-is-group-film-raqqa\/","rolls":{"urlpre":"\/\/ad2play.ftv-publicite.fr\/preroll.vast?v=2&sitepage=www.france24.en\/emissions"},"title":"","is_active":1,"labels":{"now":"EN CE MOMENT"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"AE83FC3B-0367-4AFB-9362-BA64DED2FDE9","ns_st_ep":"The Syrian woman who dared film life under the IS group ","ns_st_pr":"reporters","ns_st_ty":"video","ns_st_st":"france24_arabe","ns_st_pl":"france24_arabe","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":"","ns_st_tp":1,"ns_st_pn":1,"ns_st_dt":"2015-03-19","aef_streamtype_2":"od","aef_rep_global":"en","aef_thema":"syria,islamic state (is) group,claire billet,lyana saleh,reporters","aef_type_page1":"a_la_une.defaut.defaut","aef_type_contenu1":"video","aef_section1":"en","aef_section2":"20091009-reporters","aef_auteur":"Claire BILLET","aef_dpubli":"2015-03-19","aef_hpubli":"19:45","ns_st_li":0,"aef_marque":"france24","name":"a_la_une.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"france24_site","aef_version_environnement":"v1.25.5","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.france24.com\/en\/","aef_page_provenance":"\/en\/","aef_langue":"anglais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+                                    <div class="media video">
+                                        <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/edition/REPORTERS-RAQQA-PLT-03.jpg" alt="" />
+                                    </div>
+                                    <div class="copy">
+                                        <p class="place">REPORTERS </p>
+                                        <h2 class="title">The Syrian woman who dared film life under the IS group </h2>
+                                    </div>
+                                    <p class="default-read-more" data-streamtitle="REPORTERS" data-stream="edition-AE83FC3B-0367-4AFB-9362-BA64DED2FDE9"><a rel="nofollow" href="/en/20150321-reporters-video-is-group-film-raqqa/">Read more</a></p>
+                                </div>
+                                                                                                                                                                                                                                     <div class="v-item-2" data-bo-type="edition" data-bo-nid="ADB5CD59-3608-459F-8317-12EF75E89D87">
+                                                                                                
+                                <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['edition-ADB5CD59-3608-459F-8317-12EF75E89D87'] = {"medias":{"media":{"type":"video","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"video\/mp4","type":"video"},"is_default":1,"source":"http:\/\/medias.france24.com\/en\/vod\/2015\/03\/21\/DN099216-A-01-20150319.mp4"}]},"is_active_deported":0,"is_bloggable":1,"exported_code":{"code_iframe":"<iframe src=\"https:\/\/embed.france24.com\/en\/video\/ADB5CD59-3608-459F-8317-12EF75E89D87\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>","code_embed":"<iframe src=\"https:\/\/embed.france24.com\/en\/video\/ADB5CD59-3608-459F-8317-12EF75E89D87\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>"},"permalink":"\/en\/20150321-eye-africa-remi-sonaiya-candidate-election-nigeria\/","rolls":{"urlpre":"\/\/ad2play.ftv-publicite.fr\/preroll.vast?v=2&sitepage=www.france24.en\/emissions"},"title":"","is_active":1,"labels":{"now":"EN CE MOMENT"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"ADB5CD59-3608-459F-8317-12EF75E89D87","ns_st_ep":"President Essebsi calls for unity in the face of terrorism","ns_st_pr":"eye on africa ","ns_st_ty":"video","ns_st_st":"france24_arabe","ns_st_pl":"france24_arabe","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":"","ns_st_tp":1,"ns_st_pn":1,"ns_st_dt":"2015-03-21","aef_streamtype_2":"od","aef_rep_global":"en","aef_thema":"nigeria,north kivu,nigerian presidential elections,mary colombel,rochelle ferguson-bouyahi,emission courte,eye on africa","aef_type_page1":"a_la_une.defaut.defaut","aef_type_contenu1":"video","aef_section1":"en","aef_section2":"20130613-africa-news","aef_auteur":"Mary COLOMBEL","aef_dpubli":"2015-03-21","aef_hpubli":"05:17","ns_st_li":0,"aef_marque":"france24","name":"a_la_une.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"france24_site","aef_version_environnement":"v1.25.5","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.france24.com\/en\/","aef_page_provenance":"\/en\/","aef_langue":"anglais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+                                    <div class="media video">
+                                        <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/edition/XX%20NW%20HDL%20TUNISIA.jpg" alt="" />
+                                    </div>
+                                    <div class="copy">
+                                        <p class="place">EYE ON AFRICA  </p>
+                                        <h2 class="title">President Essebsi calls for unity in the face of terrorism</h2>
+                                    </div>
+                                    <p class="default-read-more" data-streamtitle="EYE ON AFRICA " data-stream="edition-ADB5CD59-3608-459F-8317-12EF75E89D87"><a rel="nofollow" href="/en/20150321-eye-africa-remi-sonaiya-candidate-election-nigeria/">Read more</a></p>
+                                </div>
+                                                                                                                                                                                                                                     <div class="v-item-2" data-bo-type="edition" data-bo-nid="7B68835E-36BC-460E-990E-8A956F96525F">
+                                                                                                
+                                <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['edition-7B68835E-36BC-460E-990E-8A956F96525F'] = {"medias":{"media":{"type":"video","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"video\/mp4","type":"video"},"is_default":1,"source":"http:\/\/medias.france24.com\/en\/vod\/2015\/03\/23\/ANGL150323-2146-Live.mp4"}]},"is_active_deported":0,"is_bloggable":1,"exported_code":{"code_iframe":"<iframe src=\"https:\/\/embed.france24.com\/en\/video\/7B68835E-36BC-460E-990E-8A956F96525F\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>","code_embed":"<iframe src=\"https:\/\/embed.france24.com\/en\/video\/7B68835E-36BC-460E-990E-8A956F96525F\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>"},"permalink":"\/en\/20150323-2015-03-23-2146-eye-africa-ebola-karim-wade\/","rolls":{"urlpre":"\/\/ad2play.ftv-publicite.fr\/preroll.vast?v=2&sitepage=www.france24.en\/emissions"},"title":"","is_active":1,"labels":{"now":"EN CE MOMENT"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"7B68835E-36BC-460E-990E-8A956F96525F","ns_st_ep":"Ebola one year anniversray, Karim Wade sentenced to 6 years behind bars","ns_st_pr":"eye on africa ","ns_st_ty":"video","ns_st_st":"france24_arabe","ns_st_pl":"france24_arabe","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":"","ns_st_tp":1,"ns_st_pn":1,"ns_st_dt":"2015-03-23","aef_streamtype_2":"od","aef_rep_global":"en","aef_thema":"ebola,senegal,paris book fair,shona bhattacharyya,mary colombel,emission courte,eye on africa","aef_type_page1":"a_la_une.defaut.defaut","aef_type_contenu1":"video","aef_section1":"en","aef_section2":"20130613-africa-news","aef_auteur":"Shona BHATTACHARYYA","aef_dpubli":"2015-03-23","aef_hpubli":"22:10","ns_st_li":0,"aef_marque":"france24","name":"a_la_une.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"france24_site","aef_version_environnement":"v1.25.5","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.france24.com\/en\/","aef_page_provenance":"\/en\/","aef_langue":"anglais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+                                    <div class="media video">
+                                        <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/edition/XX%20NW%20HDL%20EBOLA%20_0.jpg" alt="" />
+                                    </div>
+                                    <div class="copy">
+                                        <p class="place">EYE ON AFRICA  </p>
+                                        <h2 class="title">Ebola one year anniversray, Karim Wade sentenced to 6 years behind bars</h2>
+                                    </div>
+                                    <p class="default-read-more" data-streamtitle="EYE ON AFRICA " data-stream="edition-7B68835E-36BC-460E-990E-8A956F96525F"><a rel="nofollow" href="/en/20150323-2015-03-23-2146-eye-africa-ebola-karim-wade/">Read more</a></p>
+                                </div>
+                                                                                                                                                                                                                                     <div class="v-item-2" data-bo-type="edition" data-bo-nid="7EB1055B-39A7-4F53-B579-26FF8B9C8AA0">
+                                                                                                
+                                <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['edition-7EB1055B-39A7-4F53-B579-26FF8B9C8AA0'] = {"medias":{"media":{"type":"video","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"video\/mp4","type":"video"},"is_default":1,"source":"http:\/\/medias.france24.com\/en\/vod\/2015\/03\/23\/ANGL150323-2046-Live_CS.mp4"}]},"is_active_deported":0,"is_bloggable":1,"exported_code":{"code_iframe":"<iframe src=\"https:\/\/embed.france24.com\/en\/video\/7EB1055B-39A7-4F53-B579-26FF8B9C8AA0\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>","code_embed":"<iframe src=\"https:\/\/embed.france24.com\/en\/video\/7EB1055B-39A7-4F53-B579-26FF8B9C8AA0\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>"},"permalink":"\/en\/mediawatch\/20150323-french-local-elections-sarkozy-tattoo-valls-cigar\/","rolls":{"urlpre":"\/\/ad2play.ftv-publicite.fr\/preroll.vast?v=2&sitepage=www.france24.en\/emissions"},"title":"","is_active":1,"labels":{"now":"EN CE MOMENT"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"7EB1055B-39A7-4F53-B579-26FF8B9C8AA0","ns_st_ep":"French local elections: cigars, Chirac t-shirts and Sarkozy tattoos","ns_st_pr":"mediawatch","ns_st_ty":"video","ns_st_st":"france24_arabe","ns_st_pl":"france24_arabe","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":"","ns_st_tp":1,"ns_st_pn":1,"ns_st_dt":"2015-03-23","aef_streamtype_2":"od","aef_rep_global":"en","aef_thema":"local elections,france,james creedon,emission courte,mediawatch","aef_type_page1":"a_la_une.defaut.defaut","aef_type_contenu1":"video","aef_section1":"en","aef_section2":"20110615-mediawatch","aef_auteur":"James CREEDON","aef_dpubli":"2015-03-23","aef_hpubli":"21:11","ns_st_li":0,"aef_marque":"france24","name":"a_la_une.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"france24_site","aef_version_environnement":"v1.25.5","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.france24.com\/en\/","aef_page_provenance":"\/en\/","aef_langue":"anglais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+                                    <div class="media video">
+                                        <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/edition/thinksss.jpg" alt="" />
+                                    </div>
+                                    <div class="copy">
+                                        <p class="place">MEDIAWATCH </p>
+                                        <h2 class="title">French local elections: cigars, Chirac t-shirts and Sarkozy tattoos</h2>
+                                    </div>
+                                    <p class="default-read-more" data-streamtitle="MEDIAWATCH" data-stream="edition-7EB1055B-39A7-4F53-B579-26FF8B9C8AA0"><a rel="nofollow" href="/en/mediawatch/20150323-french-local-elections-sarkozy-tattoo-valls-cigar/">Read more</a></p>
+                                </div>
+                                                                                                                                                                                                                                     <div class="v-item-2" data-bo-type="edition" data-bo-nid="AD590B56-35A7-45D1-AF7F-8AB0DE0B1A7C">
+                                                                                                
+                                <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['edition-AD590B56-35A7-45D1-AF7F-8AB0DE0B1A7C'] = {"medias":{"media":{"type":"video","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"video\/mp4","type":"video"},"is_default":1,"source":"http:\/\/medias.france24.com\/en\/vod\/2015\/03\/23\/ANGL150323-1932-Live_CS.mp4"}]},"is_active_deported":0,"is_bloggable":1,"exported_code":{"code_iframe":"<iframe src=\"https:\/\/embed.france24.com\/en\/video\/AD590B56-35A7-45D1-AF7F-8AB0DE0B1A7C\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>","code_embed":"<iframe src=\"https:\/\/embed.france24.com\/en\/video\/AD590B56-35A7-45D1-AF7F-8AB0DE0B1A7C\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>"},"permalink":"\/en\/20150323-the-debate-french-elections-parttwo\/","rolls":{"urlpre":"\/\/ad2play.ftv-publicite.fr\/preroll.vast?v=2&sitepage=www.france24.en\/emissions"},"title":"","is_active":1,"labels":{"now":"EN CE MOMENT"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"AD590B56-35A7-45D1-AF7F-8AB0DE0B1A7C","ns_st_ep":"How to handle Le Pen: Mainstream parties at odds over French election results (part 2)","ns_st_pr":"debate","ns_st_ty":"video","ns_st_st":"france24_arabe","ns_st_pl":"france24_arabe","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":"","ns_st_tp":1,"ns_st_pn":1,"ns_st_dt":"2015-03-23","aef_streamtype_2":"od","aef_rep_global":"en","aef_thema":"french elections,manuel valls,marine le pen,national front party (france),nicolas sarkozy,fran\u00e7ois picard,debate","aef_type_page1":"a_la_une.defaut.defaut","aef_type_contenu1":"video","aef_section1":"en","aef_section2":"20091009-debate","aef_auteur":"Fran\u00e7ois PICARD","aef_dpubli":"2015-03-23","aef_hpubli":"20:38","ns_st_li":0,"aef_marque":"france24","name":"a_la_une.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"france24_site","aef_version_environnement":"v1.25.5","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.france24.com\/en\/","aef_page_provenance":"\/en\/","aef_langue":"anglais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+                                    <div class="media video">
+                                        <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/edition/le%20pen%2023%20march.jpg" alt="" />
+                                    </div>
+                                    <div class="copy">
+                                        <p class="place">DEBATE </p>
+                                        <h2 class="title">How to handle Le Pen: Mainstream parties at odds over French election results (part 2)</h2>
+                                    </div>
+                                    <p class="default-read-more" data-streamtitle="DEBATE" data-stream="edition-AD590B56-35A7-45D1-AF7F-8AB0DE0B1A7C"><a rel="nofollow" href="/en/20150323-the-debate-french-elections-parttwo/">Read more</a></p>
+                                </div>
+                                                                                                                                                                                                                                     <div class="v-item-2" data-bo-type="edition" data-bo-nid="B0E02CDA-26DD-4587-9B2F-6F7AE9F725CC">
+                                                                                                
+                                <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['edition-B0E02CDA-26DD-4587-9B2F-6F7AE9F725CC'] = {"medias":{"media":{"type":"video","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"video\/mp4","type":"video"},"is_default":1,"source":"http:\/\/medias.france24.com\/en\/vod\/2015\/03\/23\/ANGL150323-1910-Live_CS.mp4"}]},"is_active_deported":0,"is_bloggable":1,"exported_code":{"code_iframe":"<iframe src=\"https:\/\/embed.france24.com\/en\/video\/B0E02CDA-26DD-4587-9B2F-6F7AE9F725CC\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>","code_embed":"<iframe src=\"https:\/\/embed.france24.com\/en\/video\/B0E02CDA-26DD-4587-9B2F-6F7AE9F725CC\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>"},"permalink":"\/en\/20150323-the-debate-french-elections-partone\/","rolls":{"urlpre":"\/\/ad2play.ftv-publicite.fr\/preroll.vast?v=2&sitepage=www.france24.en\/emissions"},"title":"","is_active":1,"labels":{"now":"EN CE MOMENT"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"B0E02CDA-26DD-4587-9B2F-6F7AE9F725CC","ns_st_ep":"How to handle Le Pen: Mainstream parties at odds over French election results (part 1)","ns_st_pr":"debate","ns_st_ty":"video","ns_st_st":"france24_arabe","ns_st_pl":"france24_arabe","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":"","ns_st_tp":1,"ns_st_pn":1,"ns_st_dt":"2015-03-23","aef_streamtype_2":"od","aef_rep_global":"en","aef_thema":"marine le pen,national front party (france),nicolas sarkozy,manuel valls,french elections,fran\u00e7ois picard,debate","aef_type_page1":"a_la_une.defaut.defaut","aef_type_contenu1":"video","aef_section1":"en","aef_section2":"20091009-debate","aef_auteur":"Fran\u00e7ois PICARD","aef_dpubli":"2015-03-23","aef_hpubli":"20:19","ns_st_li":0,"aef_marque":"france24","name":"a_la_une.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"france24_site","aef_version_environnement":"v1.25.5","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.france24.com\/en\/","aef_page_provenance":"\/en\/","aef_langue":"anglais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+                                    <div class="media video">
+                                        <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/edition/le%20pen%2023%20march.jpg" alt="" />
+                                    </div>
+                                    <div class="copy">
+                                        <p class="place">DEBATE </p>
+                                        <h2 class="title">How to handle Le Pen: Mainstream parties at odds over French election results (part 1)</h2>
+                                    </div>
+                                    <p class="default-read-more" data-streamtitle="DEBATE" data-stream="edition-B0E02CDA-26DD-4587-9B2F-6F7AE9F725CC"><a rel="nofollow" href="/en/20150323-the-debate-french-elections-partone/">Read more</a></p>
+                                </div>
+                                                                                                                                                                                                                                     <div class="v-item-2" data-bo-type="edition" data-bo-nid="4311EC70-7D9E-4A57-B2AE-22361E8933B9">
+                                                                                                
+                                <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['edition-4311EC70-7D9E-4A57-B2AE-22361E8933B9'] = {"medias":{"media":{"type":"video","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"video\/mp4","type":"video"},"is_default":1,"source":"http:\/\/medias.france24.com\/en\/vod\/2015\/03\/23\/ANGL150323-0921-Live_CS.mp4"}]},"is_active_deported":0,"is_bloggable":1,"exported_code":{"code_iframe":"<iframe src=\"https:\/\/embed.france24.com\/en\/video\/4311EC70-7D9E-4A57-B2AE-22361E8933B9\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>","code_embed":"<iframe src=\"https:\/\/embed.france24.com\/en\/video\/4311EC70-7D9E-4A57-B2AE-22361E8933B9\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>"},"permalink":"\/en\/20150323-nicolas-sarkozy-UMP-party-wins-local-election-first-round-tributes-for-lee-kuan-yew-and-Richard-III\/","rolls":{"urlpre":"\/\/ad2play.ftv-publicite.fr\/preroll.vast?v=2&sitepage=www.france24.en\/emissions"},"title":"","is_active":1,"labels":{"now":"EN CE MOMENT"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"4311EC70-7D9E-4A57-B2AE-22361E8933B9","ns_st_ep":"'Hollande's party loses out to the right'","ns_st_pr":"in the papers","ns_st_ty":"video","ns_st_st":"france24_arabe","ns_st_pl":"france24_arabe","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":"","ns_st_tp":1,"ns_st_pn":1,"ns_st_dt":"2015-03-23","aef_streamtype_2":"od","aef_rep_global":"en","aef_thema":"french elections,nicolas sarkozy,national front party (france),marine le pen,singapore,local elections,emma james,emission courte,in the papers","aef_type_page1":"a_la_une.defaut.defaut","aef_type_contenu1":"video","aef_section1":"en","aef_section2":"20091009-papers","aef_auteur":"Emma JAMES","aef_dpubli":"2015-03-23","aef_hpubli":"09:41","ns_st_li":0,"aef_marque":"france24","name":"a_la_une.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"france24_site","aef_version_environnement":"v1.25.5","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.france24.com\/en\/","aef_page_provenance":"\/en\/","aef_langue":"anglais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+                                    <div class="media video">
+                                        <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/edition/elex2.jpg" alt="" />
+                                    </div>
+                                    <div class="copy">
+                                        <p class="place">IN THE PAPERS </p>
+                                        <h2 class="title">'Hollande's party loses out to the right'</h2>
+                                    </div>
+                                    <p class="default-read-more" data-streamtitle="IN THE PAPERS" data-stream="edition-4311EC70-7D9E-4A57-B2AE-22361E8933B9"><a rel="nofollow" href="/en/20150323-nicolas-sarkozy-UMP-party-wins-local-election-first-round-tributes-for-lee-kuan-yew-and-Richard-III/">Read more</a></p>
+                                </div>
+                                                                                                                                                                                                                                     <div class="v-item-2" data-bo-type="edition" data-bo-nid="C4F64A56-F98F-447E-B393-E0109137D127">
+                                                                                                
+                                <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['edition-C4F64A56-F98F-447E-B393-E0109137D127'] = {"medias":{"media":{"type":"video","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"video\/mp4","type":"video"},"is_default":1,"source":"http:\/\/medias.france24.com\/en\/vod\/2015\/03\/23\/ANGL150323-0716-Live_CS.mp4"}]},"is_active_deported":0,"is_bloggable":1,"exported_code":{"code_iframe":"<iframe src=\"https:\/\/embed.france24.com\/en\/video\/C4F64A56-F98F-447E-B393-E0109137D127\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>","code_embed":"<iframe src=\"https:\/\/embed.france24.com\/en\/video\/C4F64A56-F98F-447E-B393-E0109137D127\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>"},"permalink":"\/en\/20150323-nicolas-sarkozy-UMP-party-on-top-after-local-elections-National-Front-make-gains\/","rolls":{"urlpre":"\/\/ad2play.ftv-publicite.fr\/preroll.vast?v=2&sitepage=www.france24.en\/emissions"},"title":"","is_active":1,"labels":{"now":"EN CE MOMENT"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"C4F64A56-F98F-447E-B393-E0109137D127","ns_st_ep":"UMP triumphs as National Front surges and Socialists slump","ns_st_pr":"in the papers","ns_st_ty":"video","ns_st_st":"france24_arabe","ns_st_pl":"france24_arabe","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":"","ns_st_tp":1,"ns_st_pn":1,"ns_st_dt":"2015-03-23","aef_streamtype_2":"od","aef_rep_global":"en","aef_thema":"ump,nicolas sarkozy,fran\u00e7ois hollande,marine le pen,french elections,local elections,emma james,emission courte,in the papers","aef_type_page1":"a_la_une.defaut.defaut","aef_type_contenu1":"video","aef_section1":"en","aef_section2":"20091009-papers","aef_auteur":"Emma JAMES","aef_dpubli":"2015-03-23","aef_hpubli":"07:40","ns_st_li":0,"aef_marque":"france24","name":"a_la_une.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"france24_site","aef_version_environnement":"v1.25.5","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.france24.com\/en\/","aef_page_provenance":"\/en\/","aef_langue":"anglais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+                                    <div class="media video">
+                                        <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/edition/elex.jpg" alt="" />
+                                    </div>
+                                    <div class="copy">
+                                        <p class="place">IN THE PAPERS </p>
+                                        <h2 class="title">UMP triumphs as National Front surges and Socialists slump</h2>
+                                    </div>
+                                    <p class="default-read-more" data-streamtitle="IN THE PAPERS" data-stream="edition-C4F64A56-F98F-447E-B393-E0109137D127"><a rel="nofollow" href="/en/20150323-nicolas-sarkozy-UMP-party-on-top-after-local-elections-National-Front-make-gains/">Read more</a></p>
+                                </div>
+                                                                                                                                                                                                                                     <div class="v-item-2" data-bo-type="edition" data-bo-nid="F7B43E97-275E-492C-BDC5-5E800D316F29">
+                                                                                                
+                                <script type="text/javascript">
+    window.BSPlayer = window.BSPlayer || { items: {} };
+    window.BSPlayer.items['edition-F7B43E97-275E-492C-BDC5-5E800D316F29'] = {"medias":{"media":{"type":"video","media_sources":{"media_source":[{"streaming_type":{"platforms":{"platform":["flash","html5"]},"mime_type":"video\/mp4","type":"video"},"is_default":1,"source":"http:\/\/medias.france24.com\/en\/vod\/2015\/03\/23\/ANGL150323-1446-Live_CS.mp4"}]},"is_active_deported":0,"is_bloggable":1,"exported_code":{"code_iframe":"<iframe src=\"https:\/\/embed.france24.com\/en\/video\/F7B43E97-275E-492C-BDC5-5E800D316F29\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>","code_embed":"<iframe src=\"https:\/\/embed.france24.com\/en\/video\/F7B43E97-275E-492C-BDC5-5E800D316F29\" width=\"652\" height=\"315\" scrolling=\"no\"><\/iframe>"},"permalink":"\/en\/focus\/20150323-ebola-liberia-road-recovery-health\/","rolls":{"urlpre":"\/\/ad2play.ftv-publicite.fr\/preroll.vast?v=2&sitepage=www.france24.en\/emissions"},"title":"","is_active":1,"labels":{"now":"EN CE MOMENT"},"comscore":{"baseMeasurementURL":"fr.sitestat.com\/aef\/f24-mcd-rfi\/s?","labels":{"ns_st_ci":"F7B43E97-275E-492C-BDC5-5E800D316F29","ns_st_ep":"Video: One year on, Liberia on the road to recovery ","ns_st_pr":"focus","ns_st_ty":"video","ns_st_st":"france24_arabe","ns_st_pl":"france24_arabe","ns_st_el":0,"ns_st_ub":0,"ns_st_cn":1,"ns_st_cl":"","ns_st_tp":1,"ns_st_pn":1,"ns_st_dt":"2015-03-23","aef_streamtype_2":"od","aef_rep_global":"en","aef_thema":"ebola,liberia,aid,health,ngos,who,katerina vittozzi,emission courte,focus","aef_type_page1":"a_la_une.defaut.defaut","aef_type_contenu1":"video","aef_section1":"en","aef_section2":"20091009-focus","aef_auteur":"Katerina VITTOZZI","aef_dpubli":"2015-03-23","aef_hpubli":"07:55","ns_st_li":0,"aef_marque":"france24","name":"a_la_une.defaut.defaut","aef_type_environnement":"site","aef_plateforme":"ordinateur","aef_nom_environnement":"france24_site","aef_version_environnement":"v1.25.5","aef_perimetre_diffusion":"interne","aef_url_provenance":"http:\/\/www.france24.com\/en\/","aef_page_provenance":"\/en\/","aef_langue":"anglais","aef_acces":"gratuit","aef_user_connection":"visiteur","aef_user_id":""}}}}};
+</script>
+
+                                    <div class="media video">
+                                        <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/edition/FR%20NW%20PKG%20FOCUS%200323%20LIBERI2.jpg" alt="" />
+                                    </div>
+                                    <div class="copy">
+                                        <p class="place">FOCUS </p>
+                                        <h2 class="title">Video: One year on, Liberia on the road to recovery </h2>
+                                    </div>
+                                    <p class="default-read-more" data-streamtitle="FOCUS" data-stream="edition-F7B43E97-275E-492C-BDC5-5E800D316F29"><a rel="nofollow" href="/en/focus/20150323-ebola-liberia-road-recovery-health/">Read more</a></p>
+                                </div>
+                                                                                                        
+                    <div class="v-expand-items">
+                        <a href="/en/tv-shows/" class="default-button-1 modeless" title="France 24 Shows">All shows</a>
+                    </div>
+
+                </div>
+
+            </div>
+
+            <div class="oab-second-col">
+
+                <div class="program-schedule">
+                    <div class="hd">
+                        <div class="type-1">
+                            <a href="#" class="tabs" data-target="player-comments">
+                                <span class="comment-count">
+                                                                            <span data-vf-type="count" data-vf-class="live" data-section="en"></span>
+
+                                </span>
+                                COMMENT(S)
+                            </a>
+                            <a href="#" class="tabs active" data-target="player-programs">TV guide</a>
+                        </div>
+                        <div class="type-2">
+                            <a href="#" class="comm tabs" data-target="player-comments">
+                                <span class="comment-count">
+                                        <span data-vf-type="count" data-vf-class="live" data-section="en"></span>
+
+                                </span>
+                                &nbsp;comments
+                            </a>
+                            <a href="#" class="pro tabs active" data-target="player-programs">
+                                <span></span>TV Guide
+                            </a>
+                        </div>
+                    </div>
+
+                    <div id="player-comments" class="bd tabs" style="display: none">                                                
+    <div class="viafoura">
+                        <div data-vf-type="tool" data-vf-class="live" data-section="en"></div>
+    </div>
+
+                    </div>
+
+                    <div id="player-programs" class="bd tabs">
+                        <hx:include src="http://www.france24.com/en/_fragment/player/programgrid/"></hx:include>
+                    </div>
+
+                </div>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</div>
+
+                                    <div class="slider-wrap">
+                <div class="content-slider">
+                    <div class="content-slide">
+                        <div class="main-board">
+                            <div class="adv-megaban">
+                                                                                        <div id="tcf24_15" class="tc-block-dbug">
+                                    
+                            <iframe id="tcf24_ifr_meg" src="/ads/ftp?id=15&pid=aef_hermes_f24_homepage.en" width="728" height="90" frameborder="0" scrolling="no"></iframe>
+                        
+    </div>
+
+                                                        </div>
+                            <div id="modeless-target">
+                                
+    <article class="col-1">
+
+        <div id="urgent-wrapper">
+                                                
+
+                                    </div>
+
+        
+        <div id='footageBoard'>
+                                                    
+                                                                                
+            
+            <div class="news-featured" data-bo-type="article" data-bo-nid="8AF8D852-D58E-4827-BB9F-D06900DBD8D7">
+                <p class="media video">
+                    <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_bigger_169/article/image/230315-musee-bardo-tunis.jpg" alt=""><span></span>
+                </p>
+                <div class="copy">
+                    <h3 class="place from-FRANCE24"><strong>TUNISIA</strong></h3>
+                    <h2 class="title"><a href="/en/20150324-tunisia-bardo-museum-reopen-attack-message/">Reopening of Tunisia's Bardo museum cancelled over security fears</a></h2>
+                </div>
+                                                    
+                <ul class="social-nt-top-news">
+                    <li class="target-top-news"><div><img width="36" height="36" src="/bundles/aefhermesf24/img/01.png?version=20150312102310"></div></li>
+                    <li class="item-top-news"><div class="fb fb-share" data-href="http://f24.my/1Hx5BVN" data-callback="trackingSocial.fb_tracker" data-title="Reopening of Tunisia's Bardo museum cancelled over security fears"></div></li>
+                    <li class="item-top-news"><div class="tw tt-share" data-href="http://f24.my/1Hx5ERD" data-callback="trackingSocial.tt_tracker" data-text="Reopening of Tunisia's Bardo museum cancelled over security fears"></div></li>
+                    <li class="item-top-news"><div class="go gg-share" data-href="http://f24.my/1Hx5F7T" data-callback="trackingSocial.gg_tracker" data-title="Reopening of Tunisia's Bardo museum cancelled over security fears"></div></li>
+                                        <li class="item-top-news"><div class="re re-share" data-href="http://f24.my/1Hx5F7V" data-callback="trackingSocial.re_tracker" data-title="Reopening of Tunisia's Bardo museum cancelled over security fears"></div></li>
+                                        <li class="item-top-news"><div class="li in-share" data-href="http://f24.my/1Hx5BVV" data-callback="trackingSocial.in_tracker" data-title="Reopening of Tunisia's Bardo museum cancelled over security fears"></div></li>
+                </ul>
+                                                                    
+                <p class="default-read-more">
+                    <a rel="nofollow" class="modeless" title="The reopening of the National Bardo Museum was cancelled on Tuesday over security concerns less than a week after Islamist gunmen killed 20 foreign tourists and a policeman in the Tunisian capital." href="/en/20150324-tunisia-bardo-museum-reopen-attack-message/" target="_self">Read more</a>
+                </p>
+            </div>
+            
+                                                                                
+
+
+
+            <div class="footage-board horizontal-position">
+                            
+    <ul class="options">
+        <li><a href="#" class="tiles default-button-1">tiles</a></li>
+        <li><a href="#" class="rows default-button-1">rows</a></li>
+    </ul>
+
+
+                                        
+                    
+                                        
+                                                                                                                                            <div class="news-item " data-bo-type="article" data-bo-nid="D7DC0C99-C0A7-40CD-A60B-2FEA3CE344C7">
+                        <div class="media ">
+                                                        
+                                                                                                                                                                            
+                                                        
+
+                            
+                            <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/article/image/afghanistan_50_1.jpg" alt="" >
+                            
+                            <span></span>
+                        </div>
+                        <div class="copy">
+
+                                                        
+                            <p class="place">AFGHANISTAN</p>
+                            <h2 class="title" data-title="Gunmen killed 13 passengers travelling on a bus in Afghanistan on Tuesday, underlining the country&#039;s fragile security situation as President Ashraf Ghani holds talks with the United States in Washington.">Gunmen kill bus passengers in Afghanistan</h2>
+
+                        <span class="desc">
+                            <a class="modeless" target="_self" title="Gunmen killed 13 passengers travelling on a bus in Afghanistan on Tuesday, underlining the country&#039;s fragile security situation as President Ashraf Ghani holds talks with the United States in Washington." href="/en/20150324-gunmen-kill-afghan-bus-passengers-kandahar/" data-intro="Gunmen killed 13 passengers travelling on a bus in Afghanistan on Tuesday, underlining the country's fragile security situation as President Ashraf Ghani holds talks with the&hellip;">Gunmen killed 13 passengers travelling on a bus in Afghanistan on Tuesday, underlining the country's fragile security situation as President Ashraf Ghani holds talks with the&hellip;</a>
+                        </span>
+
+                        </div>
+
+                                                                            
+                        <ul class="social-nt">
+                            <li class="target"><div><img width="32" height="32" src="/bundles/aefhermesf24/img/01.png?version=20150312102310"></div></li>
+                            <li class="item"><div class="fb fb-share" data-href="http://f24.my/1HxDcyO" data-callback="trackingSocial.fb_tracker" data-title="Gunmen kill bus passengers in Afghanistan"></div></li>
+                            <li class="item"><div class="tw tt-share" data-href="http://f24.my/1HxDaap" data-callback="trackingSocial.tt_tracker" data-text="Gunmen kill bus passengers in Afghanistan"></div></li>
+                            <li class="item"><div class="go gg-share" data-href="http://f24.my/1HxDaqE" data-callback="trackingSocial.gg_tracker"></div></li>
+                                                        <li class="item"><div class="re re-share" data-href="http://f24.my/1HxDaqK" data-callback="trackingSocial.re_tracker" data-title="Gunmen kill bus passengers in Afghanistan"></div></li>
+                                                        <li class="item"><div class="li in-share" data-href="http://f24.my/1HxDaqG" data-callback="trackingSocial.in_tracker" data-title="Gunmen kill bus passengers in Afghanistan"></div></li>
+                        </ul>
+                        <p class="default-read-more">
+                            <a class="modeless" tat="_self" title="Gunmen killed 13 passengers travelling on a bus in Afghanistan on Tuesday, underlining the country&#039;s fragile security situation as President Ashraf Ghani holds talks with the United States in Washington." rel="nofollow" href="/en/20150324-gunmen-kill-afghan-bus-passengers-kandahar/">Read more</a>
+                        </p>
+                    </div>
+                
+                    
+                                        
+                                                                                                                                            <div class="news-item " data-bo-type="article" data-bo-nid="95EA47EA-E4B0-456E-9442-02DFF6355CA7">
+                        <div class="media ">
+                                                        
+                                                                                                                                                                            
+                                                        
+
+                            
+                            <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/article/image/20150323%20ukraine.jpg" alt="Ukrainian special troops stand guard in the southern city of Odessa in January." >
+                            
+                            <span></span>
+                        </div>
+                        <div class="copy">
+
+                                                        
+                            <p class="place">UKRAINE</p>
+                            <h2 class="title" data-title="The US House of Representatives overwhelmingly approved a resolution on Monday urging President Barack Obama to send weapons to Ukraine to help its fight against Russian-backed rebels. The US has so far provided only non-lethal aid.">US House urges Obama to arm Ukraine</h2>
+
+                        <span class="desc">
+                            <a class="modeless" target="_self" title="The US House of Representatives overwhelmingly approved a resolution on Monday urging President Barack Obama to send weapons to Ukraine to help its fight against Russian-backed rebels. The US has so far provided only non-lethal aid." href="/en/20150324-us-house-pass-resolution-urging-obama-send-arms-ukraine-war-russia/" data-intro="The US House of Representatives overwhelmingly approved a resolution on Monday urging President Barack Obama to send weapons to Ukraine to help its fight against Russian-backed&hellip;">The US House of Representatives overwhelmingly approved a resolution on Monday urging President Barack Obama to send weapons to Ukraine to help its fight against Russian-backed&hellip;</a>
+                        </span>
+
+                        </div>
+
+                                                                            
+                        <ul class="social-nt">
+                            <li class="target"><div><img width="32" height="32" src="/bundles/aefhermesf24/img/01.png?version=20150312102310"></div></li>
+                            <li class="item"><div class="fb fb-share" data-href="http://f24.my/1G9BrGu" data-callback="trackingSocial.fb_tracker" data-title="US House urges Obama to arm Ukraine"></div></li>
+                            <li class="item"><div class="tw tt-share" data-href="http://f24.my/1G9Bp1r" data-callback="trackingSocial.tt_tracker" data-text="US House urges Obama to arm Ukraine"></div></li>
+                            <li class="item"><div class="go gg-share" data-href="http://f24.my/1G9BrGC" data-callback="trackingSocial.gg_tracker"></div></li>
+                                                        <li class="item"><div class="re re-share" data-href="http://f24.my/1G9BrWV" data-callback="trackingSocial.re_tracker" data-title="US House urges Obama to arm Ukraine"></div></li>
+                                                        <li class="item"><div class="li in-share" data-href="http://f24.my/1G9Bp1v" data-callback="trackingSocial.in_tracker" data-title="US House urges Obama to arm Ukraine"></div></li>
+                        </ul>
+                        <p class="default-read-more">
+                            <a class="modeless" tat="_self" title="The US House of Representatives overwhelmingly approved a resolution on Monday urging President Barack Obama to send weapons to Ukraine to help its fight against Russian-backed rebels. The US has so far provided only non-lethal aid." rel="nofollow" href="/en/20150324-us-house-pass-resolution-urging-obama-send-arms-ukraine-war-russia/">Read more</a>
+                        </p>
+                    </div>
+                
+                    
+                                        
+                                                                                                                                                                                                                                        <div class="news-item " data-bo-type="lienext" data-bo-nid="E3EEB3E3-2F81-4BA0-9AC3-299C2AC20400">
+                        <div class="media ">
+                                                        
+                                                                                                                                                                            
+                                                        
+
+                            
+                            <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/ext_links_img/afghanlynching.jpg" alt="" >
+                            <p class="cat from-OBSERVER"><strong>On The Observers</strong></p>
+                            <span></span>
+                        </div>
+                        <div class="copy">
+
+                                                        
+                            <p class="place">AFGHANISTAN</p>
+                            <h2 class="title" data-title="An Afghan woman was brutally beaten to death and then burned by a bloodthirsty crowd made up almost entirely of men in Kabul last Thursday. Gruesome footage has emerged of the mob lynching 27-year-old Farkhunda who was accused of burning a Koran near a mosque. The attack has triggered a wave of indignation throughout the country. Read more ... ">Afghan woman lynched by mob for 'burning Koran'</h2>
+
+                        <span class="desc">
+                            <a class="external" target="_blank" title="An Afghan woman was brutally beaten to death and then burned by a bloodthirsty crowd made up almost entirely of men in Kabul last Thursday. Gruesome footage has emerged of the mob lynching 27-year-old Farkhunda who was accused of burning a Koran near a mosque. The attack has triggered a wave of indignation throughout the country. Read more ... " href="http://observers.france24.com/content/20150323-afghan-woman-brutally-lynched-mob-kabul-burning-koran" data-intro="An Afghan woman was brutally beaten to death and then burned by a bloodthirsty crowd made up almost entirely of men in Kabul last Thursday. Gruesome footage has emerged of the&hellip;">An Afghan woman was brutally beaten to death and then burned by a bloodthirsty crowd made up almost entirely of men in Kabul last Thursday. Gruesome footage has emerged of the&hellip;</a>
+                        </span>
+
+                        </div>
+
+                                                                            
+                        <ul class="social-nt">
+                            <li class="target"><div><img width="32" height="32" src="/bundles/aefhermesf24/img/01.png?version=20150312102310"></div></li>
+                            <li class="item"><div class="fb fb-share" data-href="http://observers.france24.com/content/20150323-afghan-woman-brutally-lynched-mob-kabul-burning-koran" data-callback="trackingSocial.fb_tracker" data-title="Afghan woman lynched by mob for 'burning Koran'"></div></li>
+                            <li class="item"><div class="tw tt-share" data-href="http://observers.france24.com/content/20150323-afghan-woman-brutally-lynched-mob-kabul-burning-koran" data-callback="trackingSocial.tt_tracker" data-text="Afghan woman lynched by mob for 'burning Koran'"></div></li>
+                            <li class="item"><div class="go gg-share" data-href="http://observers.france24.com/content/20150323-afghan-woman-brutally-lynched-mob-kabul-burning-koran" data-callback="trackingSocial.gg_tracker"></div></li>
+                                                        <li class="item"><div class="re re-share" data-href="http://observers.france24.com/content/20150323-afghan-woman-brutally-lynched-mob-kabul-burning-koran" data-callback="trackingSocial.re_tracker" data-title="Afghan woman lynched by mob for 'burning Koran'"></div></li>
+                                                        <li class="item"><div class="li in-share" data-href="http://observers.france24.com/content/20150323-afghan-woman-brutally-lynched-mob-kabul-burning-koran" data-callback="trackingSocial.in_tracker" data-title="Afghan woman lynched by mob for 'burning Koran'"></div></li>
+                        </ul>
+                        <p class="default-read-more">
+                            <a class="external" tat="_blank" title="An Afghan woman was brutally beaten to death and then burned by a bloodthirsty crowd made up almost entirely of men in Kabul last Thursday. Gruesome footage has emerged of the mob lynching 27-year-old Farkhunda who was accused of burning a Koran near a mosque. The attack has triggered a wave of indignation throughout the country. Read more ... " rel="nofollow" href="http://observers.france24.com/content/20150323-afghan-woman-brutally-lynched-mob-kabul-burning-koran">Read more</a>
+                        </p>
+                    </div>
+                
+                    
+                                        
+                                                                                                                                            <div class="news-item " data-bo-type="article" data-bo-nid="74E2D59E-ED2D-4F09-ACE9-6AEEC4376D14">
+                        <div class="media ">
+                                                        
+                                                                                                                                                                            
+                                                        
+
+                            
+                            <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/article/image/UMP-departementales-afp_1.jpg" alt="UMP party chief and former French president Nicolas Sarkozy on March 22, 2015" >
+                            
+                            <span></span>
+                        </div>
+                        <div class="copy">
+
+                                                        
+                            <p class="place">FRANCE-ELECTIONS</p>
+                            <h2 class="title" data-title="Former president Nicolas Sarkozy’s right-wing UMP party won the first round of local elections in France on Sunday in what could be his first success in a long and likely turbulent campaign to reclaim the presidency in 2017.">Has Sarkozy won his first battle to reclaim the Elysée?</h2>
+
+                        <span class="desc">
+                            <a class="modeless" target="_self" title="Former president Nicolas Sarkozy’s right-wing UMP party won the first round of local elections in France on Sunday in what could be his first success in a long and likely turbulent campaign to reclaim the presidency in 2017." href="/en/20150323-france-local-elections-sarkozy-presidency/" data-intro="Former president Nicolas Sarkozy&rsquo;s right-wing UMP party won the first round of local elections in France on Sunday in what could be his first success in a long and likely&hellip;">Former president Nicolas Sarkozy&rsquo;s right-wing UMP party won the first round of local elections in France on Sunday in what could be his first success in a long and likely&hellip;</a>
+                        </span>
+
+                        </div>
+
+                                                                            
+                        <ul class="social-nt">
+                            <li class="target"><div><img width="32" height="32" src="/bundles/aefhermesf24/img/01.png?version=20150312102310"></div></li>
+                            <li class="item"><div class="fb fb-share" data-href="http://f24.my/1G63Q0i" data-callback="trackingSocial.fb_tracker" data-title="Has Sarkozy won his first battle to reclaim the Elysée?"></div></li>
+                            <li class="item"><div class="tw tt-share" data-href="http://f24.my/1G63Qgw" data-callback="trackingSocial.tt_tracker" data-text="Has Sarkozy won his first battle to reclaim the Elysée?"></div></li>
+                            <li class="item"><div class="go gg-share" data-href="http://f24.my/1G63RB8" data-callback="trackingSocial.gg_tracker"></div></li>
+                                                        <li class="item"><div class="re re-share" data-href="http://f24.my/1G63QgF" data-callback="trackingSocial.re_tracker" data-title="Has Sarkozy won his first battle to reclaim the Elysée?"></div></li>
+                                                        <li class="item"><div class="li in-share" data-href="http://f24.my/1G63RBh" data-callback="trackingSocial.in_tracker" data-title="Has Sarkozy won his first battle to reclaim the Elysée?"></div></li>
+                        </ul>
+                        <p class="default-read-more">
+                            <a class="modeless" tat="_self" title="Former president Nicolas Sarkozy’s right-wing UMP party won the first round of local elections in France on Sunday in what could be his first success in a long and likely turbulent campaign to reclaim the presidency in 2017." rel="nofollow" href="/en/20150323-france-local-elections-sarkozy-presidency/">Read more</a>
+                        </p>
+                    </div>
+                
+                    
+                                        
+                                                                                                                                            <div class="news-item " data-bo-type="article" data-bo-nid="ED7EFE6E-AE40-445F-AFF0-98D433180C25">
+                        <div class="media ">
+                                                        
+                                                                                                                                                                            
+                                                        
+
+                            
+                            <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/article/image/netanyahu%20m.jpg" alt="Benjamin Netanyahu delivers his victory speech on March 17" >
+                            
+                            <span></span>
+                        </div>
+                        <div class="copy">
+
+                                                        
+                            <p class="place">USA - ISRAEL</p>
+                            <h2 class="title" data-title="Israeli Prime Minister Benjamin Netanyahu on Monday apologised to Arab Israelis after a rallying call to his supporters on election day last week was called racist by opponents.">Netanyahu 'regrets' election statement on Arab Israelis</h2>
+
+                        <span class="desc">
+                            <a class="modeless" target="_self" title="Israeli Prime Minister Benjamin Netanyahu on Monday apologised to Arab Israelis after a rallying call to his supporters on election day last week was called racist by opponents." href="/en/20150323-natanhayu-regrets-election-statement-arab-israelis/" data-intro="Israeli Prime Minister Benjamin Netanyahu on Monday apologised to Arab Israelis after a rallying call to his supporters on election day last week was called racist by opponents.">Israeli Prime Minister Benjamin Netanyahu on Monday apologised to Arab Israelis after a rallying call to his supporters on election day last week was called racist by opponents.</a>
+                        </span>
+
+                        </div>
+
+                                                                            
+                        <ul class="social-nt">
+                            <li class="target"><div><img width="32" height="32" src="/bundles/aefhermesf24/img/01.png?version=20150312102310"></div></li>
+                            <li class="item"><div class="fb fb-share" data-href="http://f24.my/1BnSWfS" data-callback="trackingSocial.fb_tracker" data-title="Netanyahu 'regrets' election statement on Arab Israelis"></div></li>
+                            <li class="item"><div class="tw tt-share" data-href="http://f24.my/1BnSWfW" data-callback="trackingSocial.tt_tracker" data-text="Netanyahu 'regrets' election statement on Arab Israelis"></div></li>
+                            <li class="item"><div class="go gg-share" data-href="http://f24.my/1BnSUV9" data-callback="trackingSocial.gg_tracker"></div></li>
+                                                        <li class="item"><div class="re re-share" data-href="http://f24.my/1BnSUVb" data-callback="trackingSocial.re_tracker" data-title="Netanyahu 'regrets' election statement on Arab Israelis"></div></li>
+                                                        <li class="item"><div class="li in-share" data-href="http://f24.my/1BnSWfZ" data-callback="trackingSocial.in_tracker" data-title="Netanyahu 'regrets' election statement on Arab Israelis"></div></li>
+                        </ul>
+                        <p class="default-read-more">
+                            <a class="modeless" tat="_self" title="Israeli Prime Minister Benjamin Netanyahu on Monday apologised to Arab Israelis after a rallying call to his supporters on election day last week was called racist by opponents." rel="nofollow" href="/en/20150323-natanhayu-regrets-election-statement-arab-israelis/">Read more</a>
+                        </p>
+                    </div>
+                
+                    
+                                        
+                                                                                                                                            <div class="news-item " data-bo-type="article" data-bo-nid="CE8A0322-F5E4-48D6-A26C-2AE49A8C4AB7">
+                        <div class="media ">
+                                                        
+                                                                                                                                                                            
+                                                        
+
+                            
+                            <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/article/image/death-penalty-utah.jpeg" alt="" >
+                            
+                            <span></span>
+                        </div>
+                        <div class="copy">
+
+                                                        
+                            <p class="place">USA</p>
+                            <h2 class="title" data-title="Utah approved a measure to became the only US state to use the firing squad for the death penalty on Monday, with the bill’s Republican sponsor arguing that such executions can be more humane than death by lethal injection.">Utah set to reintroduce execution by firing squad </h2>
+
+                        <span class="desc">
+                            <a class="modeless" target="_self" title="Utah approved a measure to became the only US state to use the firing squad for the death penalty on Monday, with the bill’s Republican sponsor arguing that such executions can be more humane than death by lethal injection." href="/en/20150324-utah-reintroduce-execution-firing-squad/" data-intro="Utah approved a measure to became the only US state to use the firing squad for the death penalty on Monday, with the bill&rsquo;s Republican sponsor arguing that such executions can&hellip;">Utah approved a measure to became the only US state to use the firing squad for the death penalty on Monday, with the bill&rsquo;s Republican sponsor arguing that such executions can&hellip;</a>
+                        </span>
+
+                        </div>
+
+                                                                            
+                        <ul class="social-nt">
+                            <li class="target"><div><img width="32" height="32" src="/bundles/aefhermesf24/img/01.png?version=20150312102310"></div></li>
+                            <li class="item"><div class="fb fb-share" data-href="http://f24.my/1N3E8v4" data-callback="trackingSocial.fb_tracker" data-title="Utah set to reintroduce execution by firing squad "></div></li>
+                            <li class="item"><div class="tw tt-share" data-href="http://f24.my/1N3E8v6" data-callback="trackingSocial.tt_tracker" data-text="Utah set to reintroduce execution by firing squad "></div></li>
+                            <li class="item"><div class="go gg-share" data-href="http://f24.my/1N3E8LH" data-callback="trackingSocial.gg_tracker"></div></li>
+                                                        <li class="item"><div class="re re-share" data-href="http://f24.my/1N3E8va" data-callback="trackingSocial.re_tracker" data-title="Utah set to reintroduce execution by firing squad "></div></li>
+                                                        <li class="item"><div class="li in-share" data-href="http://f24.my/1N3E8v8" data-callback="trackingSocial.in_tracker" data-title="Utah set to reintroduce execution by firing squad "></div></li>
+                        </ul>
+                        <p class="default-read-more">
+                            <a class="modeless" tat="_self" title="Utah approved a measure to became the only US state to use the firing squad for the death penalty on Monday, with the bill’s Republican sponsor arguing that such executions can be more humane than death by lethal injection." rel="nofollow" href="/en/20150324-utah-reintroduce-execution-firing-squad/">Read more</a>
+                        </p>
+                    </div>
+                
+                    
+                                        
+                                                                                                                                            <div class="news-item " data-bo-type="article" data-bo-nid="08999203-5B6E-4189-8CB5-8519C0E58454">
+                        <div class="media video">
+                                                        
+                                                                                                                                                                            
+                                                        
+
+                            
+                            <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/article/image/20150323%20ghani.jpg" alt="US Secretary of State John Kerry and Afghan President Ashraf Ghani at Camp David in Maryland on Monday. " >
+                            
+                            <span></span>
+                        </div>
+                        <div class="copy">
+
+                                                        
+                            <p class="place">USA - AFGHANISTAN</p>
+                            <h2 class="title" data-title="As President Ashraf Ghani began his visit to Washington on Monday American and Afghan officials laid the groundwork for new relations between the two countries, which the Pentagon described as “a revitalised partnership”.">US and Afghanistan hail ‘revitalised’ ties on Ghani visit</h2>
+
+                        <span class="desc">
+                            <a class="modeless" target="_self" title="As President Ashraf Ghani began his visit to Washington on Monday American and Afghan officials laid the groundwork for new relations between the two countries, which the Pentagon described as “a revitalised partnership”." href="/en/20150324-us-afghanistan-hail-revitalised-ties-ghani-visit-troops-taliban/" data-intro="As President Ashraf Ghani began his visit to Washington on Monday American and Afghan officials laid the groundwork for new relations between the two countries, which the&hellip;">As President Ashraf Ghani began his visit to Washington on Monday American and Afghan officials laid the groundwork for new relations between the two countries, which the&hellip;</a>
+                        </span>
+
+                        </div>
+
+                                                                            
+                        <ul class="social-nt">
+                            <li class="target"><div><img width="32" height="32" src="/bundles/aefhermesf24/img/01.png?version=20150312102310"></div></li>
+                            <li class="item"><div class="fb fb-share" data-href="http://f24.my/1FwFBZW" data-callback="trackingSocial.fb_tracker" data-title="US and Afghanistan hail ‘revitalised’ ties on Ghani visit"></div></li>
+                            <li class="item"><div class="tw tt-share" data-href="http://f24.my/1FwFDBh" data-callback="trackingSocial.tt_tracker" data-text="US and Afghanistan hail ‘revitalised’ ties on Ghani visit"></div></li>
+                            <li class="item"><div class="go gg-share" data-href="http://f24.my/1FwFC00" data-callback="trackingSocial.gg_tracker"></div></li>
+                                                        <li class="item"><div class="re re-share" data-href="http://f24.my/1FwFC02" data-callback="trackingSocial.re_tracker" data-title="US and Afghanistan hail ‘revitalised’ ties on Ghani visit"></div></li>
+                                                        <li class="item"><div class="li in-share" data-href="http://f24.my/1FwFDRx" data-callback="trackingSocial.in_tracker" data-title="US and Afghanistan hail ‘revitalised’ ties on Ghani visit"></div></li>
+                        </ul>
+                        <p class="default-read-more">
+                            <a class="modeless" tat="_self" title="As President Ashraf Ghani began his visit to Washington on Monday American and Afghan officials laid the groundwork for new relations between the two countries, which the Pentagon described as “a revitalised partnership”." rel="nofollow" href="/en/20150324-us-afghanistan-hail-revitalised-ties-ghani-visit-troops-taliban/">Read more</a>
+                        </p>
+                    </div>
+                
+                    
+                                        
+                                                                                                                                            <div class="news-item " data-bo-type="article" data-bo-nid="A99FB882-6F42-442D-91E8-88A0EFA96E9A">
+                        <div class="media ">
+                                                        
+                                                                                                                                                                            
+                                                        
+
+                            
+                            <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/article/image/20150323%20uber%20un.jpg" alt="" >
+                            
+                            <span></span>
+                        </div>
+                        <div class="copy">
+
+                                                        
+                            <p class="place">UNITED NATIONS</p>
+                            <h2 class="title" data-title="UN Women said on Monday it was not pursuing a partnership with the ride-sharing company Uber, which had pledged to create jobs for a million women drivers by 2020, after opposition to the scheme from trade unions and civil society groups.">UN women's agency backs out of partnership with Uber</h2>
+
+                        <span class="desc">
+                            <a class="modeless" target="_self" title="UN Women said on Monday it was not pursuing a partnership with the ride-sharing company Uber, which had pledged to create jobs for a million women drivers by 2020, after opposition to the scheme from trade unions and civil society groups." href="/en/20150324-un-womens-agency-backs-out-partnership-uber-ngos-unions/" data-intro="UN Women said on Monday it was not pursuing a partnership with the ride-sharing company Uber, which had pledged to create jobs for a million women drivers by 2020, after&hellip;">UN Women said on Monday it was not pursuing a partnership with the ride-sharing company Uber, which had pledged to create jobs for a million women drivers by 2020, after&hellip;</a>
+                        </span>
+
+                        </div>
+
+                                                                            
+                        <ul class="social-nt">
+                            <li class="target"><div><img width="32" height="32" src="/bundles/aefhermesf24/img/01.png?version=20150312102310"></div></li>
+                            <li class="item"><div class="fb fb-share" data-href="http://f24.my/18TM9np" data-callback="trackingSocial.fb_tracker" data-title="UN women's agency backs out of partnership with Uber"></div></li>
+                            <li class="item"><div class="tw tt-share" data-href="http://f24.my/18TM7Mp" data-callback="trackingSocial.tt_tracker" data-text="UN women's agency backs out of partnership with Uber"></div></li>
+                            <li class="item"><div class="go gg-share" data-href="http://f24.my/18TM9nr" data-callback="trackingSocial.gg_tracker"></div></li>
+                                                        <li class="item"><div class="re re-share" data-href="http://f24.my/18TM9nv" data-callback="trackingSocial.re_tracker" data-title="UN women's agency backs out of partnership with Uber"></div></li>
+                                                        <li class="item"><div class="li in-share" data-href="http://f24.my/18TM9nt" data-callback="trackingSocial.in_tracker" data-title="UN women's agency backs out of partnership with Uber"></div></li>
+                        </ul>
+                        <p class="default-read-more">
+                            <a class="modeless" tat="_self" title="UN Women said on Monday it was not pursuing a partnership with the ride-sharing company Uber, which had pledged to create jobs for a million women drivers by 2020, after opposition to the scheme from trade unions and civil society groups." rel="nofollow" href="/en/20150324-un-womens-agency-backs-out-partnership-uber-ngos-unions/">Read more</a>
+                        </p>
+                    </div>
+                
+                    
+                                        
+                                                                                                                                            <div class="news-item " data-bo-type="article" data-bo-nid="E8BA6645-8313-4AE2-AA2D-0BCE8D2F5CB2">
+                        <div class="media ">
+                                                        
+                                                                                                                                                                            
+                                                        
+
+                            
+                            <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/article/image/Emino-AFP.jpg" alt="" >
+                            
+                            <span></span>
+                        </div>
+                        <div class="copy">
+
+                                                        
+                            <p class="place">Tunisia</p>
+                            <h2 class="title" data-title="He denounced police violence in Tunisia, sang of liberty, women, alcohol and drugs. Then Emino, the popular Tunisian rapper, allegedly joined the ranks of the Islamic State (IS) group on March 18, much to the shock of his fans.  ">Popular Tunisian rapper 'joins IS group' </h2>
+
+                        <span class="desc">
+                            <a class="modeless" target="_self" title="He denounced police violence in Tunisia, sang of liberty, women, alcohol and drugs. Then Emino, the popular Tunisian rapper, allegedly joined the ranks of the Islamic State (IS) group on March 18, much to the shock of his fans.  " href="/en/20150323-popular-rapper-allegedly-joins-isis/" data-intro="He denounced police violence in Tunisia, sang of liberty, women, alcohol and drugs. Then Emino, the popular Tunisian rapper, allegedly joined the ranks of the Islamic State (IS)&hellip;">He denounced police violence in Tunisia, sang of liberty, women, alcohol and drugs. Then Emino, the popular Tunisian rapper, allegedly joined the ranks of the Islamic State (IS)&hellip;</a>
+                        </span>
+
+                        </div>
+
+                                                                            
+                        <ul class="social-nt">
+                            <li class="target"><div><img width="32" height="32" src="/bundles/aefhermesf24/img/01.png?version=20150312102310"></div></li>
+                            <li class="item"><div class="fb fb-share" data-href="http://f24.my/1G5Uj9i" data-callback="trackingSocial.fb_tracker" data-title="Popular Tunisian rapper 'joins IS group' "></div></li>
+                            <li class="item"><div class="tw tt-share" data-href="http://f24.my/1G5Uj9n" data-callback="trackingSocial.tt_tracker" data-text="Popular Tunisian rapper 'joins IS group' "></div></li>
+                            <li class="item"><div class="go gg-share" data-href="http://f24.my/1G5UgKT" data-callback="trackingSocial.gg_tracker"></div></li>
+                                                        <li class="item"><div class="re re-share" data-href="http://f24.my/1G5Uj9x" data-callback="trackingSocial.re_tracker" data-title="Popular Tunisian rapper 'joins IS group' "></div></li>
+                                                        <li class="item"><div class="li in-share" data-href="http://f24.my/1G5Uj9s" data-callback="trackingSocial.in_tracker" data-title="Popular Tunisian rapper 'joins IS group' "></div></li>
+                        </ul>
+                        <p class="default-read-more">
+                            <a class="modeless" tat="_self" title="He denounced police violence in Tunisia, sang of liberty, women, alcohol and drugs. Then Emino, the popular Tunisian rapper, allegedly joined the ranks of the Islamic State (IS) group on March 18, much to the shock of his fans.  " rel="nofollow" href="/en/20150323-popular-rapper-allegedly-joins-isis/">Read more</a>
+                        </p>
+                    </div>
+                
+                    
+                                        
+                                                                                                                                            <div class="news-item  hidden-item" data-bo-type="article" data-bo-nid="AFD96193-15D1-4AF4-A44C-72E5825663CC">
+                        <div class="media video">
+                                                        
+                                                                                                                                                                            
+                                                        
+
+                            
+                            <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/article/image/230315%20circulation%20altern%C3%A9e.jpg" alt="A Police officer checks the documents of a driver during the enforcement of pollution control measures in Paris on March 23, 2015" >
+                            
+                            <span></span>
+                        </div>
+                        <div class="copy">
+
+                                                        
+                            <p class="place">FRANCE</p>
+                            <h2 class="title" data-title="Half of all traffic was banned from taking to the roads of Paris and its suburbs Monday in a bid to tackle a dangerous spike in pollution, but the measure’s complex rules proved perplexing for many of the French capital’s motorists.">Confusion reigns as Paris pollution prompts traffic ban</h2>
+
+                        <span class="desc">
+                            <a class="modeless" target="_self" title="Half of all traffic was banned from taking to the roads of Paris and its suburbs Monday in a bid to tackle a dangerous spike in pollution, but the measure’s complex rules proved perplexing for many of the French capital’s motorists." href="/en/20150323-paris-pollution-confusion-traffic-ban/" data-intro="Half of all traffic was banned from taking to the roads of Paris and its suburbs Monday in a bid to tackle a dangerous spike in pollution, but the measure&rsquo;s complex rules proved&hellip;">Half of all traffic was banned from taking to the roads of Paris and its suburbs Monday in a bid to tackle a dangerous spike in pollution, but the measure&rsquo;s complex rules proved&hellip;</a>
+                        </span>
+
+                        </div>
+
+                                                                            
+                        <ul class="social-nt">
+                            <li class="target"><div><img width="32" height="32" src="/bundles/aefhermesf24/img/01.png?version=20150312102310"></div></li>
+                            <li class="item"><div class="fb fb-share" data-href="http://f24.my/1G5bSq3" data-callback="trackingSocial.fb_tracker" data-title="Confusion reigns as Paris pollution prompts traffic ban"></div></li>
+                            <li class="item"><div class="tw tt-share" data-href="http://f24.my/1G5bTu3" data-callback="trackingSocial.tt_tracker" data-text="Confusion reigns as Paris pollution prompts traffic ban"></div></li>
+                            <li class="item"><div class="go gg-share" data-href="http://f24.my/1G5bSqe" data-callback="trackingSocial.gg_tracker"></div></li>
+                                                        <li class="item"><div class="re re-share" data-href="http://f24.my/1G5bTud" data-callback="trackingSocial.re_tracker" data-title="Confusion reigns as Paris pollution prompts traffic ban"></div></li>
+                                                        <li class="item"><div class="li in-share" data-href="http://f24.my/1G5bSGx" data-callback="trackingSocial.in_tracker" data-title="Confusion reigns as Paris pollution prompts traffic ban"></div></li>
+                        </ul>
+                        <p class="default-read-more">
+                            <a class="modeless" tat="_self" title="Half of all traffic was banned from taking to the roads of Paris and its suburbs Monday in a bid to tackle a dangerous spike in pollution, but the measure’s complex rules proved perplexing for many of the French capital’s motorists." rel="nofollow" href="/en/20150323-paris-pollution-confusion-traffic-ban/">Read more</a>
+                        </p>
+                    </div>
+                
+                    
+                                        
+                                                                                                                                            <div class="news-item  hidden-item" data-bo-type="article" data-bo-nid="BD93C9F5-18C1-4D98-AF47-8BE60B180D4E">
+                        <div class="media ">
+                                                        
+                                                                                                                                                                            
+                                                        
+
+                            
+                            <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/article/image/230315%20elsisi-bashir-desalegn%20Nile%20M.jpg" alt="" >
+                            
+                            <span></span>
+                        </div>
+                        <div class="copy">
+
+                                                        
+                            <p class="place">EGYPT - ETHIOPIA</p>
+                            <h2 class="title" data-title="Egypt, Ethiopia and Sudan on Monday signed an initial agreement on sharing water from the Nile River that runs through the three countries as Addis Ababa presses ahead with its construction of a massive new dam. ">Egypt, Ethiopia and Sudan sign agreement on Nile dam</h2>
+
+                        <span class="desc">
+                            <a class="modeless" target="_self" title="Egypt, Ethiopia and Sudan on Monday signed an initial agreement on sharing water from the Nile River that runs through the three countries as Addis Ababa presses ahead with its construction of a massive new dam. " href="/en/20150323-egypt-ethiopia-sudan-nile-waters-river-energy/" data-intro="Egypt, Ethiopia and Sudan on Monday signed an initial agreement on sharing water from the Nile River that runs through the three countries as Addis Ababa presses ahead with its&hellip;">Egypt, Ethiopia and Sudan on Monday signed an initial agreement on sharing water from the Nile River that runs through the three countries as Addis Ababa presses ahead with its&hellip;</a>
+                        </span>
+
+                        </div>
+
+                                                                            
+                        <ul class="social-nt">
+                            <li class="target"><div><img width="32" height="32" src="/bundles/aefhermesf24/img/01.png?version=20150312102310"></div></li>
+                            <li class="item"><div class="fb fb-share" data-href="http://f24.my/1G6t5PW" data-callback="trackingSocial.fb_tracker" data-title="Egypt, Ethiopia and Sudan sign agreement on Nile dam"></div></li>
+                            <li class="item"><div class="tw tt-share" data-href="http://f24.my/1G6t4vr" data-callback="trackingSocial.tt_tracker" data-text="Egypt, Ethiopia and Sudan sign agreement on Nile dam"></div></li>
+                            <li class="item"><div class="go gg-share" data-href="http://f24.my/1G6t4vt" data-callback="trackingSocial.gg_tracker"></div></li>
+                                                        <li class="item"><div class="re re-share" data-href="http://f24.my/1G6t5Q0" data-callback="trackingSocial.re_tracker" data-title="Egypt, Ethiopia and Sudan sign agreement on Nile dam"></div></li>
+                                                        <li class="item"><div class="li in-share" data-href="http://f24.my/1G6t5PY" data-callback="trackingSocial.in_tracker" data-title="Egypt, Ethiopia and Sudan sign agreement on Nile dam"></div></li>
+                        </ul>
+                        <p class="default-read-more">
+                            <a class="modeless" tat="_self" title="Egypt, Ethiopia and Sudan on Monday signed an initial agreement on sharing water from the Nile River that runs through the three countries as Addis Ababa presses ahead with its construction of a massive new dam. " rel="nofollow" href="/en/20150323-egypt-ethiopia-sudan-nile-waters-river-energy/">Read more</a>
+                        </p>
+                    </div>
+                
+                    
+                                        
+                                                                                                                                            <div class="news-item  hidden-item" data-bo-type="article" data-bo-nid="DBD92497-B91F-4215-A6E1-2BDAEEB4567F">
+                        <div class="media ">
+                                                        
+                                                                                                                                                                            
+                                                        
+
+                            
+                            <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/article/image/Charlie-hebdo-mur-m.jpg" alt="" >
+                            
+                            <span></span>
+                        </div>
+                        <div class="copy">
+
+                                                        
+                            <p class="place">FRANCE</p>
+                            <h2 class="title" data-title="The deluge of cash that descended on satirical French weekly Charlie Hebdo after the murderous attack on the publication in January may well turn out to be a poisoned chalice. ">Charlie Hebdo cash donations ‘doing more harm than good’</h2>
+
+                        <span class="desc">
+                            <a class="modeless" target="_self" title="The deluge of cash that descended on satirical French weekly Charlie Hebdo after the murderous attack on the publication in January may well turn out to be a poisoned chalice. " href="/en/20150323-charlie-hebdo-cash-donations-harm-good/" data-intro="The deluge of cash that descended on satirical French weekly Charlie Hebdo after the murderous attack on the publication in January may well turn out to be a poisoned chalice. ">The deluge of cash that descended on satirical French weekly Charlie Hebdo after the murderous attack on the publication in January may well turn out to be a poisoned chalice. </a>
+                        </span>
+
+                        </div>
+
+                                                                            
+                        <ul class="social-nt">
+                            <li class="target"><div><img width="32" height="32" src="/bundles/aefhermesf24/img/01.png?version=20150312102310"></div></li>
+                            <li class="item"><div class="fb fb-share" data-href="http://f24.my/1BnE416" data-callback="trackingSocial.fb_tracker" data-title="Charlie Hebdo cash donations ‘doing more harm than good’"></div></li>
+                            <li class="item"><div class="tw tt-share" data-href="http://f24.my/1BnE418" data-callback="trackingSocial.tt_tracker" data-text="Charlie Hebdo cash donations ‘doing more harm than good’"></div></li>
+                            <li class="item"><div class="go gg-share" data-href="http://f24.my/1BnE4hm" data-callback="trackingSocial.gg_tracker"></div></li>
+                                                        <li class="item"><div class="re re-share" data-href="http://f24.my/1BnE54W" data-callback="trackingSocial.re_tracker" data-title="Charlie Hebdo cash donations ‘doing more harm than good’"></div></li>
+                                                        <li class="item"><div class="li in-share" data-href="http://f24.my/1BnE54U" data-callback="trackingSocial.in_tracker" data-title="Charlie Hebdo cash donations ‘doing more harm than good’"></div></li>
+                        </ul>
+                        <p class="default-read-more">
+                            <a class="modeless" tat="_self" title="The deluge of cash that descended on satirical French weekly Charlie Hebdo after the murderous attack on the publication in January may well turn out to be a poisoned chalice. " rel="nofollow" href="/en/20150323-charlie-hebdo-cash-donations-harm-good/">Read more</a>
+                        </p>
+                    </div>
+                
+                    
+                                        
+                                                                                                                                            <div class="news-item  hidden-item" data-bo-type="article" data-bo-nid="FE7F293A-5584-49DA-AE84-0B4E3C4463C8">
+                        <div class="media video">
+                                                        
+                                                                                                                                                                            
+                                                        
+
+                            
+                            <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/article/image/Karim-Wade-AFP.jpg" alt="" >
+                            
+                            <span></span>
+                        </div>
+                        <div class="copy">
+
+                                                        
+                            <p class="place">SENEGAL</p>
+                            <h2 class="title" data-title="The son of Senegal’s former president Abdoulaye Wade was jailed for six years for corruption on Monday, dealing a blow to his hopes of running for office and deepening fault lines in the country’s political landscape.">Son of Senegal's ex-president Wade jailed for corruption</h2>
+
+                        <span class="desc">
+                            <a class="modeless" target="_self" title="The son of Senegal’s former president Abdoulaye Wade was jailed for six years for corruption on Monday, dealing a blow to his hopes of running for office and deepening fault lines in the country’s political landscape." href="/en/20150323-son-senegal-president-karim-wade-sentenced-corruption/" data-intro="The son of Senegal&rsquo;s former president Abdoulaye Wade was jailed for six years for corruption on Monday, dealing a blow to his hopes of running for office and deepening fault&hellip;">The son of Senegal&rsquo;s former president Abdoulaye Wade was jailed for six years for corruption on Monday, dealing a blow to his hopes of running for office and deepening fault&hellip;</a>
+                        </span>
+
+                        </div>
+
+                                                                            
+                        <ul class="social-nt">
+                            <li class="target"><div><img width="32" height="32" src="/bundles/aefhermesf24/img/01.png?version=20150312102310"></div></li>
+                            <li class="item"><div class="fb fb-share" data-href="http://f24.my/1Bnqmer" data-callback="trackingSocial.fb_tracker" data-title="Son of Senegal's ex-president Wade jailed for corruption"></div></li>
+                            <li class="item"><div class="tw tt-share" data-href="http://f24.my/1Bnqmet" data-callback="trackingSocial.tt_tracker" data-text="Son of Senegal's ex-president Wade jailed for corruption"></div></li>
+                            <li class="item"><div class="go gg-share" data-href="http://f24.my/1BnqjiS" data-callback="trackingSocial.gg_tracker"></div></li>
+                                                        <li class="item"><div class="re re-share" data-href="http://f24.my/1BnqjiU" data-callback="trackingSocial.re_tracker" data-title="Son of Senegal's ex-president Wade jailed for corruption"></div></li>
+                                                        <li class="item"><div class="li in-share" data-href="http://f24.my/1Bnqmev" data-callback="trackingSocial.in_tracker" data-title="Son of Senegal's ex-president Wade jailed for corruption"></div></li>
+                        </ul>
+                        <p class="default-read-more">
+                            <a class="modeless" tat="_self" title="The son of Senegal’s former president Abdoulaye Wade was jailed for six years for corruption on Monday, dealing a blow to his hopes of running for office and deepening fault lines in the country’s political landscape." rel="nofollow" href="/en/20150323-son-senegal-president-karim-wade-sentenced-corruption/">Read more</a>
+                        </p>
+                    </div>
+                
+                    
+                                        
+                                                                                                                                            <div class="news-item  hidden-item" data-bo-type="article" data-bo-nid="D2EFC89D-2BD7-4BF9-A106-AEC0765B21D6">
+                        <div class="media video">
+                                                        
+                                                                                                                                                                            
+                                                        
+
+                            
+                            <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/article/image/RemiSanaiya.jpg" alt="" >
+                            
+                            <span></span>
+                        </div>
+                        <div class="copy">
+
+                                                        
+                            <p class="place">AFRICA</p>
+                            <h2 class="title" data-title="Nigeria’s only female presidential candidate, Remi Sonaiya, is on a mission to win votes ahead of the country’s elections on March 28.  ">Video: Nigeria's only female presidential candidate</h2>
+
+                        <span class="desc">
+                            <a class="modeless" target="_self" title="Nigeria’s only female presidential candidate, Remi Sonaiya, is on a mission to win votes ahead of the country’s elections on March 28.  " href="/en/20150323-nigeria-female-candidate-remi-sonaiya/" data-intro="Nigeria&rsquo;s only female presidential candidate, Remi Sonaiya, is on a mission to win votes ahead of the country&rsquo;s elections on March 28.  ">Nigeria&rsquo;s only female presidential candidate, Remi Sonaiya, is on a mission to win votes ahead of the country&rsquo;s elections on March 28.  </a>
+                        </span>
+
+                        </div>
+
+                                                                            
+                        <ul class="social-nt">
+                            <li class="target"><div><img width="32" height="32" src="/bundles/aefhermesf24/img/01.png?version=20150312102310"></div></li>
+                            <li class="item"><div class="fb fb-share" data-href="http://f24.my/1BnpC96" data-callback="trackingSocial.fb_tracker" data-title="Video: Nigeria's only female presidential candidate"></div></li>
+                            <li class="item"><div class="tw tt-share" data-href="http://f24.my/1BnpC99" data-callback="trackingSocial.tt_tracker" data-text="Video: Nigeria's only female presidential candidate"></div></li>
+                            <li class="item"><div class="go gg-share" data-href="http://f24.my/1BnpC9b" data-callback="trackingSocial.gg_tracker"></div></li>
+                                                        <li class="item"><div class="re re-share" data-href="http://f24.my/1BnpC9d" data-callback="trackingSocial.re_tracker" data-title="Video: Nigeria's only female presidential candidate"></div></li>
+                                                        <li class="item"><div class="li in-share" data-href="http://f24.my/1BnpEOu" data-callback="trackingSocial.in_tracker" data-title="Video: Nigeria's only female presidential candidate"></div></li>
+                        </ul>
+                        <p class="default-read-more">
+                            <a class="modeless" tat="_self" title="Nigeria’s only female presidential candidate, Remi Sonaiya, is on a mission to win votes ahead of the country’s elections on March 28.  " rel="nofollow" href="/en/20150323-nigeria-female-candidate-remi-sonaiya/">Read more</a>
+                        </p>
+                    </div>
+                
+                    
+                                        
+                                                                                                                                            <div class="news-item  hidden-item" data-bo-type="article" data-bo-nid="877354D5-19EB-4E68-B502-BDB2031D6E1D">
+                        <div class="media ">
+                                                        
+                                                                                                                                                                            
+                                                        
+
+                            
+                            <img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_medium_169/article/image/EBOLA%20-AFP.jpg" alt="" >
+                            
+                            <span></span>
+                        </div>
+                        <div class="copy">
+
+                                                        
+                            <p class="place">HEALTH</p>
+                            <h2 class="title" data-title="A year on from the start of the Ebola outbreak, a report published Monday by frontline aid agency Doctors Without Borders slammed the international community&#039;s slow response and detailed the &quot;indescribable horror&quot; faced by its staff.">Doctors Without Borders slams WHO's slow reaction to Ebola </h2>
+
+                        <span class="desc">
+                            <a class="modeless" target="_self" title="A year on from the start of the Ebola outbreak, a report published Monday by frontline aid agency Doctors Without Borders slammed the international community&#039;s slow response and detailed the &quot;indescribable horror&quot; faced by its staff." href="/en/20150323-doctors-msf-who-slow-response-ebola/" data-intro="A year on from the start of the Ebola outbreak, a report published Monday by frontline aid agency Doctors Without Borders slammed the international community's slow response and&hellip;">A year on from the start of the Ebola outbreak, a report published Monday by frontline aid agency Doctors Without Borders slammed the international community's slow response and&hellip;</a>
+                        </span>
+
+                        </div>
+
+                                                                            
+                        <ul class="social-nt">
+                            <li class="target"><div><img width="32" height="32" src="/bundles/aefhermesf24/img/01.png?version=20150312102310"></div></li>
+                            <li class="item"><div class="fb fb-share" data-href="http://f24.my/1EIvUEZ" data-callback="trackingSocial.fb_tracker" data-title="Doctors Without Borders slams WHO's slow reaction to Ebola "></div></li>
+                            <li class="item"><div class="tw tt-share" data-href="http://f24.my/1EIvVZu" data-callback="trackingSocial.tt_tracker" data-text="Doctors Without Borders slams WHO's slow reaction to Ebola "></div></li>
+                            <li class="item"><div class="go gg-share" data-href="http://f24.my/1EIvVZy" data-callback="trackingSocial.gg_tracker"></div></li>
+                                                        <li class="item"><div class="re re-share" data-href="http://f24.my/1EIvVZA" data-callback="trackingSocial.re_tracker" data-title="Doctors Without Borders slams WHO's slow reaction to Ebola "></div></li>
+                                                        <li class="item"><div class="li in-share" data-href="http://f24.my/1EIvUF3" data-callback="trackingSocial.in_tracker" data-title="Doctors Without Borders slams WHO's slow reaction to Ebola "></div></li>
+                        </ul>
+                        <p class="default-read-more">
+                            <a class="modeless" tat="_self" title="A year on from the start of the Ebola outbreak, a report published Monday by frontline aid agency Doctors Without Borders slammed the international community&#039;s slow response and detailed the &quot;indescribable horror&quot; faced by its staff." rel="nofollow" href="/en/20150323-doctors-msf-who-slow-response-ebola/">Read more</a>
+                        </p>
+                    </div>
+                                    </div>
+    
+
+                        
+                
+        <div class="f-expand-items">
+                    <a href="/en/" class="default-button-1 newsfeed_limit">Read more articles</a>
+            </div>
+
+
+            
+        </div>
+    </article>
+
+    <aside class="col-2">
+                    
+        <div class="featured-contents" data-bo-type="em" data-bo-nid="A2DBADBA-F165-4708-8098-1CCE3E8C1D0E">
+        <ul class="slides">
+                                    <li><a href="http://www.france24.com/en/f24-interview/20150321-armenian-president-sargsyan-turkey-erdogan-genocide-centennial/" target="_blank"><img src="http://scd.france24.com/en/files/element_multimedia/image/autopromo-entretien-sarkissian_EN.png" alt="" /></a></li>
+                                                <li style="display: none"><a href="http://www.france24.com/en/20150321-reporters-video-is-group-film-raqqa/" target="_blank"><img src="http://scd.france24.com/en/files/element_multimedia/image/autopromo-reporter-raqqa_EN.png" alt="" /></a></li>
+                                                <li style="display: none"><a href="http://observers.france24.com/content/20150316-algeria-women-haik-veil-march" target="_blank"><img src="http://scd.france24.com/en/files/element_multimedia/image/vignette-algeria.jpg" alt="" /></a></li>
+                                                <li style="display: none"><a href="http://www.france24.com/en/20150212-reporters-tunisia-jihad-syria-iraq-islamist-arab-spring/" target="_blank"><img src="http://scd.france24.com/en/files/element_multimedia/image/autopromo-reporter-tunisie-EN.png" alt="" /></a></li>
+                                                <li style="display: none"><a href="http://www.france24.com/en/20150305-france-archaeology-royal-celtic-prince-burial-site-lavau/" target="_blank"><img src="http://scd.france24.com/en/files/element_multimedia/image/autopromo-f24-ancien-celtic-treasure.png" alt="" /></a></li>
+                            </ul>
+    </div>
+
+
+    <div class="information-board">
+                    <hx:include src="http://www.france24.com/en/_fragment/timeline/"></hx:include>
+        
+    </div>
+
+
+
+
+            </aside>
+
+    <div class="wide-angle">
+                        <div class="hd">
+        <span class="default-header-1">Featured</span>
+        <a href="/en/webdocumentaries/" class="link">Graphics and webdocumentaries</a>
+        <a href="/en/special-reports" class="link">In depth</a>
+    </div>
+    <div class="bd">
+        <ul class="wa-list slides">
+                                        <li data-bo-type="article" data-bo-nid="74E2D59E-ED2D-4F09-ACE9-6AEEC4376D14">
+                                                            <p class="media"><img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_bigger_169/article/image/UMP-departementales-afp_1.jpg" alt="" /></p>
+
+                    <div class="copy">
+                                                                          <span class="surtitle display-inline-block">FRANCE-ELECTIONS</span>
+                                                <span class="title display-inline-block">Has Sarkozy won his first battle to reclaim the Elysée?</span>
+                    </div>
+
+                                                            
+                    <p class="default-read-more">
+                        <a rel="nofollow" title="Has Sarkozy won his first battle to reclaim the Elysée?" href="/en/20150323-france-local-elections-sarkozy-presidency/" class="modeless" >
+                            Read more
+                        </a>
+                    </p>
+                </li>
+                            <li data-bo-type="article" data-bo-nid="98BEB803-939A-433E-A657-7CF8D10F389E">
+                                                            <p class="media"><img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_bigger_169/article/image/210315-messe-tunis-main-m.jpg" alt="" /></p>
+
+                    <div class="copy">
+                                                                          <span class="surtitle display-inline-block">TUNISIA</span>
+                                                <span class="title display-inline-block">French expats in Tunis stand firm after museum attack </span>
+                    </div>
+
+                                                            
+                    <p class="default-read-more">
+                        <a rel="nofollow" title="French expats in Tunis stand firm after museum attack " href="/en/20150322-tunisia-french-expats-museum-attack-business-tourism/" class="modeless" >
+                            Read more
+                        </a>
+                    </p>
+                </li>
+                            <li data-bo-type="edition" data-bo-nid="AE83FC3B-0367-4AFB-9362-BA64DED2FDE9">
+                                                            <p class="media"><img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_bigger_169/edition/REPORTERS-RAQQA-PLT-03.jpg" alt="" /></p>
+
+                    <div class="copy">
+                                                                          <span class="surtitle display-inline-block">DOCUMENTARY</span>
+                                                <span class="title display-inline-block">The Syrian woman who dared film life under the IS group </span>
+                    </div>
+
+                                                            
+                    <p class="default-read-more">
+                        <a rel="nofollow" title="The Syrian woman who dared film life under the IS group " href="/en/20150321-reporters-video-is-group-film-raqqa/" class="modeless" >
+                            Read more
+                        </a>
+                    </p>
+                </li>
+                            <li data-bo-type="article" data-bo-nid="1B55C01F-FE5F-4407-BD83-721F530C55CF">
+                                                            <p class="media"><img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_bigger_169/article/image/20150318%20gordon%20brown.jpg" alt="" /></p>
+
+                    <div class="copy">
+                                                                          <span class="surtitle display-inline-block">UNITED NATIONS</span>
+                                                <span class="title display-inline-block">Gordon Brown leads charge for safe schools in conflict zones</span>
+                    </div>
+
+                                                            
+                    <p class="default-read-more">
+                        <a rel="nofollow" title="Gordon Brown leads charge for safe schools in conflict zones" href="/en/20150319-gordon-brown-leads-charge-safe-schools-conflict-pakistan-lebanon-nigeria-south-sudan/" class="modeless" >
+                            Read more
+                        </a>
+                    </p>
+                </li>
+                            <li data-bo-type="edition" data-bo-nid="0A82EF87-E9B8-4E07-85C0-49D5B3ADE6CC">
+                                                            <p class="media"><img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_bigger_169/edition/XX%20NW%20HDL%20FREEZE%20EBOLA.jpg" alt="" /></p>
+
+                    <div class="copy">
+                                                                          <span class="surtitle display-inline-block">THE 51 PERCENT</span>
+                                                <span class="title display-inline-block">Surviving Ebola; Women bear the brunt of the deadly disease </span>
+                    </div>
+
+                                                            
+                    <p class="default-read-more">
+                        <a rel="nofollow" title="Surviving Ebola; Women bear the brunt of the deadly disease " href="/en/20150320-the-51-percent-ebola-survivors-india-rape-motor-racing-women/" class="modeless" >
+                            Read more
+                        </a>
+                    </p>
+                </li>
+                            <li data-bo-type="article" data-bo-nid="5A535C6F-3343-4AB0-88F9-7494A9331FDE">
+                                                            <p class="media"><img src="http://scd.france24.com/en/files/imagecache/france24_ct_api_bigger_169/article/image/le-mont-michel.jpg" alt="" /></p>
+
+                    <div class="copy">
+                                                                          <span class="surtitle display-inline-block">FRANCE</span>
+                                                <span class="title display-inline-block">'Tide of the century' swells around Mont Saint-Michel</span>
+                    </div>
+
+                                                            
+                    <p class="default-read-more">
+                        <a rel="nofollow" title="&#039;Tide of the century&#039; swells around Mont Saint-Michel" href="/en/20150321-france-tide-century-mont-saint-michel-brittany/" class="modeless" >
+                            Read more
+                        </a>
+                    </p>
+                </li>
+                    </ul>
+    </div>
+
+            </div>
+
+    <div class="our-programs">
+                        <div class="hd">
+        <span class="default-header-1">SHOWS</span>
+    </div>
+    <div class="bd">
+        <ul class="op-list slides">
+                                                                                        <li data-bo-type="edition" data-bo-nid="AE83FC3B-0367-4AFB-9362-BA64DED2FDE9">
+                    <p class="media"><img src="http://scd.france24.com/en/files/imagecache/hermes_infographie_vignette_home/edition/REPORTERS-RAQQA-PLT-03.jpg" width="196"  alt="" /></p>
+                    <div class="copy">
+                        <span class="title">REPORTERS</span>
+                        <p class="desc">The Syrian woman who dared film life under the IS group </p>
+                    </div>
+                    <p class="default-read-more">
+                        <a rel="nofollow" title="The Syrian woman who dared film life under the IS group " href="/en/20150321-reporters-video-is-group-film-raqqa/" class="modeless">read more</a>
+                    </p>
+                </li>
+                                                                            <li data-bo-type="edition" data-bo-nid="ADB5CD59-3608-459F-8317-12EF75E89D87">
+                    <p class="media"><img src="http://scd.france24.com/en/files/imagecache/hermes_infographie_vignette_home/edition/XX%20NW%20HDL%20TUNISIA.jpg" width="196"  alt="" /></p>
+                    <div class="copy">
+                        <span class="title">EYE ON AFRICA </span>
+                        <p class="desc">President Essebsi calls for unity in the face of terrorism</p>
+                    </div>
+                    <p class="default-read-more">
+                        <a rel="nofollow" title="President Essebsi calls for unity in the face of terrorism" href="/en/20150321-eye-africa-remi-sonaiya-candidate-election-nigeria/" class="modeless">read more</a>
+                    </p>
+                </li>
+                                                                            <li data-bo-type="edition" data-bo-nid="7B68835E-36BC-460E-990E-8A956F96525F">
+                    <p class="media"><img src="http://scd.france24.com/en/files/imagecache/hermes_infographie_vignette_home/edition/XX%20NW%20HDL%20EBOLA%20_0.jpg" width="196"  alt="" /></p>
+                    <div class="copy">
+                        <span class="title">EYE ON AFRICA </span>
+                        <p class="desc">Ebola one year anniversray, Karim Wade sentenced to 6 years behind bars</p>
+                    </div>
+                    <p class="default-read-more">
+                        <a rel="nofollow" title="Ebola one year anniversray, Karim Wade sentenced to 6 years behind bars" href="/en/20150323-2015-03-23-2146-eye-africa-ebola-karim-wade/" class="modeless">read more</a>
+                    </p>
+                </li>
+                                                                            <li data-bo-type="edition" data-bo-nid="7EB1055B-39A7-4F53-B579-26FF8B9C8AA0">
+                    <p class="media"><img src="http://scd.france24.com/en/files/imagecache/hermes_infographie_vignette_home/edition/thinksss.jpg" width="196"  alt="" /></p>
+                    <div class="copy">
+                        <span class="title">MEDIAWATCH</span>
+                        <p class="desc">French local elections: cigars, Chirac t-shirts and Sarkozy tattoos</p>
+                    </div>
+                    <p class="default-read-more">
+                        <a rel="nofollow" title="French local elections: cigars, Chirac t-shirts and Sarkozy tattoos" href="/en/mediawatch/20150323-french-local-elections-sarkozy-tattoo-valls-cigar/" class="modeless">read more</a>
+                    </p>
+                </li>
+                                                                            <li data-bo-type="edition" data-bo-nid="AD590B56-35A7-45D1-AF7F-8AB0DE0B1A7C">
+                    <p class="media"><img src="http://scd.france24.com/en/files/imagecache/hermes_infographie_vignette_home/edition/le%20pen%2023%20march.jpg" width="196"  alt="" /></p>
+                    <div class="copy">
+                        <span class="title">DEBATE</span>
+                        <p class="desc">How to handle Le Pen: Mainstream parties at odds over French election results (p...</p>
+                    </div>
+                    <p class="default-read-more">
+                        <a rel="nofollow" title="How to handle Le Pen: Mainstream parties at odds over French election results (part 2)" href="/en/20150323-the-debate-french-elections-parttwo/" class="modeless">read more</a>
+                    </p>
+                </li>
+                                                                            <li data-bo-type="edition" data-bo-nid="B0E02CDA-26DD-4587-9B2F-6F7AE9F725CC">
+                    <p class="media"><img src="http://scd.france24.com/en/files/imagecache/hermes_infographie_vignette_home/edition/le%20pen%2023%20march.jpg" width="196"  alt="" /></p>
+                    <div class="copy">
+                        <span class="title">DEBATE</span>
+                        <p class="desc">How to handle Le Pen: Mainstream parties at odds over French election results (p...</p>
+                    </div>
+                    <p class="default-read-more">
+                        <a rel="nofollow" title="How to handle Le Pen: Mainstream parties at odds over French election results (part 1)" href="/en/20150323-the-debate-french-elections-partone/" class="modeless">read more</a>
+                    </p>
+                </li>
+                                                                            <li data-bo-type="edition" data-bo-nid="4311EC70-7D9E-4A57-B2AE-22361E8933B9">
+                    <p class="media"><img src="http://scd.france24.com/en/files/imagecache/hermes_infographie_vignette_home/edition/elex2.jpg" width="196"  alt="" /></p>
+                    <div class="copy">
+                        <span class="title">IN THE PAPERS</span>
+                        <p class="desc">'Hollande's party loses out to the right'</p>
+                    </div>
+                    <p class="default-read-more">
+                        <a rel="nofollow" title="&#039;Hollande&#039;s party loses out to the right&#039;" href="/en/20150323-nicolas-sarkozy-UMP-party-wins-local-election-first-round-tributes-for-lee-kuan-yew-and-Richard-III/" class="modeless">read more</a>
+                    </p>
+                </li>
+                                                                            <li data-bo-type="edition" data-bo-nid="C4F64A56-F98F-447E-B393-E0109137D127">
+                    <p class="media"><img src="http://scd.france24.com/en/files/imagecache/hermes_infographie_vignette_home/edition/elex.jpg" width="196"  alt="" /></p>
+                    <div class="copy">
+                        <span class="title">IN THE PAPERS</span>
+                        <p class="desc">UMP triumphs as National Front surges and Socialists slump</p>
+                    </div>
+                    <p class="default-read-more">
+                        <a rel="nofollow" title="UMP triumphs as National Front surges and Socialists slump" href="/en/20150323-nicolas-sarkozy-UMP-party-on-top-after-local-elections-National-Front-make-gains/" class="modeless">read more</a>
+                    </p>
+                </li>
+                                                                            <li data-bo-type="edition" data-bo-nid="F7B43E97-275E-492C-BDC5-5E800D316F29">
+                    <p class="media"><img src="http://scd.france24.com/en/files/imagecache/hermes_infographie_vignette_home/edition/FR%20NW%20PKG%20FOCUS%200323%20LIBERI2.jpg" width="196"  alt="" /></p>
+                    <div class="copy">
+                        <span class="title">FOCUS</span>
+                        <p class="desc">Video: One year on, Liberia on the road to recovery </p>
+                    </div>
+                    <p class="default-read-more">
+                        <a rel="nofollow" title="Video: One year on, Liberia on the road to recovery " href="/en/focus/20150323-ebola-liberia-road-recovery-health/" class="modeless">read more</a>
+                    </p>
+                </li>
+                    </ul>
+    </div>
+
+            </div>
+
+    <div class="our-networks">
+                        <div class="hd">
+        <span class="default-header-1">Social media</span>
+    </div>
+                                <div class="most-popular">
+        <span class="title">Most read</span>        <div class="bd">
+                                                <ul class="slides"></ul>
+        </div>
+    </div>
+    <div class="most-comments">
+        <span class="title">Hot topics</span>        <div class="bd">
+                                                <ul class="slides"></ul>
+        </div>
+    </div>
+
+            </div>
+
+    <div class="intro-program">
+                    <div class="ip-item">
+            <span class="hd">ON FRANCE 24.COM</span>
+        <div class="bd">
+                                                            <a href="https://www.youtube.com/watch?v=2VSO5iKL0R8"e target="_blank"><img src="http://scd.france24.com/en/files/element_multimedia/image/autopromo-reporter-raqqa_EN_0.png" alt="" /></a>
+                                    </div>
+    </div>
+
+<div class="ip-item">
+            <span class="hd">WEBDOCS</span>
+        <div class="bd">
+                                                            <a href="http://www.france24.com/en/webdocumentaries/" target="_blank"><img src="http://scd.france24.com/en/files/element_multimedia/image/webdocs_en_324x146.jpg" alt="" /></a>
+                                    </div>
+    </div>
+
+<div class="ip-item">
+        <div class="bd">
+                    <div id="tcf24_3" class="tc-block-dbug">
+                    <script id="tc_handler_3" type="text/javascript" data-tg="cold">
+        window.tc_handlers = window.tc_handlers || {};
+        window.tc_handlers[3] = {
+            handler: function(force) {
+                if (force === true) {
+                    this.status = false;
+                }
+                if (this.status === true) {
+                    return;
+                }
+                this.status = true;
+                var _script = document.getElementById('tc_handler_3');
+                if (!_script) {
+                    this.status = false;
+                    return;
+                }
+                var script = document.createElement('script');
+                script.src = "//static.france24.com/tc/tc_France24_3.js";
+                _script.parentNode.appendChild(script);
+                _script.setAttribute("data-tg", "warm");
+               // OAS_RICH('Top');
+            },
+            status: false,
+            identifier: 3
+        };
+    </script>
+    
+    </div>
+
+    </div>
+</div>
+
+            </div>
+
+                                                                                                            <script type="text/javascript" src="//static.france24.com/tc/tc_France24_21.js"></script>
+    
+                                                            </div>
+                                                                                        <p class="page-navigation">
+                                    
+            <a href="#" class="next"><strong>FRANCE</strong><span></span></a>
+        <a href="#" class="prev"><span></span><strong>FRANCE</strong></a>
+    
+
+                                </p>
+                                                                                </div>
+                    </div>
+                </div>
+            </div>
+            <footer>
+                                    
+
+
+
+
+
+
+
+<div class="inner">
+    <img class="f-logo" src="/bundles/aefhermesf24/img/france-24-logo.png?version=20150312102310" alt="" />
+
+                        <div class="f-link-list fl-l-l-1 fl-l-l-l-1">
+                <p>News</p>
+                <ul>
+                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  class="modeless" href="/en/" title="International breaking news and headlines">Top stories</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  class="modeless" href="/en/france/" title="Latest news reports on FRANCE, French politics and culture">France</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  class="modeless" href="/en/africa/" title="Breaking news from AFRICA, Maghreb and Sub-Saharan Africa">Africa</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  class="modeless" href="/en/middle-east/" title="Latest news from the Middle East, daily international news reports">Middle East</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  class="modeless" href="/en/americas/" title="International news from the Americas - France 24">Americas</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  class="modeless" href="/en/europe/" title="News from Europe - Latest world headlines and daily news - France 24">Europe</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  class="modeless" href="/en/asia-pacific/" title="News from Asia Pacific - Latest headlines and news reports - France 24">Asia/Pacific</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  class="modeless" href="/en/business-tech/" title="Business news, technology, media and finance reports">Business/Tech</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  class="modeless" href="/en/sport/" title="SPORTS news, stories and scores - Football, tennis, F1…">Sports</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  class="modeless" href="/en/culture/" title="News and stories on CULTURE, movies, music, literature">Culture</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  class="modeless" href="/en/oped/" title="Editorials from the newsroom">Oped</a></li>
+                                                            </ul>
+            </div>
+            
+                        <div class="f-link-list fl-l-l-2">
+                <p>Beyond the news</p>
+                <ul>
+                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="http://observers.france24.com/en" title="The Observers" target="_blank">The Observers</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  class="modeless" href="/en/special-reports" title="All the articles and videos about main international issues">In depth</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  class="" href="/en/blogs" title="Blogs" target="_blank">Blogs</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  class="modeless" href="/en/webdocumentaries/" title="Webdocumentaries and Infographics">Webdocumentaries</a></li>
+                                                            </ul>
+            </div>
+                    <div class="f-link-list fl-l-l-3">
+                <p>On TV</p>
+                <ul>
+                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="/en/livefeed" class="modeless video" title="Watch France 24 live">France 24 live</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="/en/tv-shows/" class="modeless" title="TV shows, VOD, exclusive interviews and reports">Shows</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="/en/on-the-ground/" class="modeless" title="Watch the latest &quot;On the ground&quot; reports">Documentaries</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="/en/emissions/in the papers/" class="modeless" title="Press review">Press review</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="/en/tv-shows/" class="modeless" title="Podcasts">Podcasts</a></li>
+                                                            </ul>
+            </div>
+                    <div class="f-link-list fl-l-l-4">
+                <p>Online services</p>
+                <ul>
+                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="/en/services" class="modeless" title="All France 24 services">All our services</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="/en/newsletters" class="modeless" title="Newsletters">Newsletters</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="/en/mobile" class="modeless" title="Mobile and Tablet applications">Mobiles / Tablets</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="/en/connected-tv" class="modeless" title="France 24 on connected TV">Connected TV</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="/en/rss/" class="modeless" title="RSS feeds">RSS feeds</a></li>
+                                                            </ul>
+            </div>
+            
+    <span class="f-line-1"></span>
+    <span class="f-line-2"></span>
+            <div class="f-social-link">
+                                                                                                
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    <a  href="/en/join-the-community" class="modeless" title="Join the France 24 community">Join the community</a>
+                                                                                                        
+                                                                                                                                                                                                                                                                                                                                                                                                                                                    <a  href="/en/social-media" class="modeless" title="France 24 on Social Media">France 24 on social media</a>
+                                                                            <ul>
+                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="http://f24.my/U14O8C" class="fb" title="Facebook" target="_blank">Facebook</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="http://f24.my/XLkdot" class="tw" title="Twitter" target="_blank">Twitter</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="http://f24.my/tASiE4" class="go" title="Google +" target="_blank">Google +</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="http://f24.my/cHF8Wc" class="dm" title="Dailymotion" target="_blank">Dailymotion</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="http://f24.my/bGRWve" class="yt" title="Youtube" target="_blank">Youtube</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="http://f24.my/oTjdan" class="fs" title="Foursquare" target="_blank">Foursquare</a></li>
+                                                                                                                            
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="http://f24.my/nsM8q8" class="sc" title="Soundcloud" target="_blank">Soundcloud</a></li>
+                                                            </ul>
+                    </div>
+            <div class="f-adv">
+                    <div id="tcf24_19" class="tc-block-dbug">
+                                    
+                            <iframe id="tcf24_ifr_pa2" src="/ads/ftp?id=19&pid=aef_hermes_f24_homepage.en" width="300" height="250" frameborder="0" scrolling="no"></iframe>
+                        
+    </div>
+
+    </div>
+                                                                                                                                                                                                        <div class="f-map">
+            <a  href="/en/how-to-watch-on-tv" class="modeless" title="Watch us on TV">Watch us on TV</a>
+        </div>
+                <nav class="f-nav">
+        <ul>
+                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="/en/company" class="modeless" title="France 24, the Company">About France 24</a></li>
+                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="/en/category/tags-thematiques/Press Release/" class="modeless" title="Press releases">Press</a></li>
+                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            <li><a  href="http://www.france24.com/static/infographies/presse/FRANCE24_PressKit_1213_EN.pdf" class="" title="" target="_blank">Press kit</a></li>
+                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="/en/contact-us/?section=advertising" class="modeless" title="Advertizing opportunities and partnerships">Advertising</a></li>
+                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="/en/help" class="modeless" title="Help">Help</a></li>
+                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="/en/contact-us" class="modeless" title="Contact us">Contact us</a></li>
+                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="/en/site-map" class="modeless" title="Site map">Site map</a></li>
+                                                                                                    
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    <li><a  href="/en/terms-of-use" class="modeless" title="Terms of use">Terms of use</a></li>
+                                                    </ul>
+    </nav>
+        <div class="f-partner">
+        <a href="http://www.english.rfi.fr/" target="_blank"><img src="/bundles/aefhermesf24/img/rfi-logo.png?version=20150312102310" alt="" /></a>
+        <a href="/en/" target="_blank"><img src="/bundles/aefhermesf24/img/france24-logo.png?version=20150312102310" alt="" /></a>
+        <a href="http://www.mc-doualiya.com/" target="_blank"><img src="/bundles/aefhermesf24/img/mcd-logo.png?version=20150312102310" alt="" /></a>
+        <a href="http://www.francemediasmonde.com" target="_blank"><img src="/bundles/aefhermesf24/img/fmm-logo.png?version=20150312102310" alt="" /></a>
+    </div>
+    <p class="f-copy">
+        © 2015 Copyright France 24 – All rights reserved<br>
+        France 24 is not responsible for the content of external websites<br>
+            </p>
+</div>
+
+                            </footer>
+
+                            <!-- placeholder -->
+<script>
+var CEM=function(){
+$('div.emissions-list.emmission-last.shadow-section h5:contains("ENCORE!")').html('Daily culture show : ENCORE!');
+};
+var checker = 0;
+function jqueryLoaded() {
+clearInterval(checker);
+window.CEM();
+}
+function checkJquery() {
+if (window.jQuery) {
+jqueryLoaded();
+}
+if(checker == 0) {
+checker = window.setInterval(checkJquery, 100);
+}
+}	
+checkJquery();
+</script>
+            
+            <div class="short-cuts-outer">
+                                    
+                <div class="short-cuts">
+
+            <div class="sc-social">
+                <p class="hd">
+                    <span class="btn-access">Login</span>
+                    <a href="#" class="fb">Facebook</a>
+                    <a href="#" class="tw">Twitter</a>
+                    <a href="#" class="gp">Google+</a>
+                    <a href="#" class="win">Windows</a>
+                </p>
+            </div>
+            <div class="sc-search">
+                <p class="hd">
+                    <a href="#">search</a>
+                </p>
+                <div class="bd">
+                    <!--<form class="search-form" action="" accept-charset="utf-8">
+                        <fieldset>
+                            <legend>Search form:</legend>
+                            <input type="text" placeholder="François Hollande">
+                            <button type="submit">Search</button>
+                        </fieldset>
+                    </form>-->
+                                            <form name="Search" method="get" action="/en/search/" id="sinequa-search-form"><div><label for="Search_term" class="required">Term</label><input type="text" id="Search_term" name="Search[term]" required="required" placeholder="Search&hellip;" /></div><input type="hidden" id="Search_page" name="Search[page]" value="1" /><div><button type="submit">Launch search</button></div><div><label class="required">Filters</label><div id="Search_filters"></div></div></form>
+                                    </div>
+            </div>
+            <div class="sc-mail">
+                <p class="hd">
+                                        <a href="/en/newsletters">e-mail</a>
+                </p>
+            </div>
+            <div class="sc-info">
+                <p class="hd">France Médias Monde sites</p>
+                <div class="bd">
+                    <ul>
+                        <li><a href="http://observers.france24.com/en" target="_blank">The Observers</a></li>
+                        <li><a href="http://www.english.rfi.fr/" target="_blank">RFI </a></li>
+                        <li><a href="http://www.rfimusic.com/" target="_blank">RFI Music</a></li>
+                        <li><a href="http://www.mc-doualiya.com/" target="_blank">Monte Carlo Doualiya</a></li>
+                        <li><a href="http://academie.france24-mcd-rfi.com/en/" target="_blank">Académie</a></li>
+                        <li><a href="http://www.francemediasmonde.com/" target="_blank">France Médias Monde</a></li>
+                                                                    </ul>
+                </div>
+            </div>
+            <div class="sc-voy">
+                <p class="hd">
+                    <a href="/en/how-to-watch-on-tv">Watch us on TV</a>
+                </p>
+            </div>
+                            <div class="sc-voy">
+                    <p class="hd">
+                        <a href="/en/hotels">Hotels</a>
+                    </p>
+                </div>
+                        <div class="sc-lang">
+                <p class="hd">
+                                                                                        <a class="" href="/fr/">Français</a>
+
+                                                                    <a class="active" href="/en/">English</a>
+
+                                                                    <a class="" href="/ar/">عربي</a>
+
+                                    </p>
+            </div>
+        </div>
+                
+
+                            </div>
+
+        </div>
+
+    </body>
+
+</html>

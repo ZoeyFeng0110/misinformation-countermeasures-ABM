@@ -1,0 +1,2842 @@
+HTTP/1.1 200 OK
+Content-Type: text/html;charset=UTF-8
+Set-Cookie: JSESSIONID=A9609408C531B5BA52460E9772D4ED82; Path=/telegraph
+Set-Cookie: tmg_authz_session=a5421347-d368-4284-a210-a2a9f0dba51e:node2;Version=1;Comment=;Domain=.telegraph.co.uk;Path=/;Max-Age=644807
+Set-Cookie: tmg_web_trends=meter_viewed_count:1,meter_updated:1;Version=1;Comment=;Domain=.telegraph.co.uk;Path=/;Max-Age=3600
+Content-Language: en-GB
+Vary: Accept-Encoding
+X-UA-Compatible: IE=Edge
+ETag: 11332411-1427197992085
+Content-Encoding: gzip
+Expires: Tue, 24 Mar 2015 11:53:12 GMT
+Cache-Control: max-age=0, no-cache, no-store
+Pragma: no-cache
+Date: Tue, 24 Mar 2015 11:53:12 GMT
+Transfer-Encoding:  chunked
+Connection: keep-alive
+Connection: Transfer-Encoding
+
+<!--[if IE ]>
+<!doctype html>
+<![endif]-->
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+<script src="//cdn.optimizely.com/js/1425218314.js"></script>
+        <script type="text/javascript">
+        // <![CDATA[
+        for(var i = 0; i < optimizely["activeExperiments"].length; i++){
+            var expid = optimizely["activeExperiments"][i];
+            var experimentname = optimizely.data.experiments[expid].name;
+            var variationname = optimizely.variationNamesMap[expid];
+            optimizely.$("head").prepend("<meta name=\"DCSext.opt\" content=\"" + experimentname + "-" + variationname +"\" />");
+        }
+        // ]]>
+    </script>
+<script type="text/javascript">
+           /* EPOCH time at the start of the page */
+
+           /*As IE8 doest support Date.now() functionality,using the diffrent one*/
+             if (!Date.now) {
+                    Date.now = function now() {
+                      return new Date().getTime();
+                   };
+              }
+
+              var pageStartTime = Date.now();
+</script>
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+<title>Said and Cherif Kouachi: the two brothers suspected of the Charlie Hebdo massacre - Telegraph</title>
+
+
+
+<meta name="description" content="With a history of dead-end jobs, rap music and involvement with a radical 
+  preacher, the brothers fit the classic profile of jihadist recruits" />
+
+<meta name="keywords" content="charlie hebdo, terrorist, attack, paris, Kouachi, said, cherif, france, french, ch, France,Europe,World News,News" />
+
+<meta name="news_keywords" content="charlie hebdo, terrorist, attack, paris, Kouachi, said, cherif, france, french, ch"> 
+<meta name="parsely-page" content='{"title": "Said and Cherif Kouachi: the two brothers suspected of the Charlie Hebdo massacre ","link": "http://www.telegraph.co.uk/news/worldnews/europe/france/11332411/Said-and-Cherif-Kouachi-who-are-the-two-brothers-suspected-of-launching-Charlie-Hebdo-attack.html","image_url": "http://i.telegraph.co.uk/multimedia/archive/03157/paris-kouachi-shoo_3157785k.jpg","type": "post","post_id": "11332411", "pub_date": "2015-01-08T10:15:51Z","section": "World","authors": ["TMG"],"tags": ["Story","News","World News","Europe","France"]}'/>
+    <meta property="article:publisher" content="143666524748" />
+
+    <meta property="article:subsection" content="France" />
+
+                    <meta property="article:section" content="World" />
+
+                <meta property="article:tag" content="News" />
+    <meta property="article:tag" content="World News" />
+    <meta property="article:tag" content="Europe" />
+    <meta property="article:tag" content="France" />
+    <meta property="article:authorName" content="" />
+
+    <meta property="article:contenttype" content="story" />
+                <meta property="article:imagecount" content="2" />
+
+
+            <meta property="article:videocount" content="1" />
+
+
+            <meta property="article:embedcount" content="2" />
+
+
+            <meta property="article:internallinkcount" content="10" />
+
+            <meta property="article:externallinkcount" content="0" />
+
+
+            <meta property="article:wordcount" content="890" />
+        <meta name="tmgads.zone" content="news.worldnews.europe.france" />
+<meta name="tmgads.channel" content="news" />
+<meta name="tmgads.section" content="news-worldnews-europe-france" />
+
+<meta name="tmgads.articleid" content="11332411" />
+<meta name="tmgads.videosrc" content="tmg" />
+						<input type="hidden" value="article" id="pageType" name="pageType" />
+<input type="hidden" value="Story" id="templateName" name="templateName" />
+<meta name="tmgads.pagetype" content="Story" />
+<meta name="tmgads.level" content="5" />
+<meta name="tmgads.otherdata" content="" />
+
+
+
+<meta name="tmgads.geo" content="GB" />
+
+
+
+
+
+<meta name="DCSext.akamigeo" content="GB" />
+
+
+
+<meta name="section-id" content="2230" />
+
+<meta name="last-modified" content="2015-01-08" />
+		<meta name="article-id" content="11332411" />
+		<meta name="title" content="Said and Cherif Kouachi: the two brothers suspected of the Charlie Hebdo massacre" />
+		<meta name="author" content="By Martin Evans in Reims, Barney Henderson and David Blair" />
+		<meta name="GSAMLC" content="news/worldnews/europe/france" />
+<meta name="GSAChannel" content="news" />
+
+<meta name="GSAChannelName" content="News" />
+
+<meta name="GSACategory" content="worldnews" />
+	<meta name="GSAGenre" content="europe" />
+	<meta name="GSASectionUniqueName" content="news-world_news-europe-france" />
+
+<meta name="GSAArticleType" content="Story" />
+	<meta name="DC.date.issued" content="2015-01-08" />
+<meta name="robots" content="noarchive,noodp" />
+	<meta property="fb:app_id" content="120118784736295" />
+<meta property="fb:admins" content="686953094,531239902,100002344351237" />
+
+<meta property="og:description" content="With a history of dead-end jobs, rap music and involvement with a radical   preacher, the brothers fit the classic profile of jihadist recruits" />
+<meta property="og:site_name" content="Telegraph.co.uk" />
+<meta property="og:title" content="Said and Cherif Kouachi: the two brothers suspected of the Charlie Hebdo massacre" />
+<meta property="og:url" content="http://www.telegraph.co.uk/news/worldnews/europe/france/11332411/Said-and-Cherif-Kouachi-who-are-the-two-brothers-suspected-of-launching-Charlie-Hebdo-attack.html" />
+
+<meta property="og:image" content="http://i.telegraph.co.uk/multimedia/archive/03157/paris-kouachi-shoo_3157785k.jpg" />
+<meta property="og:type" content="article" />
+<meta property="og:video" content="http://player.ooyala.com/player.swf?keepEmbedCode=true&amp;autoplay=1&amp;embedCode=hjdzRvcjo38rAbVtxJHczfKEprImtb06&amp;adSetCode=76e453b09b71409581415f11b8b62eaa" />
+	<meta property="og:video:secure_url" content="https://player.ooyala.com/player.swf?keepEmbedCode=true&amp;autoplay=1&amp;embedCode=hjdzRvcjo38rAbVtxJHczfKEprImtb06&amp;adSetCode=76e453b09b71409581415f11b8b62eaa" />
+	<meta property="og:video:type" content="application/x-shockwave-flash" />
+	<meta name="twitter:card" content="player" />
+<meta name="twitter:site" content="@Telegraph" />
+<meta name="twitter:image:src" content="http://i.telegraph.co.uk/multimedia/archive/03157/paris-kouachi-shoo_3157785k.jpg">
+	<meta name="twitter:player" content="https://player.ooyala.com/player.swf?keepEmbedCode=true&amp;autoplay=1&amp;embedCode=hjdzRvcjo38rAbVtxJHczfKEprImtb06&amp;adSetCode=b20883587d124da4a8f29205f8be38ea" />
+	<meta name="twitter:player:height" content="315" /> <meta name="twitter:player:width" content="560"  /> <link rel="canonical" href="http://www.telegraph.co.uk/news/worldnews/europe/france/11332411/Said-and-Cherif-Kouachi-who-are-the-two-brothers-suspected-of-launching-Charlie-Hebdo-attack.html"/>
+
+<!--  Line no 278 normal.jsp where 1st code change should be made -->
+
+
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/screen.css" media="screen" />
+
+<script type="text/javascript">
+var logo = function(param) {
+	document.onreadystatechange = function () {
+		if (document.readyState == "interactive") {
+			document.getElementById("logo").src = param;
+		}
+	}
+} 
+</script>
+
+<script type="text/javascript"> logo("/template/ver1-0/i/thetelegraph_344.gif"); </script>	
+	<!--[if lte IE 6]>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/ie6.css" media="screen" />
+<![endif]-->
+<!--[if lte IE 7]>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/ie7.css" media="screen" />
+<![endif]-->
+
+<link rel="alternate" type="application/rss+xml" title="RSS Feed for France articles - Telegraph.co.uk" href="http://www.telegraph.co.uk/news/worldnews/europe/france/rss" />
+
+<script type="text/javascript" src="/template/ver1-0/js/jquery-1.4.2.min.js"></script>
+
+<script type="text/javascript" src="/template/ver1-0/js/jquery-1.11.1.min.js"></script>
+
+<script>
+    jq1_11=$.noConflict(true);
+</script>
+
+<script type="text/javascript" src="/template/ver1-0/js/jquery.scrolldepth.js"></script>
+
+<script>
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-7226372-1']);
+    _gaq.push(['_setDomainName', 'telegraph.co.uk']);
+    jq1_11.scrollDepth();
+</script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/jquery.cookie.js"></script>
+
+<script src='//d3c3cq33003psk.cloudfront.net/opentag-35657-106653.js'></script>
+		<meta name="DCSext.MLC" content="/news/worldnews/europe/france" />
+	<meta name="DCSext.Genre" content="europe" />
+								<meta name="DCSext.Category" content="worldnews"/>
+									<meta name="WT.cg_s" content="worldnews"/>
+								<meta name="DCSext.Channel" content="news" />
+					<meta name="WT.cg_n" content="news" />
+						<meta name="DCSext.Content_Type" content="Story" />
+    <meta name="DCSext.Level" content="5" />
+	<meta name="DCSext.author" content="By Martin Evans in Reims, Barney Henderson and David Blair" />
+		<meta name="DCSext.articleFirstPublished" content="2015-01-08 10:34" />
+	<meta name="DCSext.articleId" content="11332411" />
+
+	<meta name="DCSext.cmsSect" content="News;World_News;Europe;France" />
+	
+	
+
+
+		
+
+		
+		  		
+		  				
+		  			
+		  
+		
+
+		
+			<meta name="DCSext.cf" content="1"/>	
+			  	<meta name="DCSext.pd" content="1"/>
+			  
+		
+
+
+		<script src="/template/ver1-0/js/webtrends/WTDcsVid.js" type="text/javascript"></script>
+<script src="/template/ver1-0/js/webtrends/LIVE/WTID.js" type="text/javascript"></script>
+
+<script>
+window.webtrendsAsyncInit=function(){
+    var dcs=new Webtrends.dcs().init({
+        dcsid:"dcsshgbi400000gscd62rrg43_4o2o",
+        domain:"webtrends.telegraph.co.uk",
+        timezone:0,
+        adimpressions:true,
+        adsparam:"WT.ac",
+        offsite:false,
+        download:true,
+        downloadtypes:"xls,doc,pdf,txt,csv,zip,docx,xlsx,rar,gzip",
+        metanames:"DCSext.MLC, DCSext.source, DCSext.Category, DCSext.Genre, DCSext.Channel, DCSext.imageNo, DCSext.GalleryType, DCSext.Content_Type, DCSext.Level, DCSext.author, DCSext.articleFirstPublished, DCSext.articleId, DCSext.productProvider, DCSext.productName, DCSext.EA_Search_Type, DCSext.EA_Search_Engine, DCSext.EA_Search_Phrase, DCSext.oss, DCSext.ossType, DCSext.cf, DCSext.cn, DCSext.cd, DCSext.pd,DCSext.cmsSect",        
+        fpcdom:".telegraph.co.uk",
+        plugins:{
+            hm:{src:"/template/ver1-0/js/asyncwebtrends/webtrends.hm.js",hmurlparams:"frame,image"},
+            qbert: { src:"/template/ver1-0/js/asyncwebtrends/qbert-wtplugin.js" }
+        }
+        });
+    if ($.cookie("tmg_subs") != null){
+    	var ts = $.parseJSON($.cookie("tmg_subs"));
+        dcs.DCSext.location = ts.location;
+    	dcs.DCSext.trialDescription =ts.trialDescription;
+	    dcs.DCSext.subscriptionType = ts.subscriptionType;
+	    dcs.DCSext.flowType = ts.flowType;
+	    dcs.DCSext.productType = ts.productType;
+	    dcs.DCSext.serviceId = ts.serviceId;
+	    dcs.DCSext.servicePriceId = ts.servicePriceId;
+	
+	    dcs.DCSext.discountVoucher = ts.discountVoucher;
+	    dcs.DCSext.partnerName = ts.partnerName;
+	    dcs.DCSext.currentPromoName = ts.currentPromoName;
+	    dcs.DCSext.sourcePromoName = ts.sourcePromoName;
+	    dcs.DCSext.promoType = ts.promoType;
+	    dcs.DCSext.tCode = ts.tCode;
+	    dcs.DCSext.status = ts.status == true  && ts.acquisitionCompleted == true ? 'Active':'Inactive';
+
+   }
+   if( /Android|webOS|iPad|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) { dcs.DCSext.platform="tablet";}    
+   dcs.track();
+
+};
+(function(){
+    var s=document.createElement("script"); s.async=true; s.src="/template/ver1-0/js/asyncwebtrends/webtrends.js";
+    var s2=document.getElementsByTagName("script")[0]; s2.parentNode.insertBefore(s,s2);
+}());
+</script>
+
+<noscript>< img alt="dcsimg" id="dcsimg" width="1" height="1" src="//webtrends.telegraph.co.uk/dcsshgbi400000gscd62rrg43_4o2o/njs.gif?MLC=&amp;Channel=&amp;Genre=&amp;Category=&amp;Content_Type=&amp;Level=&amp;source=&amp;dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=10.2.10&amp;dcssip=www.telegraph.co.uk"/></noscript>
+
+<script src="//assets.adobedtm.com/71dcbb11123ce6b2e1ce4d47fd79a130aad3fc95/satelliteLib-1c3d0c3b3e3b492ca058647975687e6b485ad5c8.js"></script>
+    <script type="text/javascript">
+//Events tracking for Google Analytics
+function trackGoogle() {
+try {var pageTracker = _gat._getTracker("UA-7226372-1");pageTracker._trackPageview();} catch(err) {}
+}
+
+//External links tracking through Google Analytics
+function isLinkExternal(link) {
+    var r = new RegExp('^https?://(?:www.)?' + location.host.replace(/^www./, ''));
+        return !r.test(link);
+}
+$(document).ready(function() {
+    $(document).bind('click', function(e) {
+        var target = (window.event) ? e.srcElement : e.target;
+        while (target) {
+            if (target.href) break;
+            target = target.parentNode;
+        }
+        if (!target || !isLinkExternal(target.href)) return true;
+        var link = target.href;
+        link = '/outgoing/' + link.replace(/:\/\//, '/');
+        _gaq.push(['_trackPageview', link]);
+    });
+});
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-7226372-1']);
+  _gaq.push(['_setDomainName', 'telegraph.co.uk']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script type="text/javascript">
+  var gs_channels="default";
+  // Last-updated: 2015-03-24 11:53:12.212
+gs_channels="trv_europe";
+
+</script>
+<script type="text/javascript">
+    // <![CDATA[
+  var qcSegs = '';
+  var qcResults = function(qc){
+    for (var i=0;i<=qc.segments.length-1;i++){
+      if(qc.segments[i].id != 'D' && qc.segments[i].id != 'T') qcSegs += ';qc='+qc.segments[i].id;
+    }
+  }
+    // ]]>
+</script>
+<script type="text/javascript" src="http://pixel.quantserve.com/api/segments.json?a=p-gyXAHFFgnNQDj&callback=qcResults"></script>
+
+
+		
+			<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/gpt.js"></script>
+		
+	
+<script src="http://s.telegraph.co.uk/toolbar/disqus_parameters_prod.js" type="text/javascript" ></script>
+
+<div bucket-id="mpu">
+</div><script src='http://player.ooyala.com/v3/ZTIxYmJjZDM2NWYzZDViZGRiOWJjYzc5?platform=html5-fallback'></script>
+<script src="/template/ver1-0/js/ooyala.js" type="text/javascript"></script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/ajax.js"></script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/commWidget.js"></script>
+
+
+<!-- Begin KRUX Digital Control Tag for The Telegraph -->
+<!-- End KRUX Digital Control Tag for The Telegraph -->
+
+
+		<!-- Begin comScore Tag -->
+<script>
+	var _comscore = _comscore || [];
+	_comscore.push({
+		c1 : "2",
+		c2 : "6035736"
+	});
+	(function() {
+		var s = document.createElement("script"), el = document
+				.getElementsByTagName("script")[0];
+		s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb"
+				: "http://b")
+				+ ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+</script>
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=6035736&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag -->
+</head>
+
+<body class="news">
+	<!-- invitationUrl contains the baseUrl for the invitation(paywall). The whole url is completed by the esi tags -->
+<script type="text/javascript">
+		var subsInfo = new Object();
+		subsInfo.channel =  $('meta[name="DCSext.Channel"]').attr("content");
+		if(subsInfo.channel==undefined){subsInfo.channel='';}
+		subsInfo.mlc = $('meta[name="DCSext.MLC"]').attr("content");
+		if(subsInfo.mlc==undefined){subsInfo.mlc='';}
+		subsInfo.category = $('meta[name="DCSext.Category"]').attr("content");
+		if(subsInfo.category==undefined){subsInfo.category='';}
+		subsInfo.level = $('meta[name="DCSext.Level"]').attr("content");
+		if(subsInfo.level==undefined){subsInfo.level='';}
+		subsInfo.author = $('meta[name="DCSext.author"]').attr("content");
+		if(subsInfo.author==undefined){subsInfo.author='';}
+		subsInfo.content_type = $('meta[name="DCSext.Content_Type"]').attr("content");
+		if(subsInfo.content_type==undefined){subsInfo.content_type='';}
+		subsInfo.articleId = $('meta[name="DCSext.articleId"]').attr("content");
+		if(subsInfo.articleId==undefined){subsInfo.articleId='';}
+		var subsJson = JSON.stringify(subsInfo);
+		$.cookie("tmg_subs_referer",subsJson, { path: '/', domain: 'telegraph.co.uk'});
+		var inviteWTUrlSuffix='?channel='+ subsInfo.channel+'&mlc='+subsInfo.mlc+'&category='+ subsInfo.category+'&level='+subsInfo.level+'&author='+subsInfo.author+'&content_type='+subsInfo.content_type+'&articleId='+subsInfo.articleId;
+		
+		<!-- default inviteUrl value is UK-->
+		var inviteUrl = "" + '/subscriptions/invitation/';
+		
+				
+					var inviteUrl = "" + "/subscriptions/invitation/";
+				
+			
+	
+		
+				
+				
+				
+			
+		var plink = "http://www.telegraph.co.uk/template/ver1-0/templates/fragments/common/toolBar-js.jsp";
+	</script>
+	<script src="" type="text/javascript" ></script>
+	<script src="http://s.telegraph.co.uk/toolbar/js/tmgMenu.js" type="text/javascript" ></script>
+<!--[if lte IE 6]>
+<div id="ieLteSix">
+	<div class="ieLteSixBanner">
+		<table cellspacing="0" cellpadding="0">
+			<tbody>
+				<tr>
+					<td class="ieLteSixLeft">
+						<p class="ieFirstP">We no longer check to see whether Telegraph.co.uk displays properly in Internet Explorer version 6 or earlier.</p>
+						<p class="ieSecondtP">To see our content at its best we recommend <a href="/browser-support/">upgrading if you wish to continue using IE or using another browser such as Firefox, Safari or Google Chrome.</a></p>
+					</td>
+					<td valign="top" class="ieLteSixRight">
+						<a href="#" id="ieX"><img width="20" height="20" border="0" alt="Hide this banner" src="/template/ver1-0/i/ieX.gif"></a>
+					</td>
+				</tr>
+			</tbody>
+		</table>
+	</div>
+</div>
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/ieSix.js"></script>
+<![endif]-->
+
+<!-- googleoff: all -->
+<a name="top"></a>
+
+<div class="hidden">
+	<p>Accessibility links</p>
+	<ul>
+	<li><a href="#article">Skip to article</a></li>
+		<li><a href="#mainsections">Skip to navigation</a></li>
+	</ul>
+</div><div id="tmglSite">
+	<div class="printLogo"><img src="/template/ver1-0/i/telegraph_print_190.gif" width="190" height="35" /></div>
+
+	<div id="tmglHeader" class="">
+	<div id="tmglBannerAd">
+    
+              <script type="text/javascript">
+                  /* EPOCH time at the start of banner Ad */
+                var bannerTimerStart = Date.now();
+              
+            </script>
+		<div class="access">Advertisement</div>
+<div class="adbanner" align="center">
+	<div id="banner" class="InSkinHide">
+		<div bucket-id="mpu">
+<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("ban", "970x250,970x90,940x250,728x90,468x60", "adj", "", 2));
+		</script>
+	</div></div>
+</div>
+
+
+
+
+
+
+</div>
+	<div id="tmglBrandLarge">
+			<a href="/">
+					<div id="brand">Telegraph.co.uk</div></a>
+			<div id="topBarRightContainer">
+				<div id="searchBar">
+					<div id="searchBlock">
+				<form name="otsn_search" id="otsn_search" method="get" action="/search/">
+					<input type="text" class="searchBox otsn"  value="" size="19" tabindex="1"  />
+					<input type="hidden" id="hiddenQueryText"  name="queryText"  value=""/>
+					<input type="hidden" name="sort" value="relevant" checked="checked"/>
+					<input type="submit" class="formSubmit" tabindex="2" id="go" value="" />
+                                        <div class="searchText  new">
+                                        Search - enhanced by OpenText</div>
+
+				</form>
+				<div class="cl"></div>
+			</div>
+		</div>
+				<div id="tmgTopBar">
+				<div id="tmglTopRight" class="tmgTopBarDate">
+					<div id="tmglLasUpdatedDateFeed">
+	<p>
+		Tuesday 24 March 2015</p>
+</div>
+
+</div>
+			</div></div>
+			
+			<div class="cl"></div>
+		</div>
+		<div class="cl"></div>
+	</div>
+<script type="text/javaScript">
+/* EPOCH time at the  end of Header */
+var tmgHeaderTimerEnd=Date.now();
+</script>
+<!-- googleon: all -->
+			<!-- googleoff: all -->
+	<div id="tmglMenu">
+	<div id="tmglPriExWrap">
+		<div id="tmglPrimaryNav" class="nonActiveNav">
+			<div class="access"><a name="mainsections"></a></div>
+	<ul class="mainNav">
+		<li class="first styleOne"><a href="http://www.telegraph.co.uk/">Home</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/telegraphtv/">Video</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/news/">News</a></li>
+							<li class="selected styleOne" id="menuItemstyleOne"><a href="http://www.telegraph.co.uk/news/worldnews/">World</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/sport/">Sport</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/finance/">Finance</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/comment/">Comment</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/culture/">Culture</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/travel/">Travel</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/lifestyle/">Life</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/women/">Women</a></li>
+							<li class="styleOne"><a href="http://fashion.telegraph.co.uk">Fashion</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/luxury/">Luxury</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/technology/">Tech</a></li>
+							<li class="styleOne"><a href="http://www.telegraph.co.uk/motoring/">Cars</a></li>
+							</ul></div>
+		<div id="tmglExtraNav">
+	<ul class="extraNav">
+		</ul>
+	<div class="cl"></div>
+</div> 
+<div class="cl"></div>
+	</div>
+
+	<div id="tmglSecondNav" class="activeNav styleOne">
+				<ul class="mainNav">
+						<li class="first styleOne"><a href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/">USA</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/worldnews/asia/">Asia</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/worldnews/asia/china/">China</a></li>
+									<li class="selected styleOne"><a href="http://www.telegraph.co.uk/news/worldnews/europe/">Europe</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/worldnews/middleeast/">Middle East</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/worldnews/australiaandthepacific/">Australasia</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/worldnews/africaandindianocean/">Africa</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/worldnews/southamerica/">South America</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/worldnews/asia/central-asia/">Central Asia</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/news/worldnews/big-question-kcl/">KCL Big Question</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/expat/">Expat</a></li>
+									<li class="styleOne"><a href="http://www.telegraph.co.uk/sponsored/lifestyle/honduras-gangs/">Honduras</a></li></ul>
+					<div class="cl"></div>
+				</div>
+		<div id="tmglThirdNav">
+					<ul class="mainNav">
+						<li class="selected  first "><a href="http://www.telegraph.co.uk/news/worldnews/europe/france/">France</a></li>
+														<li class=""><a href="http://www.telegraph.co.uk/news/worldnews/francois-hollande/">Francois Hollande</a></li>
+														<li class=""><a href="http://www.telegraph.co.uk/news/worldnews/europe/germany/">Germany</a></li>
+														<li class=""><a href="http://www.telegraph.co.uk/news/worldnews/europe/germany/angela-merkel/">Angela Merkel</a></li>
+														<li class=""><a href="http://www.telegraph.co.uk/news/worldnews/europe/russia/">Russia</a></li>
+														<li class=""><a href="http://www.telegraph.co.uk/news/worldnews/vladimir-putin/">Vladimir Putin</a></li>
+														<li class=""><a href="http://www.telegraph.co.uk/news/worldnews/europe/greece/">Greece</a></li>
+														<li class=""><a href="http://www.telegraph.co.uk/news/worldnews/europe/spain/">Spain</a></li>
+														<li class=""><a href="http://www.telegraph.co.uk/news/worldnews/europe/italy/">Italy</a></li>
+														</ul>
+					<div class="cl"></div>
+				</div>
+				<div id="tmglCrumbtrail">
+		<ol>
+			<li class="first"><a href="/">Home</a><span>&raquo;</span></li>
+			<li><a href="http://www.telegraph.co.uk/news/">News</a><span>&raquo;</span></li>
+					<li><a href="http://www.telegraph.co.uk/news/worldnews/">World News</a><span>&raquo;</span></li>
+					<li><a href="http://www.telegraph.co.uk/news/worldnews/europe/">Europe</a><span>&raquo;</span></li>
+					<li class="styleOne"><a href="http://www.telegraph.co.uk/news/worldnews/europe/france/">France</a></li></ol>
+		<div class="cl"></div>
+	</div>
+</div>
+
+<!-- googleon: all -->
+<div id="tmglBody" itemscope itemtype="http://schema.org/Article" >
+	<div class="access"><a name="article"></a></div>
+
+	<div class="twoThirdsThird2 gutterUnder">
+		<div class="twoThirds gutter" >
+			<script type="text/javascript" src="/template/ver1-0/js/jquery-ui.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.multiselect.js"></script>
+
+<div class="storyHead">
+
+<h1 itemprop="headline name">Said and Cherif Kouachi: the two brothers suspected of the Charlie Hebdo massacre</h1>
+			<h2  itemprop="alternativeHeadline description">
+With a history of dead-end jobs, rap music and involvement with a radical 
+  preacher, the brothers fit the classic profile of jihadist recruits
+
+</h2>						
+	<style media="print">
+        .newGigyaShare { display: none !important; }
+    </style>
+
+    <div id="newGigyaShareTop-Holder">
+        <div id="newGigyaShareTop" class="newGigyaShare"></div>
+        <div class="GigyaBg1"></div>
+    </div>
+
+<!-- Opta Widget start -->
+	<!-- Opta Widget end -->
+	
+	<div class="artIntro">
+								<div class="gutterUnder">
+			<div class="videoPlayer" id='playerwrapper' style='width: 620px; height: 349px;'></div>
+    <script type="text/javascript">var sensitiveVideo = 1;</script>
+<script>
+var oplayer = null;
+if (typeof ooyala !== 'undefined') {
+	var ooyalaData = {
+	'targetId' : 'playerwrapper',
+	'width' : 620,
+	'height' : 349,
+	'vidEmbed' : 'hjdzRvcjo38rAbVtxJHczfKEprImtb06',
+	'autoPlay' : false,
+	'skipAdInt' : 20000,
+	'skipAdTxt' : 'skip advert',
+	'skipAdPos' : 'bottom right',
+	'volume' : 0.50,
+	'relatedVideo' : 'http://cdn.api.ooyala.com/v2/assets?where=embed_code+in+%28%27B1dWFvcjrb499kILCSXjTV-1O56JgiHM%27%2C%27A2NGxucjpKZw9sSYev8h_SZ2JBtpdDS-%27%2C%27RzNnJucjq6ukC3hBH_FzuUXa5aGJCdCo%27%2C%27w4eXBucjrnj-p5gS719yK2n2jKLVXBT6%27%29&api_key=RvbGU6Z74XE_a3bj4QwRGByhq9h2.WFFAb&expires=1640995199&signature=Pz9cPz8%2FP34%2FPz9rPz8%2FPwJMXT8aP3U%2FPz9zAF9wPz8'
+	};
+	var oplayer = new ooyala.Player(ooyalaData);
+}
+</script></div>
+	</div>							
+					</div>
+<div class="oneHalf gutter">
+								<div class="story">
+		<div class="cl"> </div>
+		<div class="byline">
+		<div >
+			
+			<p class="bylineBody"><span itemprop="author"> By Martin Evans in Reims, Barney Henderson and David Blair</span></p>
+				</div>
+		<p class="publishedDate">10:15AM GMT 08 Jan 2015</p>
+		<meta itemprop="datePublished" content="2015-01-08"/><div class="cl"> </div>
+	</div>
+	<div id="mainBodyArea" itemprop="articleBody">
+
+	
+			  	
+					<div class="firstPar"><p> <a href="http://www.telegraph.co.uk/news/worldnews/europe/france/11329976/Paris-Charlie-Hebdo-attack-live.html"><strong>Charlie Hebdo attack: latest updates</strong></a> </p></div><div class="secondPar"><p> The two brothers suspected of carrying out the massacre in the offices of Charlie Hebdo have a history of dead-end jobs, petty crime and a liking for rap music. What is known about their background suggests they fit the classic profile of radical jihadists. </p></div><div class="thirdPar"><p> Cherif Kouachi, 32, and his elder brother Said, 34, were born in the 10th arrondissement in Paris to parents of Algerian origin. While less is known about Said Kouachi, the French authorities have been aware of Cherif's radical sympathies for at least a decade. </p></div><div class="fourthPar"><p> In their early twenties, the brothers settled in the 19th arrondissement where Cherif worked variously as a pizza delivery driver and a shop assistant. At the time, his life was not dominated by Muslim strictures: he listened to rap music, smoked pot and drank beer. In 2005, Cherif appeared on French television as an aspiring rap artist. </p></div><div class="fifthPar"><p>
+ <div class="videoPlayer"> 
+  <script type="text/javascript">
+tmgAds.embedPlayer = tmgAds.embedPlayer || {};
+tmgAds.embedPlayer = {width:460,height:258,size:'460x258',vidSize:'620x415'};
+if(typeof(tmgAds.page.platform) != 'undefined' && tmgAds.page.platform === "mobile") tmgAds.embedPlayer = {width:300,height:169,size:'300x169',vidSize:'300x235'};
+tmgAds.embedPlayer = {
+  'targetId'     : 'embedPlayerWrapper',
+  'platform'     : tmgAds.page.platform,
+  'width'        : tmgAds.embedPlayer.width,
+  'height'       : tmgAds.embedPlayer.height,
+  'size'         : tmgAds.embedPlayer.size,
+  'autoplay'     : 'false',
+  'vidEmbed'     : '4zaDZvcjquiArkLTJ6QtcP0qf1yaqCtG',
+  'adTag'        : tmgAdsBuildAdTag("vid",tmgAds.embedPlayer.vidSize,"pfadx",";vidsrc=tmg;vt=embed;dcmt=text/xml",3)
+}
+tmgAds.embedPlayer.remotesrc = 'http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform='+tmgAds.page.platform+'&width='+tmgAds.embedPlayer.width+'&height='+tmgAds.embedPlayer.height+'&size='+tmgAds.embedPlayer.size+'&vidEmbed='+tmgAds.embedPlayer.vidEmbed+'&adTag='+encodeURIComponent(tmgAds.embedPlayer.adTag);
+tmgAds.embedPlayer.tmgEmbedPlayer = '<iframe src="'+tmgAds.embedPlayer.remotesrc+'" width="'+tmgAds.embedPlayer.width+'" height="'+tmgAds.embedPlayer.height+'" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"></iframe>';
+document.write(tmgAds.embedPlayer.tmgEmbedPlayer);
+</script> 
+ </div></p></div><div id="tmg-related-links" class="related-links-float-design related_links_inline">
+			<div class="headerOne styleOne"><h2><span>Related Articles</span></h2></div>
+	
+			<ul>
+	
+				<li class="bullet">
+                                                        <p>
+                    <a  href="/news/worldnews/europe/france/11332446/Charlie-Hebdo-attack-two-suspects-spotted-in-northern-France.html">Charlie Hebdo attack: two suspects 'spotted in northern France'</a>
+                </p>
+
+	<span class="relContDate">08 Jan 2015</span>
+													</li>
+												<li class="video">
+															<p>
+                    <a  href="/news/worldnews/europe/france/11332269/French-police-search-flat-in-Reims-for-Charlie-Hebdo-terror-attack-suspect.html">Police raid flat in Charlie Hebdo manhunt</a>
+                </p>
+
+	<span class="relContDate">08 Jan 2015</span>
+														</li> 
+														<li class="bullet">
+                                                        <p>
+                    <a  href="/news/worldnews/europe/france/11332467/Paris-shootings-lead-to-firebomb-attacks-on-French-mosques.html">French mosques firebombed following Paris shootings</a>
+                </p>
+
+	<span class="relContDate">08 Jan 2015</span>
+													</li>
+												<li class="bullet">
+                                                        <p>
+                    <a  href="/news/worldnews/europe/france/11333506/Armed-police-scour-forest-as-Charlie-Hebdo-shooting-suspects-hide-out.html">Armed police scour forest as Charlie Hebdo shooting suspects hide out</a>
+                </p>
+
+	<span class="relContDate">08 Jan 2015</span>
+													</li>
+												<li class="bullet">
+                                                        <p>
+                    <a  href="/news/worldnews/europe/france/11331866/Charlie-Hebdo-attack-Europe-has-a-terrorism-problem-not-a-Muslim-problem.html">Europe has a terrorism problem, not a Muslim problem</a>
+                </p>
+
+	<span class="relContDate">08 Jan 2015</span>
+													</li>
+												<li class="bullet">
+                                                        <p>
+                    <a  href="/news/worldnews/europe/france/11332195/Charlie-Hebdo-attack-an-assault-on-Frances-truest-expression-of-freedom.html">An assault on France's truest expression of freedom</a>
+                </p>
+
+	<span class="relContDate">08 Jan 2015</span>
+													</li>
+												</ul>
+		</div>
+	<div class="body"><p> By this time, he had begun attending Dawa mosque where he fell under the influence of a radical preacher, Farid Benyettou. This seems to have been the turning point in Cherif's life: from then onwards, his lifestyle changed to conform to the strictest interpretations of Islam. </p><p> Benyettou organised a network to send volunteers to fight in Iraq. Cherif soon agreed to go. In 2005, he planned to fly to Damascus in Syria from where he would have been smuggled over the border into Iraq. But the plan went wrong and Cherif was arrested while on his way to the airport. </p><p> When he stood trial, his lawyer sought to present him as a bemused and simple figure who was simply looking for excitement. "My client was rather pleased to be arrested by police instead of seeing his project through," said the lawyer. </p><p> This argument appears to have convinced the court because, at the conclusion of his trial in 2008, Cherif received a relatively light three-year prison sentence. In practise, that meant he was released almost immediately owing to the fact that he had already spent almost three years on remand. </p><p> Cherif, who sometimes went by the nom de guerre "Abu Issen", became known to the authorities again in 2010 when he was implicated in a plot to spring from prison one of the terrorists convicted of bombing the Paris Metro in 1995. Cherif spent about four months in custody or under arrest, but was never formally charged. For the first time, his elder brother, Said, was also mentioned in police reports, suggesting that he had been radicalised by this time. </p><p> <img src="http://i.telegraph.co.uk/multimedia/archive/03157/paris-kouachi-shoo_3157785c.jpg" alt=""> <sup>Headshots released by French Police showing Said, left, and Cherif Kouachi (Photo: AFP) </sup> </p><p> After that incident, both brothers kept a low profile. Said Kouachi left Paris and moved to the eastern city of Reims, where neighbours say that he had a wife and two children aged four and nine. The family lived in a small two bedroom apartment on the first floor of a tower block above a row of shops in the run down Croix Rouge district. </p><p> The local community is a diverse mix of students and migrants living in social housing. The area has a reputation for crime and drug-dealing. But there was no evidence of Said being involved in any wrongdoing. </p><p> One female neighbour, who lived on the same floor as Said, said she was "shocked" by what he is supected of doing in Paris, adding: "He was quiet. He lived here with his wife and two children. He wore traditional Muslim dress like many people and his wife wore the hijab. I do not know if he was working, but he would often leave the flat at 9am and get into a car that would wait for him out front. He was pleasant and was never any trouble." </p><p> The neighbour said she had never seen the person who picked Said up in the car, but she thought his brother, Cherif, may have been a regular visitor. </p><p> A shop assistant in the convenience store underneath the block where Said lived said: "I would describe him as a serious person. He would walk with his head down but he was not unfriendly, just private." </p><p> The police have raided Said Kouachi's home - and they are believed to have detained his wife. In total, four people have been arrested in Reims. </p><p>
+ <div class="videoPlayer"> 
+  <script type="text/javascript">
+tmgAds.embedPlayer = tmgAds.embedPlayer || {};
+tmgAds.embedPlayer = {width:460,height:258,size:'460x258',vidSize:'620x415'};
+if(typeof(tmgAds.page.platform) != 'undefined' && tmgAds.page.platform === "mobile") tmgAds.embedPlayer = {width:300,height:169,size:'300x169',vidSize:'300x235'};
+tmgAds.embedPlayer = {
+  'targetId'     : 'embedPlayerWrapper',
+  'platform'     : tmgAds.page.platform,
+  'width'        : tmgAds.embedPlayer.width,
+  'height'       : tmgAds.embedPlayer.height,
+  'size'         : tmgAds.embedPlayer.size,
+  'autoplay'     : 'false',
+  'vidEmbed'     : 'dveWNvcjrdPGy_eRFOfn2LcsDvPcEz5a',
+  'adTag'        : tmgAdsBuildAdTag("vid",tmgAds.embedPlayer.vidSize,"pfadx",";sv=1;vidsrc=tmg;vt=embed;dcmt=text/xml",3)
+}
+tmgAds.embedPlayer.remotesrc = 'http://s.telegraph.co.uk/tmgads/tools/ooyala/iframeplayer.html?platform='+tmgAds.page.platform+'&width='+tmgAds.embedPlayer.width+'&height='+tmgAds.embedPlayer.height+'&size='+tmgAds.embedPlayer.size+'&vidEmbed='+tmgAds.embedPlayer.vidEmbed+'&adTag='+encodeURIComponent(tmgAds.embedPlayer.adTag);
+tmgAds.embedPlayer.tmgEmbedPlayer = '<iframe src="'+tmgAds.embedPlayer.remotesrc+'" width="'+tmgAds.embedPlayer.width+'" height="'+tmgAds.embedPlayer.height+'" marginheight="0" marginwidth="0" scrolling="no" frameborder="0"></iframe>';
+document.write(tmgAds.embedPlayer.tmgEmbedPlayer);
+</script> 
+ </div></p><p> <sup>Charlie Hebdo gunmen want 'to go out in blaze of glory'</sup> </p></div>
+			   
+		<div class="cl"></div>
+</div></div><div class="isaSeason">
+			</div></div>
+		
+							<div class="oneSixth">
+									<!-- googleoff: all -->
+
+	<style media="print">
+    #newGigyaShareSide { display: none !important; }
+</style>
+<div id="newGigyaShareSide">
+    <a href="javascript:print()" alt="Print" title="Print">&nbsp;</a>
+</div>
+
+<div class="storyfct">
+			<div id="storyMoreOnFucntion">
+		<div class="secLinks">
+
+			<div class="section">
+				<div class="name">
+					<h2><a href="http://www.telegraph.co.uk/news/worldnews/europe/france/">France</a></h2>
+				</div>
+				
+				<div class="cl"></div>
+			</div>
+
+			<ul>
+					<li class="first">
+									<h3><a href="http://www.telegraph.co.uk/news/">News &#187;</a></h3>
+								</li>
+								<li>
+									<h3><a href="http://www.telegraph.co.uk/news/worldnews/">World News &#187;</a></h3>
+								</li>
+								<li>
+									<h3><a href="http://www.telegraph.co.uk/news/worldnews/europe/">Europe &#187;</a></h3>
+								</li>
+								</ul>
+				<div class="cl"></div>
+		</div>
+	</div>
+</div>
+	<div class="related_links">
+		<div id="artComRelLinks" class="summaryMedium gutterUnder">
+		<div class="headerOne styleTen"><p>Related Partners</p></div>
+		<div bucket-id="article_commercial_related_content_01" >	
+	<ul>
+		<li>
+			<div class="comLink">
+				<!-- 9612015 -->
+				<p class="comLinkText"><a href="http://www.telegraph.co.uk/financialservices/money-transfer-and-expat/foreign-ex-and-money-transfer?utm_source=tmg&utm_medium=related_savings&utm_campaign=moneycorp_private" rel="nofollow">The best way to transfer money overseas</a></p>
+			</div>
+		</li>
+	</ul>
+</div></div>
+</div>
+
+    <div class="summaryMedium secPuffs section-puffs">
+                <div class="headerOne styleOne"><p>In France</p></div>
+                <div bucket-id="section_puffs_01" >	
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+        <a  href="/news/11487223/Supertide-2015-Mont-Saint-Michel-braced-for-tide-of-the-century-in-pictures.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03240/supertide-msm-cutt_3240616g.jpg" alt="The supertide submerges Mont Saint-Michel's narrow causeway, cutting off the historic commune" border="0" width="140"  height="87" />
+									<span class="cornerimagephotocentre">&nbsp;</span></a>
+                </div>
+	
+<h3>
+                    <a  href="/news/11487223/Supertide-2015-Mont-Saint-Michel-braced-for-tide-of-the-century-in-pictures.html">The Tide is High</a>
+                </h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+        <div class="playButton" style="width: 140px; height: 87px;"><a  href="/news/worldnews/europe/france/11337006/Charlie-Hebdo-Paris-attacks-A-timeline-of-events.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03160/parisattacks_3160473g.jpg" alt="" border="0" width="140"  height="87" />
+									<span class="playBtt" style="width: 140px; opacity: 0; filter: alpha(opacity = 0);">&nbsp;</span><span class="playBttTop" style="width: 140px;"></span></a>
+                </div></div>
+	
+<h3>
+                    <a  href="/news/worldnews/europe/france/11337006/Charlie-Hebdo-Paris-attacks-A-timeline-of-events.html">Three days of terror in Paris: A timeline of events</a>
+                </h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+        <a  href="/news/picturegalleries/worldnews/11344222/Charlie-Hebdo-sells-out-in-pictures.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03164/Charlie_Hebdo___Re_3164159g.jpg" alt="A man buys a copy of Charlie Hebdo newspaper at a newsstand in Rennes, western France" border="0" width="140"  height="87" />
+									<span class="cornerimagephotocentre">&nbsp;</span></a>
+                </div>
+	
+<h3>
+                    <a  href="/news/picturegalleries/worldnews/11344222/Charlie-Hebdo-sells-out-in-pictures.html">Charlie Hebdo sells out</a>
+                </h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+        <a  href="/culture/golden-globes/11339439/Paris-attacks-Hollywood-says-Je-Suis-Charlie-at-Golden-Globes-in-pics.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03161/Charlie_3161810g.jpg" alt="" border="0" width="140"  height="87" />
+									<span class="cornerimagephotocentre">&nbsp;</span></a>
+                </div>
+	
+<h3>
+                    <a  href="/culture/golden-globes/11339439/Paris-attacks-Hollywood-says-Je-Suis-Charlie-at-Golden-Globes-in-pics.html">Hollywood says Je Suis Charlie</a>
+                </h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+        <a  href="/news/picturegalleries/worldnews/11338185/Paris-shootings-Crowds-join-Unity-march-for-Charlie-Hebdo-attacks-in-pictures.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03161/paris-march-glasse_3161231g.jpg" alt="The terrorist atrocities started on Wednesday with the attack on the French satirical magazine Charlie Hebdo, killing 12, and ended on Friday with sieges at a printing company in Dammartin en Goele and a Kosher supermarket in Paris with four hostages and three suspects being killed. A fourth suspect, Hayat Boumeddiene, 26, escaped and is wanted in connection with the murder of a policewoman. " border="0" width="140"  height="87" />
+									<span class="cornerimagephotocentre">&nbsp;</span></a>
+                </div>
+	
+<h3>
+                    <a  href="/news/picturegalleries/worldnews/11338185/Paris-shootings-Crowds-join-Unity-march-for-Charlie-Hebdo-attacks-in-pictures.html">Paris honours victims of terror</a>
+                </h3>
+
+	</div>
+		</div>
+	<div class="summary imageCentreHeadline">
+			<div class="summarySmall">
+				<!-- imagePosition: centre, columnContext: oneSixth -->
+<div class="piccentre containerdiv  ">
+        <a  href="/news/worldnews/europe/france/11331506/Cartoonists-show-solidarity-after-Charlie-Hebdo-attack.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03161/cartoon-summ_3161157g.jpg" alt="A cartoon by Congolese cartoonist Thembo Muhindo Kashauri a.k.a Kash, published in the daily newspaper Le Potentiel as a tribute to the people killed in Paris by gunmen " border="0" width="140"  height="87" />
+									<span class="cornerimagephotocentre">&nbsp;</span></a>
+                </div>
+	
+<h3>
+                    <a  href="/news/worldnews/europe/france/11331506/Cartoonists-show-solidarity-after-Charlie-Hebdo-attack.html">'Je suis Charlie' cartoons</a>
+                </h3>
+
+	</div>
+		</div>
+	</div>
+	</div>
+        <!-- googleon: all --></div>
+							<div class="cl"></div>
+
+			<div class="storyFt">
+				<style media="print">
+        .newGigyaShare { display: none !important; }
+    </style>
+    <div id="newGigyaShareBottom-Holder">
+            <div id="newGigyaShareBottom" class="newGigyaShare"></div>
+            <div class="GigyaBg1"></div>
+          </div>
+       <!-- <div id="newGigyaShareBottom-Holder">
+    <div id="newGigyaShareBottom" class="newGigyaShare"></div>
+    <div class="GigyaBg"></div>
+</div>  -->
+<div id="outbrain-links">
+						<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/news/worldnews/europe/france/11332411/Said-and-Cherif-Kouachi-who-are-the-two-brothers-suspected-of-launching-Charlie-Hebdo-attack.html" data-widget-id="AR_16" data-ob-template="telegraph"></div>
+						<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/news/worldnews/europe/france/11332411/Said-and-Cherif-Kouachi-who-are-the-two-brothers-suspected-of-launching-Charlie-Hebdo-attack.html" data-widget-id="AR_30" data-ob-template="telegraph"></div>						
+						<script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>						
+					</div>
+				<div id="outbrain-links">
+						<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/news/worldnews/europe/france/11332411/Said-and-Cherif-Kouachi-who-are-the-two-brothers-suspected-of-launching-Charlie-Hebdo-attack.html" data-widget-id="AR_4" data-ob-template="telegraph"></div>											
+					</div>				
+				
+	  	
+            <div class="summaryMedium artCommercial">
+                        <div bucket-id="article_commercial_06" >	
+	<div class="headerOne styleOne">
+				<!-- 10828223 -->
+				<p>
+							<span>Top news galleries</span>
+							</p></div>
+		<div class="gutterUnder noSummaryTopBorder">
+	
+			<div class="summary headlineImageLeft">
+			<!-- 11491470 -->
+			<h3>
+                    <a  href="/news/picturegalleries/celebritynews/11491470/Celebrity-Sightings-Starring-Jeremy-Clarkson-Rita-Ora-and-Justin-Bieber.html">Celebrity Sightings</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/news/picturegalleries/celebritynews/11491470/Celebrity-Sightings-Starring-Jeremy-Clarkson-Rita-Ora-and-Justin-Bieber.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03243/celeb-sum_3243285f.jpg" alt="Jeremy Clarkson, Rita Ora and Justin Bieber" border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/news/picturegalleries/celebritynews/11491470/Celebrity-Sightings-Starring-Jeremy-Clarkson-Rita-Ora-and-Justin-Bieber.html" 
+                         	 
+                         >
+							<p>
+Featuring Jeremy Clarkson, Rita Ora and Justin Bieber
+</p></a>
+                </div><div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11375182 -->
+			<h3>
+                    <a  href="/finance/picture-galleries/11375182/Revealed-The-drinks-you-didnt-know-you-could-order-at-Starbucks.html">Revealed: The drinks you didn't know you could order at Starbucks</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/finance/picture-galleries/11375182/Revealed-The-drinks-you-didnt-know-you-could-order-at-Starbucks.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03180/7_-dessert_3180016f.jpg" alt="" border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/finance/picture-galleries/11375182/Revealed-The-drinks-you-didnt-know-you-could-order-at-Starbucks.html" 
+                         	 
+                         >
+							<p>
+There are over 87,000 different drink combinations at Starbucks, according to 
+  the coffee retailer&rsquo;s website&hellip; but how many of them do you know? From flu 
+  remedies to Harry Potter-inspired beverages, we highlight the weird and the 
+  wonderful brews and infusions. 
+</p></a>
+                </div><span class="comments">
+			            	<a href="/finance/picture-galleries/11375182/Revealed-The-drinks-you-didnt-know-you-could-order-at-Starbucks.html#disqus_thread" dsqid="11375182" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11374426 -->
+			<h3>
+                    <a  href="/finance/newsbysector/industry/11374426/From-second-hand-boots-to-armoured-tanks-Britains-military-surplus-for-sale.html">From second hand boots to ex-Army tanks: Britain's military surplus for sale</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/finance/newsbysector/industry/11374426/From-second-hand-boots-to-armoured-tanks-Britains-military-surplus-for-sale.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03179/MoD1FORSALE_3179548f.jpg" alt="" border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/finance/newsbysector/industry/11374426/From-second-hand-boots-to-armoured-tanks-Britains-military-surplus-for-sale.html" 
+                         	 
+                         >
+							<p>
+The Ministry of Defence has launched a war on unwanted assets - but what's for 
+  sale?
+</p></a>
+                </div><span class="comments">
+			            	<a href="/finance/newsbysector/industry/11374426/From-second-hand-boots-to-armoured-tanks-Britains-military-surplus-for-sale.html#disqus_thread" dsqid="11374426" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11491331 -->
+			<h3>
+                    <a  href="/news/picturegalleries/picturesoftheday/11491331/Pictures-of-the-day-24-March-2015.html">Pictures of the day</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/news/picturegalleries/picturesoftheday/11491331/Pictures-of-the-day-24-March-2015.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03243/potd-dinosaur_3243087f.jpg" alt="A worker helps deliver a  a life-sized dinosaur in Wustermark, Germany. About 40 primeval giants will be put on display in a special exhibition on the grounds of the nature reserve Doeberitzer Heide. The exhibition will open on 31 March. " border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/news/picturegalleries/picturesoftheday/11491331/Pictures-of-the-day-24-March-2015.html" 
+                         	 
+                         >
+							<p>
+A baby polar bear, Kim Jong-un and a dinosaur swallows a man
+</p></a>
+                </div><div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 10441526 -->
+			<h3>
+                    <a  href="/culture/culturepicturegalleries/10441526/Jennifer-Lawrence-in-pictures.html">Jennifer Lawrence: over the years</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/culture/culturepicturegalleries/10441526/Jennifer-Lawrence-in-pictures.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03103/jlawcover_3103718f.jpg" alt="" border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<span class="labelOnSec"><a href="http://www.telegraph.co.uk/culture/film/"> Film</a></span>	
+<a href= "/culture/culturepicturegalleries/10441526/Jennifer-Lawrence-in-pictures.html" 
+                         	 
+                         >
+							<p>
+Jennifer Lawrence's career in pictures
+</p></a>
+                </div><span class="comments">
+			            	<a href="/culture/culturepicturegalleries/10441526/Jennifer-Lawrence-in-pictures.html#disqus_thread" dsqid="10441526" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11371652 -->
+			<h3>
+                    <a  href="/culture/comedy/11371652/funniest-puns-in-history.html">A history of the world in funny puns</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/culture/comedy/11371652/funniest-puns-in-history.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03177/bigbang_3177733f.jpg" alt="The Big Bang theory describes how the Universe began in a rapid expansion about 13.7 billion years ago " border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<span class="labelOnSec"><a href="http://www.telegraph.co.uk/culture/comedy/"> Comedy</a></span>	
+<a href= "/culture/comedy/11371652/funniest-puns-in-history.html" 
+                         	 
+                         >
+							<p>
+<strong>Martin Chilton</strong> guides you through the history of the world in puns, 
+  including Julius Caesar and the Ides of March
+</p></a>
+                </div><span class="comments">
+			            	<a href="/culture/comedy/11371652/funniest-puns-in-history.html#disqus_thread" dsqid="11371652" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11490163 -->
+			<h3>
+                    <a  href="/culture/culturepicturegalleries/11490163/Designs-of-the-Year-The-nominees-announced-by-Londons-Design-Museum.html">Designs of the Year 2015</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/culture/culturepicturegalleries/11490163/Designs-of-the-Year-The-nominees-announced-by-Londons-Design-Museum.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03242/doty-design-summ_3242401f.jpg" alt="" border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/culture/culturepicturegalleries/11490163/Designs-of-the-Year-The-nominees-announced-by-Londons-Design-Museum.html" 
+                         	 
+                         >
+							<p>
+<strong>In pics: </strong>The nominees announced by London&rsquo;s Design Museum
+</p></a>
+                </div><span class="comments">
+			            	<a href="/culture/culturepicturegalleries/11490163/Designs-of-the-Year-The-nominees-announced-by-Londons-Design-Museum.html#disqus_thread" dsqid="11490163" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11489803 -->
+			<h3>
+                    <a  href="/news/picturegalleries/worldnews/11489803/Syrian-conflict-Bashar-al-Assads-female-fighters-in-pictures.html">Assad's female fighters</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/news/picturegalleries/worldnews/11489803/Syrian-conflict-Bashar-al-Assads-female-fighters-in-pictures.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03242/syria-female-comma_3242263f.jpg" alt="Members of a Female Commando Battalion which is part of the Syrian Army, sit atop of a tank in the government-controlled area of Jobar, a suburb of Damascus" border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/news/picturegalleries/worldnews/11489803/Syrian-conflict-Bashar-al-Assads-female-fighters-in-pictures.html" 
+                         	 
+                         >
+							<p>
+<strong>In pics:</strong> Female volunteer fighters work alongside the Syrian Army 
+</p></a>
+                </div><p class="shareCount shareCountId11489803"></p>
+
+	<script type="text/javascript">
+	$(window).load(function () {
+		gigya.socialize.getProviderShareCounts({URL: 'www.telegraph.co.uk/news/picturegalleries/worldnews/11489803/Syrian-conflict-Bashar-al-Assads-female-fighters-in-pictures.html', callback:gigyaShareCountDisplay, context:{displayElementId:'shareCountId11489803'} });
+	});
+	</script>
+<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11489777 -->
+			<h3>
+                    <a  href="/sport/othersports/polo/11489777/British-Polo-Day-kicks-off-2015-Global-Series-in-Abu-Dhabi-in-pictures.html">British polo alive in the emirate</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/sport/othersports/polo/11489777/British-Polo-Day-kicks-off-2015-Global-Series-in-Abu-Dhabi-in-pictures.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03242/Pic4_3242132f.jpg" alt="" border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<a href= "/sport/othersports/polo/11489777/British-Polo-Day-kicks-off-2015-Global-Series-in-Abu-Dhabi-in-pictures.html" 
+                         	 
+                         >
+							<p>
+<i>Telegraph Sport</i> documents start of British Polo Day Global Series in 
+  Abu Dhabi 
+</p></a>
+                </div><span class="comments">
+			            	<a href="/sport/othersports/polo/11489777/British-Polo-Day-kicks-off-2015-Global-Series-in-Abu-Dhabi-in-pictures.html#disqus_thread" dsqid="11489777" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	<div class="summary headlineImageLeft">
+			<!-- 11485378 -->
+			<h3>
+                    <a  href="/culture/photography/11485378/Inside-the-Lodz-Ghetto-photos-by-Henryk-Ross.html">Inside the Lodz Ghetto</a>
+                </h3>
+
+	<!-- imagePosition: left, columnContext: twoThirds -->
+<div class="picleft containerdiv  ">
+        <a  href="/culture/photography/11485378/Inside-the-Lodz-Ghetto-photos-by-Henryk-Ross.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03239/summ2_3239460f.jpg" alt="Young boys hauling a cart" border="0" width="219"  height="137" />
+									<span class="cornerimagephotoleft">&nbsp;</span></a>
+                </div>
+	
+<div class="labelAbstract">
+<span class="labelOnSec"><a href="http://www.telegraph.co.uk/culture/photography/"> Photography</a></span>	
+<a href= "/culture/photography/11485378/Inside-the-Lodz-Ghetto-photos-by-Henryk-Ross.html" 
+                         	 
+                         >
+							<p>
+Imprisoned in the Lodz Ghetto during the Second World War, Henryk Ross 
+  secretly captured everything on camera 
+</p></a>
+                </div><span class="comments">
+			            	<a href="/culture/photography/11485378/Inside-the-Lodz-Ghetto-photos-by-Henryk-Ross.html#disqus_thread" dsqid="11485378" class="">Comments</a>
+			            </span>
+					<div class="cl"></div>
+		</div>
+	</div>
+	</div>
+	</div>
+                
+	
+
+<!-- googleoff: all -->
+
+	<input type="hidden" name="numofAds" id="numofAds" value="3">
+
+<div class="googleads ">
+		<div class="access">Advertisement</div>
+		
+		<script type="text/javascript">
+		<!--
+			google_ad_client = 'ca-telegraph_uk_300x250';
+			google_ad_channel = 'news';
+			google_max_num_ads = '3';
+			google_ad_output="js";
+			google_ad_type="text";
+			google_language="en";
+			google_encoding="utf8";
+			google_safe="high";
+			
+			
+									
+		// -->
+		</script>
+		
+		<script type="text/javascript" src="/template/ver1-0/js/googleAds.js"></script>
+		
+	<div id="google-ads-container"></div>
+		<script type="text/javascript" src="http://pagead2.googlesyndication.com/pagead/show_ads.js"></script>
+		<noscript>
+			<img height="1" width="1" border="0" src="http://pagead2.googlesyndication.com/pagead/imp.gif?client=ca-telegraph_uk_420x200&amp;event=noscript" alt=""/>
+		</noscript>
+	</div>
+
+<!-- googleon: all -->
+</div>
+
+			<div class="twoThirds btop">
+				<!--comments=disqus<br>
+disqusComments=inactive<br>
+userCommentsState=sectionProperties<br>
+showComments=false<br>
+article.articleTypeName=tmglstory<br>-->
+
+		
+</div>
+			<div class="cl"></div>
+		</div>
+
+		<div class="oneThird">
+			<div class="articleSponsor">
+            <div bucket-id="article_sponsor_01" >	
+	<div
+					class="summary html mnHTML">
+					<!-- 8015432 -->
+                    <iframe allowTransparency="true" style="border:none; overflow:hidden; width:292px; height:62px;" frameborder="0" scrolling="no" src="http://www.facebook.com/plugins/likebox.php?href=http%3A%2F%2Fwww.facebook.com%2Ftelegraph.co.uk&amp;width=292&amp;connections=0&amp;stream=false&amp;header=false&amp;height=62">Telegraph on Facebook</iframe></div>
+			</div>
+	</div>
+
+    <div class="summaryMedium">
+		</div>
+	<div class="summaryPadding"></div>
+<div class="admpu gutterUnder">
+  <script type="text/javascript">
+     /* EPOCH time at the start of MPU Ad */
+     var mpuAdTimerStart = Date.now();
+  </script>
+<div class="access">Advertisement</div>
+<div id="mpu" class="InSkinHide">
+	<div bucket-id="mpu">
+<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("mpu", "300x250,300x600", "adj", "", 2));
+		</script>
+	</div></div>
+</div>
+
+<div class="summaryMedium  gutterUnder  tps5 top-stories05">
+				<div bucket-id="top_stories_05" >	
+	<div class="headerOne styleOne">
+				<!-- 10816946 -->
+				<p>
+							<a href="http://www.telegraph.co.uk/telegraphtv/"><span>Latest Video&#187;</span></a>
+							</p></div>
+		<div class="summaryMedium pictureGrid  oneThirdGrid">
+	<div class="summary picGrid-02">
+							<div class="summarySmall">
+								<!-- imagePosition: centre, columnContext: oneThirdWithGrid -->
+<div class="piccentre containerdiv  ">
+        <div class="playButton" style="width: 140px; height: 87px;"><a  href="/news/worldnews/europe/france/11491723/Airbus-A320-crash-President-Hollande-there-are-not-thought-to-be-any-survivors.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03243/hollande1_3243340g.jpg" alt="" border="0" width="140"  height="87" />
+									<span class="playBtt" style="width: 140px; opacity: 0; filter: alpha(opacity = 0);">&nbsp;</span><span class="playBttTop" style="width: 140px;"></span></a>
+                </div></div>
+	
+<h3>
+                    <a  href="/news/worldnews/europe/france/11491723/Airbus-A320-crash-President-Hollande-there-are-not-thought-to-be-any-survivors.html">President Hollande: 'no survivors likely'</a>
+                </h3>
+
+	</div>
+						</div>
+						
+						<div class="summary picGrid-03">
+							<div class="summarySmall">
+								<!-- imagePosition: centre, columnContext: oneThirdWithGrid -->
+<div class="piccentre containerdiv  ">
+        <a  href="/news/worldnews/europe/france/11491607/Airbus-A320-plane-crashes-in-France-Watch-live-for-updates.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03243/Germanwings_E77GKG_3243274g.jpg" alt="A Germanwings A320" border="0" width="140"  height="87" />
+									<div class="liveVideo"><span class="liveVideoIcon"></span><span class="liveVideoText">WATCH LIVE</span></div></a>
+                </div>
+	
+<h3>
+                    <a  href="/news/worldnews/europe/france/11491607/Airbus-A320-plane-crashes-in-France-Watch-live-for-updates.html">Airbus A320 plane crashes in France - Watch live for updates</a>
+                </h3>
+
+	</div>
+						</div>
+						
+						<div class="summary picGrid-04">
+							<div class="summarySmall">
+								<!-- imagePosition: centre, columnContext: oneThirdWithGrid -->
+<div class="piccentre containerdiv  ">
+        <div class="playButton" style="width: 140px; height: 87px;"><a  href="/news/newsvideo/celebrity-news-video/11491191/James-Corden-makes-Mila-Kunis-admit-she-has-married-Ashton-Kutcher-on-Late-Late-show-premiere.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03243/James_corden__late_3243051g.jpg" alt="James corden, late late show premiere" border="0" width="140"  height="87" />
+									<span class="playBtt" style="width: 140px; opacity: 0; filter: alpha(opacity = 0);">&nbsp;</span><span class="playBttTop" style="width: 140px;"></span></a>
+                </div></div>
+	
+<h3>
+                    <a  href="/news/newsvideo/celebrity-news-video/11491191/James-Corden-makes-Mila-Kunis-admit-she-has-married-Ashton-Kutcher-on-Late-Late-show-premiere.html">Watch: James Corden's Late Late Show debut</a>
+                </h3>
+
+	</div>
+						</div>
+						
+						<div class="summary picGrid-05">
+							<div class="summarySmall">
+								<!-- imagePosition: centre, columnContext: oneThirdWithGrid -->
+<div class="piccentre containerdiv  ">
+        <div class="playButton" style="width: 140px; height: 87px;"><a  href="/news/newsvideo/viral-video/11491287/Fritz-the-Golden-Retriever-is-terrible-at-catching-food.html"><img src="http://i.telegraph.co.uk/multimedia/archive/03243/fritz_dog_3243098g.jpg" alt="fritz dog" border="0" width="140"  height="87" />
+									<span class="playBtt" style="width: 140px; opacity: 0; filter: alpha(opacity = 0);">&nbsp;</span><span class="playBttTop" style="width: 140px;"></span></a>
+                </div></div>
+	
+<h3>
+                    <a  href="/news/newsvideo/viral-video/11491287/Fritz-the-Golden-Retriever-is-terrible-at-catching-food.html">Golden Retriever just can't catch food</a>
+                </h3>
+
+	</div>
+						</div>
+						
+						<div class="summary picGrid-06">
+							<div class="summarySmall">
+								<!-- imagePosition: centre, columnContext: oneThirdWithGrid -->
+<div class="piccentre containerdiv  ">
+        <div class="playButton" style="width: 140px; height: 87px;"><a  href="/foodanddrink/11490510/Mary-Berry-Ive-had-more-baking-disasters-than-hot-dinners.html"><img src="http://i.telegraph.co.uk/multimedia/archive/02386/MaryBerry_2386318g.jpg" alt="Great British Food Revival: Mary Berry and her Baked Alaska." border="0" width="140"  height="87" />
+									<span class="playBtt" style="width: 140px; opacity: 0; filter: alpha(opacity = 0);">&nbsp;</span><span class="playBttTop" style="width: 140px;"></span></a>
+                </div></div>
+	
+<h3>
+                    <a  href="/foodanddrink/11490510/Mary-Berry-Ive-had-more-baking-disasters-than-hot-dinners.html">Mary Berry: &lsquo;I&rsquo;ve had more baking disasters than hot dinners&rsquo;</a>
+                </h3>
+
+	</div>
+						</div>
+						
+						<div class="summary picGrid-07">
+							<div class="summarySmall">
+								<!-- imagePosition: centre, columnContext: oneThirdWithGrid -->
+<div class="piccentre containerdiv  ">
+        <div class="playButton" style="width: 140px; height: 87px;"><a  href="/sponsored/gardening/gardening-tips/11484709/grow-your-own-vegetables.html?WT.mc_id=tmgspk_edc_605967_11484709&amp;utm_source=tmgspk&amp;utm_medium=edc&amp;utm_content=605967&amp;utm_campaign=tmgspk_edc_605967_11484709    "><img src="http://i.telegraph.co.uk/multimedia/archive/03239/toby-buckland-plan_3239369g.jpg" alt="Toby Buckland planting vegetables" border="0" width="140"  height="87" />
+									<span class="playBtt" style="width: 140px; opacity: 0; filter: alpha(opacity = 0);">&nbsp;</span><span class="playBttTop" style="width: 140px;"></span></a>
+                </div></div>
+	
+<h3>
+                    <a  href="/sponsored/gardening/gardening-tips/11484709/grow-your-own-vegetables.html?WT.mc_id=tmgspk_edc_605967_11484709&amp;utm_source=tmgspk&amp;utm_medium=edc&amp;utm_content=605967&amp;utm_campaign=tmgspk_edc_605967_11484709    ">Grow your own vegetables</a>
+                </h3>
+
+	</div>
+						</div>
+						
+						<div class="cl"> </div>
+	</div>
+</div>
+	</div>
+		<div class="summaryMedium gutterUnder">
+						<div bucket-id="widget_01">
+			
+                    
+                                <div class="headerOne styleOne">
+				<!-- 8636864 -->
+				<p>
+							<a href="http://twitter.com/#!/telegraphworld/telegraph-correspondents"><span>Foreign correspondents on Twitter&#187;</span></a>
+							</p></div>
+		<a class="twitter-timeline" data-widget-id="344501229713502208"  width="300"  height="400"></a>
+ 
+<script>
+	!function(d, s, id) {
+		var js, fjs = d.getElementsByTagName(s)[0];
+		if (!d.getElementById(id)) {
+			js = d.createElement(s);
+			js.id = id;
+			js.src = "//platform.twitter.com/widgets.js";
+			fjs.parentNode.insertBefore(js, fjs);
+		}
+	}(document, "script", "twitter-wjs");
+</script>
+                        
+		    </div>
+		</div>
+				<div class="access">Advertisement</div>
+<div id="yell">
+	<div class="adyell InSkinHide">
+		<div bucket-id="mpu">
+<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("yell", "300x150", "adj", "", 2));
+		</script>
+	</div></div>
+</div>
+
+
+
+
+
+
+
+<div class="summaryMedium gutterUnder">
+	<div bucket-id="widget_02">
+			
+                    
+                                <div class="headerOne styleTwo">
+				<!-- 8121276 -->
+				<p>
+							<a href="http://www.telegraph.co.uk/promotions/?WT.mc_id=605488&source=SponsoredFeaturePuff"><span>Sponsored Features&#187;</span></a>
+							</p></div>
+		<div id="configurableTabs" class="configTabs">
+    <div class="topline">
+    	<div class="left"></div>
+    	<div class="right"></div>
+        <div style="clear:both;"></div>
+    </div>
+	
+    <div class="innerPlugin">
+      <div class="loadingMessage">
+            Loading
+        </div>
+        <div class="cl"></div>
+
+		<script type="text/javascript">
+                var puffs_8121069 = new Array();
+                </script>
+                <div id="configurableTab_8121069" class="controlledTab" style="display:none;">
+                	<div class="tools">
+							<a class="prevArrowImage" id="p8121069" href="#"></a>
+							<a class="nextArrowImage" id="n8121069" href="#"></a>
+							<div class="cl"></div>
+						</div>
+					<ul class="configurableWidget ssAds"></ul>
+                    <script type="text/javascript">
+								    var thisLink = "http://www.telegraph.co.uk/sponsored/travel/life-well-travelled/11419994/win-flights-cathay-pacific.html?WT.mc_id=tmgspk_sfp_605940_11419994&utm_source=tmgspk&utm_medium=sfp&utm_content=605940&utm_campaign=tmgspk_sfp_605940_11419994&WT.ac=11489725";
+								    puffs_8121069.push({'id':'11489725', 'headline':'Win two flights anywhere in the world', 'bodyText':'Cathay Pacific is giving away a pair of return tickets anywhere in their network', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/03203/Hong_Kong_3203784a.jpg', 'weight':'1'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://www.telegraph.co.uk/sponsored/business/business-energy/11459077/london-aquatics-centre-sporting-success-story.html?WT.mc_id=tmgspk_sfp_605961_11459077&utm_source=tmgspk&utm_medium=sfp&utm_content=605961&utm_campaign=tmgspk_sfp_605961_11459077&WT.ac=11489693";
+								    puffs_8121069.push({'id':'11489693', 'headline':'Technology in the Olympic Park', 'bodyText':'Innovative energy management lies behind the success of the London Aquatics Centre', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/03224/sse_london_aquatic_3224750a.jpg', 'weight':'1'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://fashion.telegraph.co.uk/Article/TMG11485354/963/best-anti-aging-serum.html?WT.mc_id=tmgspk_sfp_605965_11485354&utm_source=tmgspk&utm_medium=sfp&utm_content=605965&utm_campaign=tmgspk_sfp_605965_11485354&WT.ac=11489857";
+								    puffs_8121069.push({'id':'11489857', 'headline':'The ultimate super-serum', 'bodyText':'The newest Elizabeth Arden\'s serum contains the most powerful antioxidant complex', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/03242/Elizabeth-Arden-Pr_3242206a.jpg', 'weight':'1'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://www.telegraph.co.uk/sponsored/travel/austria-summer-activities/11432728/austria-summer-festivals.html?WT.mc_id=tmgspk_sfp_605960_11432728&utm_source=tmgspk&utm_medium=sfp&utm_content=605960&utm_campaign=tmgspk_sfp_605960_11432728&WT.ac=11489837";
+								    puffs_8121069.push({'id':'11489837', 'headline':'Outstanding cultural events', 'bodyText':'In Austria, you&rsquo;ll find a vibrant cultural life, classical music events and jazz festivals', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/03211/Two_couples_drinki_3211407a.jpg', 'weight':'1'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://www.telegraph.co.uk/sponsored/sport/golfing-breaks-liverpool/11461306/must-see-sights-liverpool.html?WT.mc_id=tmgspk_sfp_605966_11461306&utm_source=tmgspk&utm_medium=sfp&utm_content=605966&utm_campaign=tmgspk_sfp_605966_11461306&WT.ac=11489674";
+								    puffs_8121069.push({'id':'11489674', 'headline':'Must-see attractions in Liverpool', 'bodyText':'Scroll through this gallery ahead of your next trip to Liverpool', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/03226/Liverpool_Waterfro_3226398a.jpg', 'weight':'1'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://shop.telegraph.co.uk/buy/miscellaneous/easy-fit-ultimate-draught-excluder/80/no/86709?utm_source=tmg&utm_medium=sf_lifestyle&utm_campaign=draught-excluder&WT.ac=11081458";
+								    puffs_8121069.push({'id':'11081458', 'headline':'On Sale: Easy Fit Draught Excluder', 'bodyText':'Buy 3 for &pound;9.99 - Reduced from &pound;24.99 each.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/03226/draught-excluder_3226236a.jpg', 'weight':'1'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://www.telegraph.co.uk/finance/investor/?WT.mc_id=tmg_rc_ros_2015313&utm_source=tmg&utm_medium=rc&utm_content=ros&utm_campaign=tmg_rc_ros_2015313&WT.ac=9722034";
+								    puffs_8121069.push({'id':'9722034', 'headline':'Telegraph Investor - DIY investing made simple', 'bodyText':'&pound;10 to trade shares and no charge to buy &amp; sell funds with Telegraph Investor.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/03214/Investor_3214186a.jpg', 'weight':'1'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://shop.telegraph.co.uk/buy/monitors-and-fitness/electronic-body-fat-scales/80/yes/105578?utm_source=tmg&utm_medium=sf_tech&utm_campaign=scales&WT.ac=11029086";
+								    puffs_8121069.push({'id':'11029086', 'headline':'Electronic Body Fat Scales Now Only &pound;19.99', 'bodyText':'Save &pound;20 on these scales which calculate weight, body fat, BMI, bone weight and muscle percentage.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/03226/scales_3226183a.jpg', 'weight':'1'});
+								    </script>
+
+								    <script type="text/javascript">
+								    var thisLink = "http://www.telegraph.co.uk/financialservices/money-transfer-and-expat/foreign-ex-and-money-transfer/?utm_source=tmg&utm_medium=sf_news&utm_campaign=sponsoredfeatures&WT.ac=10651060";
+								    puffs_8121069.push({'id':'10651060', 'headline':'The best way to transfer money overseas', 'bodyText':'Open a free Telegraph Money Transfer account online today.', 'link':thisLink, 'imageUrl':'http://i.telegraph.co.uk/multimedia/archive/02662/MT_-_Laptop_2662855a.jpg', 'weight':'1'});
+								    </script>
+
+								    </div>
+
+                <script type="text/javascript">
+var noOfPuffs = 10;
+
+	for(var i=0; i < noOfPuffs; i++) {
+		if(i < puffs_8121069.length) {
+			rotateLayoutPuffs(8121069, i, true);
+		}
+    } 		
+
+</script><div class="cl"></div>
+	  </div>
+	<div class="bottomline">
+    	<div class="left"></div>
+    	<div class="right"></div>
+        <div style="clear:both;"></div>
+    </div>
+</div>
+<script language="Javascript" type="text/javascript">
+function onClickedForTabCountZero(tabTitle){
+	if(tabTitle == 'BUY USED')
+	{
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgU1GlWa', { });";
+		head.appendChild(s);
+	}
+	
+};
+function onClickedForTabCountNonZero(tabTitle){
+	if(tabTitle == 'SELL A CAR')
+	{
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgVNad2Z', { });";
+		head.appendChild(s);
+	}
+	else if(tabTitle == 'BUY NEW')
+	{
+	
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgVO4O1d', { });";
+		head.appendChild(s);
+	}
+};
+</script>
+                        
+		    </div>
+		</div>
+<div class="summaryMedium gutterUnder">
+		<div bucket-id="most_popular_01" >	
+	<div class="mostPopular"><div id="mostPopular">
+					<div class="headerOne styleNine">
+								<p>News Most Viewed</p>
+							</div>
+						<div id="mostpop">
+					<div class="tabs">
+						<ul>
+							<li id="TODAY" class="first current" onclick="return false">
+								<a>
+									<span>TODAY</span>
+								</a>
+							</li>
+							<li id="THIS_WEEK" onclick="return false">
+								<a>
+									<span>PAST WEEK</span>
+								</a>
+							</li>
+							<li id="THIS_MONTH" onclick="return false" class="last">
+								<a>
+									<span>PAST MONTH</span>
+								</a>
+							</li>
+						</ul>
+					</div>
+					<div class="cl"></div>
+
+						<div class="lists">
+						<div id="div-TODAY" class="view-content" style="display: block;">
+							<ol>
+									<li><a href="/news/worldnews/southamerica/falklandislands/11491135/Britain-to-increase-Falklands-garrison.html">Britain to send more troops to the Falklands to counter &#039;heightened&#039; invasion threat from Argentina</a></li>
+
+									<li><a href="/news/worldnews/southamerica/argentina/11488776/Argentine-archaeologists-find-secret-Nazi-lair-in-jungle.html">Argentine archaeologists find secret Nazi lair</a></li>
+
+									<li><a href="/news/worldnews/europe/france/11491587/Airbus-A320-crashes-in-French-Alps-with-148-people-on-board-live.html">Germanwings Airbus A320 crashes in French Alps with 148 people on board: latest</a></li>
+
+									<li><a href="/news/science/large-hadron-collider/11489442/Big-Bang-theory-could-be-debunked-by-Large-Hadron-Collider.html">Big Bang theory could be debunked by Large Hadron Collider</a></li>
+
+									<li><a href="/news/science/science-news/11490006/Daily-bowl-of-quinoa-could-save-your-life-says-Harvard-University.html">Daily bowl of quinoa &#039;could save your life&#039;</a></li>
+
+									</ol>
+							</div>
+						<div id="div-THIS_WEEK" class="view-content" style="display: none">
+							<ol>
+									<li><a href="/news/science/space/11483302/Solar-eclipse-2015-watch-live.html">Watch: Solar eclipse highlights</a></li>
+
+									<li><a href="/news/worldnews/europe/france/11487205/English-Channel-braced-for-tide-of-the-century.html">Thousands gather along English Channel to witness &#039;tide of the century&#039;</a></li>
+
+									<li><a href="/news/celebritynews/11482025/James-May-and-Richard-Hammond-refuse-to-film-Top-Gear-without-Jeremy-Clarkson.html">James May and Richard Hammond refuse to film Top Gear without Jeremy Clarkson</a></li>
+
+									<li><a href="/news/science/science-news/11484521/Solar-eclipse-2015-live.html">Solar eclipse 2015 as it happened: Britain plunged into morning twilight</a></li>
+
+									<li><a href="/news/worldnews/southamerica/argentina/11488776/Argentine-archaeologists-find-secret-Nazi-lair-in-jungle.html">Argentine archaeologists find secret Nazi lair</a></li>
+
+									</ol>
+							</div>
+						<div id="div-THIS_MONTH" class="view-content" style="display: none">
+							<ol>
+									<li><a href="/news/worldnews/asia/india/11443462/Delhi-bus-rapist-blames-his-victim-in-prison-interview.html">Delhi bus rapist blames his victim in prison interview</a></li>
+
+									<li><a href="/news/science/space/11483302/Solar-eclipse-2015-watch-live.html">Watch: Solar eclipse highlights</a></li>
+
+									<li><a href="/news/worldnews/australiaandthepacific/tongafrenchpolynesia/11463853/First-photographs-emerge-of-new-Pacific-island-off-Tonga.html">First photographs emerge of new Pacific island</a></li>
+
+									<li><a href="/news/worldnews/europe/france/11487205/English-Channel-braced-for-tide-of-the-century.html">Thousands gather along English Channel to witness &#039;tide of the century&#039;</a></li>
+
+									<li><a href="/news/celebritynews/11482025/James-May-and-Richard-Hammond-refuse-to-film-Top-Gear-without-Jeremy-Clarkson.html">James May and Richard Hammond refuse to film Top Gear without Jeremy Clarkson</a></li>
+
+									</ol>
+							</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div></div>
+<div class="adarea gutterUnder">
+			<div class="adsky">
+				<script type="text/javascript">
+     /* EPOCH time at the start of skyscraper Ad */
+     var startOfSkyscraper = Date.now();
+  </script>
+<div class="access">Advertisement</div>
+<div class="InSkinHide" align="center">
+	<div bucket-id="mpu">
+<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("hpg,sks,skl", "300x600,120x600,160x600", "adj", "", 2));
+		</script>
+	</div></div></div>
+	
+			<div class="cl"></div>
+		</div>
+		
+	<div class="summaryMedium gutterUnder">
+						<div bucket-id="widget_03">
+			
+                    
+                                <div class="headerOne styleOne">
+				<!-- 8120735 -->
+				<p>
+							<span>Featured Advertising</span>
+							</p></div>
+		<div id="configurableTabs" class="configTabs">
+    <div class="topline">
+    	<div class="left"></div>
+    	<div class="right"></div>
+        <div style="clear:both;"></div>
+    </div>
+	
+    <div class="innerPlugin">
+      <div class="tabs">
+	            <ul class="mainTabs">
+	                <li class="start"><a id="linktoConfigurableTab_8120632" onclick="onClickedForTabCountZero('World Travel'); return false;" href="#configurableTab_8120632">World Travel</a></li>
+	                        <li><a id="linktoConfigurableTab_8120657" onclick="onClickedForTabCountNonZero('Property'); return false;" href="#configurableTab_8120657">Property</a></li>
+	                        <li><a id="linktoConfigurableTab_8120654" onclick="onClickedForTabCountNonZero('Shopping'); return false;" href="#configurableTab_8120654">Shopping</a></li>
+	                        <span class="end"></span>
+	            </ul>
+	        </div>
+        <div class="loadingMessage">
+            Loading
+        </div>
+        <div class="cl"></div>
+
+		<script type="text/javascript">
+                var puffs_8120632 = new Array();
+                </script>
+                <div id="configurableTab_8120632" class="controlledTab" style="display:none;">
+                	<ul class="configurableWidget "></ul>
+                    <div class="cl"></div>
+                            <p class="commPuffFooterLink"><a href="http://www.telegraph.co.uk/advertising/9900101/Self-Service-Advertising.html?utm_source=tmg&utm_medium=featuredads&utm_campaign=selfserve" target="_blank">Learn about advertising on Telegraph.co.uk</a></p>
+                        </div>
+
+                <script xmlns:tmg="http://www.telegraph.co.uk/tmgFeedNS" type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120632');
+		    var guid = "";
+		    var headline = "Win £1000 worth of John Lewis vouchers"; 
+		    var description = "For a fantastic opportunity to win &pound;1000 worth of John Lewis vouchers to spend towards completely kitting yourself out for your next holiday";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/eb14a930-4fbb-4122-9c44-2f9b8bbda4e6?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/ca7de2a1-3060-42c8-9d3b-5a753b60a02c.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120632');
+		    var guid = "";
+		    var headline = "The Semercioglu IV from £699pp"; 
+		    var description = "Deluxe Gulet Cruise Including Full Board + Soft drinks";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/3bb0a987-90da-494f-ae27-cd4aecd06853?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/c4604434-dcbb-4308-9294-f4d98a100580.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120632');
+		    var guid = "";
+		    var headline = "Crete Luxury 5*All-Inc Week"; 
+		    var description = "From ONLY &pound;285pp! | Beach Front Location";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/c8f1a50f-e15c-404e-ae46-1dffb8e5b604?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/2da37d9f-abc7-4a50-b307-0dbd702eb0b8.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120632');
+		    var guid = "";
+		    var headline = "Magical Turkey tours & Gulets"; 
+		    var description = "Enjoy 20% off all tours &amp; Gulets. Request your brochure today";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/e555cd98-d84b-4ee3-8a9c-ff207b754d8a?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/5a5dacb0-94e3-42d5-b79d-01bc88578439.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120632');
+		    var guid = "";
+		    var headline = "Discover USA's Great Canyons & Railroads"; 
+		    var description = "http://Epic 19-Day escorted rail tour across America's 'wild west' from San Francisco to Denver. &pound;3,475pp";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/e35a0419-85b2-4aa7-9b92-785740240b47?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/cfe78e03-3527-49e8-920f-fd8982b495f6.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script>
+<script type="text/javascript">
+
+var noOfPuffs = 2;
+var lastClass = "";
+
+if(puffs_8120632.length > noOfPuffs) {
+    for(var i=0; i < noOfPuffs; i++) {    
+    	 var randomIndex =  selectRandomPuffIndex(puffs_8120632);         
+         if(i == noOfPuffs-1) { lastClass=" last"; }
+         append2LayoutPuffs(8120632, randomIndex, true);
+         puffs_8120632.splice(randomIndex, randomIndex+1);          
+    }   
+} else {
+    for(var i=0; i<puffs_8120632.length; i++) {
+    	if(i == noOfPuffs-1) { lastClass=" last"; }
+        append2LayoutPuffs(8120632, i, true);
+    }       
+}
+
+
+
+</script><script type="text/javascript">
+                var puffs_8120657 = new Array();
+                </script>
+                <div id="configurableTab_8120657" class="controlledTab" style="display:none;">
+                	<ul class="configurableWidget "></ul>
+                    <div class="cl"></div>
+                            <p class="commPuffFooterLink"><a href="http://zoopla.telegraph.co.uk" target="_blank">Search for a property</a></p>
+                        </div>
+
+                <script xmlns:tmg="http://www.telegraph.co.uk/tmgFeedNS" type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120657');
+		    var guid = "";
+		    var headline = "Coming Soon - brand new homes to Thame"; 
+		    var description = "Luxury 2, 3, 4, 5 &amp; 6 bed family homes in the stunning town of Thame, just 14 miles from Oxford.";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/c6e06939-8f05-4f99-a589-d139eaeaafef?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/5d1a8919-0452-4fe7-9256-e1aadf8b02d1.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120657');
+		    var guid = "";
+		    var headline = "Blue Forest Design and Build Luxury Tree Houses"; 
+		    var description = "Recapture the magic of childhood with Blue Forest. Whatever your dreams, we can create you your very own treehouse.";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/25279ff8-adf2-42ff-a691-3375e4d46a84?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/2b69f15b-86d5-4ff2-aff5-8030dec38f38.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120657');
+		    var guid = "";
+		    var headline = "SHELVING, STUDY, BEDROOMS"; 
+		    var description = "Bespoke manufactured furniture, designed with you, fitted in one day and installed within four weeks.";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/671fa105-5502-4ad9-8ba2-e8f954f6150a?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/4578918e-a2ed-46d5-a085-7d2098fd2861.png"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120657');
+		    var guid = "";
+		    var headline = "Take your time on your 2015 move!"; 
+		    var description = "Home Movers package available saving &pound;&pound;&pound;'s. 3,4 &amp; 5 bed homes in Oxfordshire village. From &pound;350,000.";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/7727d8f3-05c9-416e-9bb7-b496a3009d9e?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/a66d0fe6-f63f-4400-b64d-6dcc4c73406e.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120657');
+		    var guid = "";
+		    var headline = "Discover village living in Wiltshire"; 
+		    var description = "Exclusive 5 &amp; 6 bedroom homes close to local amenities and minutes from the M4. Deals available.";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/ba9bd75c-0d3e-4483-9b3a-e753eb6f14da?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/35f25d75-c16f-4b76-bbcf-58d6cc8a25e5.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120657');
+		    var guid = "";
+		    var headline = "Looking for retirement property in 2015?"; 
+		    var description = "Be sure to include our portfolio of 14 private retirement villages across 11 UK counties in your search. Request a call back: 0845 5211857";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/6364e264-55dc-402f-92c9-98da18454353?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/80308a5c-0712-4f3f-9a95-f6f20589fa9f.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120657');
+		    var guid = "";
+		    var headline = "Buy and sell your home in JUST 7 days!"; 
+		    var description = "Part Exchange available on selected 4 &amp; 5 bed detached homes in the Oxfordshire village of Southmoor.";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/03ec4fa9-3490-448b-99a2-aebb430fac9e?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/cc83ef83-994f-4075-a305-c007f7194fd7.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120657');
+		    var guid = "";
+		    var headline = "The Joy of Riverside Living"; 
+		    var description = "Buy early in Five Riverside at Riverside Quarter, Wandsworth, with two bed apartments from &pound;665,000.";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/1da3186d-fb0d-4854-985d-ac70c99e4f88?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/3ceb09dd-fea4-4ff7-b738-40357e228834.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120657');
+		    var guid = "";
+		    var headline = "Register now for the Opus Collection VIP launch"; 
+		    var description = "High quality 1, 2 &amp; 3 bed apartments, townhouses and penthouses in the heart of Chiswick, West London. Brought to you by Lend Lease.";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/b8b7f9b4-00de-4613-9fe7-91cb65cfaad8?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/1c8a089d-e43b-4f14-989a-71faaa9f92a2.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120657');
+		    var guid = "";
+		    var headline = "CALA Homes at Trueloves Grange, Ingatestone"; 
+		    var description = "Eleven 5, 6, &amp; 7 bed detached luxury homes Part Exchange available (conditions apply). Click for details";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/01d4615b-e8e2-4218-908d-2c2e403a749c?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/b8d7d085-4e70-46dc-8219-ce6865133fbf.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script>
+<script type="text/javascript">
+
+var noOfPuffs = 2;
+var lastClass = "";
+
+if(puffs_8120657.length > noOfPuffs) {
+    for(var i=0; i < noOfPuffs; i++) {    
+    	 var randomIndex =  selectRandomPuffIndex(puffs_8120657);         
+         if(i == noOfPuffs-1) { lastClass=" last"; }
+         append2LayoutPuffs(8120657, randomIndex, true);
+         puffs_8120657.splice(randomIndex, randomIndex+1);          
+    }   
+} else {
+    for(var i=0; i<puffs_8120657.length; i++) {
+    	if(i == noOfPuffs-1) { lastClass=" last"; }
+        append2LayoutPuffs(8120657, i, true);
+    }       
+}
+
+
+
+</script><script type="text/javascript">
+                var puffs_8120654 = new Array();
+                </script>
+                <div id="configurableTab_8120654" class="controlledTab" style="display:none;">
+                	<ul class="configurableWidget "></ul>
+                    <div class="cl"></div>
+                            <p class="commPuffFooterLink"><a href="http://www.telegraph.co.uk/advertising/9900101/Self-Service-Advertising.html?utm_source=tmg&utm_medium=featuredads&utm_campaign=selfserve" target="_blank">Learn about advertising on Telegraph.co.uk</a></p>
+                        </div>
+
+                <script xmlns:tmg="http://www.telegraph.co.uk/tmgFeedNS" type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120654');
+		    var guid = "";
+		    var headline = "COUNTRY DESKS"; 
+		    var description = "We are one of the UK's leading suppliers of traditional office furniture. Click here to see our extensive range";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/72955208-4140-41fb-98cb-187efa1aed06?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/ed13d6de-443e-44b0-90e9-78dd8c3d93c8.png"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120654');
+		    var guid = "";
+		    var headline = "Win £1000 of Argos Vouchers!!"; 
+		    var description = "Win &pound;1000 worth of Argos vouchers to spend towards your next holiday or short break";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/0f9ba48e-11d4-46a3-888e-4dd9e5d49a60?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/fbec9aed-3a7f-4ef2-ba3f-a3c2f7fb5b8a.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120654');
+		    var guid = "";
+		    var headline = "Call For Gifts With Next Day Delivery"; 
+		    var description = "Beautifully boxed, handmade British Sculpture. Solid bronze limited editions of children and animals";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/0ecde3f8-c1f6-4ea7-a773-c3d86af37d68?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/e942200a-e30b-4dd5-8df3-a448b06a154b.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120654');
+		    var guid = "";
+		    var headline = "FIRELIGHTING WITHOUT FUSS"; 
+		    var description = "The award winning Grenadier Electric Firelighter, guaranteed to light all types of solid fuels fast without paper, matches or sticks";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/62078fb1-59a9-42c5-af98-a655be11bf7e?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/b3d04e65-7140-4099-81bb-96a6b940c172.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120654');
+		    var guid = "";
+		    var headline = "SHELVING, STUDY, BEDROOMS"; 
+		    var description = "Bespoke manufactured furniture, designed with you, fitted in one day and installed within four weeks.";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/9b95bac3-8baf-475d-b843-d93d53219272?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/4578918e-a2ed-46d5-a085-7d2098fd2861.png"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120654');
+		    var guid = "";
+		    var headline = "Crete Luxury 5*All-Inc Week"; 
+		    var description = "From ONLY &pound;285pp! | Beach Front Location";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/a9fb8abe-60ed-4f73-bd09-cfc015eda6d7?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/2da37d9f-abc7-4a50-b307-0dbd702eb0b8.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120654');
+		    var guid = "";
+		    var headline = "WIN £1000 of Marks & Spencer Vouchers"; 
+		    var description = "For the chance to win a &pound;1000 of M&amp;S vouchers simply click and enter.";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/2f9dd2a4-a0c5-48c6-aba3-beaf3a436880?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/2091dbed-054b-4695-8249-1055873b51fb.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120654');
+		    var guid = "";
+		    var headline = "The Semercioglu IV from £699pp"; 
+		    var description = "Deluxe Gulet Cruise Including Full Board + Soft drinks";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/a7a67403-8987-4472-bccc-7548cdc4e30f?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/c4604434-dcbb-4308-9294-f4d98a100580.jpg"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script><script type="text/javascript">		    
+		    var puffArray = eval('puffs_' + '8120654');
+		    var guid = "";
+		    var headline = "Absocutely.com - Gorgeous Ladies Nightwear"; 
+		    var description = "100% cotton ladies nightwear &pound;35 each or two for &pound;60! Plus more besides....gifts, tableware, childrenswear.";
+		    
+		    		var link = "http://featuredadvertising.telegraph.co.uk/c/9b1276c1-915c-49c7-b560-084fee3ccd9d?WT.ac=";
+		    	
+		    var imageUrl = "http://i.telegraph.co.uk/telegraph/multimedia/classified-select/images/d7c17ada-30bd-4606-80a3-131946f6d756.png"; 
+		    var adWeight = "3"; 
+		    
+		     puffArray.push({'id':guid, 'headline':headline, 'bodyText':description, 'link':link, 'imageUrl':imageUrl, 'weight':adWeight});
+		    
+		    </script>
+<script type="text/javascript">
+
+var noOfPuffs = 2;
+var lastClass = "";
+
+if(puffs_8120654.length > noOfPuffs) {
+    for(var i=0; i < noOfPuffs; i++) {    
+    	 var randomIndex =  selectRandomPuffIndex(puffs_8120654);         
+         if(i == noOfPuffs-1) { lastClass=" last"; }
+         append2LayoutPuffs(8120654, randomIndex, true);
+         puffs_8120654.splice(randomIndex, randomIndex+1);          
+    }   
+} else {
+    for(var i=0; i<puffs_8120654.length; i++) {
+    	if(i == noOfPuffs-1) { lastClass=" last"; }
+        append2LayoutPuffs(8120654, i, true);
+    }       
+}
+
+
+
+</script><div class="cl"></div>
+	  </div>
+	<div class="bottomline">
+    	<div class="left"></div>
+    	<div class="right"></div>
+        <div style="clear:both;"></div>
+    </div>
+</div>
+<script language="Javascript" type="text/javascript">
+function onClickedForTabCountZero(tabTitle){
+	if(tabTitle == 'BUY USED')
+	{
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgU1GlWa', { });";
+		head.appendChild(s);
+	}
+	
+};
+function onClickedForTabCountNonZero(tabTitle){
+	if(tabTitle == 'SELL A CAR')
+	{
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgVNad2Z', { });";
+		head.appendChild(s);
+	}
+	else if(tabTitle == 'BUY NEW')
+	{
+	
+		var head = document.getElementsByTagName('head')[0];
+		var s = document.createElement('script');
+		s.type = 'text/javascript';
+		s.text = "Krux('admEvent', 'IgVO4O1d', { });";
+		head.appendChild(s);
+	}
+};
+</script>
+                        
+		    </div>
+		</div>
+				<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/news/worldnews/europe/france/11332411/Said-and-Cherif-Kouachi-who-are-the-two-brothers-suspected-of-launching-Charlie-Hebdo-attack.html" data-widget-id="AR_3" data-ob-template="telegraph" ></div>
+<script type="text/javascript"> 
+					(function() { 
+			        var outbrainScriptTag = document.createElement('script'); 
+			        outbrainScriptTag.type = 'text/javascript'; 
+			        outbrainScriptTag.async = true; 
+			        outbrainScriptTag.id = "outbrain"; 
+			        outbrainScriptTag.src = 'http://widgets.outbrain.com/outbrain.js' ; 
+			        var s = document.getElementsByTagName('script')[0]; 
+			        s.parentNode.insertBefore(outbrainScriptTag, s); 
+					})(); 
+					
+</script> 		 	
+<script type="text/javascript">
+                /* EPOCH time at the end of right hand column */
+                 var rightHandTimer=Date.now();
+                </script>
+		</div>
+		<div class="cl"></div>
+
+		<div class="OUTBRAIN" data-src="http://www.telegraph.co.uk/news/worldnews/europe/france/11332411/Said-and-Cherif-Kouachi-who-are-the-two-brothers-suspected-of-launching-Charlie-Hebdo-attack.html" data-widget-id="TR_1" data-ob-template="telegraph" ></div>		
+		</div>
+	
+	<div class="printHide">
+		<div id="trafficDrivers">
+
+	<div class="gutterUnder">							
+		<div id="tmgPortalRand">
+			
+					
+						
+							<div class="headerOne styleOne">
+				<!-- 9612843 -->
+				<p>
+							<span>SPONSORED FEATURES</span>
+							</p></div>
+		
+					
+				
+
+			
+					
+						
+							<!-- 11490237 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/sponsored/finance/investments/?WT.mc_id=tmgspk_td_605979_8008&utm_source=tmgspk&utm_medium=td&utm_content=605979&utm_campaign=tmgspk_td_605979_8008				"> 
+				Personal Finance</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+        <a  href="http://www.telegraph.co.uk/sponsored/finance/investments/11483321/saving-for-mortgage-when-income-not-secure.html?WT.mc_id=tmgspk_td_605979_11483321&utm_source=tmgspk&utm_medium=td&utm_content=605979&utm_campaign=tmgspk_td_605979_11483321">
+                                <img src="http://i.telegraph.co.uk/multimedia/archive/02283/piggy-bank_2283301f.jpg" alt="Businessman with piggy bank - Business on a budget - SME Business Essentials" border="0" width="220"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+                                </a>
+                            </div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/sponsored/finance/investments/11483321/saving-for-mortgage-when-income-not-secure.html?WT.mc_id=tmgspk_td_605979_11483321&utm_source=tmgspk&utm_medium=td&utm_content=605979&utm_campaign=tmgspk_td_605979_11483321">
+                                How to save for a mortgage deposit</a>
+                            </h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/sponsored/finance/investments/11483321/saving-for-mortgage-when-income-not-secure.html?WT.mc_id=tmgspk_td_605979_11483321&utm_source=tmgspk&utm_medium=td&utm_content=605979&utm_campaign=tmgspk_td_605979_11483321">
+                                View</a>
+                            </div>
+
+	</div>
+</div>
+					
+				
+
+			
+					
+						
+							<!-- 11490154 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/sponsored/travel/lake-district-attractions/?WT.mc_id=tmgspk_td_605938_7984&utm_source=tmgspk&utm_medium=td&utm_content=605938&utm_campaign=tmgspk_td_605938_7984				"> 
+				The Lake District</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+        <a  href="http://www.telegraph.co.uk/sponsored/travel/lake-district-attractions/11405289/hadrians-wall-cumbria.html?WT.mc_id=tmgspk_td_605938_11405289&utm_source=tmgspk&utm_medium=td&utm_content=605938&utm_campaign=tmgspk_td_605938_11405289">
+                                <img src="http://i.telegraph.co.uk/multimedia/archive/03195/Birdoswald-Roman-F_3195587f.jpg" alt="Hadrian’s Wall" border="0" width="219"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+                                </a>
+                            </div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/sponsored/travel/lake-district-attractions/11405289/hadrians-wall-cumbria.html?WT.mc_id=tmgspk_td_605938_11405289&utm_source=tmgspk&utm_medium=td&utm_content=605938&utm_campaign=tmgspk_td_605938_11405289">
+                                Discover the fascinating history of Hadrian&rsquo;s Wall</a>
+                            </h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/sponsored/travel/lake-district-attractions/11405289/hadrians-wall-cumbria.html?WT.mc_id=tmgspk_td_605938_11405289&utm_source=tmgspk&utm_medium=td&utm_content=605938&utm_campaign=tmgspk_td_605938_11405289">
+                                View</a>
+                            </div>
+
+	</div>
+</div>
+					
+				
+
+			
+					
+						
+							<!-- 10976325 -->
+<div class="oneQuarter servicesSmall last">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://jobs.telegraph.co.uk/?utm_source=tmg&utm_medium=TD_jobshub2705&utm_campaign=JobsTDs"> 
+				Telegraph Jobs</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+        <a  href="http://jobs.telegraph.co.uk/?utm_source=tmg&utm_medium=TD_jobshub2705&utm_campaign=JobsTDs">
+                                <img src="http://i.telegraph.co.uk/multimedia/archive/02719/Jobs_Logo_220_2719708f.jpg" alt="Telegraph Jobs" border="0" width="220"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+                                </a>
+                            </div>
+	
+<h3>
+			<a  href="http://jobs.telegraph.co.uk/?utm_source=tmg&utm_medium=TD_jobshub2705&utm_campaign=JobsTDs">
+                                Search for a new job and get help with your career with Telegraph Jobs</a>
+                            </h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://jobs.telegraph.co.uk/?utm_source=tmg&utm_medium=TD_jobshub2705&utm_campaign=JobsTDs">
+                                View</a>
+                            </div>
+
+	</div>
+</div>
+					
+				
+
+			
+					
+						
+							<!-- 11490526 -->
+<div class="oneQuarter servicesSmall ">
+	<div class="summarySmall">
+		<div class="headerFive">		
+			<a href="http://www.telegraph.co.uk/financialservices/money-transfer-and-expat/foreign-ex-and-money-transfer?utm_source=tmg&utm_medium=td_overseaspropertyarticle&utm_campaign=moneytransfer"> 
+				Telegraph Money Transfer</a>
+		</div>
+		<!-- imagePosition: centre, columnContext: oneQuarter -->
+<div class="piccentre containerdiv  ">
+        <a  href="http://www.telegraph.co.uk/financialservices/money-transfer-and-expat/foreign-ex-and-money-transfer/11489701/Save-money-on-overseas-property-with-a-currency-specialist.html?utm_source=tmg&utm_medium=td_overseaspropertyarticle&utm_campaign=moneytransfer">
+                                <img src="http://i.telegraph.co.uk/multimedia/archive/03242/money_transfer_3242087f.jpg" alt="" border="0" width="220"  height="137" /><span class="imgSlantOverlay">&nbsp;</span>
+                                </a>
+                            </div>
+	
+<h3>
+			<a  href="http://www.telegraph.co.uk/financialservices/money-transfer-and-expat/foreign-ex-and-money-transfer/11489701/Save-money-on-overseas-property-with-a-currency-specialist.html?utm_source=tmg&utm_medium=td_overseaspropertyarticle&utm_campaign=moneytransfer">
+                                Save money on overseas property with a currency specialist</a>
+                            </h3>
+		<div class="traffdrivViewLink">
+			<a  href="http://www.telegraph.co.uk/financialservices/money-transfer-and-expat/foreign-ex-and-money-transfer/11489701/Save-money-on-overseas-property-with-a-currency-specialist.html?utm_source=tmg&utm_medium=td_overseaspropertyarticle&utm_campaign=moneytransfer">
+                                View</a>
+                            </div>
+
+	</div>
+</div>
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			
+					
+						
+							
+					
+				
+
+			<div class="cl"></div>		
+	</div>					
+</div>
+</div>
+<div class="cl"></div>
+
+		</div>
+	<!-- googleon: all -->
+</div><!-- googleoff: all -->
+			<script type="text/javascript">
+/* EPOCH time at the end of content Area */
+                var contentEndTimer = Date.now();
+</script>
+<div class="backtotop"><p><a href="#top">Back to top</a></p></div>
+<div id="tmglFooterLarge">
+		<a href="http://www.telegraph.co.uk/" id="footerlogolink" class="spr" title="Telegraph.co.uk: news, business, sport, the Daily Telegraph newspaper, Sunday Telegraph - Telegraph"></a>
+		<div id="tmglFooterLargeItems">		
+			<div class="footercolumn">									
+				<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/?utm_source=TMG&utm_medium=footer_home&utm_campaign=footerhomelink">HOME</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/">News</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/uknews/">UK News</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/politics/">Politics</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/features/">Long Reads</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/wikileaks-files/">Wikileaks</a></li>								
+
+					<li><a  target="_parent" href="http://jobs.telegraph.co.uk/">Jobs</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/worldnews/">World News</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/worldnews/europe/">Europe</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/worldnews/northamerica/usa/">USA</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/worldnews/asia/china/">China</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/uknews/theroyalfamily/">Royal Family News</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/celebritynews/">Celebrity news</a></li>								
+
+					<li><a  target="_parent" href="http://dating.telegraph.co.uk/s/a/4168">Dating</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/finance/">Finance</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/education/">Education</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/uknews/defence/">Defence</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/newstopics/howaboutthat/">Weird News</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/editors-choice/">Editor's Choice</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/financialservices/">Financial Services</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/news/picturegalleries/">Pictures</a></li>								
+
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/newsvideo/">Video</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/news/matt/">Matt</a></li>
+					<li><a  target="_parent" href="http://www.telegraph.co.uk/finance/alex/">Alex</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/comment/">Comment</a></li>								
+
+					</ul>
+					
+					<ul class="menu3"><li class="itemfocus"><a target="_parent" href="http://blogs.telegraph.co.uk">Blogs</a></li>								
+
+					<li><a  target="_parent" href="http://puzzles.telegraph.co.uk/">Crossword</a></li>
+					</ul>
+					
+					</div> <div class="footercolumn">
+						<ul class="menu1"><li class="itemfocus"><a target="_parent" href="http://www.telegraph.co.uk/topics/about-us/">Contact Us</a></li>								
+
+					<li><a  target="_parent" href="/topics/about-us/3691972/Privacy-and-Cookie-Policy.html">Privacy and Cookies</a></li>
+					<li><a  target="_parent" href="/advertising/">Advertising</a></li>
+					<li><a  target="_parent" href="http://fantasyfootball.telegraph.co.uk/">Fantasy Football</a></li>
+					</ul>
+					
+					<ul class="menu2"><li class="itemfocus"><a target="_parent" href="http://tickets.telegraph.co.uk/">Tickets</a></li>								
+
+					</ul>
+					
+					<ul>
+					<li><a target="_parent" href="http://announcements.telegraph.co.uk/">Announcements</a></li>
+						<li><a target="_parent" href="http://3276.e-printphoto.co.uk/dailytelegraph/">Reader Prints</a></li>
+						<li><a target="_parent" href=""></a></li>
+						</ul>
+			</div>
+
+			<!-- RSSFeeds Menu-->
+			
+			<div id="footercolumn_last">
+				<ul class="imgBulletList">
+					<li class="footrss"><a target="_parent" href="http://www.telegraph.co.uk/topics/follow-us/">Follow Us</a></li>
+							<li class="footmobile"><a target="_parent" href="http://www.telegraph.co.uk/apps/">Apps</a></li>
+							<li class="footepaper"><a target="_parent" href="http://dailytelegraph.newspaperdirect.com/epaper/viewer.aspx ">Epaper</a></li>
+							<li class=""><a target="_parent" href="http://www.telegraph.co.uk/expat/">Expat</a></li>
+							</ul>
+			
+				<ul class="ullast">
+					<li><a target="_parent" href="http://www.telegraph.co.uk/promotions/">Promotions</a></li>
+						<li><a target="_parent" href="http://subscriber.telegraph.co.uk/loyalty/">Subscriber</a></li>
+						<li><a target="_parent" href="http://www.telegraph.co.uk/topics/syndication-services/">Syndication</a></li>
+						</ul>
+			</div>	
+			<div class="cl"></div>
+		</div> <!-- end of tmglFooterLargeItems div -->
+	
+<div id="footerinfo">
+			<p>&copy; Copyright of Telegraph Media Group Limited 2015</p>
+			<p><a target="_parent" href="http://www.telegraph.co.uk/termsandconditions">Terms and Conditions</a> </p>
+			<p><a target="_parent" href="/archive/2015-3-24.html">Today's News</a></p>
+			<p ><a target="_parent" href="http://www.telegraph.co.uk/archive/">Archive</a></p>
+					<p ><a target="_parent" href="http://www.telegraph.co.uk/topics/about-us/style-book/">Style Book</a></p>
+					<p class="last"><a target="_parent" href="/news/weather/4142730/Weather-forecast.html">Weather Forecast</a></p>
+					<div class="cl"></div>			
+		</div>
+	</div> <!-- end of tmglFooterLargeNew div -->
+	<script type="text/javascript">
+/* EPOCH time at the end of footer */
+                var footerEndTimer = Date.now();
+</script>
+</div>
+<script type="text/javascript">
+    g_opt_ch = '{}';g_opt_cv = '{}';g_opt_b = true;g_opt_s = true;</script>
+<script type="text/javascript">
+var platforme = 'Facebook,Twitter,Pinterest,LinkedIn,Share,Email';
+</script>
+<script type="text/javascript">
+    var s = document.createElement('script');
+    s.type='text/javascript';
+    s.src = "http://cdn.gigya.com/js/socialize.js?apikey=2_ASmwJuFXoCCY8YP8uB6mzZphj_UToZbQkeeM6bMOA8swtMk2P3Rwu2WSger_DOSt";
+    document.getElementsByTagName('head')[0].appendChild(s);
+
+    function onGigyaServiceReady(e) {
+        var s = document.createElement('script');
+        s.type='text/javascript';
+        s.src = "/template/ver1-0/js/shareTools1.js";
+        document.getElementsByTagName('head')[0].appendChild(s);
+    }
+</script>
+<script type="text/javascript" src="/template/utils/ooyala/scripts/ooyala.js"> </script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery-ui-1.8.4.custom.min.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.tablesorter.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.ticker.js"></script>
+
+<script type="text/javascript" src="/template/ver1-0/js/common.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/viewabilityCode.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/tmglSlideShow.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/jquery.cycle.all.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/supersleight.plugin.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/tracker.js"></script>
+<link rel="stylesheet" type="text/css" href="/template/ver1-0/css/printArticle.css" media="print" />
+
+	<script type="text/javascript" src="/template/ver1-0/js/liveBloggingArticle.js"> </script>
+<script type="text/javascript">
+			(function() {
+				var links = $("a[href*='disqus_thread']");
+				var query = "";
+				var blogQuery = "";
+				var normal = new Array();
+				var normalCounts = new Array();
+				var blog = new Array();
+				var blogCounts = new Array();
+
+				for(var i = 0; i < links.length; i++) {
+					if (links[i].getAttribute('dsqid')) {
+						var dsqid = links[i].getAttribute('dsqid');
+						if (links[i].className == 'dsqblog') { blogQuery += 'dsqid' + i + '=' + dsqid + '&'; } else { query += 'dsqid' + i + '=' + dsqid + '&'; }
+					}
+				}
+				if (query.length != "" && blogQuery.length != "") {
+					$("a[href*='disqus_thread']") && $("a.dsqblog").each(function(i) {
+						blog[i] = $(this).attr("href");
+						$(this).attr("href","blog_link");
+					});
+					loadScript("http://telegraphuk.disqus.com/get_num_replies_from_dsqid.js?" + query, function() {
+						$("a[href*='disqus_thread']").not(".dsqblog").each(function(i) {
+							normal[i] = $(this).attr("href");
+							normalCounts[i] = $(this).html();
+							$(this).attr("href","normal_link");
+						});
+
+						$("a[href*='blog_link']").each(function(i) { $(this).attr("href",blog[i]); });
+
+						loadScript("http://telegraphblogs.disqus.com/get_num_replies_from_dsqid.js?" + blogQuery, function() {
+							$("a[href*='normal_link']").each(function(i) { $(this).attr("href",normal[i]); });
+						});
+					});
+				} else {
+					document.write('<script charset="utf-8" type="text/javascript" src="http://.disqus.com/get_num_replies_from_dsqid.js?' + query + '"></' + 'script>');
+				}
+			})();
+		</script>
+		<script type="text/javascript" src="/template/ver1-0/js/tmglMultitrackSelector1.js"></script>
+<script type="text/javascript" src="/template/ver1-0/js/popup.js"></script>
+
+<script language="Javascript" type="text/javascript" src="/template/ver1-0/js/poll.js"></script>
+<script type="text/javascript">
+		var _sf_async_config={uid:22437,domain:"telegraph.co.uk"};
+
+		
+			_sf_async_config.sections = "News, World News, Europe, France";
+		
+
+		(function(){
+			function loadChartbeat() {
+			window._sf_endpt=(new Date()).getTime();
+			var e = document.createElement('script');
+			e.setAttribute('language', 'javascript');
+			e.setAttribute('type', 'text/javascript');
+			e.setAttribute('src',
+			(("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://") +
+			"static.chartbeat.com/js/chartbeat.js"); document.body.appendChild(e);
+		}
+		var oldonload = window.onload;
+		window.onload = (typeof window.onload != 'function') ?
+		loadChartbeat : function() { oldonload(); loadChartbeat(); }; })();
+	</script>
+<!-- START Nielsen Online SiteCensus V6.0 -->
+		<!-- COPYRIGHT 2010 Nielsen Online -->
+		<script type="text/javascript" src="//secure-uk.imrworldwide.com/v60.js">
+		</script>
+		<script type="text/javascript">
+			 var pvar = { cid: "uk-101665h", content: "0", server: "secure-uk" };
+			 var feat = { surveys_enabled: 1 };
+			 var trac = nol_t(pvar, feat);
+			 trac.record().post().do_sample();
+		</script>
+		<noscript>
+		 <div>
+			 <img src="//secure-uk.imrworldwide.com/cgi-bin/m?ci=uk-101665h&amp;cg=0&amp;cc=1&amp;ts=noscript"
+			 width="1" height="1" alt="" />
+		 </div>
+		</noscript>
+		<!-- END Nielsen Online SiteCensus V6.0 -->
+	<div bucket-id="mpu">
+<script type="text/javascript">
+		document.write(tmgAdsBuildAdTag("ftr", "1x1", "adj", "", 2));
+		</script>
+	</div><script type="text/javascript" src='/template/ver1-0/js/aws-sdk-2.0.0-rc9.min.js' async="async"></script>
+<script type="text/javascript" src='/template/ver1-0/js/hmac-sha256.js' async="async"></script>
+<script type="text/javascript" src='/template/ver1-0/js/sha256.js' async="async"></script>
+<script type="text/javascript" src='/template/ver1-0/js/viewability.js' async="async"></script>
+<script type="text/javascript">_satellite.pageBottom();</script>
+    <script>
+
+    if(!( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) )) {
+
+        /*
+         Read Next Widget Data
+         */
+        var readNextArticleList = [{"id":"11491135","title":"Britain to send more troops to the Falklands to counter &#39;heightened&#39; invasion threat from Argentina","url":"/news/worldnews/southamerica/falklandislands/11491135/Britain-to-increase-Falklands-garrison.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03243/Falkland-Islands-g_3243034g.jpg"},{"id":"11491587","title":"Germanwings Airbus A320 crashes in French Alps with 148 people on board: latest","url":"/news/worldnews/europe/france/11491587/Airbus-A320-crashes-in-French-Alps-with-148-people-on-board-live.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03243/Germanwings_E77GKG_3243274g.jpg"},{"id":"11489442","title":"Big Bang theory could be debunked by Large Hadron Collider ","url":"/news/science/large-hadron-collider/11489442/Big-Bang-theory-could-be-debunked-by-Large-Hadron-Collider.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03177/bigbang_3177733g.jpg"},{"id":"11490006","title":"Daily bowl of quinoa &#39;could save your life&#39;","url":"/news/science/science-news/11490006/Daily-bowl-of-quinoa-could-save-your-life-says-Harvard-University.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/02732/Quinoa_2732026g.jpg"},{"id":"11489711","title":"Gillian Anderson: It’s time somebody was brave enough to ask me out","url":"/news/celebritynews/11489711/Gillian-Anderson-Its-time-somebody-was-brave-enough-to-ask-me-out.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03242/430375_May0036427-_3242198g.jpg"},{"id":"11489733","title":"Super-salamander with &#39;toilet-seat&#39; head terrorised Earth 200 million years ago ","url":"/news/science/dinosaurs/11489733/Super-salamander-with-toilet-seat-head-terrorised-Earth-200-million-years-ago.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03242/supersalamander_3242108g.jpg"},{"id":"11486167","title":"Are smartphones making our children mentally ill?","url":"/news/health/children/11486167/Are-smartphones-making-our-children-mentally-ill.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03240/julie-lynn-evans_3240559g.jpg"},{"id":"11491208","title":"James Corden: Americans warm to Briton&#39;s debut on The Late Late Show","url":"/news/worldnews/northamerica/usa/11491208/James-Corden-Americans-warm-to-Britons-debut-on-The-Late-Late-Show.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03242/james_corden_3242670g.jpg"},{"id":"11490058","title":"Giant WWII bomb dug up by builders in London","url":"/news/uknews/11490058/Giant-WWII-bomb-dug-up-by-builders-in-London.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03243/bomb_defused_3243092g.jpg"},{"id":"11490389","title":"Clarkson awaits descision on Top Gear career","url":"/news/celebritynews/11490389/Jeremy-Clarkson-expected-to-be-told-today-whether-his-BBC-Top-Gear-career-is-over.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03232/top-gear_3232478g.jpg"},{"id":"11489675","title":"Simple rice-cooking hack could reduce calories by 60 per cent ","url":"/news/science/science-news/11489675/Simple-rice-cooking-hack-could-reduce-calories-by-60-per-cent.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/02699/how-to-make-the-fl_2699448g.jpg"},{"id":"11489836","title":"Driving ban on half Paris motorists after air pollution briefly tops Shanghai","url":"/news/worldnews/europe/france/11489836/Driving-ban-on-half-Paris-motorists-after-air-pollution-briefly-tops-Shanghai.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03237/Smog_air_pollution_3237703g.jpg"},{"id":"11489673","title":"Largest-ever meteorite crater found in Australian outback ","url":"/news/worldnews/australiaandthepacific/australia/11489673/Largest-ever-meteorite-crater-found-in-Australian-outback.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03242/Crater_evidence_3242119g.jpg"},{"id":"11489856","title":"Lecturer plays students X-rated video of herself","url":"/news/newstopics/howaboutthat/11489856/University-lecturer-plays-students-X-rated-video-of-herself.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/01898/QueenMary1_1898763g.jpg"},{"id":"11491036","title":"Benz out of shape: £4m vintage racing car in crash at Goodwood","url":"/news/uknews/road-and-rail-transport/11491036/Benz-out-of-shape-4m-vintage-racing-car-in-crash-at-Goodwood.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03242/goodwood_smashed-c_3242955g.jpg"},{"id":"11490431","title":"British faeces could contain £500 million of gold, silver and platinum ","url":"/news/science/science-news/11490431/British-faeces-could-contain-500-million-of-gold-silver-and-platinum.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/02347/Gold_2347607g.jpg"},{"id":"11491187","title":"Angelina Jolie has ovaries removed after cancer scare","url":"/news/worldnews/northamerica/usa/11491187/Angelina-Jolie-has-ovaries-removed-after-cancer-scare.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/02524/Angelina-Jolie_2524697g.jpg"},{"id":"11489177","title":"Lee Kuan Yew: his most memorable quotes","url":"/news/worldnews/asia/singapore/11489177/Lee-Kuan-Yew-his-most-memorable-quotes.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03241/Lee-Kuan-Yew_3241554g.jpg"},{"id":"11491465","title":"Israel &#39;spied on US-Iran nuclear talks and leaked details to Congress&#39; ","url":"/news/worldnews/middleeast/israel/11491465/Israel-spied-on-US-Iran-nuclear-talks-and-leaked-details-to-Congress.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/02158/obama_2158809g.jpg"},{"id":"11490746","title":"Boris Johnson suggests himself to replace Jeremy Clarkson on Top Gear","url":"/news/general-election-2015/politics-blog/11490746/Boris-Johnson-suggests-himself-to-replace-Jeremy-Clarkson-on-Top-Gear.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/02310/arnieschwazenegger_2310325g.jpg"},{"id":"11487279","title":"Picasso&#39;s electrician ordered to return 271 stolen paintings","url":"/news/worldnews/europe/france/11487279/Picassos-electrician-ordered-to-return-271-stolen-paintings.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03240/Picasso-Guennec_3240536g.jpg"},{"id":"11487779","title":"Indian student drags drunk attacker to police by his hair","url":"/news/worldnews/asia/india/11487779/Indian-student-drags-drunk-attacker-to-police-by-his-hair.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03240/Pradnya_Mandhare_3240836g.jpg"},{"id":"11489426","title":"Costa Rica has only used renewable energy this year","url":"/news/worldnews/centralamericaandthecaribbean/costarica/11489426/Costa-Rica-has-only-used-renewable-energy-this-year.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/03241/Costa_Rica_hydropo_3241978g.jpg"},{"id":"11490776","title":"A&E doctors paid up to £3,200 a shift, in spiralling crisis ","url":"/news/nhs/11490776/AandE-doctors-paid-up-to-3200-a-shift-in-spiralling-crisis.html","imgUrl":"http://i.telegraph.co.uk/multimedia/archive/02362/accident-emergency_2362355g.jpg"},]
+;
+        var readNextCurrentArticleId = "11332411";
+
+        /*
+         Read Next Widget
+         */
+        var readNextWidget = (function(){
+
+            var settings = {
+                articleImage: "",
+                articleTitle: "",
+                articleUrl: "#",
+                articleId: "",
+                currentArticleId: "",
+                articleList: [],
+                articleListToSkip: [],
+                readNextCookieName: "tmg_read_next",
+                openButton: "#readNextOpen a",
+                closeButton: "#closeBtn a",
+                articleContainer: "#readNextArticleContainer",
+                widgetContainer: "#readNextWidget",
+                displayThumbnail: false,
+                panelOpen: false,
+                autoOpen: true
+            };
+
+            var renderTemplate = function() {
+                var template = '<div id="readNextWidget" style="display:none">' +
+                        '<div id="readNextOpen"><div class="topBar"></div><div id="readNextOpenInner"><a href="' + settings.articleUrl + '"><span>Next Story</span><span class="icn"></span></a></div></div>' +
+                        '<div id="readNextArticleContainer" style="display:none">' +
+                        '<div id="nextArticle"><div class="topBar"></div>' +
+                        '<div id="nextArticleWrapper">'+
+                        '<div id="nextArticleInnerWrapper">'+
+                        '<p id="readNextLabel">MOST VIEWED IN NEWS</p>';
+                        
+				if(settings.articleImage && settings.articleImage!="null" && settings.displayThumbnail){
+					template = template + '<a id="nextPageThumbnail" href="' + settings.articleUrl + '"><img src="'+ settings.articleImage +'"/></a>';
+				}
+                        
+				template = template + '<a id="nextPageTitle" href="' + settings.articleUrl + '"><span>' + settings.articleTitle + '</span></a></div></div>' +
+                        '</div>' +
+                        '<div id="closeBtn"><div class="topBar"></div><a href="#"><span></span></a></div>' +
+                        '</div>' +
+                        '<iframe style="border:none;position:absolute;top:0;left:0; height:100%;width:100%;z-index:-1;" id="iefix" src="about:blank"></iframe>' + //fix for IE bug
+                        '</div>';
+                return template;
+            };
+
+
+            var init = function(currentArticleId, articleList, displayThumbnail) {
+
+                settings.articleList = articleList;
+                settings.currentArticleId = currentArticleId;
+                settings.displayThumbnail = displayThumbnail;
+
+                settings.articleListToSkip = unescape($.cookie(settings.readNextCookieName)).split(',');
+
+                if ($.cookie(settings.readNextCookieName) != null) {
+                    chooseNextArticle(settings.currentArticleId, settings.articleList, settings.articleListToSkip);
+                    updateCookieBasedOnArticleList(settings.currentArticleId, settings.articleList, settings.articleListToSkip);
+                } else {
+                    chooseNextArticle(settings.currentArticleId, settings.articleList, settings.articleListToSkip);
+                    createCookieBasedOnArticleList(settings.currentArticleId, settings.articleList, settings.articleListToSkip);
+                }
+
+
+                if (settings.articleId != "") {
+
+                    $(renderTemplate()).appendTo("body");
+
+                    $("#nextArticleWrapper a, #readNextOpenInner a").click(function () {
+                        _gaq.push(['_trackEvent', 'wayfarer_read_next', 'click_headline', 'version_1']);
+
+                        getNavPos($(this).attr("href"), "wayfarerReadNext");
+                    });
+
+                    bindUIActions();
+
+                    var displayed = false;
+
+                    setTimeout(function () {
+                        if (!displayed) {
+                            displayed == true;
+                            readNextWidget.display();
+                        }
+
+                    }, 10000);
+
+                    $(window).scroll(function () {
+                        if (isScrolledIntoView("#tmg-related-links")) {
+                            if (!displayed) {
+                                displayed == true;
+                                readNextWidget.display();
+                            }
+                        }
+
+                        if(isScrolledIntoView("#shareBottom") || isScrolledIntoView("#newGigyaShareBottom")) {
+                            if(settings.autoOpen) {
+                                openArticleContainer();
+                            }
+                        }
+
+                        if($(window).scrollTop() + $(window).height() == $(document).height()) {
+                            if(settings.autoOpen) {
+                                openArticleContainer();
+                            }
+                        }
+                    });
+                }
+            };
+
+            var display = function () {
+                $(settings.widgetContainer).fadeIn(2000, function () {
+                    //animation complete
+                    _gaq.push(['_trackEvent', 'wayfarer_read_next', 'display_closed', 'version_1']);
+                });
+            };
+
+            var bindUIActions = function () {
+                $(settings.openButton).mouseenter(function (event) {
+                    event.preventDefault();
+                    _gaq.push(['_trackEvent', 'wayfarer_read_next', 'hover_closed', 'version_1']);
+                    openArticleContainer();
+                });
+                $(settings.widgetContainer).mouseleave(function (event) {
+                    event.preventDefault();
+                    closeArticleContainer();
+                });
+                $(settings.closeButton).click(function (event) {
+                    event.preventDefault();
+                    _gaq.push(['_trackEvent', 'wayfarer_read_next', 'click_close', 'version_1']);
+                    updateCookie(settings.articleId, settings.articleListToSkip);
+                    closeArticleContainer();
+                    settings.autoOpen = false;
+                });
+            };
+
+            var openArticleContainer = function () {
+                if (!settings.panelOpen) {
+                	$("#readNextArticleContainer").show();//show/hide because height is calculated incorrectly for elements with display:none
+                    $("#readNextArticleContainer").hide();
+                    $(settings.articleContainer).toggle('slide', {direction: 'left'}, function () {
+                        //animation complete
+                        _gaq.push(['_trackEvent', 'wayfarer_read_next', 'display_open', 'version_1']);
+                    });
+                    settings.panelOpen = !settings.panelOpen;
+                    settings.autoOpen = false; //set auto open to false once user has viewed this once
+                }
+                return false;
+            };
+
+            var closeArticleContainer = function () {
+                if (settings.panelOpen) {
+                    $(settings.articleContainer).toggle('slide', {direction: 'left'}, function () {
+                        //animation complete
+                    });
+                    settings.panelOpen = !settings.panelOpen;
+                }
+                return false;
+            };
+
+
+            var isScrolledIntoView = function(elem) {
+                if($(elem).length) { //check if element exists
+                    var docViewTop = $(window).scrollTop();
+                    var docViewBottom = docViewTop + $(window).height();
+
+                    var elemTop = $(elem).offset().top;
+                    var elemBottom = elemTop + $(elem).height();
+
+                    return ((elemBottom <= docViewBottom) && (elemTop >= docViewTop));
+                } else {
+                    return false;
+                }
+            };
+
+            var unique = function(array) {
+                return array.filter(function (el, index, arr) {
+                    return index == arr.indexOf(el);
+                });
+            }
+
+            var createCookieBasedOnArticleList = function(currentArticleId, articleList, articleListToSkip) {
+                articleList.some(function (article) {
+                    if (article.id == currentArticleId) {
+                        articleListToSkip[0] = currentArticleId;
+                        $.cookie(settings.readNextCookieName, escape(articleListToSkip.join(',')), {path: '/', expires: 1, domain: 'telegraph.co.uk'});
+                        return true;
+                    }
+                });
+            }
+
+            var updateCookieBasedOnArticleList = function(currentArticleId, articleList, articleListToSkip) {
+                articleList.some(function (article) {
+                    if (article.id == currentArticleId) {
+                        updateCookie(currentArticleId, articleListToSkip);
+                        return true;
+                    }
+                });
+            }
+
+            var updateCookie = function(articleIdToSkip, articleListToSkip) {
+                articleListToSkip.push(articleIdToSkip);
+                articleListToSkip = unique(articleListToSkip);
+                $.cookie(settings.readNextCookieName, escape(articleListToSkip.join(',')), {path: '/', expires: 1, domain: 'telegraph.co.uk'});
+            }
+
+            var chooseNextArticle = function (currentArticleId, articleList, articleListToSkip) {
+                articleList.some(function (article) {
+                    if ((article.id != currentArticleId) && ($.inArray(article.id, articleListToSkip) === -1)) {
+
+                        //set article
+                        settings.articleTitle = article.title;
+                        settings.articleUrl = article.url;
+                        settings.articleId = article.id;
+						settings.articleImage = article.imgUrl;
+                        return true;
+                    }
+                });
+            }
+
+            //public API
+            return {
+                settings: settings,
+                init: init,
+                display: display,
+                openArticleContainer: openArticleContainer,
+                closeArticleContainer: closeArticleContainer
+            }
+        })();
+
+    };
+</script>
+</body>
+</html>
+
+<!-- googleon: all -->

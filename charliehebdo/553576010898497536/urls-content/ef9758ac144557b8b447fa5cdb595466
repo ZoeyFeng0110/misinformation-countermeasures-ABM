@@ -1,0 +1,1592 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 24 Mar 2015 09:52:56 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 109
+Connection: keep-alive
+Cache-Control: private, max-age=90
+Location: http://trib.al/E7WRAq5
+Mime-Version: 1.0
+Set-Cookie: _bit=551133f8-00108-0507a-291cf10a;domain=.on.wsj.com;expires=Sun Sep 20 09:52:56 2015;path=/; HttpOnly
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html;charset=utf-8
+Date: Tue, 24 Mar 2015 09:52:56 GMT
+Location: http://stream.wsj.com/story/charlie-hebdo-offices-attacked-in-paris/SS-2-705823/?mod=e2tw
+Server: CherryPy/3.2.4
+Set-Cookie: tribal="5saI3YghTRK58Qr5XTvBNw=="; expires=Fri, 06 Jan 2034 23:13:40 GMT; Path=/; Version=2
+Content-Length: 233
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Content-Type: text/html; charset=utf-8
+ETag: "1456150823"
+P3P: CP=CAO DSP COR CURa ADMa DEVi TAIo PSAa PSDa IVDi CONi OTPi OUR OTRi BUS PHY ONL UNI PUR COM NAV INT DEM CNT STA OTC
+Content-Encoding: gzip
+Content-Length: 29118
+Cache-Control: public, max-age=5
+Expires: Tue, 24 Mar 2015 09:53:01 GMT
+Date: Tue, 24 Mar 2015 09:52:56 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+Set-Cookie: dj_devicetype=desktop
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"  xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/">
+<head>
+    <title>France Defiant After Terror Spree - Wall Street Journal - WSJ.com</title>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+    <meta name="description" content="At least one hostage was seized Friday by gunmen believed to be behind the attack on French weekly Charlie Hebdo after shots were fired northeast of Paris, police officers said. " />
+    <meta NAME="ROBOTS" content="index, follow " />
+
+    <meta property="fb:app_id" content="368513495882" />
+
+    
+        <meta property="og:site_name" content="WSJ.com">
+    
+        <meta property="og:type" content="article">
+    
+        <meta property="og:url" content="http://stream.wsj.com/story/charlie-hebdo-offices-attacked-in-paris/SS-2-705823/">
+    
+        <meta property="og:title" content="France Defiant After Terror Spree">
+    
+        <meta property="og:image" content="http://s.wsj.net/img/WSJStream114x114.png">
+    
+
+    
+        <meta name="twitter:card" content="summary">
+    
+        <meta name="twitter:url" content="http://stream.wsj.com/story/charlie-hebdo-offices-attacked-in-paris/SS-2-705823/">
+    
+        <meta name="twitter:title" content="France Defiant After Terror Spree">
+    
+        <meta name="twitter:description" content="World leaders and dignitaries marched with a massive crowd under tight security in memory of 17 people killed in a spree of terror attacks in the French capital.
+
+Paris Rallies Against Terror
+Israeli,">
+    
+        <meta name="twitter:image" content="http://s.wsj.net/img/WSJStream114x114.png">
+    
+
+    <meta name="msapplication-task" content="name=WSJ;action-uri=http://online.wsj.com/;icon-uri=http://si.wsj.net/favicon.ico"/>
+    <meta name="msapplication-task" content="name=MarketWatch;action-uri=http://www.marketwatch.com/;icon-uri=http://www.marketwatch.com/favicon.ico"/>
+    <meta name="msapplication-task" content="name=Barron's;action-uri=http://online.barrons.com/;icon-uri=http://online.barrons.com/favicon.ico"/>
+    <meta name="msapplication-task" content="name=All Things Digital;action-uri=http://allthingsd.com/;icon-uri=http://allthingsd.com/favicon.ico"/>
+    <meta name="msapplication-task" content="name=SmartMoney;action-uri=http://www.smartmoney.com/;icon-uri=http://www.smartmoney.com/favicon.ico"/>
+    <meta name="application-name" content="WSJ.com" />
+    <meta name="msapplication-tooltip" content="The Wall Street Journal Online" />
+
+    <link rel="canonical" href="http://stream.wsj.com/story/charlie-hebdo-offices-attacked-in-paris/SS-2-705823/" />
+    <link rel="shortcut icon" href="http://s.wsj.net/favicon.ico" />
+
+    <link rel="apple-touch-icon" href="http://sc.wsj.net/img/WSJStream57x57.png" />
+    <link rel="apple-touch-icon" sizes="72x72" href="http://sc.wsj.net/img/WSJStream72x72.png" />
+    <link rel="apple-touch-icon" sizes="114x114" href="http://sc.wsj.net/img/WSJStream114x114.png" />
+    
+    <link rel="stylesheet" media="all" type="text/css" href="http://blogs.wsj.com/style/ssKeyPoints-WSJ,ss-articleWSJ,ss-blogWSJ,ss-tweetWSJ,ss-photoWSJ,ss-editorWSJ,ss-liveblogWSJ,ss-slideWSJ,ss-headerWSJ,ssKeyPoints-WSJ,ss-hatWSJ,streamingStories-WSJ,videoPlayerMini,slimHeader,globalHat,wsjSearchBox,ss-permalinkWSJ,ss-mdcWSJ,SS_2_705823/pc/" />
+
+    <!--[if IE 7]>
+        <link rel="stylesheet" media="all" type="text/css" href="http://blogs.wsj.com/style/ssKeyPoints-WSJ,ss-articleWSJ,ss-blogWSJ,ss-tweetWSJ,ss-photoWSJ,ss-editorWSJ,ss-liveblogWSJ,ss-slideWSJ,ss-headerWSJ,ssKeyPoints-WSJ,ss-hatWSJ,streamingStories-WSJ,videoPlayerMini,slimHeader,globalHat,wsjSearchBox,ss-permalinkWSJ,ss-mdcWSJ,SS_2_705823/ie7/" />
+    <![endif]-->
+
+    <!--[if IE 8]>
+        <link rel="stylesheet" media="all" type="text/css" href="http://blogs.wsj.com/style/ssKeyPoints-WSJ,ss-articleWSJ,ss-blogWSJ,ss-tweetWSJ,ss-photoWSJ,ss-editorWSJ,ss-liveblogWSJ,ss-slideWSJ,ss-headerWSJ,ssKeyPoints-WSJ,ss-hatWSJ,streamingStories-WSJ,videoPlayerMini,slimHeader,globalHat,wsjSearchBox,ss-permalinkWSJ,ss-mdcWSJ,SS_2_705823/ie8/" />
+    <![endif]-->
+
+
+    <script type="text/javascript">
+        if( typeof dj == "undefined" ) { var dj = {}; }
+        if( typeof dj.context == "undefined" ) { dj.context = {}; }
+        var gcDomain = "online.wsj.com";
+        var nonrenoAdLabel = "stream_front";
+        var nonrenoAdWidth = "377";
+        var nonrenoAdHeight = "42";
+        var nSP = "http://online.wsj.com";         
+    </script>
+</head>
+<body class="SS_2_705823">
+
+
+
+
+    <div class="fullwide streamingStories streamWSJ">
+        <div class="reallywide">
+        <div id="headerWrapper">
+                <div class="hat_wsjdn" id="hat_div">
+                <div class="hat_logo"></div>
+                    <ul class="hat_tabs" id="hattabs">
+                        <li id="hat_tab_wsj" class="hat_tab current">
+                            <a href="http://online.wsj.com" class="hat_site_title">WSJ</a>            
+                            <ul>
+                                <li><a href="http://online.wsj.com" class="hat_site_link">WSJ</a></li>
+                                <li class="hat_social_tab"><a title="Follow WSJ on Facebook" href="#" class="hat_fb_link" id="hat_fb_button">Facebook</a></li>
+                                <li class="hat_social_tab"><a title="Follow WSJ on Twitter" href="#" class="hat_twitter_link" id="hat_twt_button">Twitter</a></li>
+                            </ul> 
+                            <div class="hat_overlay hat_overlay_fb hidden" id="fb_like_overlay"></div>
+                            <div class="hat_overlay hat_overlay_twitter hidden" id="twitter_overlay"></div>         
+                        </li>
+                        <li id="hat_tab_mw" class="hat_tab">
+                            <a href="http://www.marketwatch.com" class="hat_site_title">MarketWatch</a>           
+                            <ul>
+                                <li><a href="http://www.marketwatch.com" class="hat_site_link">MarketWatch</a></li>
+                            </ul> 
+                        </li>   
+                        <li id="hat_tab_bol" class="hat_tab">
+                            <a href="http://online.barrons.com/home" class="hat_site_title">Barron's</a>            
+                            <ul>
+                                <li><a href="http://online.barrons.com/home" class="hat_site_link">Barron's</a></li>
+                            </ul> 
+                        </li>   
+                        <li id="hat_tab_sm" class="hat_tab">
+                            <a href="http://www.smartmoney.com" class="hat_site_title">SmartMoney</a>           
+                            <ul>
+                                <li><a href="http://www.smartmoney.com" class="hat_site_link">SmartMoney</a></li>
+                            </ul> 
+                        </li>   
+                        <li id="hat_tab_atd" class="hat_tab">
+                            <a href="http://allthingsd.com" class="hat_site_title">AllThingsDigital</a>           
+                            <ul>
+                                <li><a href="http://allthingsd.com" class="hat_site_link">AllThingsDigital</a></li>
+                            </ul> 
+                        </li>   
+                        <li id="hat_tab_fins" class="hat_tab">
+                            <a href="http://www.fins.com" class="hat_site_title">FINS</a>           
+                            <ul>
+                                <li><a href="http://www.fins.com" class="hat_site_link">FINS</a></li>
+                            </ul> 
+                        </li>   
+                        <li class="hat_tab_dropdown" id="hat_tab_dropdown">     
+                            <a href="#" class="moreTarget" id="partyhat_more_dropdown">More</a>                             
+                            <ul class="hat_dd_list">  
+            <li class="hat_dd_item">
+                        <a href="http://online.wsj.com/public/page/wsj-x-marketing.html">WSJ X - Invitation Only</a>
+                      </li>                              
+                                <li class="hat_dd_item">
+                                        <a href="http://bigcharts.marketwatch.com/">BigCharts</a>
+                                    </li>     
+                                <li class="hat_dd_item">
+                                    <a href="http://www.marketwatch.com/Game/">Virtual Stock Exchange</a>
+                                </li>     
+                                <li class="hat_dd_item">
+                                    <a href="http://www.efinancialnews.com/">Financial News</a>
+                                </li>     
+                                <li class="hat_dd_item">
+                                    <a href="http://asia.wsj.com/">WSJ Asia</a>
+                                    <ul class="hat_subdd_list">
+                                        <li>
+                                            <a href="http://india.wsj.com/">WSJ India</a>
+                                        </li>                     
+                                        <li>
+                                            <a href="http://cn.wsj.com/gb/index.asp">WSJ China
+                                                <span class="lang ch">chinese edition</span>
+                                            </a>
+                                        </li>                     
+                                        <li>
+                                            <a href="http://japan.wsj.com/">WSJ Japan
+                                                <span class="lang jp">japanese edition</span>                     
+                                            </a>
+                                        </li>                     
+                                    </ul>       
+                                </li>     
+                                <li class="hat_dd_item">
+                                    <a href="http://europe.wsj.com/">WSJ Europe</a>
+                                    <ul class="hat_subdd_list">
+                                        <li>
+                                            <a href="http://www.wallstreetjournal.de">WSJ Deutschland</a>
+                                        </li>                     
+                                    </ul>       
+                                </li>     
+                                <li class="hat_dd_item">
+                                    <span>WSJ Americas</span>           
+                                    <ul class="hat_subdd_list">
+                                <li>
+                                    <a href="http://online.wsj.com/americas">en Español</a>
+                                </li>                     
+                                <li>
+                                    <a href="http://online.wsj.com/portuguese">em Português</a>
+                                </li>
+                                </ul>       
+                        </li>     
+                        <li class="hat_dd_item">
+                            <a href="http://www.wsjradio.com">WSJ Radio</a>
+                        </li>     
+                        <li class="hat_dd_item">
+                            <a href="http://www.wsjwine.com/">WSJ Wine</a>
+                        </li>     
+                      </ul>
+                    </li>
+            </ul>
+            
+              
+    </div>
+      <header>
+          <div id="slimHeader" class="slimHeader">
+            
+            <div class="siteDesc col6wide">
+              
+              <a href="http://online.wsj.com" class="mainLogo">The Wall Street Journal</a>
+              
+              <div class="popC lnMenuC sectionsDDPopUpContainer">
+                
+                <span class="popTrigger lnMenu menuOnClickLink">Menu</span>
+                
+                <div class="popBox pop-section">
+                
+                  <div class="colA">
+                  </div>
+                  
+                  <div class="colB">
+                    <h3 class="sLbl">Also in WSJ.com:</h3>
+                  </div>
+                
+                </div>
+        
+              </div>
+            </div>
+          </div>
+       </header>
+    
+    </div>
+
+        <div id="streamHeader" class="streamHeader">
+            <div class="sh-inner">
+              <ul class="modMeta">
+          <li class="metaLi modPartner" id="stream_sponsor">
+              </li>
+                    <li class="metaLi modMobile">
+                <span class="modMobileAd"></span>
+              </li>
+                    <li class="metaLi" id="stream_facebook">
+                      <a href="javascript:void(0);">
+                            <span class="icnLbl">Share</span>
+                            <span class="icnFb"></span>
+                        </a>
+                    </li>
+                    <li class="metaLi" id="stream_twitter">
+                      <a href="javascript:void(0);">
+                            <span class="icnLbl">Tweet</span>
+                            <span class="icnTw"></span>
+                        </a>
+                    </li>
+                </ul>
+    
+          <h1 class="modTitle" id="streamHeaderTitle">France Defiant After Terror Spree</h1>
+          </div>  
+    </div>
+    </div>
+
+
+    <div class="col4wide margin-left-big">
+        <div id="streamKey_c" class="streamKey_c keyPoints"> 
+            <div id="streamKey" class="streamkey">
+
+                <div class="kp_scrollbar">
+                  <div class="kp_track">
+                    <div class="kp_bar"></div>
+                  </div>
+                </div>
+
+                <div class="kp_viewport">
+                    <div id="left_rail" class="scroll_content">
+                        <div id="stream_content" class="txtContent"><p>World leaders and dignitaries marched with a massive crowd under tight security in memory of 17 people killed in a <a href="http://www.wsj.com/articles/charlie-hebdo-suspects-take-hostage-after-shots-fired-1420793234" target="_self">spree of terror attacks</a> in the French capital.</p>
+<ul>
+<li><a href="http://www.wsj.com/articles/paris-displays-defiance-in-huge-rally-1420973912">Paris Rallies Against Terror</a></li>
+<li><a href="http://www.wsj.com/articles/israeli-palestinian-leaders-to-show-gesture-of-solidarity-to-france-1420977133">Israeli, Palestinian Leaders in Gesture of Solidarity to France</a></li>
+<li><a href="http://blogs.wsj.com/washwire/2015/01/11/obama-biden-absent-from-paris-solidarity-march/">Obama, Biden Absent From Paris Solidarity March</a></li>
+<li><a href="http://www.wsj.com/articles/western-officials-agree-to-tighten-security-in-wake-of-attacks-1420984571">Western Officials Agree to Tighten Security</a></li>
+<li><a href="http://www.wsj.com/articles/video-appears-to-show-paris-kosher-grocery-attack-suspect-coulibaly-swearing-allegiance-to-islamic-state-1420977506" data-visitors="58" data-basetext="Video Appears to Show Coulibaly Swearing Allegiance to Islamic State ">Video Appears to Show Coulibaly Swearing Allegiance to Islamic State</a></li>
+<li><a href="http://www.wsj.com/articles/paris-attacker-said-kouachi-knew-convicted-nigerian-airline-bomber-1421005446">Said Kouachi Knew Convicted Nigerian Airline Bomber</a></li>
+<li><a href="http://www.wsj.com/articles/french-police-search-for-gunmans-alleged-accomplice-1420904299">Gunman&#8217;s Partner Believed to Be in Syria</a></li>
+<li><a href="http://www.wsj.com/articles/video-appears-to-show-paris-kosher-grocery-attack-suspect-coulibaly-swearing-allegiance-to-islamic-state-1420977506">Alleged Kosher Store Attacker Suspected in Jogger Shooting</a></li>
+<li><a href="http://www.wsj.com/articles/frances-jewish-community-reeling-in-wake-of-paris-attack-1420986492">France’s Jewish Community Reeling in Wake of Paris Attack</a></li>
+<li><a href="http://www.wsj.com/articles/rival-groups-terror-agendas-melded-in-paris-attacks-1420924590?">Killings Merge Rivals Groups&#8217; Agendas</a></li>
+<li><a href="http://blogs.wsj.com/briefly/2015/01/07/what-is-charlie-hebdo-and-why-was-the-magazine-targeted-the-short-answer">What Is Charlie Hebdo?</a> <a href="http://www.wsj.com/video/what-is-charlie-hebdo/F7F095D5-D4E1-4E81-AA5A-0E04F486C27F.html">Video</a></li>
+<li><a href="http://www.wsj.com/articles/shooting-at-charlie-hebdo-office-in-paris-leaves-more-than-10-dead-1420635672">Photos</a> | <a href="http://www.wsj.com/video/subject/paris-shooting">Video </a>| <a href="http://blogs.wsj.com/dispatch/2015/01/07/paris-shooting-eyewitness-photos-and-reaction-shared-on-social-media/">Social Media Reaction</a></li>
+</ul>
+<p><em>Tweets from “verified” accounts included in this stream haven’t been confirmed by The Wall Street Journal.</em></p>
+<p>&nbsp;</p>
+</div>
+                        <div id="stream_ad" class="adSummary advertisement"></div>
+                    </div>
+                </div>
+                
+            </div>
+        </div>
+    </div>
+
+    <div class="stream_c">
+
+        <div id="stream_hat_c" class="stream_hat_c">
+            <div id="stream_hat" class="stream_hat">
+                <div class="stream_hatConsole">
+                    <a class="modTitle ttip_c" href="#">
+                    <span class="ttip">Top</span>
+
+                    Streaming Coverage</a>
+
+                    <span id="stream_reverse" class="btnReverse ttip_c">
+                        <span class="ttip">
+                            Reverse Order
+                        </span>
+                    </span>
+
+                    <div class="navBtn_c">
+                      <a href="#" class="navBtn btnUp ttip_c">
+                        <span class="ttip">
+                          Keyboard: <span class="icn-ua">↑</span>
+                        </span>
+                      </a>
+                      <a href="#" class="navBtn btnDown ttip_c">
+                        <span class="ttip">
+                          Keyboard: <span class="icn-da">↓</span>
+                        </span>
+                      </a>
+                    </div>
+                    <table class="modMeta">
+                        <tr>
+                          <th class="dataLbl data-days">Days Active</th>
+                            <th class="dataLbl data-updates">Updates</th>
+                        </tr>
+            
+                        <tr>
+                            <td id="stream_days" class="dataCount data-days">76</td>
+                            <td id="stream_updates" class="dataCount data-updates">504</td>  
+                        </tr>
+                    </table>
+                </div>
+               <div class="stream_hatFooter"></div>
+           <span class="stream_alert" id="stream_alert_container"><span id="stream_alert_number">0</span> new posts</span>               
+            </div>
+         </div>
+
+        <ul id="thestream" class="stream">
+          
+
+
+<noscript>
+  
+  <li class="stri sType-txt sSubType-article">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            <a href="http://www.wsj.com/articles/kosher-grocery-store-attacked-in-january-reopens-in-paris-1426428405?mod=wsj_streaming_stream" target="_blank">
+            Europe News
+            </a>
+          </cite></span>
+        
+        
+          <h1 class="stri-title">Kosher Grocery Store Attacked in January Reopens in Paris</h1>
+        
+      </div>
+      
+      
+        <p class="stri-byline">By Inti Landauro</p>
+      
+
+      
+        <div class="stri-media stri-photo">
+          <img src="http://s.wsj.net/public/resources/images/BN-HK332_frkosh_G_20150315091101.jpg" alt="Hyper Cacher, the kosher supermarket attacked in January, reopened on Sunday in Paris.">
+          <p class="stri-mediaCaption">Hyper Cacher, the kosher supermarket attacked in January, reopened on Sunday in Paris.</p>
+          <cite class="stri-mediaCredit">Associated Press</cite>
+        </div>
+      
+
+      
+        <div class="stri-full">
+          <p>PARIS—Hyper Cacher, the kosher grocery store attacked in January during a <a href="">three-day terror spree</a>in the French capital, reopened Sunday amid heavy security, as France tries to move on from the deadliest terror attacks in years.</p>
+<p>“I came here to say the French Republic is doing everything so that all French people are protected from the threat of terrorism and so that we can live in our country freely,” said French Interior Minister Bernard Cazeneuve.</p>
+<p>He was the first customer Sunday morning at the shop, which was <a href="">devastated by gunman</a><br />
+                Amedy Coulibaly on Jan. 9 in an attack that left four Jews dead and ended with an assault by French special forces after a five-hour standoff. Mr. Coulibaly claimed to have coordinated his attack with brothers Said and Chérif Kouachi, who two days earlier killed 12 people in a brutal attack on satirical magazine Charlie Hebdo.</p>
+<p>Since the attacks, the store has been closed, behind barriers where thousands of people laid flowers and other tributes in solidarity with the victims. All the staff who were working at the time of the attack are on sick leave and the Hyper Cacher chain is ready to take them back whenever they want to come back in any of the group’s 13 stores, said Laurent Mimoun, one of the owners of Hyper Cacher.</p>
+<p>“We wanted to reopen quickly and to show we are not defeated and not afraid,” said Mr. Mimoun on Sunday morning on the store’s doorstep. “It was important for the victims’ relatives and the people in the neighborhood.”</p>
+<p>He said the constant presence of <a href="">armed policemen is reassuring</a>for customers and staff.</p>
+<p>“The reopening is a strong signal that life goes on, we must not give up,” said Eric Cohen, father of Yohan Cohen, who was killed in the attack.</p>
+<p>The attack on the kosher store, one of the deadliest against French Jews since World War II, was deeply unnerving for France’s Jewish community, widely viewed as the third-largest after Israel. It was by no means isolated, coming against a backdrop of violence and intimidation.</p>
+<p>The French government made a strong appeal to French Jews to stay in France, as many are moving to Israel. The government deployed 120,000 security forces on the ground to reassure them, including 10,000 military, the highest number of troops in France since a wave of violence related to the Algerian War hit the country more than 50 years ago.</p>
+<p>Thousands of armed guards were sent to patrol areas with heavy pedestrian traffic and to guard vulnerable buildings such as synagogues and Jewish cultural centers. The police deployment has been partly scaled down and police authorities are constantly evaluating the needs of surveillance, an interior ministry’s spokeswoman said. “All the 120,000 officers are still ready to be deployed anytime,” she added.</p>
+<p>Still, the military deployment, which was originally planned to last for a few weeks, has been extended at least until the summer, putting a strain on the French army which was already spread thin after the government decided to intervene in three different conflicts in Africa and the Middle East over the past three years.</p>
+<p>“To keep 10,000 soldiers on the streets 24/7 we need to keep a pool of twice or three times as many troops on alert,” said Colonel Gilles Jaron, spokesman for the French army. He said the number of soldiers on patrol will later this month be reduced to 7,000, with a reserve of 3,000 ready to intervene.</p>
+<p>The military presence is costing the army about €1 million a day. The budget planned to finance such operations will be exhausted well before the summer and the army says it will have to find money elsewhere.</p>
+<p>The high security operation isn’t only straining institutions but is also harsh for the troops, Col. Jaron said. Soldiers were wounded by a knife attack outside a Jewish center in the southern city of Nice in early February.</p>
+<p>Around the Hyper Cacher store, the presence of extra security forces isn’t reassuring everybody. Business has been slow over the past few weeks in the eastern Paris neighborhood, and some locals say they still don’t feel safe.</p>
+<p>Shirley Marciano, who used to shop at Hyper Cacher said she won’t return to the store. “I’m scared now,” she said. “I shop with my baby girl, I feel like I have an extra responsibility.”</p>
+<p>Noémie Bisserbe contributed to this article.</p>
+<p><b>Write to </b>Inti Landauro at <a href="">inti.landauro@wsj.com</a></p>
+
+        </div>
+      
+
+      
+        <a style="float: right; font-weight: bold;" href="http://www.wsj.com/articles/kosher-grocery-store-attacked-in-january-reopens-in-paris-1426428405?mod=wsj_streaming_stream" target="_blank" class="stri-viewSec">Original Article Format &#0187</a>
+      
+    </div>
+  </li>
+
+  <li class="stri sType-txt sSubType-article">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            <a href="http://online.wsj.com/articles/why-people-think-in-symbols-from-lab-experiments-to-charlie-hebdo-1422641203?mod=wsj_streaming_stream" target="_blank">
+            Mind and Matter: Robert M. Sapolsky
+            </a>
+          </cite></span>
+        
+        
+          <h1 class="stri-title">The Strange Power of Symbols, in the News and the Lab</h1>
+        
+      </div>
+      
+      
+
+      
+        <div class="stri-media stri-photo">
+          <img src="http://s.wsj.net/public/resources/images/BN-GR165_mindma_G_20150128131000.jpg" alt="All of us hold beliefs and values in our heads, and to help navigate our heterogeneous social world, we cloak ourselves in arbitrary signals yoked to those beliefs. ">
+          <p class="stri-mediaCaption">All of us hold beliefs and values in our heads, and to help navigate our heterogeneous social world, we cloak ourselves in arbitrary signals yoked to those beliefs. </p>
+          <cite class="stri-mediaCredit">Getty Images</cite>
+        </div>
+      
+
+      
+        <div class="stri-full">
+          <p>The <a href="">Charlie Hebdo massacre</a>in Paris and its aftermath have prompted reflections on various topics—the clash of civilizations, the susceptibility of the disenfranchised to extreme ideologies, the limits of free speech and the limitlessness of human barbarity.</p>
+<p>A relevant scientific line of thought concerns a striking fact about humans: We kill over symbols—over food prohibitions, a gang’s colors or a satirical cartoon. Why do symbols hold such power over us?</p>
+<p>Consider a dog undergoing Pavlovian conditioning: If you ring a bell and then provide a reward enough times, the bell alone triggers salivation. At that point, does the bell signal a reward to come, or has that once meaningless sound become a reward itself?</p>
+<p>A <a href="">key study</a>, published in Nature in 2011 by Shelley Flagel and Huda Akil of the University of Michigan and colleagues, explored this question. The scientists conditioned rats to associate the eight-second appearance of a brightly lighted lever at one end of a chamber with food delivered at the other end.</p>
+<p>What would a rat do if the lever just signaled the reward itself? It would run to the food end the instant it appeared. What about a rat who found the signal itself rewarding? The rodent would stick by the signal for the full eight seconds and then sprint for the food.</p>
+<p>About half the rats became enchanted with the signal itself. These rats displayed a distinctive pattern of dopamine, a neurotransmitter in their brains central to experiencing reward. Whatever the cause of that pattern, those rats experienced the signal as more than the mere symbol of reward.</p>
+<p>Biologists talk about “arbitrary signaling,” where conspicuous traits with no functional significance evolve to become yoked to a meaningful underlying trait. For example, the color of a peacock’s plumage doesn’t affect his aerodynamics. But it can signal something underneath: “If I’m wasting energy on these flashy colors, I must be  healthy, with  great genes, that you should mate with me.” It’s arbitrary; a colorful beak, instead of feathers, could have evolved to accomplish the same.</p>
+<p>We make heavy use of a related type of arbitrary signaling. All of us hold beliefs and values in our heads, and to help navigate our heterogeneous social world, we cloak ourselves in arbitrary signals yoked to those beliefs.</p>
+<p>Suppose you meet a stranger. His clothing relays a message, though the objects themselves have only arbitrary ties to his values. If he’s wearing a Stetson, it is a good bet that he believes cows are for barbecuing. If he’s wearing a dhoti, he may well believe that cows are for worshiping.</p>
+<p>Signals like these are so ubiquitous that it’s hard to appreciate their arbitrariness.  The degree of reverence that someone shows toward a particular pattern of colors on a piece of cloth—the American flag—can reliably predict, in our politics, their attitude about private property. Or someone’s reaction to a pattern of lines on a piece of paper—a particular cartoon—can reliably predict whether he believes that religious leaders can achieve such transcendent purity that they are beyond representation.</p>
+<p>Which brings us back to the transformation of arbitrary signals of reward into rewarding things in themselves. For many of us, the abstract distance between a symbol and the powerful thing it symbolizes can shrink to the point of nothingness.</p>
+<p>This can have some bad consequences. Soldiers may willingly die to retrieve their regimental colors. Or authorities in a developing nation may charge someone with murder for cutting up currency that pictured the country’s dictator. In the Hard Hat Riot of 1970, New York construction workers attacked Vietnam War protesters for desecrating the flag. And then there are the cartoonists of Charlie Hebdo.</p>
+<p>Humans are distinctive: We are smart enough to invent symbols and dumb enough to forget their symbolic nature.</p>
+
+        </div>
+      
+
+      
+        <a style="float: right; font-weight: bold;" href="http://online.wsj.com/articles/why-people-think-in-symbols-from-lab-experiments-to-charlie-hebdo-1422641203?mod=wsj_streaming_stream" target="_blank" class="stri-viewSec">Original Article Format &#0187</a>
+      
+    </div>
+  </li>
+
+  <li class="stri sType-txt sSubType-article">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            <a href="http://www.wsj.com/articles/norway-police-arrest-former-militant-leader-1425021461?mod=wsj_streaming_stream" target="_blank">
+            Europe News
+            </a>
+          </cite></span>
+        
+        
+          <h1 class="stri-title">Norway Police Arrest Former Militant Leader Mullah Krekar</h1>
+        
+      </div>
+      
+      
+        <p class="stri-byline">By Kjetil Malkenes Hovland</p>
+      
+
+      
+        <div class="stri-media stri-photo">
+          <img src="http://s.wsj.net/public/resources/images/BN-HD788_0227no_G_20150227022328.jpg" alt="Najumuddin Faraj Ahmad smiles after his release from Kongsvinger prison, in Kongsvinger, Norway, on Jan. 25.">
+          <p class="stri-mediaCaption">Najumuddin Faraj Ahmad smiles after his release from Kongsvinger prison, in Kongsvinger, Norway, on Jan. 25.</p>
+          <cite class="stri-mediaCredit">European Pressphoto Agency</cite>
+        </div>
+      
+
+      
+        <div class="stri-full">
+          <p>OSLO—Police in Norway late Thursday arrested the former leader of an Iraqi militant group for encouraging or glorifying criminal acts in a TV interview, a month after he was released from prison, having served nearly three years for making death threats against three Kurds and a politician.</p>
+<p>Najmuddin Faraj Ahmad, 58, better known as Mullah Krekar, was a leader of the Ansar al-Islam group in Iraqi Kurdistan in the early 2000s. He came to Norway as a United Nations refugee in 1991 and a court ordered his expulsion from the country in 2003 as he was seen as a threat to national security.</p>
+<p>The arrest happened after Norway’s NRK TV channel broadcast an interview on Wednesday, in which Mr. Ahmad said he would send a gift to anyone who killed a Kurdish man who had burned the Quran, according to the NRK’s translation of his comments. The TV channel said Mr. Ahmad also hailed the attackers of the French satirical magazine Charlie Hebdo, and said cartoonists who caricature Prophet Muhammad deserve to die.</p>
+<p>“We have tonight arrested Krekar and charged him for encouraging a punishable act,” the Oslo police district said on Twitter late Thursday.</p>
+<p>Mr. Ahmad was released on Feb. 22 after serving 34 months in prison for death threats against three Kurds and Erna Solberg, Norway’s current prime minister, who at the time was the leader of the Conservative Party.</p>
+<p>Mr. Ahmad was added to the United Nations’ al Qaeda sanctions list in 2006. He remains in the country because Norway doesn’t return people to countries where they may face a death penalty.</p>
+<p>In January, the Oslo District Court ordered Mr. Ahmad to <a href="">relocate from his home in Oslo to a remote village in central Norway</a>. Mr. Ahmad has appealed the decision.</p>
+<p>Brynjar Meling, his lawyer, told the NRK that Mr. Ahmad was only responding to questions he was asked, but said that he would advise his client against giving any more interviews.</p>
+<p><b>Write to </b>Kjetil Malkenes Hovland at <a href="">kjetilmalkenes.hovland@wsj.com</a></p>
+
+        </div>
+      
+
+      
+        <a style="float: right; font-weight: bold;" href="http://www.wsj.com/articles/norway-police-arrest-former-militant-leader-1425021461?mod=wsj_streaming_stream" target="_blank" class="stri-viewSec">Original Article Format &#0187</a>
+      
+    </div>
+  </li>
+
+  <li class="stri sType-tweet sSubType-article">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            
+            Twitter
+            
+          </cite></span>
+        
+        
+      </div>
+      
+      
+
+      
+
+      
+        <div class="stri-tweet">
+          <a href="javascript:void(0);" class="stri-thumb">
+            <img src="http://pbs.twimg.com/profile_images/586346580/Sam-hub_normal.JPG" class="imageFormat-A">
+          </a>
+          <h2 class="stri-twMeta">
+            <span class="stri-tweetName">Sam Schechner</span>
+            <a class="stri-tweetHandle" href="https://twitter.com/#!/samschech" target="_blank">@samschech</a>
+          </h2>
+          <h1 class="stri-twContent">
+            RT @grainnemcc: "How can you make this kind of decision when you’re still having nightmares at night?” #CharlieHebdo debates future. http:/…
+          </h1>
+        </div>
+      
+
+      
+    </div>
+  </li>
+
+  <li class="stri sType-tweet sSubType-article">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            
+            Twitter
+            
+          </cite></span>
+        
+        
+      </div>
+      
+      
+
+      
+
+      
+        <div class="stri-tweet">
+          <a href="javascript:void(0);" class="stri-thumb">
+            <img src="http://pbs.twimg.com/profile_images/2171065202/image_normal.jpg" class="imageFormat-A">
+          </a>
+          <h2 class="stri-twMeta">
+            <span class="stri-tweetName">Gráinne McCarthy</span>
+            <a class="stri-tweetHandle" href="https://twitter.com/#!/grainnemcc" target="_blank">@grainnemcc</a>
+          </h2>
+          <h1 class="stri-twContent">
+            "How can you make this kind of decision when you’re still having nightmares at night?” #CharlieHebdo debates future. <a href='http://t.co/arlWtU42JZ' target='_blank'>http://t.co/arlWtU42JZ</a>
+          </h1>
+        </div>
+      
+
+      
+    </div>
+  </li>
+
+  <li class="stri sType-tweet sSubType-article">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            
+            Twitter
+            
+          </cite></span>
+        
+        
+      </div>
+      
+      
+
+      
+
+      
+        <div class="stri-tweet">
+          <a href="javascript:void(0);" class="stri-thumb">
+            <img src="http://pbs.twimg.com/profile_images/2788161861/caa496e2194f7c56a96738579eda57cf_normal.jpeg" class="imageFormat-A">
+          </a>
+          <h2 class="stri-twMeta">
+            <span class="stri-tweetName">William Horobin</span>
+            <a class="stri-tweetHandle" href="https://twitter.com/#!/WHorobin" target="_blank">@WHorobin</a>
+          </h2>
+          <h1 class="stri-twContent">
+            Rift Among Charlie Hebdo Staff on Future of Newspaper Enriched by Tragedy #CharlieHebdo @ScheckWSJ  <a href='http://t.co/5EpIqGjmMA' target='_blank'>http://t.co/5EpIqGjmMA</a>
+          </h1>
+        </div>
+      
+
+      
+    </div>
+  </li>
+
+  <li class="stri sType-tweet sSubType-article">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            
+            Twitter
+            
+          </cite></span>
+        
+        
+      </div>
+      
+      
+
+      
+
+      
+        <div class="stri-tweet">
+          <a href="javascript:void(0);" class="stri-thumb">
+            <img src="http://pbs.twimg.com/profile_images/456818900101914624/4Y0SgU0u_normal.jpeg" class="imageFormat-A">
+          </a>
+          <h2 class="stri-twMeta">
+            <span class="stri-tweetName">inti</span>
+            <a class="stri-tweetHandle" href="https://twitter.com/#!/landauro" target="_blank">@landauro</a>
+          </h2>
+          <h1 class="stri-twContent">
+            RT @SMeichtry: Rift among #CharlieHebdo staff as brand enriched by tragedy turns global <a href='http://t.co/npzgkxgWGL' target='_blank'>http://t.co/npzgkxgWGL</a> via @samschech @WSJ
+          </h1>
+        </div>
+      
+
+      
+    </div>
+  </li>
+
+  <li class="stri sType-tweet sSubType-article">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            
+            Twitter
+            
+          </cite></span>
+        
+        
+      </div>
+      
+      
+
+      
+
+      
+        <div class="stri-tweet">
+          <a href="javascript:void(0);" class="stri-thumb">
+            <img src="http://pbs.twimg.com/profile_images/3465970597/c92627bf42e920c3f481724e15df8834_normal.jpeg" class="imageFormat-A">
+          </a>
+          <h2 class="stri-twMeta">
+            <span class="stri-tweetName">Stacy Meichtry</span>
+            <a class="stri-tweetHandle" href="https://twitter.com/#!/SMeichtry" target="_blank">@SMeichtry</a>
+          </h2>
+          <h1 class="stri-twContent">
+            Rift among #CharlieHebdo staff as brand enriched by tragedy turns global <a href='http://t.co/npzgkxgWGL' target='_blank'>http://t.co/npzgkxgWGL</a> via @samschech @WSJ
+          </h1>
+        </div>
+      
+
+      
+    </div>
+  </li>
+
+  <li class="stri sType-tweet sSubType-article">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            
+            Twitter
+            
+          </cite></span>
+        
+        
+      </div>
+      
+      
+
+      
+
+      
+        <div class="stri-tweet">
+          <a href="javascript:void(0);" class="stri-thumb">
+            <img src="http://pbs.twimg.com/profile_images/2171065202/image_normal.jpg" class="imageFormat-A">
+          </a>
+          <h2 class="stri-twMeta">
+            <span class="stri-tweetName">Gráinne McCarthy</span>
+            <a class="stri-tweetHandle" href="https://twitter.com/#!/grainnemcc" target="_blank">@grainnemcc</a>
+          </h2>
+          <h1 class="stri-twContent">
+            Discord emerges at #CharlieHebdo over how to move forward."It's better if the entire newspaper decides." <a href='http://t.co/arlWtU42JZ' target='_blank'>http://t.co/arlWtU42JZ</a> via @WSJ
+          </h1>
+        </div>
+      
+
+      
+    </div>
+  </li>
+
+  <li class="stri sType-media sSubType-slide">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            <a href="http://online.wsj.com/articles/photos-of-the-day-jan-23-1422050147?mod=wsj_streaming_stream" target="_blank">
+            Slideshow
+            </a>
+          </cite></span>
+        
+        
+          <h1 class="stri-title">Photos of the Day: Jan. 23</h1>
+        
+      </div>
+      
+      
+
+      
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GP047_012315_H_20150123141253.jpg" alt="A Palestinian boy climbs a stone wall painted by local artists at the sea port in Gaza City on Friday. ">
+            <p class="stri-mediaCaption">A Palestinian boy climbs a stone wall painted by local artists at the sea port in Gaza City on Friday. </p>
+            <cite class="stri-mediaCredit">Mohammed Abed/Agence France-Presse/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GP051_012315_H_20150123141253.jpg" alt="Mourners gather at the grave of Saudi Arabia's King Abdullah in Riyadh on Friday.">
+            <p class="stri-mediaCaption">Mourners gather at the grave of Saudi Arabia's King Abdullah in Riyadh on Friday.</p>
+            <cite class="stri-mediaCredit">Mohammed Mashhur/Agence France-Presse/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GP050_012315_H_20150123141253.jpg" alt="German Chancellor Angela Merkel, left, and Italian Prime Minister Matteo Renzi hold a news conference in front of Michelangelo’s David statue in Florence on Friday.">
+            <p class="stri-mediaCaption">German Chancellor Angela Merkel, left, and Italian Prime Minister Matteo Renzi hold a news conference in front of Michelangelo’s David statue in Florence on Friday.</p>
+            <cite class="stri-mediaCredit">Antonio Calanni/Associated Press</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GP046_012315_G_20150123141253.jpg" alt="A man reads voting information posted in Athens on Friday. A national election will be held on Sunday. ">
+            <p class="stri-mediaCaption">A man reads voting information posted in Athens on Friday. A national election will be held on Sunday. </p>
+            <cite class="stri-mediaCredit">Marko Djurica/Reuters</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GP054_012315_H_20150123141254.jpg" alt="Indian Army soldiers rehearse a march for Republic Day, which India celebrates on Jan. 26. ">
+            <p class="stri-mediaCaption">Indian Army soldiers rehearse a march for Republic Day, which India celebrates on Jan. 26. </p>
+            <cite class="stri-mediaCredit">Prakash Singh/Agence France-Presse/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GP048_012315_H_20150123141253.jpg" alt="Looters make off with goods from a store in Soweto, South Africa, on Thursday. Days of riots, prompted by the shooting death of a young man, have led to widespread looting. Police said Friday that they had arrested more than 150 people. ">
+            <p class="stri-mediaCaption">Looters make off with goods from a store in Soweto, South Africa, on Thursday. Days of riots, prompted by the shooting death of a young man, have led to widespread looting. Police said Friday that they had arrested more than 150 people. </p>
+            <cite class="stri-mediaCredit">Associated Press</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GP043_012315_H_20150123141253.jpg" alt="Afghan men and children reach out for food donated by a charity in Mazar-i-Sharif on Thursday.">
+            <p class="stri-mediaCaption">Afghan men and children reach out for food donated by a charity in Mazar-i-Sharif on Thursday.</p>
+            <cite class="stri-mediaCredit">Farshad Usyan/Agence France-Presse/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GP053_012315_H_20150123141254.jpg" alt="Policemen in Jakarta, Indonesia, rest on an inflatable raft in the capital city’s flooded Kelapa Gading business district on Friday. ">
+            <p class="stri-mediaCaption">Policemen in Jakarta, Indonesia, rest on an inflatable raft in the capital city’s flooded Kelapa Gading business district on Friday. </p>
+            <cite class="stri-mediaCredit">Beawiharta/Reuters</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GP052_012315_H_20150123141255.jpg" alt="Snow-covered bicycles lie on a dock in Emden, Germany, on Friday. ">
+            <p class="stri-mediaCaption">Snow-covered bicycles lie on a dock in Emden, Germany, on Friday. </p>
+            <cite class="stri-mediaCredit">Carmen Jaspersen/Zuma Press</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GP049_012315_H_20150123141253.jpg" alt="A woman in the courtyard of the Great Mosque of Dakar in Senegal on Friday wears clothing inscribed with the French words ‘I am Mohamed’ to protest the publication of a caricature of the Prophet Muhammad in French satirical magazine Charlie Hebdo.">
+            <p class="stri-mediaCaption">A woman in the courtyard of the Great Mosque of Dakar in Senegal on Friday wears clothing inscribed with the French words ‘I am Mohamed’ to protest the publication of a caricature of the Prophet Muhammad in French satirical magazine Charlie Hebdo.</p>
+            <cite class="stri-mediaCredit">Seyllou/Agence France-Presse/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GP044_012315_H_20150123141253.jpg" alt="Christina Strange, the mother of U.S. Army Sgt. First Class Ramon Morris’s daughter, grieves at the side of his casket in Arlington, Va., on Friday. The soldier died on Dec. 12, 2014, in Afghanistan from injuries caused by an improvised explosive device.">
+            <p class="stri-mediaCaption">Christina Strange, the mother of U.S. Army Sgt. First Class Ramon Morris’s daughter, grieves at the side of his casket in Arlington, Va., on Friday. The soldier died on Dec. 12, 2014, in Afghanistan from injuries caused by an improvised explosive device.</p>
+            <cite class="stri-mediaCredit">Win McNamee/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GP045_012315_H_20150123141253.jpg" alt="A photo released by the Municipal Public Security of Tijuana shows a small remote-controlled drone carrying three kilos of synthetic drugs. The drone crashed Wednesday in a Tijuana, Mexico, shopping center only hundreds of feet from the border with California, police said. ">
+            <p class="stri-mediaCaption">A photo released by the Municipal Public Security of Tijuana shows a small remote-controlled drone carrying three kilos of synthetic drugs. The drone crashed Wednesday in a Tijuana, Mexico, shopping center only hundreds of feet from the border with California, police said. </p>
+            <cite class="stri-mediaCredit">SEGURIDAD PUBLICA MUNICIPAL DE TIJUANA/Agence France-Presse/Getty Images</cite>
+         </div>
+        
+      
+
+      
+
+      
+        <a style="float: right; font-weight: bold;" href="http://online.wsj.com/articles/photos-of-the-day-jan-23-1422050147?mod=wsj_streaming_stream" target="_blank" class="stri-viewSec">Original Article Format &#0187</a>
+      
+    </div>
+  </li>
+
+  <li class="stri sType-txt sSubType-article">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            <a href="http://www.wsj.com/articles/denmark-detains-two-after-terror-attacks-1424077472?mod=wsj_streaming_stream" target="_blank">
+            Europe News
+            </a>
+          </cite></span>
+        
+        
+          <h1 class="stri-title">Denmark Charges Two With Aiding Terror Attacks</h1>
+        
+      </div>
+      
+      
+        <p class="stri-byline">By Anna Molin , Charles Duxbury </p>
+      
+
+      
+        <div class="stri-media stri-photo">
+          <img src="http://s.wsj.net/public/resources/images/BN-GZ016_densho_G_20150216043422.jpg" alt="Armed police stand guard on Sunday outside an internet cafe that was raided in connection with the twin attack on a freedom of expression meeting and the main Synagogue in Copenhagen.">
+          <p class="stri-mediaCaption">Armed police stand guard on Sunday outside an internet cafe that was raided in connection with the twin attack on a freedom of expression meeting and the main Synagogue in Copenhagen.</p>
+          <cite class="stri-mediaCredit">Agence France-Presse/Getty Images</cite>
+        </div>
+      
+
+      
+        <div class="stri-full">
+          <p>A Danish court on Monday ordered two men suspected of helping a gunman behind deadly twin attacks be held in jail, as local media painted a picture of the attacker as a convicted criminal recently drawn to Islamic radicalism.</p>
+<p>The 14-hour weekend rampage, described as an act of terrorism by Danish Prime Minister Helle Thorning-Schmidt, has roiled normally placid Copenhagen, where flags flew at half-staff as the country prepared to hold memorials for the two victims.</p>
+<p>The judge ordered the suspected accomplices be held for 10 days for allegedly helping the gunman dodge authorities and get rid of an automatic rifle believed to have been used the attack. The suspect was killed by authorities on Sunday night following a nationwide manhunt.</p>
+<p>The prosecutor had asked for four weeks in solitary confinement to give police more time to investigate their connection. Prosecutors now have 10 days to present formal charges or new evidence to convince the court to hold them longer.</p>
+<p>Defense attorney Michael Juul Eriksen told local television the men were pleading not guilty.</p>
+<p>The gunman sprayed dozens of bullets through the windows of the central Copenhagen Krudttonden cafe, where <a href="">Swedish cartoonist</a><br />
+                Lars Vilks—<a href="">who has faced death threats</a> for depicting the Prophet Muhammad as a dog—was among those in attendance.</p>
+<p>Mr. Vilks was unharmed, but a 55-year-old man, identified as a filmmaker by local media, died in that attack and three police officers were injured. Hours later, the same gunman killed a 37-year-old member of a synagogue and wounded two police officers in a second attack outside a girl’s bat mitzvah celebration in central Copenhagen.</p>
+<p>The spree came<a href="">just over a month after three days of violence in Paris,</a>in which two gunmen opened fire at Charlie Hebdo magazine, which had published satirical cartoons of the Prophet Muhammad, and another gunman assaulted a kosher grocery store.</p>
+<p>Danish media widely named the gunman as Omar Abdel Hamid El-Hussein, a 22-year-old of Palestinian parentage, who had just been released from prison a few weeks ago after serving time for aggravated assault.</p>
+<p>Police have declined to give his name, but said the gunman was a 22-year-old Copenhagen resident born in Denmark and who was known by authorities for several criminal offenses, notably related to the use and possession of firearms and association with gangs.</p>
+<p>According to Danish media, Mr. El-Hussein became the target of another police hunt in 2013 after stabbing a random passenger on a train while under the influence of hash. A psychological evaluation carried out in connection with that arrest, and obtained by Denmark’s TV2 channel, found that Mr. El-Hussein didn&#8217;t suffer from a mental illness.</p>
+<p>The same investigation noted that Mr. El-Hussein had gone to school in Jordan for three years but didn&#8217;t finish high school and had unsuccessfully applied for an IT university program. He was uncooperative with the investigators but didn&#8217;t exhibit any signs of mental disorder, the evaluation concluded according to TV2.</p>
+<p>The Danish Security and Intelligence Service said the gunman was known to them but that nothing indicated he had traveled to war zones in Iraq or Syria as a jihadist.</p>
+<p>Former classmates of Mr. El-Hussein described him to local media as a loner who liked to discuss Islam and the Israel-Palestinian conflict and his hatred for Jews.</p>
+<p>Police asked for more witnesses to help piece together his movements before and after the attack. About 2 1/2 hours before hitting the synagogue, police said he spent about 25 minutes at an Internet cafe in the neighborhood of Norrebro, fairly close to where he was later shot, and which was raided by police.</p>
+<p>Around the city, an increased police presence was noticeable, though life appeared to be returning to normal.</p>
+<p>Tulips and roses covered the sidewalk outside the synagogue in Krystalgade. A 15-minute drive north, friends and associates of Mr. El-Hussein also brought flowers, mainly plastic roses, to the narrow street near a train station in Norrebro.</p>
+<p>“I knew him from Mjolnerparken [a residential area where the gunman is believed to have lived],” Sanna al-Baltam told reporters at TV2 while placing a bouquet on the ground. “We’re not sure it was him who did it. If it was, it has nothing to do with Islam. He must have been manipulated,” she was quoted saying.</p>
+<p>Police said late Sunday they were seeking to implement a “raised level of security” in the capital and were carrying out an assessment of the level of the threat to toward upcoming events.</p>
+<p>While being mostly praised for swiftly catching the perpetrator <a href="">using a network of video surveillance cameras</a>, police have also received some criticism.</p>
+<p>Magnus Ranstorp, a counterterrorism expert at the Swedish National Defence College, said police should have had officers outside the cafe—not just inside—given the high threat level surrounding Mr. Vilks. Police spokesman Mr. Hansen declined to comment on the security measures around the event.</p>
+<p>Denmark first became a target of Islamic extremism in 2005 after Jyllands-Posten, one of the country’s biggest newspapers, printed 12 satirical cartoons of the Prophet Muhammad.</p>
+<p><b>Write to </b>Anna Molin at <a href="">anna.molin@wsj.com</a> and Charles Duxbury at <a href="">charles.duxbury@wsj.com</a></p>
+<p><b>Corrections &#038; Amplifications</b></p>
+<p>A photo accompanying this article shows a café that was raided by police on Sunday in connection with the Copenhagen shooting. An earlier version of this story incorrectly said the café was where the weekend shooting took place. (Feb. 16, 2015)</p>
+
+        </div>
+      
+
+      
+        <a style="float: right; font-weight: bold;" href="http://www.wsj.com/articles/denmark-detains-two-after-terror-attacks-1424077472?mod=wsj_streaming_stream" target="_blank" class="stri-viewSec">Original Article Format &#0187</a>
+      
+    </div>
+  </li>
+
+  <li class="stri sType-txt sSubType-article">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            <a href="http://www.wsj.com/articles/danish-police-kill-suspect-in-copenhagen-shootings-1423989155?mod=wsj_streaming_stream" target="_blank">
+            Europe News
+            </a>
+          </cite></span>
+        
+        
+          <h1 class="stri-title">Suspected Copenhagen Gunman Is Killed as Denmark Reels From Attacks</h1>
+        
+      </div>
+      
+      
+        <p class="stri-byline">By Charles Duxbury, Anna Molin</p>
+      
+
+      
+        <div class="stri-media stri-photo">
+          <img src="http://s.wsj.net/public/resources/images/BN-GY825_densho_G_20150215041039.jpg" alt="">
+          <p class="stri-mediaCaption"></p>
+          <cite class="stri-mediaCredit"></cite>
+        </div>
+      
+
+      
+        <div class="stri-full">
+          <p>A gunman shouting ‘Allahu akbar’ <a href="">targeted free-speech activists</a>, policemen and Jews in a 14-hour rampage through Copenhagen this weekend, killing two men and wounding five people, in attacks that plunged another European capital into terror just over a month after the Paris shootings.</p>
+<p>The events in Copenhagen, which climaxed early Sunday when police shot dead a man they said they believe was behind the twin assaults on a cafe and a synagogue, renewed calls for European governments to accelerate the implementation of security measures long deemed as posing a risk to civil liberties.</p>
+<p>But Denmark authorities stood defiant as messages of support poured in from world capitals.</p>
+<p>“We face some difficult days, when our unity will be tested,” Danish Prime Minister Helle Thorning-Schmidt said. “But in Denmark, we will never bow to violence.”</p>
+<p>Danish police said the suspect was a 22-year-old man born in Denmark and who was known by authorities for several criminal offenses, notably related to the use and possession of firearms. A Danish radio station said the suspect had been released from prison a few weeks ago.</p>
+<p>Denmark launched a nationwide manhunt Saturday after a man wearing a parka and a balaclava attacked a seminar on Islam and free speech organized <a href="">in the wake of the January attack</a> on French satirical newspaper Charlie Hebdo.</p>
+<p>Police said the man sprayed dozens of gunshots through the plate-glass windows of central Copenhagen’s Krudttonden cafe, where <a href="">Swedish cartoonist</a><br />
+                Lars Vilks—who has faced death threats for his caricatures of the Muslim Prophet Muhammad—was among those in attendance.</p>
+<p>Mr. Vilks wasn’t injured, but a 55-year-old man died and three security officers were wounded.</p>
+<p>Shortly after midnight, police reported another shooting, outside a <a href="">synagogue in downtown Copenhagen</a>, that killed a 37-year-old guard standing watch outside a bat mitzvah and wounded two police officers.</p>
+<p><a href="">Using footage from surveillance cameras</a> and information provided by witnesses, police said they were able to locate a suspect outside a train station in the northern part of Copenhagen. He was shot dead after he opened fire, police said.</p>
+<p>Police later said they believed the same gunman was behind both attacks. The Danish Security and Intelligence Service said there was no information to suggest the suspect, a Copenhagen resident, had traveled to war zones in Iraq or Syria. Police declined to release his identity, citing the continuing investigation.</p>
+<p>“There are a number of things indicating we have the right perpetrator, but our technical investigation isn’t complete so we cannot be 100% sure,” said Jorgen Skov, head of the Copenhagen police. “There is nothing to suggest that several perpetrators are involved.”</p>
+<p>Police said the motive for the shooting remained unclear, but that it was possible that Mr. Vilks was the target. The cartoonist achieved notoriety nearly a decade ago for trying to exhibit caricatures of the Prophet Muhammad as a dog.</p>
+<p>Copenhagen was in lockdown on Sunday morning, with sirens and a helicopter breaking the silence in the usually quiet capital city. Police cordoned off the area around the synagogue, installing floodlights to allow investigators to search the crime scene.</p>
+<p>The initial attack unfolded Saturday about 3:30 p.m. local time.  Inna Shevchenko, the Ukrainian feminist activist, had just taken the floor and was talking about one of the Charlie Hebdo cartoonists killed in January when three or four gunshots rang out.</p>
+<p>For a second, the 50-strong audience didn’t pay much attention, thinking the noise was some firecrackers, Agnieszka Kolek, a Polish artist and free-speech activist who was present, said in a telephone interview. But the gunfire intensified and bullets began piercing through the windows, spreading panic inside the cafe.  Curtains prevented participants from seeing their assailant but “we heard him shout ‘Allahu akbar,’ ” Ms. Kolek said. An <a href="">audio recording obtained by the BBC</a> captured the moment in which the shots were fired.</p>
+<p>Mr. Vilks’s bodyguards worked to evacuate him, while police officers guarding the conference began shooting back at the gunman, Ms. Kolek said.</p>
+<p>Like others in attendance, France’s ambassador to Denmark, François Zimeray, said he crawled on the floor toward a backdoor emergency exit. The ambassador tweeted that he “was still alive in the room” on Saturday, and thanked a police officer for saving his life.</p>
+<p>Ms. Kolek said police and other witnesses later told her how the gunman—minutes before the shooting—had been seen trying to enter the cafe through the back door.</p>
+<p>“If he had made his way in, we would all have died,” she said.</p>
+<p>To flee the cafe, the suspect hijacked a car and abandoned it after a five-minute drive north of the attack, police said.</p>
+<p>While police had initially said they were seeking two suspects in the cafe shooting, interviews with witnesses on the scene later led them to believe there was a sole perpetrator, police spokesman Steen Hansen said.</p>
+<p>The shootings appear to be the latest in a cycle of violence connected to depictions of the Prophet Muhammad, which many Muslims regard as blasphemy.</p>
+<p>January’s terror spree in and around Paris began when two brothers stormed the offices of Charlie Hebdo, killing 11 people—including 10 staffers—there and another person outside in what one of the gunmen later said was retaliation for images the newspaper had earlier published of the Prophet Muhammad.</p>
+<p>In response, Charlie Hebdo decided<a href="">to print another caricature</a>of the Prophet Muhammad in a “survivors” issue the following week. That, in turn, led to waves of anti-French protests that have swept parts of Africa, the Middle East and Asia.</p>
+<p>While most of those protests were peaceful, some turned violent. In Niger, <a href="">10 people were killed</a>, as rioters torched churches, wrecked bars and blocked several major roads during two days of demonstrations against Charlie Hebdo.</p>
+<p>The Charlie Hebdo attacks circle back to Copenhagen. The controversial caricatures that the French newspaper first printed in 2006 were reprints of others that earlier had been printed by a Danish newspaper Jyllands-Posten, in what the newspaper said was a defense of free speech.</p>
+<p>Most mainstream newspapers in Denmark reprinted some of Charlie Hebdo’s most contentious drawings after the attack, but Jyllands-Posten didn’t, citing concerns for its employees’ safety.</p>
+<p>The Danish newspaper was the target of a foiled terrorist attack in 2010, when five men were arrested for planning to kill as many of the newspaper’s staff as possible. One of its most famous cartoonists, Kurt Westergaard, who penned a depiction of Muhammad wearing a bomb in his turban, was also targeted in a failed killing attempt at his home in 2010.</p>
+<p>French President François Hollande deplored Saturday’s attack and expressed his solidarity with Denmark’s Ms. Thorning-Schmidt, his office said. French Interior Minister Bernard Cazeneuve visited the site of the first attack on Sunday afternoon, saying that the European Union should quickly implement a long-debated system to track travelers entering and leaving the bloc by plane.</p>
+<p>“We see the similarity to the events that happened in Paris,” Mr. Cazeneuve said during an impromptu news conference carried on live television. “Europe needs to give itself new means to fight terrorism together.”</p>
+<p>At the Krudttønden cafe, Ms. Kolek said she persuaded participants to resume the conference for a moment after the deadly attack.</p>
+<p>“I went on the stage and said: They are not just trying to kill us, they want to shut down freedom of speech.”</p>
+<p>            <cite class="tagline">&#8211;Sam Schechner and David Gauthier-Villars in Paris contributed to this article.</cite></p>
+<p><b>Write to </b>Charles Duxbury at <a href="">charles.duxbury@wsj.com</a> and Anna Molin at <a href="">anna.molin@wsj.com</a></p>
+
+        </div>
+      
+
+      
+        <a style="float: right; font-weight: bold;" href="http://www.wsj.com/articles/danish-police-kill-suspect-in-copenhagen-shootings-1423989155?mod=wsj_streaming_stream" target="_blank" class="stri-viewSec">Original Article Format &#0187</a>
+      
+    </div>
+  </li>
+
+  <li class="stri sType-txt sSubType-article">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            <a href="http://online.wsj.com/articles/anonymous-burial-for-one-of-three-terrorists-behind-france-attacks-1421509138?mod=wsj_streaming_stream" target="_blank">
+            Europe News
+            </a>
+          </cite></span>
+        
+        
+          <h1 class="stri-title">Anonymous Burial for One of Three Terrorists Behind France Attacks</h1>
+        
+      </div>
+      
+      
+        <p class="stri-byline">By Associated Press</p>
+      
+
+      
+        <div class="stri-media stri-photo">
+          <img src="http://s.wsj.net/public/resources/images/BN-GI202_0107fr_G_20150107213533.jpg" alt="Said Kouachi, right, and his brother, Cherif, killed 12 people in an attack on the Paris office of French magazine Charlie Hebdo on Jan. 7. Said was buried in the city of Reims, according to city officials.">
+          <p class="stri-mediaCaption">Said Kouachi, right, and his brother, Cherif, killed 12 people in an attack on the Paris office of French magazine Charlie Hebdo on Jan. 7. Said was buried in the city of Reims, according to city officials.</p>
+          <cite class="stri-mediaCredit">Agence France-Presse/Getty Images</cite>
+        </div>
+      
+
+      
+        <div class="stri-full">
+          <p>PARIS—One of the terrorists responsible for <a href="">attacks last week</a> that killed 17 people was buried in the eastern French city of Reims over city officials’ objections and despite concerns that the grave could become a shrine for extremists.</p>
+<p>Said Kouachi, the elder of the two brothers who together gunned down 12 people Jan. 7 in their attack on the satirical magazine Charlie Hebdo, was buried at the demand of the French government, officials in Reims said in a statement Saturday.</p>
+<p>“Given the risk of disturbance of the peace and in order to quickly turn the page of this tragic episode, it was decided to do the burial quickly,” the city said.</p>
+<p>Earlier in the week, Reims Mayor Arnaud Robinet said he would “categorically refuse” a request by Mr. Kouachi’s family to bury him in Reims, 144 kilometers (89 miles) east of Paris, where he lived before police killed him and his brother on Jan. 9. “I don’t want a grave that serves to attract fanatics. I don’t want a place that promotes hate,” Mr. Robinet said in an interview on France Info radio Thursday.</p>
+<p>Speaking Saturday on French television channel BFM TV, Mr. Robinet said he had been forced to allow the burial by the government, which enforced a French law that grants a right to be buried in the town of last residence.</p>
+<p>“He was buried last night, in the most discrete, anonymous way possible,” Mr. Robinet said. Mr. Robinet said he didn’t know where Mr. Kouachi was buried in the cemetery, which he didn’t identify.</p>
+<p>Antoine Flasaquier, a lawyer for Mr. Kouachi’s widow, said the burial took place overnight “in the greatest discretion and dignity.” Ms. Flasaquier said the widow didn’t attend the burial for fear she would be followed by reporters and give away the location of the grave.</p>
+<p>Two other terrorists killed in shootouts with police following last week’s attacks await burial. Cherif Kouachi will be buried in his hometown of Gennevilliers, outside Paris. City officials there say they wanted to avoid “all useless and indecent polemic” over the burial and said Mr. Kouachi would be buried in an anonymous grave “to avoid all risk of disturbance to the peace and to preserve the town’s tranquility.”</p>
+<p>There has been no word of plans for burying Amedy Coulibaly, who <a href="">killed five people</a> including four hostages at a kosher market in Paris before he was killed by police Jan. 9.</p>
+<p>The debate over the burials echoed the one nearly three years ago over Mohamed Merah, who killed three Jewish schoolchildren, a rabbi and three paratroopers in Toulouse in 2012. Then-President Nicolas Sarkozy intervened to allow the burial over the objections of Toulouse’s mayor.</p>
+
+        </div>
+      
+
+      
+        <a style="float: right; font-weight: bold;" href="http://online.wsj.com/articles/anonymous-burial-for-one-of-three-terrorists-behind-france-attacks-1421509138?mod=wsj_streaming_stream" target="_blank" class="stri-viewSec">Original Article Format &#0187</a>
+      
+    </div>
+  </li>
+
+  <li class="stri sType-txt sSubType-article">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            <a href="http://www.wsj.com/articles/shots-fired-at-copenhagen-free-speech-event-1423932590?mod=wsj_streaming_stream" target="_blank">
+            Europe News
+            </a>
+          </cite></span>
+        
+        
+          <h1 class="stri-title">Copenhagen Struck by Second Shooting</h1>
+        
+      </div>
+      
+      
+        <p class="stri-byline">By Anna Molin , Sam Schechner </p>
+      
+
+      
+        <div class="stri-media stri-photo">
+          <img src="http://s.wsj.net/public/resources/images/BN-GY810_1denma_G_20150214224118.jpg" alt="A police officer stands next to a person on the ground outside a synagogue, viewed from inside a cafe across the street in Copenhagen early Sunday. One person died and two were shot there, about 10 hours after another shooting in that city.">
+          <p class="stri-mediaCaption">A police officer stands next to a person on the ground outside a synagogue, viewed from inside a cafe across the street in Copenhagen early Sunday. One person died and two were shot there, about 10 hours after another shooting in that city.</p>
+          <cite class="stri-mediaCredit">Reuters</cite>
+        </div>
+      
+
+      
+        <div class="stri-full">
+          <p>A gunman killed one person and wounded three in Copenhagen on Saturday when he tried to force his way into an event discussing Islam and free speech in the wake of the January attack on the <a href="">French satirical newspaper Charlie Hebdo</a>.</p>
+<p>Hours later, police reported a separate shooting, near a synagogue in downtown Copenhagen, though it wasn’t immediately clear whether the incident was linked to the earlier shooting. A civilian was killed and two police officers were shot in the arms and legs, the Associated Press reported.</p>
+<p>Subsequently, Copenhagen police said they killed a man who shot at them near a train station and were investigating whether he was connected to the two earlier incidents, according to the AP.</p>
+<p>Following the first shooting, police had said they were hunting a man who sprayed dozens of gunshots through the plate glass windows of the Krudttoenden cafe in central Copenhagen, where <a href="">Swedish cartoonist</a><br />
+                Lars Vilks and France’s ambassador to Denmark François Zimeray were attending the free-speech conference. Neither Mr. Vilks nor Mr. Zimeray was injured.</p>
+<p>Authorities didn’t disclose the identity of the victim, saying only it was a male in his 40s who was present at the conference. One witness said the man may have been smoking outside the cafe when he was killed. Police said the motive for the shooting remained unclear, but that it was <a href="">possible that Mr. Vilks was the target</a>. The artist achieved notoriety nearly a decade ago for trying to exhibit caricatures of the Muslim Prophet Muhammad as a dog.</p>
+<p>“Denmark has today been hit by a cynical act of violence,” said Danish Prime Minister Helle Thorning-Schmidt. “Everything suggests that the shooting in Osterbro was a political assassination and thus an act of terrorism.”</p>
+<p>The attack unfolded Saturday afternoon about 4 p.m. local time.</p>
+<p>Inna Shevchenko, the Ukrainian feminist activist, had just taken the floor and was talking about one of the Charlie Hebdo cartoonists killed in January when three or four gunshots went off.</p>
+<p>For a second, the 50-strong audience didn’t pay much attention, thinking it was some firecrackers, Agnieszka Kolek, a Polish artist and free-speech activist who was present, said in a telephone interview.</p>
+<p>But the gunfire intensified and bullets began piercing through the windows, spreading panic inside the cafe. Curtains prevented participants from seeing their assailant but “we heard him shout ‘Allahu akbar,’ ” Ms. Kolek said.</p>
+<p>Mr. Vilks’s bodyguards worked to evacuate him while police officers guarding the conference began shooting back at the gunman, she said.</p>
+</p>
+<p>Like others, the French ambassador, Mr. Zimeray, said he crawled on the floor toward a backdoor emergency exit. He is “in complete shock,” French Foreign Ministry spokesman Roman Nadal said.</p>
+<p>Ms. Kolek said police and other witnesses later told her how the gunman—minutes before the shooting—had been seen trying to enter the cafe through the back door.</p>
+<p>“If he had made his way in, we would all have died,” she said.</p>
+<p>One police officer and two bodyguards were wounded, police said. The suspect then hijacked a car and abandoned it a five-minute drive north of the attack, police added. “We don’t know if it’s an act of terrorism, but we’re investigating it as an act of terrorism,” said Jorgen Skov, head of Copenhagen police.</p>
+<p>While police had initially said they were seeking two suspects, interviews with witnesses on the scene later led them to believe there was a sole perpetrator, said police spokesman Steen Hansen. Police said the suspect was a tall, athletic man of between 25 to 30 years old, dressed in a dark parka.</p>
+<p>The shooting is potentially the latest in a cycle of violence connected to depictions of the Prophet Muhammad, which many Muslims regard as blasphemy.</p>
+<p>January’s terror spree in and around Paris began when two brothers burst into the offices of Charlie Hebdo, killing 12 people—including 10 staffers—in what one of the gunmen later said was retaliation for images the newspaper had earlier published of the Prophet Muhammad.</p>
+<p>In response, Charlie Hebdo decided to print another caricature of the Prophet Muhammad in a “survivors” issue the following week. That in turn led to waves of anti-French protests that have swept parts of Africa, the Middle East and Asia.</p>
+<p>While most of those protests were peaceful, some turned violent. In Niger, 10 people were killed, as rioters torched churches, wrecked bars and blocked several major roads during two days of demonstrations against Charlie Hebdo.</p>
+<p>The Charlie Hebdo attacks circle back to Copenhagen. The controversial caricatures that the French newspaper first printed in 2006 were reprints of others that earlier had been printed by a Danish newspaper Jyllands-Posten, in what the newspaper said was a defense of free speech.</p>
+<p><a href="">Most mainstream newspapers in Denmark reprinted</a> some of Charlie Hebdo’s most contentious drawings after the attack, but Jyllands-Posten didn’t, citing concerns for its employees’ safety.</p>
+<p>The paper was the target of a foiled terrorist attack in 2010, when five men were arrested for planning to kill as many of the newspaper’s staff as possible. One of its most famous cartoonists, Kurt Westergaard, who penned a depiction of Muhammad wearing a bomb in his turban, was also targeted in a failed murder attempt at his home in 2010.</p>
+<p>French President François Hollande deplored Saturday’s attack and expressed his solidarity with Denmark’s Ms. Thorning-Schmidt, his office said. French Interior Minister Bernard Cazeneuve will head to Copenhagen on Sunday morning, his office said.</p>
+<p>Ms. Thorning-Schmidt said police were on full alert across the country and all resources had been deployed to catch the perpetrators. “We face some difficult days when our unity will be tested. But in Denmark, we will never bow to the violence,” she said.</p>
+<p>At the Krudttoenden cafe, Ms. Kolek said she convinced participants to resume the conference for a moment after the deadly attack.</p>
+<p>“I went on the stage and said: They are not just trying to kill us, they want to shut down freedom of speech.”</p>
+<p>            <cite class="tagline">&#8211;David Gauthier-Villars contributed to this article.</cite></p>
+<p><b>Write to </b>Sam Schechner at <a href="">sam.schechner@wsj.com</a> and Anna Molin at <a href="">anna.molin@wsj.com</a></p>
+
+        </div>
+      
+
+      
+        <a style="float: right; font-weight: bold;" href="http://www.wsj.com/articles/shots-fired-at-copenhagen-free-speech-event-1423932590?mod=wsj_streaming_stream" target="_blank" class="stri-viewSec">Original Article Format &#0187</a>
+      
+    </div>
+  </li>
+
+  <li class="stri sType-txt sSubType-article">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            <a href="http://www.wsj.com/articles/swedish-cartoonist-lars-vilks-lives-with-target-on-his-back-1423956540?mod=wsj_streaming_stream" target="_blank">
+            Europe News
+            </a>
+          </cite></span>
+        
+        
+          <h1 class="stri-title">Swedish Cartoonist Lives With a Target on His Back</h1>
+        
+      </div>
+      
+      
+        <p class="stri-byline">By Dominic Chopping</p>
+      
+
+      
+        <div class="stri-media stri-photo">
+          <img src="http://s.wsj.net/public/resources/images/BN-GY751_0214de_G_20150214114645.jpg" alt="Swedish cartoonist Lars Vilks, shown in 2010, began receiving death threats following the 2007 publication of a depiction of Muhammad.">
+          <p class="stri-mediaCaption">Swedish cartoonist Lars Vilks, shown in 2010, began receiving death threats following the 2007 publication of a depiction of Muhammad.</p>
+          <cite class="stri-mediaCredit">Agence France-Presse/Getty Images</cite>
+        </div>
+      
+
+      
+        <div class="stri-full">
+          <p>Hosting the conference in the Copenhagen café sprayed by gunshots on Saturday was a cartoonist who has vowed to keep living a normal life despite receiving multiple death threats for his caricatures of the Prophet Muhammad.</p>
+<p>A group of about 50 people was attending a conference on Islam and free speech around Swedish artist Lars Vilks, the cartoonist, when a gunman sought to storm the cafe, <a href="">killing one participant in the meeting and wounding three</a>.</p>
+<p>As of late Saturday, Danish police were hunting for a suspect aged 25 to 30 years old.</p>
+<p>Titled “Art, Profanity and Freedom of Expression,” the conference was attended by the French ambassador to Denmark. Neither the ambassador nor Mr. Vilks were wounded.</p>
+<p>The 68-year-old Swedish cartoonist began receiving death threats following the 2007 publication of his most notorious drawing that depicts Muhammad as a dog on a roundabout, to illustrate an editorial on freedom of expression.</p>
+<p>The cartoon prompted violent protests across the Middle East and saw an al Qaeda franchise in Iraq putting a $150,000 bounty on his head.</p>
+<p>In 2010, a suicide bomber attacked Stockholm’s city center, directly mentioning Mr. Vilks in an email message he had sent shortly before. No one was killed in the failed attack except the bomber.</p>
+<p>The incident prompted police to provide him with 24-hour protection. His home in southern Sweden is guarded around the clock, two officers escort him when he goes out, and trips overseas must be planned in advance.</p>
+<p>Later in 2010, two men tried to set his home on fire, and the following year Swedish police arrested three men accused of plotting his execution. The men were acquitted but a High Court Appeal against the decision is ongoing.</p>
+<p>Mr. Vilks has also been attacked twice following university appearances in Sweden, having shown a film on Islam and homosexuality.</p>
+<p>Still, after nearly a decade of threats or attacks, Mr. Vilks stands defiant, telling The Wall Street Journal in a <a href="">recent interview</a> that he isn’t afraid and refuses to go underground.</p>
+<p>Although his security was beefed up following the attack on the French satirical newspaper Charlie Hebdo, his address in Sweden is still listed in phone directories.</p>
+<p>“Perhaps I would feel differently if I had kids, but then it would be tragic if you had to compromise with yourself because of the circumstances,” he said.</p>
+<p><b>Write to </b>Dominic Chopping at <a href="">dominic.chopping@wsj.com</a></p>
+
+        </div>
+      
+
+      
+        <a style="float: right; font-weight: bold;" href="http://www.wsj.com/articles/swedish-cartoonist-lars-vilks-lives-with-target-on-his-back-1423956540?mod=wsj_streaming_stream" target="_blank" class="stri-viewSec">Original Article Format &#0187</a>
+      
+    </div>
+  </li>
+
+  <li class="stri sType-txt sSubType-article">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            <a href="http://www.wsj.com/articles/wife-of-paris-shooter-coulibaly-surfaces-in-islamic-state-magazine-1423767821?mod=wsj_streaming_stream" target="_blank">
+            World News
+            </a>
+          </cite></span>
+        
+        
+          <h1 class="stri-title">Wife of Paris Shooter Coulibaly Surfaces in Islamic State Magazine</h1>
+        
+      </div>
+      
+      
+        <p class="stri-byline">By Noémie Bisserbe, Margaret Coker</p>
+      
+
+      
+        <div class="stri-media stri-photo">
+          <img src="http://s.wsj.net/public/resources/images/BN-GY076_0212is_G_20150212135054.jpg" alt="A composite of police photos shows Amedy Coulibaly, left, and his wife, Hayat Boumeddiene. ">
+          <p class="stri-mediaCaption">A composite of police photos shows Amedy Coulibaly, left, and his wife, Hayat Boumeddiene. </p>
+          <cite class="stri-mediaCredit">Getty Images</cite>
+        </div>
+      
+
+      
+        <div class="stri-full">
+          <p>PARIS—Hayat Boumeddiene, who vanished before her husband went on a shooting spree in Paris last month, has resurfaced in the pages of a promotional magazine run by Islamic State militants.</p>
+<p>An interview with her, published by the French-language magazine Dar al-Islam, doesn’t identify her by name but says she is the wife of <a href="">Amedy Coulibaly, who killed five people in Paris last month</a>, in an attack at a kosher grocery store.</p>
+<p>“It is a good thing to live in a land that is governed by the laws of Allah,” Ms. Boumeddiene is quoted as saying. “I feel relieved to have accomplished this duty,” she said.</p>
+<p>Mr. Coulibaly was gunned down by police when they stormed the grocery store in Eastern Paris. In a video released after the attack, Mr. Coulibaly says that he coordinated with the Kouachi brothers, Chérif and Said, who two days earlier killed 12 people in an assault on French magazine Charlie Hebdo.</p>
+<p>The magazine doesn’t mention the two Kouachi brothers. The cover art of the French-language version has a photo of the Eiffel Tower, while the English-language edition has photos of two Muslims holding signs reading “Je Suis Charlie,” which the authors apparently use as an ironic illustration for the accompanying article, in which they denounce Muslims who support those killed in the Paris attacks.</p>
+<p>Days before the attacks, Mr. Coulibaly drove Ms. Boumeddiene to Madrid, from where she caught a flight to Istanbul. A network of chaperones arranged her travel.</p>
+<p>The interview marks the first time Islamic State has said Ms. Boumeddiene is living in its territory, which straddles Syria and Iraq. It also provides a window into how militants appear to be using her for propaganda.</p>
+<p>The militant-run magazine, which is published online in multiple languages, is a vehicle through which Islamic State promotes its battlefield success and tries to attract foreign Muslims to its cause of building its version of a medieval religious caliphate.</p>
+<p>The latest edition, a lengthy mix of morality lessons and tales of bloodshed and sacrifice, reserves a single page for the interview with Mr. Couibaly’s partner;  four pages are devoted to him and what the publishers call his devotion to Islam.</p>
+<p>In the magazine, there is no photographic evidence confirming whether Ms. Boumeddiene is alive, nor are there any personal details that could be used to independently authenticate the interview.</p>
+<p>The article presents her as a model of Islamic State orthodoxy, praising the new caliphate and urging other Western female Muslims to join the group and be good, submissive partners to their fighter husbands.</p>
+<p>In the article attributed to her, she said that her husband had been an Islamic State supporter and that he had always yearned to go to Syria to fight the “enemies of Allah.”</p>
+<p>“His eyes lit up when he watched Islamic State videos,” she is quoted as saying.</p>
+<p>Born in Paris to parents of Algerian descent, Ms. Boumeddiene grew up with three sisters and two brothers. She was sent to foster care at the age of 12 after her mother’s death and the remarriage of her father.</p>
+<p>She met Mr. Coulibaly in the summer of 2007, shortly after his release from prison where he had served time for armed robbery. The couple got married in 2009, in a religious ceremony, which isn’t recognized by French law.</p>
+
+        </div>
+      
+
+      
+        <a style="float: right; font-weight: bold;" href="http://www.wsj.com/articles/wife-of-paris-shooter-coulibaly-surfaces-in-islamic-state-magazine-1423767821?mod=wsj_streaming_stream" target="_blank" class="stri-viewSec">Original Article Format &#0187</a>
+      
+    </div>
+  </li>
+
+  <li class="stri sType-media sSubType-slide">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            <a href="http://online.wsj.com/articles/long-lines-for-charlie-hebdos-latest-edition-1421251059?mod=wsj_streaming_stream" target="_blank">
+            Slideshow
+            </a>
+          </cite></span>
+        
+        
+          <h1 class="stri-title">Long Lines for Charlie Hebdo’s Latest Edition</h1>
+        
+      </div>
+      
+      
+
+      
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GK951_0114ch_H_20150114094856.jpg" alt="Long lines form at newsstands in France on Wednesday for the latest edition of satirical magazine Charlie Hebdo. Distributors are expanding the print run to as many as five million copies in the wake of last week’s terror attacks.">
+            <p class="stri-mediaCaption">Long lines form at newsstands in France on Wednesday for the latest edition of satirical magazine Charlie Hebdo. Distributors are expanding the print run to as many as five million copies in the wake of last week’s terror attacks.</p>
+            <cite class="stri-mediaCredit">Bonnaud Guillaume/Maxppp/Zuma Press</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GK955_0114ch_H_20150114094856.jpg" alt="People wait outside a store in Paris on Wednesday as the latest edition of Charlie Hebdo goes on sale. ">
+            <p class="stri-mediaCaption">People wait outside a store in Paris on Wednesday as the latest edition of Charlie Hebdo goes on sale. </p>
+            <cite class="stri-mediaCredit">Martin Bureau/Agence France-Presse/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GK947_0114ch_H_20150114094855.jpg" alt="A woman reads the new edition of Charlie Hebdo as French soldiers patrol inside a Paris metro station on Wednesday. Thousands of troops have been deployed across France as the country remains at its highest security level.">
+            <p class="stri-mediaCaption">A woman reads the new edition of Charlie Hebdo as French soldiers patrol inside a Paris metro station on Wednesday. Thousands of troops have been deployed across France as the country remains at its highest security level.</p>
+            <cite class="stri-mediaCredit">Yoan Valat/European Pressphoto Agency</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GK959_0114ch_H_20150114094858.jpg" alt="A newsstand in Rome displays the latest edition of Charlie Hebdo on Wednesday. ">
+            <p class="stri-mediaCaption">A newsstand in Rome displays the latest edition of Charlie Hebdo on Wednesday. </p>
+            <cite class="stri-mediaCredit">Alberto Pizzoli/Agence France-Presse/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GK952_0114ch_H_20150114094857.jpg" alt="People wait outside a Paris newsstand for the latest edition of Charlie Hebdo. As many as one million copies will be distributed on Wednesday.">
+            <p class="stri-mediaCaption">People wait outside a Paris newsstand for the latest edition of Charlie Hebdo. As many as one million copies will be distributed on Wednesday.</p>
+            <cite class="stri-mediaCredit">Bertrand Guay/Agence France-Presse/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GK956_0114ch_H_20150114094857.jpg" alt="A man pays his respects at a memorial on Rue Nicolas Appert in Paris, near the Charlie Hebdo headquarters, on Wednesday.">
+            <p class="stri-mediaCaption">A man pays his respects at a memorial on Rue Nicolas Appert in Paris, near the Charlie Hebdo headquarters, on Wednesday.</p>
+            <cite class="stri-mediaCredit">Ian Langsdon/European Pressphoto Agency</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GK950_0114ch_H_20150114094857.jpg" alt="A woman passes a sign in Montpellier, France, telling customers that the latest of edition of Charlie Hebdo is sold out.">
+            <p class="stri-mediaCaption">A woman passes a sign in Montpellier, France, telling customers that the latest of edition of Charlie Hebdo is sold out.</p>
+            <cite class="stri-mediaCredit">Pascal Guyot/Agence France-Presse/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GK958_0114ch_H_20150114094857.jpg" alt="French Prime Minister Manuel Valls holds the latest edition of Charlie Hebdo as he leaves the Élysée Palace in Paris on Wednesday.">
+            <p class="stri-mediaCaption">French Prime Minister Manuel Valls holds the latest edition of Charlie Hebdo as he leaves the Élysée Palace in Paris on Wednesday.</p>
+            <cite class="stri-mediaCredit">Patrick Kovarik/Agence France-Presse/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GK954_0114ch_H_20150114094857.jpg" alt="A man reads the new issue of Charlie Hebdo at a cafe in Nice, France, on Wednesday. ">
+            <p class="stri-mediaCaption">A man reads the new issue of Charlie Hebdo at a cafe in Nice, France, on Wednesday. </p>
+            <cite class="stri-mediaCredit">Eric Gaillard/Reuters</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GK948_0114ch_H_20150114094856.jpg" alt="Customers line up to get the latest copy of Charlie Hebdo in Bordeaux, France, on Wednesday. Inside, the newspaper ran illustrations by those who died in last’s week attack.">
+            <p class="stri-mediaCaption">Customers line up to get the latest copy of Charlie Hebdo in Bordeaux, France, on Wednesday. Inside, the newspaper ran illustrations by those who died in last’s week attack.</p>
+            <cite class="stri-mediaCredit">Bonnaud Guillaume/Zuma Press</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GK949_0114ch_H_20150114094856.jpg" alt="People wait in line to buy a copy of Charlie Hebdo at the Gare de Lyon train station in Paris on Wednesday. ">
+            <p class="stri-mediaCaption">People wait in line to buy a copy of Charlie Hebdo at the Gare de Lyon train station in Paris on Wednesday. </p>
+            <cite class="stri-mediaCredit">Yoan Valat/European Pressphoto Agency</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GK953_0114ch_H_20150114094856.jpg" alt="A worker prepares the new edition of Charlie Hebdo for delivery in a distribution center in Marne-la-Vallée, France. ">
+            <p class="stri-mediaCaption">A worker prepares the new edition of Charlie Hebdo for delivery in a distribution center in Marne-la-Vallée, France. </p>
+            <cite class="stri-mediaCredit">Aurelien Meunier/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GK957_0114ch_H_20150114094857.jpg" alt="A copy of the latest edition of Charlie Hebdo is placed among floral tributes outside the magazine's offices in Paris on Wednesday.">
+            <p class="stri-mediaCaption">A copy of the latest edition of Charlie Hebdo is placed among floral tributes outside the magazine's offices in Paris on Wednesday.</p>
+            <cite class="stri-mediaCredit">Joel Saget/Agence France-Presse/Getty Images</cite>
+         </div>
+        
+      
+
+      
+
+      
+        <a style="float: right; font-weight: bold;" href="http://online.wsj.com/articles/long-lines-for-charlie-hebdos-latest-edition-1421251059?mod=wsj_streaming_stream" target="_blank" class="stri-viewSec">Original Article Format &#0187</a>
+      
+    </div>
+  </li>
+
+  <li class="stri sType-txt sSubType-article">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            <a href="http://online.wsj.com/articles/french-police-detain-six-in-anti-terror-stops-1423404376?mod=wsj_streaming_stream" target="_blank">
+            Europe News
+            </a>
+          </cite></span>
+        
+        
+          <h1 class="stri-title">French Police Detain Six in Anti-Terror Stops</h1>
+        
+      </div>
+      
+      
+        <p class="stri-byline">By William Horobin</p>
+      
+
+      
+
+      
+        <div class="stri-full">
+          <p>French police detained six people in the southwest of the country Sunday as part of authorities’ attempts to dismantle terror networks after the deadly attacks in Paris in January.</p>
+<p>The stops in the region of Toulouse and Albi come five days after eight other suspects were detained in the Paris and Lyon areas, also as part of anti-terrorist sweeps.</p>
+<p>“A month on from the attacks that struck Paris, police and intelligence services are relentlessly continuing the dismantlement of jihadist networks,” interior minister Bernard Cazeneuve said in a statement.</p>
+<p>France remains on high alert after 17 victims were gunned down in a three-day spree of violence in Paris in January. Brothers Said and Chérif Kouachi killed 12 people in an attack on satirical newspaper Charlie Hebdo, while Amedy Coulibaly killed a policewoman the next day and four shoppers the following day at a kosher supermarket. All three of the attackers were killed in police raids.</p>
+<p>Tension remain high in France. On Tuesday, two French soldiers guarding a Jewish center were injured by a man wielding a knife and anti-terrorist prosecutors have launched an investigation.</p>
+<p>In an attempt to crack down on home-grown terrorism, the French government is recruiting more intelligence officers and is putting a new law through parliament to give authorities stronger surveillance powers.</p>
+<p>The men arrested in the Toulouse area on Sunday are suspected of financing terrorism and recruiting people into terror networks, the spokesman for the interior ministry, Pierre-Henry Brandet, said on French television channel iTele.</p>
+<p>“There will be no sanctuary for terrorists in France,” Mr. Cazeneuve said. “The government is more determined than ever to track them down and prevent them from doing harm.”</p>
+<p><b>Write to </b>William Horobin at <a href="">William.Horobin@wsj.com</a></p>
+
+        </div>
+      
+
+      
+        <a style="float: right; font-weight: bold;" href="http://online.wsj.com/articles/french-police-detain-six-in-anti-terror-stops-1423404376?mod=wsj_streaming_stream" target="_blank" class="stri-viewSec">Original Article Format &#0187</a>
+      
+    </div>
+  </li>
+
+  <li class="stri sType-media sSubType-slide">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            <a href="http://online.wsj.com/articles/gunman-holds-hostages-in-paris-grocery-1420817470?mod=wsj_streaming_stream" target="_blank">
+            Slideshow
+            </a>
+          </cite></span>
+        
+        
+          <h1 class="stri-title">Gunman Killed, Hostages Freed at Paris Kosher Store</h1>
+        
+      </div>
+      
+      
+
+      
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GJ124_0109fr_J_20150109114600.jpg" alt="Members of the French police evacuate hostages after launching the assault at a kosher grocery store in Porte de Vincennes, eastern Paris, on Friday. At least two people were shot dead at the Jewish supermarket where five people were being held.">
+            <p class="stri-mediaCaption">Members of the French police evacuate hostages after launching the assault at a kosher grocery store in Porte de Vincennes, eastern Paris, on Friday. At least two people were shot dead at the Jewish supermarket where five people were being held.</p>
+            <cite class="stri-mediaCredit">Thomas Samson/Agence France-Presse/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GJ122_0109fr_H_20150109114521.jpg" alt="Members of the French police special forces evacuate hostages after launching the assault at the kosher grocery store in Porte de Vincennes.">
+            <p class="stri-mediaCaption">Members of the French police special forces evacuate hostages after launching the assault at the kosher grocery store in Porte de Vincennes.</p>
+            <cite class="stri-mediaCredit">Thomas Samson/Agence France-Presse/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GJ109_0109fr_H_20150109112905.jpg" alt="Members of the French police special forces launch an assault at a kosher grocery store in Porte de Vincennes in eastern Paris, on Friday, where at least two people were shot dead and five people were being held.">
+            <p class="stri-mediaCaption">Members of the French police special forces launch an assault at a kosher grocery store in Porte de Vincennes in eastern Paris, on Friday, where at least two people were shot dead and five people were being held.</p>
+            <cite class="stri-mediaCredit">Thomas Samson/Agence France-Presse/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GJ035_0109fr_H_20150109091052.jpg" alt="French police take position by the kosher grocery store in Saint-Mande, near Porte de Vincennes, on the eastern edge of Paris, where at least one person was injured when a gunman opened fire and took at least five people hostage. ">
+            <p class="stri-mediaCaption">French police take position by the kosher grocery store in Saint-Mande, near Porte de Vincennes, on the eastern edge of Paris, where at least one person was injured when a gunman opened fire and took at least five people hostage. </p>
+            <cite class="stri-mediaCredit">Eric Feferberg/Agence France-Presse/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GJ032_0109fr_H_20150109091052.jpg" alt="Police mobilize after reports of a hostage situation Friday at Porte de Vincennes, Paris.">
+            <p class="stri-mediaCaption">Police mobilize after reports of a hostage situation Friday at Porte de Vincennes, Paris.</p>
+            <cite class="stri-mediaCredit">Dan Kitwood/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GJ031_0109fr_H_20150109091051.jpg" alt="Police arrive at the kosher deli on the eastern edge of Paris, where the gunman suspected of shooting a French policewoman was holed up with five hostages. ">
+            <p class="stri-mediaCaption">Police arrive at the kosher deli on the eastern edge of Paris, where the gunman suspected of shooting a French policewoman was holed up with five hostages. </p>
+            <cite class="stri-mediaCredit">Dan Kitwood/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GJ034_0109fr_H_20150109091052.jpg" alt="Police forces gather in Porte de Vincennes in response to a gunman opening fire at a kosher grocery store. North of Paris, the suspects behind the attack on French magazine Charlie Hebdo were holed up with a hostage in a printing facility.">
+            <p class="stri-mediaCaption">Police forces gather in Porte de Vincennes in response to a gunman opening fire at a kosher grocery store. North of Paris, the suspects behind the attack on French magazine Charlie Hebdo were holed up with a hostage in a printing facility.</p>
+            <cite class="stri-mediaCredit">Martin Bureau/Agence France-Presse/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GJ033_0109fr_H_20150109091052.jpg" alt="French police take position in Saint-Mande, near Porte de Vincennes, eastern Paris. Police believe the gunman was linked to the Kouachi brothers, who allegedly carried out Wednesday’s brazen attack on the satirical Charlie Hebdo magazine.">
+            <p class="stri-mediaCaption">French police take position in Saint-Mande, near Porte de Vincennes, eastern Paris. Police believe the gunman was linked to the Kouachi brothers, who allegedly carried out Wednesday’s brazen attack on the satirical Charlie Hebdo magazine.</p>
+            <cite class="stri-mediaCredit">Eric Feferberg/Agence France-Presse/Getty Images</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GJ041_0109fr_H_20150109092051.jpg" alt="French police take position near the kosher supermarket where a gunman took hostages. The situation at the kosher store comes after the Kouachi brothers reportedly entrenched themselves with a hostage inside a print facility northeast of Paris">
+            <p class="stri-mediaCaption">French police take position near the kosher supermarket where a gunman took hostages. The situation at the kosher store comes after the Kouachi brothers reportedly entrenched themselves with a hostage inside a print facility northeast of Paris</p>
+            <cite class="stri-mediaCredit">JB Quentin/Maxppp/ZUMA Wire</cite>
+         </div>
+        
+          <div class="stri-media stri-photo" style="margin-bottom: 30px;">
+            <img src="http://si.wsj.net/public/resources/images/BN-GJ049_0109fr_H_20150109095236.jpg" alt="Police lead people to safety earlier in the hostage situation at the kosher grocery store on the eastern edge of Paris. ">
+            <p class="stri-mediaCaption">Police lead people to safety earlier in the hostage situation at the kosher grocery store on the eastern edge of Paris. </p>
+            <cite class="stri-mediaCredit">Dan Kitwood/Getty Images</cite>
+         </div>
+        
+      
+
+      
+
+      
+        <a style="float: right; font-weight: bold;" href="http://online.wsj.com/articles/gunman-holds-hostages-in-paris-grocery-1420817470?mod=wsj_streaming_stream" target="_blank" class="stri-viewSec">Original Article Format &#0187</a>
+      
+    </div>
+  </li>
+
+  <li class="stri sType-txt sSubType-article">
+    <div class="stri-inner">
+
+      <div class="stri-meta">		  
+        
+          <span class="stri-time">&nbsp;</span>
+          <span class="stri-src"><cite>
+            <a href="http://online.wsj.com/articles/french-diaspora-could-push-israel-property-prices-even-higher-1422991746?mod=wsj_streaming_stream" target="_blank">
+            Real Estate
+            </a>
+          </cite></span>
+        
+        
+          <h1 class="stri-title">French Diaspora Could Push Israel Property Prices Even Higher</h1>
+        
+      </div>
+      
+      
+        <p class="stri-byline">By Joshua Mitnick</p>
+      
+
+      
+        <div class="stri-media stri-photo">
+          <img src="http://s.wsj.net/public/resources/images/BN-GT836_0203is_G_20150203130729.jpg" alt="A luxury apartment development is advertised in Jerusalem last March. Residential real-estate prices continue to rise throughout Israel, leading some to worry about a property-price bubble.">
+          <p class="stri-mediaCaption">A luxury apartment development is advertised in Jerusalem last March. Residential real-estate prices continue to rise throughout Israel, leading some to worry about a property-price bubble.</p>
+          <cite class="stri-mediaCredit">Bloomberg News</cite>
+        </div>
+      
+
+      
+        <div class="stri-full">
+          <p>TEL AVIV—Residential real-estate prices in Israel have been on a tear for the past seven years. An expected wave of French Jews fleeing an increasingly tense environment in France could push prices even higher.</p>
+<p>Advertisements written in French fill the display windows of a strip of real-estate brokerages in this city just steps from the Mediterranean Sea. The influx of the Jewish diaspora from France, the U.S. and other places across the globe helped contribute to a near-doubling of Israel’s home prices since the end of 2007.</p>
+<p>According to The Jewish Agency for Israel, an organization that works on immigration issues, 10,000 French Jews will move to Israel this year compared with 7,000 last year.</p>
+<p>“January and February are not usually very busy periods because of the winter,” said Eric Toubiana, a co-owner of the Comacom Group brokerage on the city’s busy Ben Yehuda Street. ”But ever since the period of Charlie, we’ve had a huge amount of work,” he said, referring to the <a href="">attack in Paris on the staffers of the French satirical magazine</a>Charlie Hebdo that left 12 dead. Mr. Toubiana said his business partner has flown to France to deal with all the extra business.</p>
+<p>The interest from French Jews will only add to the forces that have led to sharply rising property values in Israel. In the past six years, the Tel Aviv Stock Exchange’s Real-Estate 15 Index, which includes companies such as Africa Israel Properties Ltd. and Shikun &#038; Binui Ltd. Group, has surged by 142%. In the same time, the benchmark Tel Aviv-25 Index is up by only 40%.</p>
+<p>But not everyone’s fortunes have been lifted by the increased demand for housing: Some younger families have been priced out of the real-estate market as prices have risen.</p>
+<p><a href="">Hundreds of thousands of Israelis held demonstrations in 2011</a> to demand the government do more to create affordable housing. The International Monetary Fund and other organizations <a href="">have warned about the failure of Israeli salaries to keep pace with home values</a>. From 2007 to 2013, average wages in Israel rose 17%.</p>
+<p>Ever since the street protests, reining in real-estate prices <a href="">has remained at the top of Israel’s domestic agenda</a>.</p>
+<p>“We are seeing prices that have been resilient to the fact that they are way out of sync with incomes in Israel,’’ said Chaim Friedman, the founder of First Israel Mortgage, a mortgage broker. “In part, that’s due to foreign demand.”</p>
+<p>Prices of residential real estate in Israel have been among the top performers in the world since the global downturn. When real-estate markets in the U.S. and Europe were reeling from the financial crisis in 2008 and 2009, prices in Israel’s residential property market surged 30% during the two-year period.</p>
+<p>Home prices have continued rising since then, but at a slower rate, gaining an annualized 6.5% at the end of the third quarter of 2014. The average three-bedroom apartment in Tel Aviv cost 3.01 million shekels ($766,000) in the second quarter of 2014, compared with 1.69 million shekels in 2008, according to the government.</p>
+<p>Now, demand is expected to grow with the government expecting the swell of French Jewish arrivals in the wake of last month’s Paris massacres at the magazine and at a kosher supermarket. But some newcomers might find what greets them to be out of reach.</p>
+<p>Part of the reason for the continued escalation in prices is the lack of supply. Over the past decade, government red tape and a focus on building in rural Israel has strained housing markets in central Israeli cities and their suburbs, which have attracted growing numbers of people, according to a 2010 Knesset report on housing prices.</p>
+<p>It takes up to a decade to get all the government authorizations before a new building can proceed, according to Noam Gruber, a senior researcher at the Taub Center for Social Policy in Israel, a nonpartisan research group. The supply problem is compounded by the fact that 93% of Israel’s land is publicly owned, according to the Israel Lands Authority.</p>
+<p>“Israel has strong socialist roots, and once an apparatus has this much control over land, it’s very slow to give it up,” Mr. Gruber said.</p>
+<p>At the same time, real-estate investment became more attractive and mortgage financing more affordable as the central bank lowered interest rates to boost economic growth amid the global downturn, That has created what Mr. Gruber called a “vicious cycle’’ of property inflation.</p>
+<p>Banks have expanded their lending businesses as mortgages doubled to make up one-third of their credit portfolios over the past decade. Individual homeowners also have benefited as personal net worth surged.</p>
+<p>Still, some younger couples complain they can’t hope to save enough for a down payment.</p>
+<p>In the four years since getting married, Kinneret Ozeri, a 37-year old teacher, sought to purchase a comparable apartment to her three-bedroom rental unit within walking distance to her in-laws in the leafy Tel Aviv suburb of Ra’anana.</p>
+<p>But she and her husband, a securities trader at a large Israeli bank, concluded that such a property would run them at least 2 million shekels, forcing them to take on too much debt.</p>
+<p>“We could settle for an apartment we don’t want in a city far away from our family, but what’s the point?’’ she said. The prospect of buying, she said, “is not part of our life…we’ve accepted we aren’t going to be buying any time soon.”</p>
+<p>Israel’s outgoing government has proposed a controversial value-added-tax discount for first-time home buyers. Israel’s central bank, meanwhile, has adopted policies to tighten mortgage-lending conditions to put a damper on price rises.</p>
+<p>Neither has worked as expected. Many economists and former land officials say that until Israel’s government streamlines the process to free up more land, prices will continue to rise, making markets like Tel Aviv one of the least affordable in the world. It ranked recently as the 11th-most expensive global city in terms of price per square meter, according to the Global Property Guide.</p>
+<p>While politicians talk about a bringing down real-estate prices, economists like Mr. Gruber say that Israel’s government needs to search for a “soft landing” rather than risking fallout from popping what some call a real-estate bubble.</p>
+<p>“There’s no doubt that the prices here are expensive, according to every measure,’’ said Shai Azar, an economist at IBI-Israel Brokerage &#038; Investments Ltd. “On the other hand, you have a low interest rate, high demand, and everything that is going on in Europe only adds to the demand. I don’t see a change in the trend in the short-term.…But nothing rises forever.”</p>
+<p><b>Write to </b>Joshua Mitnick at <a href="">joshua.mitnick@wsj.com</a></p>
+
+        </div>
+      
+
+      
+        <a style="float: right; font-weight: bold;" href="http://online.wsj.com/articles/french-diaspora-could-push-israel-property-prices-even-higher-1422991746?mod=wsj_streaming_stream" target="_blank" class="stri-viewSec">Original Article Format &#0187</a>
+      
+    </div>
+  </li>
+
+</noscript>
+
+        </ul>
+    </div>
+</div>
+<div id='element_container' style="display:none"></div>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-5TRJ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-5TRJ');</script>
+<!-- End Google Tag Manager -->
+</body>
+
+<script type="text/javascript" src="http://sj.wsj.net/djscript/require/j_global_slim,bluekai,js_header_nonreno/version/20152245.js"></script>
+<script type="text/javascript" src="http://sj.wsj.net/blogs/js/wsj_blogs_omniture.js?20152245"></script>
+<script type="text/javascript" src="http://sj.wsj.net/javascript/wsj_stream.js?20152245"></script>
+<!-- <script type="text/javascript" src="http://sj.wsj.net/djscript/require/streamingStories/provided/j_global_slim,bluekai,js_header_nonreno/version/20152245.js"></script> -->
+<script type="text/javascript" src="http://online.wsj.com/mdc/public/js/2_3001_Markets_JSON.js"></script>
+
+<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="http://fonts.wsj.com/zap5igl.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+<script type="text/javascript">
+
+    var conf = {
+
+        stream_id: 'SS-2-705823',
+        stream_section: 'World'
+
+    }
+
+    var mystream = new dj.widget.stream.controller.StreamWSJ( conf );
+</script>
+
+
+
+
+
+</html>
+

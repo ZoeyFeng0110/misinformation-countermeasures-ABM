@@ -1,0 +1,104 @@
+HTTP/1.1 200 OK
+Date: Tue, 24 Mar 2015 09:25:22 GMT
+Server: Apache/2.2.24 (Unix) mod_ssl/2.2.24 OpenSSL/1.0.0-fips
+X-Powered-By: PHP/5.5.10
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Set-Cookie: PHPSESSID=eio8n5q6nj7n6uu3gckg5utqk0; path=/
+Set-Cookie: hempembassy_net_xforum_0_LV=1427189125; expires=Thu, 23-Apr-2015 09:25:25 GMT; Max-Age=2592000; path=/
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html
+
+<!DOCTYPE html PUBLIC '-//W3C//DTD XHTML 1.0 Transitional//EN' 'http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd'>
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+    
+    <!-- Metas -->
+	<meta http-equiv="Refresh" content="3; url=http://hempembassy.net/forums/cannabis-and-the-life/chopper-sightings/police-raid-cannabis-crops/21,1683,2743.html#forumpost2743?PHPSESSID=eio8n5q6nj7n6uu3gckg5utqk0" />
+    <!-- CSS -->
+	<link rel="stylesheet" type="text/css" media="all" href="http://hempembassy.net/redirect.css" />
+		
+	<!-- Include Neris Clean Type Magazine font -->
+	<link rel="stylesheet" type="text/css" media="all" href="http://hempembassy.net/themes/guangaby8pm/fonts/neris_black/stylesheet.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://hempembassy.net/themes/guangaby8pm/fonts/neris_blackitalic/stylesheet.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://hempembassy.net/themes/guangaby8pm/fonts/neris_bolditalic/stylesheet.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://hempembassy.net/themes/guangaby8pm/fonts/neris_light/stylesheet.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://hempembassy.net/themes/guangaby8pm/fonts/neris_lightitalic/stylesheet.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://hempembassy.net/themes/guangaby8pm/fonts/neris_semibold/stylesheet.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://hempembassy.net/themes/guangaby8pm/fonts/neris_semibolditalic/stylesheet.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://hempembassy.net/themes/guangaby8pm/fonts/neris_thin/stylesheet.css" />
+	<link rel="stylesheet" type="text/css" media="all" href="http://hempembassy.net/themes/guangaby8pm/fonts/neris_thinitalic/stylesheet.css" />
+	<style>
+	#message, .message {
+		 font-size: 1.3223em; 
+		 font-weight: bold;
+		 font-family: 'nerisbold_italic', Arial, Helvetica, sans-serif;
+	}
+	body {
+		margin-top: 87px;
+	}
+	html {
+		min-height: 101%;
+
+	        background: rgba(6,39,124,0.63);
+	        background: -moz-linear-gradient(45deg, rgba(6,39,124,0.63) 45%, rgba(102,98,219,0.35) 50%, rgba(14,198,121,0.47) 58%, rgba(158,68,207,0.8) 78%, rgba(6,39,124,0.63) 45%);
+	        background: -webkit-gradient(left bottom, right top, color-stop(45%, rgba(6,39,124,0.63)), color-stop(50%, rgba(102,98,219,0.35)), color-stop(58%, rgba(14,198,121,0.47)), color-stop(78%, rgba(158,68,207,0.8)), color-stop(45%, rgba(6,39,124,0.63)));
+	        background: -webkit-linear-gradient(45deg, rgba(6,39,124,0.63) 45%, rgba(102,98,219,0.35) 50%, rgba(14,198,121,0.47) 58%, rgba(158,68,207,0.8) 78%, rgba(6,39,124,0.63) 45%);
+	        background: -o-linear-gradient(45deg, rgba(6,39,124,0.63) 45%, rgba(102,98,219,0.35) 50%, rgba(14,198,121,0.47) 58%, rgba(158,68,207,0.8) 78%, rgba(6,39,124,0.63) 45%);
+	        background: -ms-linear-gradient(45deg, rgba(6,39,124,0.63) 45%, rgba(102,98,219,0.35) 50%, rgba(14,198,121,0.47) 58%, rgba(158,68,207,0.8) 78%, rgba(6,39,124,0.63) 45%);
+	        background: linear-gradient(45deg, rgba(6,39,124,0.63) 45%, rgba(102,98,219,0.35) 50%, rgba(14,198,121,0.47) 58%, rgba(158,68,207,0.8) 78%, rgba(6,39,124,0.63) 45%);
+	        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff', GradientType=1 );}
+	#xo-redirect, .xo-redirect {
+		font-family: 'neristhin', Arial, Helvetica, sans-serif;
+		postion: relative;
+		top: 78px;
+		border: 6px #030303 solid;
+		width: 710px;
+		margin: 0 auto;
+		padding: 29px;
+		-webkit-box-shadow: 4px 4px 6px 2px rgba(95, 95, 15, 0.78);
+		-moz-box-shadow:    4px 4px 6px 2px rgba(95, 95, 15, 0.78);
+		box-shadow:         4px 4px 6px 2px rgba(95, 95, 15, 0.78);
+		-webkit-border-radius: 9px;
+		-moz-border-radius: 9px;
+		border-radius: 9px;
+		text-shadow: 2px 2px 2px rgba(103, 87, 101, 0.82);
+		color: #030363;
+		-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=64)";
+		filter: alpha(opacity=89);
+		-moz-opacity:0.89;
+		-khtml-opacity: 0.89;
+		opacity: 0.89;
+		font-size: 183%;
+		text-align: center;
+
+	        background: rgba(74,127,197,0.4);
+	        background: -moz-linear-gradient(center, ellipse, rgba(74,127,197,0.4) 37%, rgba(88,234,67,0.85) 40%, rgba(35,169,210,0.83) 63%, rgba(44,169,119,0.66) 14%, rgba(74,127,197,0.4) 37%);
+	        background: -webkit-gradient(radial, center center, color-stop(37%, rgba(74,127,197,0.4)), color-stop(40%, rgba(88,234,67,0.85)), color-stop(63%, rgba(35,169,210,0.83)), color-stop(14%, rgba(44,169,119,0.66)), color-stop(37%, rgba(74,127,197,0.4)));
+	        background: -webkit-linear-gradient(center, ellipse, rgba(74,127,197,0.4) 37%, rgba(88,234,67,0.85) 40%, rgba(35,169,210,0.83) 63%, rgba(44,169,119,0.66) 14%, rgba(74,127,197,0.4) 37%);
+	        background: -o-linear-gradient(center, ellipse, rgba(74,127,197,0.4) 37%, rgba(88,234,67,0.85) 40%, rgba(35,169,210,0.83) 63%, rgba(44,169,119,0.66) 14%, rgba(74,127,197,0.4) 37%);
+	        background: -ms-linear-gradient(center, ellipse, rgba(74,127,197,0.4) 37%, rgba(88,234,67,0.85) 40%, rgba(35,169,210,0.83) 63%, rgba(44,169,119,0.66) 14%, rgba(74,127,197,0.4) 37%);
+	        background: linear-gradient(center, ellipse, rgba(74,127,197,0.4) 37%, rgba(88,234,67,0.85) 40%, rgba(35,169,210,0.83) 63%, rgba(44,169,119,0.66) 14%, rgba(74,127,197,0.4) 37%);
+	        filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#ffffff', endColorstr='#ffffff', GradientType=1 );}
+	div {
+		padding-top:23px;
+		padding-bottom:32px;
+	}
+	</style>
+</head>
+<body id="xo-refresh">
+    <div id="xo-redirect">
+        <div id="message">
+            Frombe puff and smoking too the Embassy Forums
+            <br />
+            <img src="http://hempembassy.net/themes/guangaby8pm/images/ajax_indicator_01.gif" alt="Frombe puff and smoking too the Embassy Forums"/>
+        </div>
+        <div class="notreload">
+            If the page does not automatically reload, please click <a href='http://hempembassy.net/forums/cannabis-and-the-life/chopper-sightings/police-raid-cannabis-crops/21,1683,2743.html#forumpost2743?PHPSESSID=eio8n5q6nj7n6uu3gckg5utqk0'>here</a>
+        </div>
+            </div>
+
+</body>
+</html>

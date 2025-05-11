@@ -1,0 +1,1036 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.1.5
+Date: Tue, 24 Mar 2015 09:51:54 GMT
+Content-Type: text/html
+Content-Length: 184
+Connection: keep-alive
+Location: http://rt.com/news/220523-deadly-attack-french-newspaper/
+
+HTTP/1.1 200 OK
+Server: nginx
+Date: Tue, 24 Mar 2015 09:44:56 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Encoding: gzip
+Cache-Control: public, must-revalidate, proxy-revalidate
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>Charlie Hebdo massacre aftermath LIVE UPDATES — RT News</title>    <meta name="description" content="Anti-terror raids are being staged across the EU." >
+<meta name="keywords" content="" >
+<meta name="news_keywords" content="" >
+<meta name="twitter:card" content="summary" >
+<meta name="twitter:url" content="http://rt.com/news/220523-deadly-attack-french-newspaper/" >
+<meta name="twitter:title" content="Charlie Hebdo massacre aftermath LIVE UPDATES" >
+<meta name="twitter:description" content="Anti-terror raids are being staged across the EU. Charlie Hebdo’s first post-attack edition, carrying a cartoon of the Prophet Mohammed on its cover, is triggering widespread protests from Muslims, and threats of violence from radical Islamists." >
+<meta name="twitter:image" content="http://rt.com/files/news/35/d6/b0/00/untitled-1.jpg" >
+<meta name="twitter:site" content="@RT_com" >    <meta charset="UTF-8">
+    
+    <meta name="apple-mobile-web-app-capable" content="no" />
+    <meta name="format-detection" content="telephone=yes" />
+    <!-- Add "maximum-scale=1.0; user-scalable=no;" to fix the Mobile Safari auto-zoom bug on orientation changes, but keep in mind that it will disable user-zooming completely. Bad for accessibility. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+    
+    <!-- BlackBerry, Palm and others use the Handheld Friendly tag -->
+    <meta name="HandheldFriendly" content="true" />
+    <!-- Windows Mobile (and WP7?) use the MobileOptimized and cleartype values -->
+    <meta name="MobileOptimzied" content="width" />
+    <meta http-equiv="cleartype" content="on" />    
+    <!-- Tell Google that we're already on the mobile version -->
+    <link rel="alternate" media="handheld" href="" />
+    
+    <meta property="fb:admins" content="100000836839189" />
+    <meta property="fb:admins" content="642703102" />
+    <meta name="google-site-verification" content="qtHnAycq46TD1R4aSj3lDMMw1MYYx8FGo7WzZu-c-_E" />
+    
+        <!-- Special meta for facebook -->
+    
+                    <meta property="og:title" content="Charlie Hebdo massacre aftermath" />
+            <meta property="og:description" content="Anti-terror raids are being staged across the EU. Charlie Hebdo’s first post-attack edition, carrying a cartoon of the Prophet Mohammed on its cover, is triggering widespread protests from Muslims, and threats of violence from radical Islamists." />
+                <meta property="og:url" content="http://rt.com/news/220523-deadly-attack-french-newspaper/" />
+        <meta property="og:image" content="http://rt.com/files/news/35/d6/b0/00/untitled-1.jpg" />
+        <meta name="twitter:image" content="http://rt.com/files/news/35/d6/b0/00/untitled-1.jpg" />
+        <link rel="image_src" href="http://rt.com/files/news/35/d6/b0/00/untitled-1.jpg" />
+        
+                    <meta name='publish-date' content='Wed, 07 Jan 2015 11:38:23 +0000' />
+                <meta name="apple-itunes-app" content="app-id=649316948, app-argument=rtnews://articles/220523" />
+            <!-- Favicon -->
+    <link rel="shortcut icon" href="http://rt.com/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="http://rt.com/favicon.ico" type="image/x-icon" />	
+	
+	<link rel="apple-touch-icon" href="/apple-touch-icon-precomposed.png"/>
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png" />
+    <!--[if lt IE 6]>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=IE6">
+    <![endif]-->
+
+    <script type="text/javascript" src="/static/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/static/js/jquery-ui.min.js"></script>
+
+    
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-5773642-2']);
+	_gaq.push(['_setDomainName', '.rt.com']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+  
+	/**********************************
+	// Social plugins
+	**********************************/
+	var _ga = _ga || {};
+	var _gaq = _gaq || [];
+
+
+	_ga.trackSocial = function(opt_pageUrl, opt_trackerName) {
+	  _ga.trackFacebook(opt_pageUrl, opt_trackerName);
+	  _ga.trackTwitter(opt_pageUrl, opt_trackerName);
+	};
+
+
+	_ga.trackFacebook = function(opt_pageUrl, opt_trackerName) {
+	  var trackerName = _ga.buildTrackerName_(opt_trackerName);
+	  try {
+		if (FB && FB.Event && FB.Event.subscribe) {
+		  FB.Event.subscribe('edge.create', function(targetUrl) {
+			_gaq.push([trackerName + '_trackSocial', 'facebook', 'like',
+				targetUrl, opt_pageUrl]);
+		  });
+		  FB.Event.subscribe('edge.remove', function(targetUrl) {
+			_gaq.push([trackerName + '_trackSocial', 'facebook', 'unlike',
+				targetUrl, opt_pageUrl]);
+		  });
+		  FB.Event.subscribe('message.send', function(targetUrl) {
+			_gaq.push([trackerName + '_trackSocial', 'facebook', 'send',
+				targetUrl, opt_pageUrl]);
+		  });
+		}
+	  } catch (e) {}
+	};
+
+
+	_ga.buildTrackerName_ = function(opt_trackerName) {
+	  return opt_trackerName ? opt_trackerName + '.' : '';
+	};
+
+
+	_ga.trackTwitter = function(opt_pageUrl, opt_trackerName) {
+	  function twitterEventHandler(event){
+		if (event) {
+		  var targetUrl; // Default value is undefined.
+		  if (event.target && event.target.nodeName == 'IFRAME') {
+			targetUrl = _ga.extractParamFromUri_(event.target.src, 'url');
+		  }
+		  _gaq.push([trackerName + '_trackSocial', 'twitter', event.type,
+			targetUrl, opt_pageUrl]);
+		}
+	  }
+	
+	  var trackerName = _ga.buildTrackerName_(opt_trackerName);
+	  try {
+		if (twttr && twttr.events && twttr.events.bind) {
+		  twttr.events.bind('tweet', twitterEventHandler);
+		  twttr.events.bind('follow', twitterEventHandler);
+		  twttr.events.bind('unfollow', twitterEventHandler);
+		}
+	  } catch (e) {}
+	};
+
+
+	_ga.extractParamFromUri_ = function(uri, paramName) {
+	  if (!uri) {
+		return;
+	  }
+	  var uri = uri.split('#')[0];  // Remove anchor.
+	  var parts = uri.split('?');  // Check for query params.
+	  if (parts.length == 1) {
+		return;
+	  }
+	  var query = decodeURI(parts[1]);
+
+	  // Find url param.
+	  paramName += '=';
+	  var params = query.split('&');
+	  for (var i = 0, param; param = params[i]; ++i) {
+		if (param.indexOf(paramName) === 0) {
+		  return unescape(param.split('=')[1]);
+		}
+	  }
+	  return;
+	};
+	
+	// Run trackings
+	$(_ga.trackSocial);
+</script>
+
+    <link rel="stylesheet" href="/static/css/smoothness/jquery-ui.css" media="all" />
+
+    <link rel="stylesheet" href="/static/css/base.css?01122014" media="all" />
+    <link rel="stylesheet" href="/static/css/static.css?14032015" media="all" />
+    <!--
+        -->
+        <link rel="stylesheet" href="/static/css/high.css?14032015" media="only screen and (max-width: 864px) and (min-width: 685px)" />
+    <link rel="stylesheet" href="/static/css/med.css?14032015" media="only screen and (max-width: 684px) and (min-width: 479px)" />
+    <link rel="stylesheet" href="/static/css/low.css?14032015" media="only screen and (max-width: 478px)" />
+    
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="/static/css/ie.css?01122014" media="all" />
+    <script src="/static/js/html5.js"></script>
+    <script src="/static/js/tab.js"></script>
+    <script src="/static/js/ie.js"></script>
+    <script src="/static/js/ie-css3.htc"></script>
+    <![endif]-->
+    <!--[if IE 7]>
+    <link rel="stylesheet" href="/static/css/ie7.css?15012015" media="all" />
+    <![endif]-->
+    <!--[if lt IE 7]>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+    <style type="text/css">.main-header,.page{display: none;} .chromeFrameOverlayContent{width: auto;}</style>
+    <![endif]-->
+    <script type="text/javascript" src="/static/js/simplemodal.js"></script>    <script>
+        var controllerName = 'news';
+        var site_domain = 'rt.com';
+        var datepickerUrl = 'news';
+    </script>
+    <script type="text/javascript" src="/st/rtplayer/jwplayer/jwplayer.js"></script>
+    <script type="text/javascript" src="/static/js/jwplayerkey.js"></script>
+    <script type="text/javascript" src="/st/swf/swfobject.js"></script>
+    <script type="text/javascript" src="/static/js/common.js?v24"></script>
+    <script type="text/javascript" src="/static/js/datepicker.js"></script>
+    <script type="text/javascript" src="/static/js/fvideo.js"></script>
+    <script type="text/javascript" src="/static/js/player.js?v1"></script>
+    <script language="JavaScript" type="text/javascript" src="/static/js/clock.js"></script>
+
+    <script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+    
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+
+
+var mappingLeaderboard = googletag.sizeMapping().
+    addSize([1000, 0 ], [[728,90],[970, 90]]).
+    addSize([768, 0 ], [728,90]).
+    addSize([0, 0 ], [[300, 50], [320, 50]]).
+    build();
+var mappingBox = googletag.sizeMapping().
+    addSize([1000, 0 ], [[250, 250], [300, 250]]).
+    addSize([768, 0 ], [[250, 250], [300, 250]]).
+    addSize([0, 0 ], [300, 250]).
+    build();    
+var mappingSkyscraper = googletag.sizeMapping().
+    addSize([1000, 0 ], [160, 600]).
+    addSize([768, 0 ], [160, 600]).
+    addSize([0, 0 ], [300, 250]).
+    build();
+
+googletag.defineSlot('/144751494/EN_RT_News', [[300, 50], [320, 50], [728, 90], [970, 90]], 'div-gpt-ad-1406118774894-0').defineSizeMapping(mappingLeaderboard).addService(googletag.pubads());
+googletag.defineSlot('/144751494/EN_RT_News', [[250, 250], [300, 250], [300, 250]], 'div-gpt-ad-1406118774894-1').defineSizeMapping(mappingBox).addService(googletag.pubads());
+googletag.defineSlot('/144751494/EN_RT_News', [[160, 600], [300, 250]], 'div-gpt-ad-1406118774894-2').defineSizeMapping(mappingSkyscraper).addService(googletag.pubads());
+
+
+
+googletag.defineSlot('/144751494/1x1', [1, 1], 'div-gpt-ad-1422625477597-0').addService(googletag.pubads());
+
+
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>    
+    <script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({article:'auto'});
+    !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+    }(document.createElement('script'),
+    document.getElementsByTagName('script')[0],
+    'http://cdn.taboola.com/libtrc/rt-rtcom/loader.js');
+    </script>
+    
+    <script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+    <script>
+        var _prum = [['id', '54ca2d51abe53ddb6be85738'],
+            ['mark', 'firstbyte', (new Date()).getTime()]];
+        (function () {
+            var s = document.getElementsByTagName('script')[0]
+                , p = document.createElement('script');
+            p.async = 'async';
+            p.src = '//rum-static.pingdom.net/prum.min.js';
+            s.parentNode.insertBefore(p, s);
+        })();
+    </script>
+</head>
+<body class="">
+	<script type="text/javascript">
+  (function() {
+  var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+  em.src = ('https:' == document.location.protocol ? 'https://me-ssl' : 'http://me-cdn') + '.effectivemeasure.net/em.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+  })();
+</script>
+<noscript>
+  <img src="//me.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+</noscript>
+<div class="b-main_extension">
+    <div class="b-min_width">
+        <a class="b-main_extension_close" href=""><span>&nbsp;</span></a>
+        <a class="b-main_extension_button" href="">&nbsp;</a>
+        <p class="b-main_extension_message"><i class="icon">&#160;</i>Keep up with the news by installing RT’s extension for <span></span>. Never miss a story with this clean and simple app that delivers the latest headlines to you.</p>
+    </div>
+    <a class="b-main_extension_close" href=""><span>&nbsp;</span></a>
+</div>
+
+<div class="main-header">
+    <div class="main-header-wp">
+        <div class="head-nav">
+            <ul class="lang">
+                <li><a href="//arabic.rt.com/" target="_blank">العربية</a></li>
+                <li><a href="//actualidad.rt.com/" target="_blank">ESP</a></li>
+                <li><a href="//russian.rt.com/" target="_blank">РУС</a></li>
+                <li><a href="http://rtdeutsch.com/" target="_blank">DE</a></li>
+                <li><a href="http://francais.rt.com/" target="_blank">FR</a></li>
+            </ul>
+            <div class="center">
+                <ul class="media">
+                    <li><a href="//freevideo.rt.com/" target="_blank">Freevideo</a></li>
+                    <li class="upper"><a href="//inotv.rt.com/" target="_blank">инотв</a></li>
+                    <li class="upper"><a href="//rtd.rt.com/" target="_blank">rtд</a></li>
+                    <li class="upper"><a href="//ruptly.tv/" target="_blank">RUPTLY</a></li>
+                </ul>
+                <div class="b-follow-us">
+    <div class="row"><a
+        href="http://www.facebook.com/RTnews/" class="follow_icon_fb" target="_blank"></a><a
+            href="https://twitter.com/#!/RT_com" class="follow_icon_twi" target="_blank"></a><a
+            href="http://www.youtube.com/user/RussiaToday" class="follow_icon_yt" target="_blank"></a><a
+            href="https://plus.google.com/102728491539958529040/posts" class="follow_icon_gplus" target="_blank"></a><a
+            href="//instagram.com/rt" class="follow_icon_inst" target="_blank"></a><a
+            href="https://soundcloud.com/rttv" class="follow_icon_scloud" target="_blank"></a><a
+            href="http://coub.com/russiatoday" class="follow_icon_coub" target="_blank"></a></div>
+</div>                <ul class="alternative">
+                    <li class="mob-apps"><a href="/applications/" onClick="_gaq.push(['_trackEvent', 'Links', 'Click', 'App Up']);">Applications</a></li>
+                                            <li class="rss"><a href="/rss/news/"><span class="icon"></span>RSS</a></li>
+                                    </ul>
+            </div>
+
+        </div>
+      <div class="logo">
+        <a id="showNav" class="i-mobile i-menu"></a>
+        <a id="showSearch" class="i-mobile i-search"></a>
+        <div class="rt-wrapper">
+          <a href="/on-air/" class="link-live">live</a>
+          <a href="/" class="rt-logo"><img src="/static/img/static/logo.png" alt="RT logo" /></a>
+          <div class="logo_text">
+            <h2>
+              <img src="/static/img/static/question-more.png" alt="" class="pic-qm" title="" />
+              <img src="/static/img/static/question-more-320.png" alt="" class="pic-qm-320" title="" />
+            </h2>
+          </div>
+        </div>
+      </div>
+        <div class="search">
+            <form action="/search/everywhere/" method="get">
+                <fieldset>
+                    <legend>search</legend>
+                    <span class="icon"><input type="text" name="term" value=""><input type="submit" value=""></span>
+					<label>
+						<div id="hours">
+						</div>
+                   </label>
+                </fieldset>
+            </form>
+        </div>
+        <div class="mobile-search off" id="mobileSearch">
+            <form action="/search/everywhere/" method="get">
+                <fieldset>
+                    <input type="submit" value="Search" />
+                    <div class="input_wrapper"><input type="search" name="term" value="" /></div>
+                </fieldset>
+            </form>
+        </div>
+        <div class="main-nav">
+            <div class="button">Section</div>
+            <ul>
+                                    <li class="active"><a href="/news/">News</a></li>
+                                    <li class=""><a href="/usa/">USA</a></li>
+                                    <li class=""><a href="/uk/">UK</a></li>
+                                    <li class=""><a href="/politics/">Russian politics</a></li>
+                                    <li class=""><a href="/business/">Business</a></li>
+                                    <li class=""><a href="/op-edge/">Op-Edge</a></li>
+                                    <li class=""><a href="/in-vision/">In vision</a></li>
+                                    <li class=""><a href="/in-motion/">In motion</a></li>
+                                    <li class=""><a href="/shows/">Shows</a></li>
+                                    <li class=""><a href="/bulletin-board/">Bulletin board</a></li>
+                                    <li class=""><a href="/more/">More</a></li>
+                            </ul>
+        </div>
+    </div>
+</div>
+
+            <div class="page">
+        
+            <div class="google-top-banner news_banner">
+            <div class="border-banner">
+            <!-- EN_RT_News -->
+            <div id='div-gpt-ad-1406118774894-0'>
+            <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1406118774894-0'); });
+            </script>
+            </div>
+            </div>
+        </div>
+        
+    
+    <i class="border-bg"></i>
+
+<div class="content p-page doc-page">
+    <ul class="crumbs">
+        <li><a href="/">Home</a> /</li>
+        <li><a href="/news/">News</a> /</li>
+    </ul>    
+    <div class="content-wp  no_bold">
+        <div class="cont-wp-mid">
+
+            <div class="cont-wp">
+                <h1>Charlie Hebdo massacre aftermath LIVE UPDATES</h1>
+
+                <div class="cont-wp-mid max_width">
+                    <div class="acticle_clock">
+						<!-- time -->
+                        <span class="time">
+                            Published time: January 07, 2015 11:38                                                            <br>
+                                Edited time: January 17, 2015 12:05                                                    </span>
+                        <!--// time -->
+						
+                        <div id="get-short-url">
+                            <a href="" class="get" data-url="http://rt.com/news/220523-deadly-attack-french-newspaper/">Get short URL</a>
+                            <div class="url"></div>
+                        </div>
+                       <div class="i-clears i-mh"></div>  
+                        
+                    </div>
+                  <div class="i-clears i-mh"></div>
+                    
+                  <div class="article_img" style="float: none; margin-left: 0px; margin-right: 0px; margin-bottom:10px;">
+                    <img title="" src="http://img.rt.com/files/news/35/d6/b0/00/untitled-1.si.jpg"
+                         alt="A combination of pictures taken on January 11, 2015 shows people taking part in the Unity rally &quot;March Republicaine&quot; in various cities in France in tribute to the 17 victims of a three-day killing spree by homegrown Islamists. (AFP Photo)"
+                         style="float: none; margin-left: 0px; margin-right: 0px;">
+                                        <p class="article_img_footer">A combination of pictures taken on January 11, 2015 shows people taking part in the Unity rally "March Republicaine" in various cities in France in tribute to the 17 victims of a three-day killing spree by homegrown Islamists. (AFP Photo)</p>
+                                      </div>
+
+                  <div style="overflow:hidden">
+                    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5396eb96220e676a"></script>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<!-- Share template -->
+<div class="addthis_sharing_toolbox"></div>
+
+<!-- Go to your Addthis.com Dashboard to update any options -->
+<div class="addthis_responsive_sharing"></div>
+
+<div class="clearboth"></div>
+                  </div>
+                                  </div>
+                
+                <div class="b-tags_trends">
+                    <div class="b-tags_trends-hrcol">
+                                                    <p>Trends</p>
+                            <a href="/trends/charlie-hebdo-shooting-paris/">Charlie Hebdo attack & fallout</a>                                                                            <p>Tags</p>
+                            <a href="/tags/al-qaeda/">Al-Qaeda</a>, <a href="/tags/france/">France</a>, <a href="/tags/mass-media/">Mass media</a>, <a href="/tags/police/">Police</a>, <a href="/tags/religion/">Religion</a>, <a href="/tags/security/">Security</a>, <a href="/tags/shooting/">Shooting</a>, <a href="/tags/terrorism/">Terrorism</a>, <a href="/tags/violence/">Violence</a>                                            </div>
+                </div>
+                
+                <p>Anti-terror raids are being staged across the EU. Charlie Hebdo’s first post-attack edition, carrying a cartoon of the Prophet Mohammed on its cover, is triggering widespread protests from Muslims, and threats of violence from radical Islamists.</p>
+                                <div class="clear"></div>
+                
+                                
+                
+                                
+                                                                                                                <h2>Friday, January 23</h2>
+                                                                            <div class="update-time">20:59 GMT:</div>
+                        <p>
+	A Japanese publisher, Akira Kitagawa, plans to release a book featuring the controversial Charlie Hebdo cartoons ridiculing the Muslim Prophet Mohammed on February 10, Asahi Shimbun reported. The book titled “Islam Fushi Ka, Hate Ka” (Islam satire or hate), will contain about 43 satirical sketches from Europe and the United States, according to the publishing company’s president, Dai San Shokan.
+</p>
+<p>
+	<em>“Without seeing the cartoons themselves, we cannot debate why such portrayals are received with aversion. All we can do is take any criticism of the book in stride,</em>” he said.
+</p>
+<p>
+</p>                                                                                            <div class="update-time">20:59 GMT:</div>
+                        <p>
+	A Japanese publisher, Akira Kitagawa, plans to release a book featuring the controversial Charlie Hebdo cartoons ridiculing the Muslim Prophet Mohammed on February 10, Asahi Shimbun reported. The book titled “Islam Fushi Ka, Hate Ka” (Islam satire or hate), will contain about 43 satirical sketches from Europe and the United States, according to the publishing company’s president, Dai San Shokan.
+</p>
+<p>
+	<em>“Without seeing the cartoons themselves, we cannot debate why such portrayals are received with aversion. All we can do is take any criticism of the book in stride,</em>” he said.
+</p>
+<p>
+</p>                                                                                            <div class="update-time">13:26 GMT:</div>
+                        <p>
+	<span style="background-color: initial;">France has called on the UN to set up an international legal framework for monitoring social networks for extremist content and hate speech.</span>
+</p>
+<p>
+	<em>“There are hate videos [online], calls for death, propaganda that has not been responded to, and we need to respond,” </em>French State Secretary for European Affairs Harlem Desir told reporters during the first ever General Assembly meeting on combatting anti-Semitism on Thursday.
+</p>
+<p>
+	  Desir lambasted social networks, including Facebook and Twitter, for failing to take responsibility for <em>“racist or anti-Semitic”</em> content posted on their platforms.
+</p>
+<p>
+	<em>“[Those who propagate] terrorism, religious fanaticism, jihadism and radical Islam use the internet widely,”</em> he said. <em>"We must limit the dissemination of these messages.”</em>
+</p>
+<p>
+	  As a way to crackdown on extremism, Desir suggested establishing a set of procedures that would <em>“place the responsibility on those who are passing the message, even if they are not deciding the message.”</em>
+</p>
+<p>
+	<img alt="French State Secretary for European Affairs Harlem Desir (Reuters / Charles Platiau)" style="width: 691px; float: none; margin: 0px;" src="/files/news/35/d6/b0/00/01.jpg">
+</p>
+<p>
+</p>                                                                                            <div class="update-time">12:57 GMT:</div>
+                        <p>
+	 <span style="background-color: initial;">France’s top legal body has moved to strip a French-Moroccan man convicted of extremism of his French nationality . The Constitutional Council declared on Friday that the fight against extremism justifies the ruling against Ahmed Sahnouni.</span>
+</p>
+<p>
+	 Sahnouni, convicted in May 2013, is currently serving a sentence for “association with criminals in relation to a terrorist plot.”
+</p>
+<p>
+	 The council’s decision will set a precedent for future cases.
+</p>
+<p>
+	 Earlier this week, Prime Minister Manuel Valls said that removing a person’s nationality is a <em>“legitimate” </em>response if the person plans to<em> “attack the nation to which they belong.”</em>
+</p>
+<p>
+	<img alt="A view shows the entrance of the Constitutional Council (Conseil Constitutionnel) in Paris (Reuters / Charles Platiau)" style="width: 697px; float: none; margin: 0px;" src="/files/news/35/d6/b0/00/con.jpg">
+</p>
+<p>
+</p>                                                                                                <h2>Thursday, January 22</h2>
+                                                                            <div class="update-time">14:02 GMT:</div>
+                        <p>
+	France has announced new measures aimed at helping schools combat radical Islam, racism and anti-Semitism, Reuters reports.
+</p>
+<p>
+	More attention will be devoted to France's secular tradition and teachers will be specifically trained for that purpose. December 9 will be marked as a "Day of Secularism."
+</p>
+<p>
+	"<em>Secularism must be applied everywhere, because that is how everyone will be able to live in peace with each other</em>," Prime Minister Manuel Valls said earlier this week.
+</p>
+<p>
+	The new measures have among other things been inspired by the refusal of students at dozens of French schools to join a January 8 nationwide minute of silence for the victims of the Charlie Hebdo attack.
+</p>
+<p>
+</p>                                                                                            <div class="update-time">14:00 GMT:</div>
+                        <p>
+	A number of French families who happen to have the same surname as the Paris terrorists – Kouachi and Coulibaly – have been <a href="http://rt.com/news/225047-kouachi-coulibaly-death-threats/" target="_blank">harassed</a>, with some receiving death threats and insulting calls in the middle of the night.
+</p>
+<p>
+	"<em>I say it over and over again, my husband's name is Amedy Coulibaly, like the terrorist's, but we do not know him, we are not from the same family,</em>" a woman told Le Figaro. "<em>We have nothing to do with him</em>."
+</p>
+<p>
+	Another housewife in Indre-et-Loire department in west-central France said her children were harassed at school.
+</p>
+<p>
+	"<em>Yes, we've got the same name as the Kouachi brothers, but that's all, we have nothing to do with them</em>,” she complained. “<em>Others began to insult them, they treated my son like a terrorist in high school, the same happened to my daughter in middle school. It's been tough for us ever since. At some point we even thought of changing our last name</em>."
+</p>
+<p>
+</p>                                                                                            <div class="update-time">10:29 GMT:</div>
+                        <p>
+	Police in North Rhine-Westphalia arrested two alleged members of the Islamic State extremist group, suspected of masterminding a terrorist act in Germany, the DPA news agency reports.
+</p>
+<p>
+	The arrested men are German citizens – Mustafa C., 26, and Sebastian B., 27. They were reportedly trained at a militant camp in Syria.
+</p>
+<p>
+	The prosecutor general, who ordered the arrests, said both men were “<em>strongly suspected of undergoing combat training for the militant jihad</em>.”
+</p>
+<p>
+	No details on the attacks they were allegedly planning have been provided.
+</p>
+<p>
+</p>                                                                                            <div class="update-time">09:44 GMT:</div>
+                        <p>
+	  Around 100 people have rallied near the French embassy in Kabul, Afghanistan, against the publishers of Charlie Hebdo, AP reports. The protesters accused the French satirical magazine of blasphemy. They were chanting “We love Muhammed” and carried banners with red hearts and the name of the Prophet.
+</p>
+<p>
+	  Protest organizer Abdul Saboor Fakheri says the demonstrators want the French Embassy closed and the ambassador expelled.
+</p>
+<blockquote class="twitter-tweet" lang="en">
+	<p>
+		 Afghans rallied in front of the French embassy in Kabul ag the republication of blasphemous cartoons by <a href="https://twitter.com/hashtag/CharlieHebdo?src=hash">#CharlieHebdo</a> <a href="http://t.co/jLw2cHk0tL">pic.twitter.com/jLw2cHk0tL</a>
+	</p>
+	<p>
+		— Nasrat Samimi (@NasratSamimi) <a href="https://twitter.com/NasratSamimi/status/558182754907848704">January 22, 2015</a>
+	</p>
+</blockquote>
+<p>
+</p>                                                                                            <div class="update-time">09:22 GMT:</div>
+                        <p>
+	Amedy Coulibaly, the extremist, who killed a policewoman and four Jewish people in a kosher supermarket, will be buried in France, government spokesman Stéphane Le Foll told radio Europe 1.
+</p>
+<p>
+	The man’s body was initially supposed to be transported to Mali in accordance with his relatives’ wish. But Malian authorities refused to accept Coulibaly’s remains, Thursday’s Le Parisien reports. No reasons for the refusal have been given.
+</p>
+<p>
+</p>                                                                                                <h2>Wednesday, January 21</h2>
+                                                                            <div class="update-time">15:30 GMT:</div>
+                        <p>
+	 France will in the next three years create 2,680 extra anti-terror staff, as over 3,000 radical Islamists require surveillance, Prime Minister Manuel Valls announced, revealing a new plan to boost terror strategies.
+</p>
+<p>
+	 The PM said the plan would cost €425 million.
+</p>
+<blockquote class="twitter-tweet" lang="en">
+	<p>
+		€425mn anti-terror plan: France to hire thousands of extra police, spies &amp; investigators <a href="http://t.co/usByqXCIAX">http://t.co/usByqXCIAX</a> <a href="http://t.co/4n3cRIQ1a6">pic.twitter.com/4n3cRIQ1a6</a>
+	</p>
+	— RT (@RT_com) <a href="https://twitter.com/RT_com/status/557923297896464384">January 21, 2015</a>
+</blockquote>
+<p>
+</p>
+<p>
+	 “<em>The number of radicals in the country is constantly growing. French intelligence needs to conduct surveillance on over 3,000 radical Islamists. In particular, 450 people who have previously participated in fighting in Pakistan, Afghanistan and Yemen, and at the moment are taking part in sending volunteers to Syria and Iraq - they account for about 1,300 people</em>,” Valls said as cited by TASS news agency.
+</p>                                        
+                                                                <div class="b-buttons_links more_updates">
+                            <a href="">More</a>
+                        </div>
+                    
+                                        
+                    <script type="text/javascript">
+                        var doc_id = 220523;
+                        var updatePage = {
+                            current: 1,
+                            total: 38,
+                            lastdate: 'Wednesday, January 21'
+                        };
+                    </script>
+                
+                                    <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+                
+                                    <script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+                
+                
+                            </div>
+            
+                            <div id="taboola-below-article-thumbnails"></div>
+                <script type="text/javascript">
+                  window._taboola = window._taboola || [];
+                  _taboola.push({
+                    mode: 'thumbnails-a',
+                    container: 'taboola-below-article-thumbnails',
+                    placement: 'Below Article Thumbnails',
+                    target_type: 'mix'
+                  });
+                </script>
+                <div id="taboola-below-article-thumbnails-2rd"></div>
+                <script type="text/javascript">
+                  window._taboola = window._taboola || [];
+                  _taboola.push({
+                    mode: 'organic-thumbnails-a',
+                    container: 'taboola-below-article-thumbnails-2rd',
+                    placement: 'Below Article Thumbnails 2rd',
+                    target_type: 'mix'
+                  });
+                </script>
+            
+                        
+            
+
+
+<div id="hypercomments_widget"></div>
+<script type="text/javascript">
+_hcwp = window._hcwp || [];
+_hcwp.push({
+    widget:"Stream",
+    widget_id: 25736,
+    xid: 220523,
+    hc_disable: 1,
+    quote_disable: 1,
+    social: 'google, facebook, twitter, tumblr',
+    realtime: false,
+        auth_url: 'http://rt.com/auth/hypercomments-login/',
+    auth_logo: 'http://rt.com/static/img/rt.png',
+    auth_title: 'RT',
+    callback: function(app, init) {
+        app.on('userState', function(packet) {
+            if (packet.acc_id === null) {
+                $.ajax({
+                    type: 'POST',
+                    url: '/auth/hypercomments-logout/',
+                    dataType: 'json'
+                });
+            }
+        });
+    }
+});
+(function() {
+if("HC_LOAD_INIT" in window)return;
+HC_LOAD_INIT = true;
+var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/25736/en/widget.js";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hcc, s.nextSibling);
+})();
+</script>            
+        </div>
+        <!--// content-wp -->
+    </div>
+    <!--// content -->
+
+</div>
+<div class="aside col-high-simple">
+    <div class="aside-wp">
+                        <div class="row b-buttons links">
+    <span><a class="where_watch" href="/where-to-watch/">Where to watch</a></span>
+    <span><a class="schedule" href="/schedule/">Schedule</a></span>
+</div>
+                        <div class="b-follow-us">
+    <div class="row"><a
+        href="http://www.facebook.com/RTnews/" class="follow_icon_fb" target="_blank"></a><a
+        href="https://twitter.com/#!/RT_com" class="follow_icon_twi" target="_blank"></a><a
+        href="http://www.youtube.com/user/RussiaToday" class="follow_icon_yt" target="_blank"></a><a
+        href="https://plus.google.com/102728491539958529040/posts" class="follow_icon_gplus" target="_blank"></a><a
+        href="//instagram.com/rt" class="follow_icon_inst" target="_blank"></a><a
+        href="https://soundcloud.com/rttv" class="follow_icon_scloud" target="_blank"></a><a
+        href="http://coub.com/russiatoday" class="follow_icon_coub" target="_blank"></a></div>
+</div>
+
+    <div class="cont-wp">
+                <!-- EN_RT_News -->
+        <div id='div-gpt-ad-1406118774894-1'>
+        <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1406118774894-1'); });
+        </script>
+        </div>
+        </div>
+                        <div class="cont-wp">
+    <div id="taboola-right-rail-thumbnails"></div>
+    <script type="text/javascript">
+      window._taboola = window._taboola || [];
+      _taboola.push({
+        mode: 'organic-thumbnails-b',
+        container: 'taboola-right-rail-thumbnails',
+        placement: 'Right Rail Thumbnails',
+        target_type: 'mix'
+      });
+    </script>
+</div>                                                                        
+<div class="cont-wp editable_widget" data-section-widget-id="127">
+    <div class="widget_edit_button_wrapper"><div class="widget_edit_button"></div></div>                                <div class="r_banner">
+                                                                                        <a href="https://itunes.apple.com/us/app/rt-news-english/id649316948" onClick="_gaq.push(['_trackEvent', 'Banners', 'Click', 'itunes.apple.com']);"><img src="/files/bpic/ef/70/00/00/ios.jpg" alt="" title=""></a>
+                            </div>
+
+            <script type="text/javascript">
+                $(function () {
+                    $('div.r_banner').each(function() {
+                        if ($('img', this).width() > 0 && $('img', this).width() < 259) {
+                            $(this).removeClass('r_banner').addClass('right_banner');
+                        }
+                    });
+                });
+            </script>
+            </div>                        
+<div class="cont-wp editable_widget" data-section-widget-id="216">
+    <div class="widget_edit_button_wrapper"><div class="widget_edit_button"></div></div>                                <div class="r_banner">
+                                                                                        <a href="https://play.google.com/store/apps/details?id=com.rt.mobile.english" onClick="_gaq.push(['_trackEvent', 'Banners', 'Click', 'play.google.com']);"><img src="/files/bpic/f0/f0/00/00/android-app_googleplay1.jpg" alt="" title=""></a>
+                            </div>
+
+            <script type="text/javascript">
+                $(function () {
+                    $('div.r_banner').each(function() {
+                        if ($('img', this).width() > 0 && $('img', this).width() < 259) {
+                            $(this).removeClass('r_banner').addClass('right_banner');
+                        }
+                    });
+                });
+            </script>
+            </div>                        
+<div class="cont-wp editable_widget" data-section-widget-id="324">
+    <div class="widget_edit_button_wrapper"><div class="widget_edit_button"></div></div>                                <div class="r_banner">
+                                                                                        <a href="http://apps.microsoft.com/windows/app/rt-news-english/b1c6d600-6486-4498-a3c8-773db151b6f0" target="_blank" onClick="_gaq.push(['_trackEvent', 'Banners', 'Click', 'apps.microsoft.com']);"><img src="/files/bpic/13/b8/00/00/win8_small.jpg" alt="" title=""></a>
+                            </div>
+
+            <script type="text/javascript">
+                $(function () {
+                    $('div.r_banner').each(function() {
+                        if ($('img', this).width() > 0 && $('img', this).width() < 259) {
+                            $(this).removeClass('r_banner').addClass('right_banner');
+                        }
+                    });
+                });
+            </script>
+            </div>                
+                            <!-- EN_RT_News -->
+            <div id='div-gpt-ad-1406118774894-2'>
+            <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1406118774894-2'); });
+            </script>
+            </div>
+            </div>
+    <!--// aside-wp -->
+</div><!--// aside -->
+
+<script type="text/javascript">
+    getCommentsCount('a.comments', '<span class="count-comment">{%COUNT%}</span>');
+</script>
+<style>
+    a.comments {
+        display: none;
+    }
+</style>
+    
+        <div class="clear"></div>
+    <div class="b-mobile-view-widgets">
+        <div class="b-follow-us">
+    <div class="row"><a
+        href="http://www.facebook.com/RTnews/" class="follow_icon_fb" target="_blank"></a><a
+            href="https://twitter.com/#!/RT_com" class="follow_icon_twi" target="_blank"></a><a
+            href="http://www.youtube.com/user/RussiaToday" class="follow_icon_yt" target="_blank"></a><a
+            href="https://plus.google.com/102728491539958529040/posts" class="follow_icon_gplus" target="_blank"></a><a
+            href="//instagram.com/rt" class="follow_icon_inst" target="_blank"></a><a
+            href="https://soundcloud.com/rttv" class="follow_icon_scloud" target="_blank"></a><a
+            href="http://coub.com/russiatoday" class="follow_icon_coub" target="_blank"></a></div>
+</div>        <div class="row b-buttons links">
+    <span><a class="where_watch" href="/where-to-watch/">Where to watch</a></span>
+    <span><a class="schedule" href="/schedule/">Schedule</a></span>
+</div>
+    </div>
+</div><!--/.page-->
+
+    <div class="main-footer">
+        <div class="main-footer-top">
+            <div class="main-footer-wp">
+                <div class="links">
+                    <div class="inner-links">
+                        <ul class="bottom-nav">
+                            <li><a href="/news/">News</a></li>
+                            <li><a href="/in-vision/">In vision</a></li>
+                            <li><a href="/usa/">USA</a></li>
+                            <li><a href="/in-motion/">In motion</a></li>
+                            <li><a href="/uk/">UK</a></li>
+                            <li><a href="/shows/">Shows</a></li>
+                            <li><a href="/politics/">Russian politics</a></li>
+                            <li><a href="/bulletin-board/">Bulletin board</a></li>
+                            <li><a href="/business/">Business</a></li>
+                            <li><a href="/more/">More</a></li>
+                            <li><a href="/op-edge/">Op-Edge</a></li>
+                        </ul>
+
+                        <div class="piece-two">
+                            <ul>
+                                <li><a href="/on-air/" title="Live">Live</a></li>
+                                <li><a href="/where-to-watch/" title="Where to watch">Where to watch</a></li>
+                                <li><a href="/schedule/" title="Schedule">Schedule</a></li>
+                            </ul>
+
+                            <ul class="support-menu">
+                                <li><a href="/legal-disclaimer/">Legal disclaimer</a></li>
+                                <li><a href="/privacy-policy/">Privacy policy</a></li>
+                                <li><a href="mailto:feedback@rttv.ru">Feedback</a></li>
+                                <li><a href="/about-us/">About us</a></li>
+                                <li><a href="/about-us/contact-info/">Contact info</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="outer-links">
+                        <dl class="apps">
+                            <dt>rt news english apps</dt>
+                            <dd><a href="https://play.google.com/store/apps/details?id=com.rt.mobile.english"
+                                   target="_blank" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Android']);">Android</a></dd>
+                            <dd><a href="https://itunes.apple.com/us/app/rt-news-english/id649316948"
+                                   target="_blank" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'iOS']);">iOS</a>
+                            </dd>
+                            <dd><a
+                                href="http://www.windowsphone.com/s?appid=1eaa6301-170d-4aeb-a8d0-815fe7dbd682"
+                                target="_blank" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Windows phone']);">Windows phone</a></dd>
+                            <dd><a href="http://apps.microsoft.com/windows/app/rt-news-english/b1c6d600-6486-4498-a3c8-773db151b6f0" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Windows 8']);">Windows 8</a></dd>
+                        </dl>
+                        <div class="piece-two">
+                            <ul class="langs">
+                                <li><a href="//arabic.rt.com/" target="_blank">العربية</a></li>
+                                <li><a href="//actualidad.rt.com/" target="_blank">Español</a></li>
+                                <li><a href="//russian.rt.com/" target="_blank">Русский</a></li>
+                                <li><a href="http://rtdeutsch.com/" target="_blank">Deutsch</a></li>
+                                <li><a href="http://francais.rt.com/" target="_blank">Français</a></li>
+                            </ul>
+                            <ul class="media">
+                                <li><a href="//freevideo.rt.com/" target="_blank">Freevideo</a></li>
+                                <li class="upper"><a href="//inotv.rt.com/" target="_blank">инотв</a></li>
+                                <li class="upper"><a href="//rtd.rt.com/" target="_blank">rtд</a></li>
+                                <li class="upper"><a href="//ruptly.tv/" target="_blank">RUPTLY</a></li>
+                            </ul>
+                            <ul class="alternative-copy">
+                                <li><a target="_blank" title="Mobile apps" href="/applications/" onClick="_gaq.push(['_trackEvent', 'Links', 'Click', 'App Down']);">Applications</a></li>
+                                <li><a target="_blank" title="RSS" href="/rss/">RSS</a></li>
+                            </ul>
+                            <ul class="support-menu copy">
+                                <li><a href="/legal-disclaimer/">Legal disclaimer</a></li>
+                                <li><a href="/privacy-policy/">Privacy policy</a></li>
+                                <li><a href="mailto:feedback@rttv.ru">Feedback</a></li>
+                                <li><a href="/about-us/">About us</a></li>
+                                <li><a href="/about-us/contact-info/">Contact info</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="main-footer-ctrl">
+                    <div class="b-search">
+                        <form action="/search/everywhere/" method="get">
+                            <fieldset>
+                                <label><input type="text" name="term" value=""></label>
+                                <input type="submit" value=""/>
+                            </fieldset>
+                        </form>
+                    </div>
+
+                    <div class="b-icons">
+                        <ul class="alternative">
+                            <li><a title="Applications" href="/applications/" onClick="_gaq.push(['_trackEvent', 'Links', 'Click', 'App Down']);">Applications</a></li>
+                            <li class="rss"><a title="RSS" href="/rss/"><span class="icon"></span>RSS</a>
+                            </li>
+                        </ul>
+                        <div class="b-follow-us">
+    <div class="row"><a
+        href="http://www.facebook.com/RTnews/" class="follow_icon_fb" target="_blank"></a><a
+            href="https://twitter.com/#!/RT_com" class="follow_icon_twi" target="_blank"></a><a
+            href="http://www.youtube.com/user/RussiaToday" class="follow_icon_yt" target="_blank"></a><a
+            href="https://plus.google.com/102728491539958529040/posts" class="follow_icon_gplus" target="_blank"></a><a
+            href="//instagram.com/rt" class="follow_icon_inst" target="_blank"></a><a
+            href="https://soundcloud.com/rttv" class="follow_icon_scloud" target="_blank"></a><a
+            href="http://coub.com/russiatoday" class="follow_icon_coub" target="_blank"></a></div>
+</div>                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="main-footer-bottom">
+            <div class="main-footer-wp">
+                <div class="copyright">
+                    <figure class="logo-bottom pic">
+                        <img src="/static/img/static/logo-bottom.png" alt="RT.com" /></figure>
+                        &copy; Autonomous Nonprofit Organization “TV-Novosti”, 2005–2015. All rights reserved.
+                                        </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="mobileNav" class="mobile-nav">
+              <ul>
+                        <li class="active"><a href="/news/">News</a></li>
+                        <li class=""><a href="/usa/">USA</a></li>
+                        <li class=""><a href="/uk/">UK</a></li>
+                        <li class=""><a href="/politics/">Russian politics</a></li>
+                        <li class=""><a href="/business/">Business</a></li>
+                        <li class=""><a href="/op-edge/">Op-Edge</a></li>
+                        <li class=""><a href="/in-vision/">In vision</a></li>
+                        <li class=""><a href="/in-motion/">In motion</a></li>
+                        <li class=""><a href="/shows/">Shows</a></li>
+                        <li class=""><a href="/bulletin-board/">Bulletin board</a></li>
+                        <li class=""><a href="/more/">More</a></li>
+                    </ul>
+      <div class="top-modal-panel"><a id="hideNav" class="i-mobile i-menu"></a></div>
+    </div>
+<!--LiveInternet counter-->
+  <script type="text/javascript">
+  new Image().src = "http://counter.yadro.ru/hit?r"+
+  escape(document.referrer)+((typeof(screen)=="undefined")?"":
+  ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+  screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+  ";"+Math.random();</script>
+<!--/LiveInternet-->	<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+  var sc_project=4158078;
+  var sc_invisible=1;
+  var sc_partition=54;
+  var sc_click_stat=1;
+  var sc_security="fd2686a7";
+  
+  
+</script>
+<script type="text/javascript" src="/st/js/counters/statcounter.js"></script>
+<noscript><div class="statcounter"><a title="myspace hit counter" href="http://www.statcounter.com/myspace/" target="_blank"><img class="statcounter" src="http://c.statcounter.com/4158078/0/fd2686a7/1/" alt="myspace hit counter" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "17935924" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=17935924&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag --><!-- tns-counter.ru -->
+<script type="text/javascript">
+(new Image()).src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*russianrt_com/ru/UTF-8/tmsec=rt_total/' + Math.round(Math.random()*1E9);
+</script>
+<noscript>
+	<img src="http://www.tns-counter.ru/V13a****russianrt_com/ru/UTF-8/tmsec=rt_total/" width="1" height="1" alt="" />
+</noscript>
+<!--/ tns-counter.ru --><script type='text/javascript'>
+var _sf_async_config={};
+/** CONFIGURATION START /
+_sf_async_config.uid = 55718;
+_sf_async_config.domain = 'rt.com';
+_sf_async_config.useCanonical = true;
+/ CONFIGURATION END **/
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script><!-- begin of Top100 code -->
+
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?1886286"></script>
+<noscript>
+<img src="http://counter.rambler.ru/top100.cnt?1886286" alt="" width="1" height="1" border="0" />
+
+</noscript>
+<!-- end of Top100 code -->
+    <!-- Javascript tag  -->
+    <!-- begin ZEDO for channel: InView , publisher: default , Ad Dimension: InView-160x600 -->
+    <script language="JavaScript">
+    var zflag_nid="2886"; var zflag_cid="1"; var zflag_sid="0"; var zflag_width="160"; var zflag_height="600"; var zflag_sz="88";</script> <script language="JavaScript" src="http://e2.zedo.com/jsc/e2/fhs.js"></script>  
+    <!-- end ZEDO for channel: InView , publisher: default , Ad Dimension: InView-160x600 -->
+
+
+    <!-- 1x1 -->
+    <div id='div-gpt-ad-1422625477597-0' style='width:1px; height:1px; position: fixed;'>
+    <script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1422625477597-0'); });
+    </script>
+    </div>
+
+</body>
+</html>

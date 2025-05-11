@@ -1,0 +1,1981 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 24 Mar 2015 09:38:38 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 217
+Connection: keep-alive
+Cache-Control: private, max-age=90
+Location: http://www.lepoint.fr/societe/en-direct-fusillade-a-charlie-hebdo-selon-i-tele-et-20-minutes-07-01-2015-1894629_23.php#xtor=CS1-32
+Mime-Version: 1.0
+Set-Cookie: _bit=5511309e-0007e-05069-291cf10a;domain=.lpnt.fr;expires=Sun Sep 20 09:38:38 2015;path=/; HttpOnly
+
+HTTP/1.1 200 OK
+Date: Tue, 24 Mar 2015 09:38:38 GMT
+Server: Apache/2.2.25 (Unix) PHP/5.6.0
+X-Frame-Options: SAMEORIGIN
+X-Powered-By: PHP/5.6.0
+Vary: User-Agent,Accept-Encoding
+X-XSS-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Content-Length: 31180
+Content-Type: text/html; charset=UTF-8
+
+<!DOCTYPE html>
+<html lang="fr">
+<head prefix="og: http://ogp.me ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#">
+<meta charset="UTF-8">
+<title>Attentat contre &quot;Charlie Hebdo&quot; : la rédaction décimée - Le Point</title>
+<meta name="description" content="Le siège du journal a été la cible d&#039;un attentat. Charb, Cabu, Wolinski et Tignous figurent, ainsi que le journaliste Bernard Maris, parmi les tués." />
+<meta name="news_keywords" content="Société, charlie hebdo, fusillade, commando, morts, carnage, police," />
+<meta itemprop="inLanguage" content="fr" />
+<meta itemprop="genre" content="Article" />
+<meta itemprop="wordCount" content="858" />
+<meta property="fb:app_id" content="130865693665342"/>
+<meta property="article:section" content="Société"/>
+<meta property="article:published_time" content="2015-01-07T12:03"/>
+<meta property="article:modified_time" content="2015-01-07T18:50"/>
+<meta property="article:author" content="http://www.lepoint.fr/journalistes-du-point/le-point-fr-" />
+<meta property="article:tag" content="Société" />
+<meta property="article:tag" content="charlie hebdo" />
+<meta property="article:tag" content="fusillade" />
+<meta property="article:tag" content="commando" />
+<meta property="article:tag" content="morts" />
+<meta property="article:tag" content="carnage" />
+<meta property="article:tag" content="police," />
+<meta itemprop="thumbnailUrl" name="thumbnail" content="http://www.lepoint.fr/images/2015/01/07/dessinateurs-morts-charlie-hebdo-3044750-jpg_2649171_113x76.JPG" />
+<meta itemprop="articleSection" content="Société" />
+<link rel="alternate" media="only screen and (max-width: 640px)" href="http://mobile.lepoint.fr/societe/en-direct-fusillade-a-charlie-hebdo-selon-i-tele-et-20-minutes-07-01-2015-1894629_23.php" />
+<link rel="alternate" media="handheld" href="http://mobile.lepoint.fr/societe/en-direct-fusillade-a-charlie-hebdo-selon-i-tele-et-20-minutes-07-01-2015-1894629_23.php" />
+<meta name="author"  content="Le Point.fr " />
+<!--COL CHH -->
+<!--BLOC HTMLHEADER - htmlheader - DYN-->
+<!--bMiso - bloc_htmlheader.tpl-->
+<meta name="Identifier-URL" content="http://www.lepoint.fr" />
+<meta name="publisher" content="Le Point" />
+<meta name="copyright" content="Le Point" />
+<meta name="apple-itunes-app" content="app-id=326861451" />
+<meta name="robots" content="index, follow" />
+<link rel="shortcut icon" href="/favicon.ico" />
+<link rel="stylesheet" type="text/css" href="/css2/css_8c62b2a8cb469a59f1ff0733e148a254.css" />
+<link rel="stylesheet" type="text/css" href="/css2/spoutnik/mod_article.css" />
+<link rel="stylesheet" type="text/css" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.1/themes/base/jquery-ui.css" />
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script type="text/javascript" src="/scripts2/colorbox/jquery.colorbox-min.js"></script>
+<script type="text/javascript" src="/scripts2/spoutnik/plugins/jquery.fancybox.js"></script>
+<script language="JavaScript" type="text/javascript">ord=Math.random()*10000000000000000;tile=0;rub="actualite/societe";type="article";thematique="societe";sousthema=null;auteur="le point.fr_";dossier="attentats_meurtriers_en_france";marque=null;recherche=null;id="1894629";compte="non";abonne="non";freemium="non";tronque="non";</script>
+<!-- nuggrid -->
+<script type='text/javascript'>
+var n_pbt=''; var nuggrid = encodeURIComponent(top.location.href); document.write('<scr' + 'ipt type="text/javascript" src="//asqlepoint.nuggad.net/rc?nuggn=820777448&nuggsid=265136027&nuggrid=' + nuggrid + '"><\/scr' + 'ipt>');
+</script>
+<!-- /nuggrid -->
+<!--BASILIC-->
+<script type="text/javascript">
+var FOGLIO=window.FOGLIO||{};FOGLIO.queue=FOGLIO.queue||{};FOGLIO.tag_s=new Date().getTime();FOGLIO.app_id="172";FOGLIO.cr=0.3;FOGLIO.sr=1;FOGLIO.ft="c83a7f6dc064ccf54353bb10d88d69b6933a23e5";FOGLIO.q=function(a,b){FOGLIO.queue[a]=FOGLIO.queue[a]||[];FOGLIO.queue[a].push(b)};FOGLIO.q('segment', {name: 'pagetype', value: 'article'});
+</script>
+<!--FIN BASILIC-->
+<!--[if lt IE 9]>
+<script>
+document.createElement('header');
+document.createElement('nav');
+document.createElement('section');
+document.createElement('article');
+document.createElement('aside');
+document.createElement('footer');
+document.createElement('hgroup');
+document.createElement('figure');
+document.createElement('figcaption');
+</script>
+<![endif]-->
+<!--/BLOC HTMLHEADER - htmlheader - DYN-->
+<!--/COL CHH --><link rel="alternate" type="application/rss+xml" title="Le Point.fr : Société" href="/societe/rss.xml" />
+<meta property="og:title" content=" Attentat contre &quot;Charlie Hebdo&quot; : la rédaction décimée" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://www.lepoint.fr/societe/en-direct-fusillade-a-charlie-hebdo-selon-i-tele-et-20-minutes-07-01-2015-1894629_23.php" />
+<meta property="og:image" content="http://www.lepoint.fr/images/2015/01/07/dessinateurs-morts-charlie-hebdo-3044747-jpg_2649170.JPG" />
+<meta property="og:site_name" content="Le Point.fr"/>
+<meta property="og:description" content="Le siège du journal a été la cible d&#039;un attentat. Charb, Cabu, Wolinski et Tignous figurent, ainsi que le journaliste Bernard Maris, parmi les tués."/>
+<meta property="twitter:card" content="summary" />
+<meta name="twitter:site" content="@LePoint">
+<meta property="twitter:url" content="http://www.lepoint.fr/societe/en-direct-fusillade-a-charlie-hebdo-selon-i-tele-et-20-minutes-07-01-2015-1894629_23.php" />
+<meta name="twitter:creator" content="@LePoint">
+<meta name="twitter:title" content=" Attentat contre &quot;Charlie Hebdo&quot; : la rédaction décimée">
+<meta name="twitter:description" content="Le siège du journal a été la cible d&#039;un attentat. Charb, Cabu, Wolinski et Tignous figurent, ainsi que le journaliste Bernard Maris, parmi les tués.">
+<meta name="twitter:image" content="http://www.lepoint.fr/images/2015/01/07/dessinateurs-morts-charlie-hebdo-3044747-jpg_2649170.JPG">
+<meta property="og:count" content="652"/>
+<!-- tag google analytics -->
+<script type="text/javascript">
+var _gaq = _gaq || [];
+_gaq.push(['_setAccount', 'UA-6448559-1']);
+_gaq.push(['_setDomainName', '.lepoint.fr']);
+_gaq.push(['_trackPageview']);
+(function() {
+var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+})();
+</script>
+<!-- fin tag google analytics -->
+<script type="text/javascript">if(parent.location != self.location){parent.location=self.location;}</script>
+</head>
+<body itemscope itemtype='http://schema.org/WebPage'>
+<!-- Site -->
+<div id="site">
+<!-- article_2col -->
+<!-- template body :  body_article_2col.tpl -->
+<!--COL CHD -->
+<header>
+<!--BLOC HEADER - Liens l'univers du Point - STATIC - HEADER v.2-->
+<!--bH:-->
+<!--/BLOC HEADER - Liens l'univers du Point - STATIC - HEADER v.2-->
+<!--BLOC HEADER - Liens réseaux  - STATIC - HEADER v.2-->
+<!--bH:-->
+<!--/BLOC HEADER - Liens réseaux  - STATIC - HEADER v.2-->
+<!--BLOC Le Point - Pub Bandeau Horizontal Haut - 728x90 944x90-->
+<!--bH:-->
+<!--/BLOC Le Point - Pub Bandeau Horizontal Haut - 728x90 944x90-->
+<!--BLOC HEADER - Vignette - STATIC - HEADER v.2-->
+<!--bH:-->
+<!--/BLOC HEADER - Vignette - STATIC - HEADER v.2-->
+<!--BLOC HEADER - Nouveau header - DYN - HEADER v.2-->
+<!--bMiso - bloc_header.tpl-->
+<div id="univers">
+<!-- Mon compte -->
+<div id="liste_univers">
+<a href="http://afrique.lepoint.fr" id="lepointafrique" onClick="return xt_click(this,'C','214','Header::Sites_Groupe::Le_Point_Afrique','N')">Le Point Afrique</a>
+<a href="http://www.bellesmontres.com" id="argus" onClick="return xt_click(this,'C','214','Header::Sites_Groupe::Argus_des_montres','S')" target="_blank">Belles Montres</a>
+<a onClick="return xt_click(this,'C','214','Header::Sites_Groupe::Point_Etudiants','N')" href="http://etudiants.lepoint.fr/" target="_blank">Le Point Etudiants</a> </div>
+<div id="liste_services">
+<div id="lancement">
+<a href="#" id="services-lepoint" class="niveau2">Services Le Point</a>
+<div style="display: none;" class="dhtml2" id="lesservices">
+<div class="colonne colonne1">
+<dl class="listeservices">
+<dt>Boutique Le Point</dt>
+<dd><a href="http://abo.lepoint.fr/" onclick="return xt_adc(this, 'INT-142-[lienTexte]')" target="_blank">Abonnement</a></dd>
+<dd><a href="http://boutique.lepoint.fr/rayon/133/hors-serie" onclick="return xt_adc(this, 'INT-149-[lienTexte]')" target="_blank">Hors-séries</a></dd>
+<!-- <dd><a href="http://boutique.lepoint.fr/rayon/135/numeros-speciaux" onclick="return xt_adc(this, 'INT-150-[lienTexte]')" target="_blank">Numéros spéciaux</a></dd> -->
+<dd><a href="http://boutique.lepoint.fr/rayon/147/anciens-numeros" onclick="return xt_adc(this, 'INT-151-[lienTexte]')" target="_blank">Anciens numéros</a></dd>
+<!-- <dd><a href="http://boutique.lepoint.fr/rayon/139/livres-cd-dvd" onclick="return xt_adc(this, 'INT-152-[lienTexte]')" target="_blank">Livres - CD - DVD</a></dd>
+<dd><a href="http://boutique.lepoint.fr/rayon/137/editions-la-boetie" onclick="return xt_adc(this, 'INT-153-[lienTexte]')" target="_blank">Editions La Boétie</a></dd> -->
+</dl>
+<dl class="listeservices">
+<dt>Evénéments</dt>
+<dd><a href="http://www.lepoint.fr/html/lepoint/conferences.php" onclick="return xt_click(this,'C','214','Header::Evenements::Conferences','N')">Conférences</a></dd>
+<dd><a href="http://www.futurapolis.fr" onclick="return xt_click(this,'C','214','Header::Evenements::Futurapolis','N')">Futurapolis</a></dd>
+<dd><a href="http://www.vinobravo.fr" onclick="return xt_click(this,'C','214','Header::Evenements::Vino Bravo','N')">Vino Bravo</a></dd>
+</dl>
+<dl class="listeservices">
+<dt>Annonces</dt>
+<dd><a href="http://www.lepoint.fr/emploi/" onclick="return xt_click(this,'C','214','Header::Annonces::Emploi','N')">Emploi</a></dd>
+<dd><a href="http://www.lepoint.fr/immobilier/" onclick="return xt_click(this,'C','214','Header::Annonces::Immobilier','N')">Immobilier</a></dd>
+<dd><a href="http://www.lepoint.fr/immobilier-neuf/" onclick="return xt_click(this,'C','214','Header::Annonces::Immobilier_Neuf','N')">Immobilier Neuf</a></dd>
+</dl>
+</div>
+<div class="colonne colonne2">
+<dl class="listeservices">
+<dt>Numéro de la semaine</dt>
+<dd>
+<a onclick="return xt_adc(this, 'INT-162-[couv]')" href="http://www.lepoint.fr/versions-numeriques/" class="visuel">
+<img src="/images/couv/lepoint2219-anticancer-les-nouveaux-exploits-de-la-medecine5.jpg" title="Le Point Numéro 2219"  alt="Le Point Numéro 2219" width="74" height="95"/>
+</a>
+</dd>
+</dl>
+<dl class="listeservices">
+<dt><a href="http://jeux-concours.lepoint.fr/" onclick="return xt_click(this,'C','214','Header::Loisirs::Jeux_concours','N')"><strong>Jeux-concours</strong></a></dt>
+</dl>
+<dl class="listeservices">
+<dt>Au quotidien</dt>
+<dd><a href="http://www.lepoint.fr/html/meteo/" onclick="return xt_click(this,'C','214','Header::Au_quotidien::Meteo','N')">Météo</a></dd>
+<dd><a href="http://bourse.lepoint.fr/" onclick="return xt_click(this,'C','214','Header::Au_quotidien::Bourse','N')">Bourse</a></dd>
+<dd><a href="http://www.lepoint.fr/html/programme-tele/" onclick="return xt_click(this,'C','214','Header::Au_quotidien::Programme_tele','N')">Programme télé</a></dd>
+</dl>
+</div>
+</div>
+</div>
+<a id="moncomptelogin" class="identifiez iframe" onclick="return xt_click(this,'C','214','Header::Bloc_central::Identifiez_vous','N');" href="http://boc.lepoint.fr/">Identifiez-vous</a>
+<div id="promo-abonnez-vous" style="float: left;"><a href="http://abo.lepoint.fr" [^]="" target="_blank" onclick="return xt_adc(this, 'INT-139-[Button]')" id="moncomptelogin">Abonnez-vous au Point à partir de 1 €</a></div>
+</div>
+</div><div id="bandeau">
+<div class="g">
+<p itemscope itemtype="http://schema.org/Organization">
+<a itemprop="url" href="/">
+<img itemprop="logo" alt="Site d'actualité Le Point" src="/images/commun3/nouvoheader/logo-lepointfr.png" width="253" height="46"/>
+</a>
+<span>Mise à jour le 24 mars à 10h36</span>
+</p>
+<ul id="liens">
+<li><a href="http://boc.lepoint.fr/campagne/newsletters/origine/nlh" onclick="return xt_click(this,'C','214','Header::Bloc_central::Recevez_nos_newsletters','N')">Recevez nos newsletters</a></li>
+<li id="reseauxsociauxHeader"><span>Suivez-nous </span> <a onclick="return xt_click(this,'C','214','Header::Bloc_central::Facebook','S')" target="_blank" href="https://www.facebook.com/lepoint.fr" class="bouton1">Facebook</a> <a onclick="return xt_click(this,'C','214','Header::Bloc_central::Twitter','S')" target="_blank" href="https://twitter.com/LePoint" class="bouton2">Twitter</a> <a onclick="return xt_click(this,'C','214','Header::Bloc_central::GooglePlus','S')" target="_blank" href="https://plus.google.com/+LePointfr" class="bouton3">Google plus</a> <a onclick="return xt_click(this,'C','214','Header::Bloc_central::Flux_RSS','N')" target="_blank" href="http://www.lepoint.fr/rss.xml" class="bouton4" target="_blank">RSS</a> <a onclick="return xt_click(this,'C','214','Header::Bloc_central::Mobile','N')" target="_blank" href="http://www.lepoint.fr/mobiles/" class="bouton5">Applis Mobile</a></li>
+<li><a href="http://www.lepoint.fr/html/lepoint/en_kiosque.php" onclick="return xt_click(this,'C','214','Header::Bloc_central::Sommaire_magazine','N')">Sommaire du magazine</a><br>
+</li>
+</ul>
+<div class="col1">
+<!-- Recherche -->
+<form action="/recherche/recherche.php" method="get" id="search1">
+<input name="query" type="text" class="inputsearch focusInput" maxlength="150" value="Rechercher sur le site"  />
+<input type="submit" class="bouton" alt="Rechercher" value="" />
+</form>
+</div>
+</div>
+<div class="d">
+<link href="http://www.lepoint.fr/html/timekeeper/template/style.css" rel="stylesheet" type="text/css"/>
+<script type="text/javascript">
+window.onload = function() {
+      if(document.getElementsByTagName('body')[0].style.MozTransform == ''
+         || document.getElementsByTagName('body')[0].style.WebkitTransform == ''
+         || document.getElementsByTagName('body')[0].style.OTransform == ''
+		 || document.getElementsByTagName('body')[0].style.transform == '') {
+	    function hand() {
+		  handS.style.MozTransform    =
+		  handS.style.WebkitTransform =
+		  handS.style.OTransform      =
+		  handS.style.transform       = 'rotate(' + (time * 6) + 'deg)';
+		  handM.style.MozTransform    =
+		  handM.style.WebkitTransform =
+		  handM.style.OTransform      =
+		  handM.style.transform       = 'rotate(' + (time / 10) + 'deg)';
+		  handH.style.MozTransform    =
+		  handH.style.WebkitTransform =
+		  handH.style.OTransform      =
+		  handH.style.transform       = 'rotate(' + (time / 120) + 'deg)';
+	    }
+	    var handH = document.getElementById('handH');
+	    var handM = document.getElementById('handM');
+	    var handS = document.getElementById('handS');
+	    var timekeeper = document.getElementById('timekeeper');
+	    var d = new Date();
+	    var time = d.getSeconds() + 60 * d.getMinutes() + 3600 * d.getHours();
+	    hand();
+	    setInterval(function() {time = time+0.20; hand();}, 200);
+		setInterval(function() {r = new Date(); time = r.getSeconds() + 60 * r.getMinutes() + 3600 * r.getHours(); hand()}, 10000);
+      }
+
+};
+</script>
+<script src="http://www.lepoint.fr/html/timekeeper/swf/Scripts/swfobject_modified.js" type="text/javascript">swfobject.registerObject("FlashID");</script>
+<object id="FlashID" classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="88" height="77">
+  <param name="movie" value="http://www.lepoint.fr/html/timekeeper/swf/timekeeper2014.swf">
+  <param name="quality" value="high">
+  <param name="wmode" value="opaque">
+  <param name="swfversion" value="8.0.35.0">
+  <!-- Cette balise <param> invite les utilisateurs de Flash Player en version 6.0 r65 et ultérieure à télécharger la version la plus récente de Flash Player. Supprimez-la si vous ne voulez pas que cette invite soit visible. -->
+  <param name="expressinstall" value="http://www.lepoint.fr/html/timekeeper/swf/Scripts/expressInstall.swf">
+  <!-- La balise <object> suivante est destinée aux navigateurs autres qu'IE. Supprimez-la d'IE à l'aide d'IECC. -->
+  <!--[if !IE]>-->
+  <object type="application/x-shockwave-flash" data="http://www.lepoint.fr/html/timekeeper/swf/timekeeper2014.swf" width="88" height="77">
+    <!--<![endif]-->
+  <param name="quality" value="high">
+  <param name="wmode" value="opaque">
+  <param name="swfversion" value="8.0.35.0">
+  <param name="expressinstall" value="http://www.lepoint.fr/html/timekeeper/swf/Scripts/expressInstall.swf">
+  <!-- Le navigateur affichera le contenu alternatif suivant pour les utilisateurs d'un lecteur Flash de version 6.0 ou de versions plus anciennes. -->
+  <div id="timekeeper">
+    <a href="http://www.bellross.com/index.php?bannerId=13&refererId=37&utm_source=lepoint&utm_medium=timekeeper&utm_medium=carbon" target="_blank" class="link"></a> <img src="http://www.lepoint.fr/html/timekeeper/template/images/handH.png" class="hand" id="handH" alt="heure"/> <img src="http://www.lepoint.fr/html/timekeeper/template/images/handM.png" class="hand" id="handM" alt="minute"/> <img src="http://www.lepoint.fr/html/timekeeper/template/images/handS.png" class="hand" id="handS" alt="seconde"/>
+  </div>
+  <!--[if !IE]>-->
+  </object>
+  <!--<![endif]-->
+</object>
+</div>
+</div>
+<!-- PUB -->
+<!-- /PUB -->
+<nav>
+<div id="menu">
+<ul class="clearfix">
+<li class="first">
+<a class="niveau1 in" href="/">Actualit&eacute;</a>
+</li>
+<!--<li id="mondial2014">
+<a href="/coupe-du-monde-2014/" title="Coupe du monde 2014" class="niveau1 ">Mondial 2014</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/coupe-du-monde-2014/" title="Coupe du monde 2014">Mondial 2014</a></li>
+<li><a href="/coupe-du-monde-2014/equipes/france/" title="Les Bleus">Les Bleus</a></li>
+<li><a href="/coupe-du-monde-2014/groupes/groupe-e/" title="Groupes">Groupes</a></li>
+<li><a href="/coupe-du-monde-2014/equipes/bresil/" title="Equipes">Equipes</a></li>
+<li><a href="/coupe-du-monde-2014/matches-en-direct/" title="Lives">Lives</a></li>
+<li><a href="/coupe-du-monde-2014/classement/" title="Classement">Classement</a></li>
+<li><a href="/coupe-du-monde-2014/saccomano-refait-le-mondial/" title="Sacco refait le Mondial">Sacco refait le Mondial</a></li>
+<li><a href="/coupe-du-monde-2014/sondages/" title="Sondages">Sondages</a></li>
+<li><a href="/coupe-du-monde-2014/diaporamas/" title="Diaporamas">Diaporamas</a></li>
+<li><a href="/coupe-du-monde-2014/portrait-afrique/" title="Portraits">Portraits</a></li>
+<li><a href="/coupe-du-monde-2014/histoire/" title="Histoire">Histoire</a></li>
+<li><a href="/coupe-du-monde-2014/resultats/" title="Résultats">Résultats</a></li>
+</ul>
+</div>
+</li>-->
+<li>
+<a href="/politique/" title="Politique" class="niveau1 " >Politique</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/politique/" title="Politique">Politique</a></li>
+<li><a href="/invites-du-point/philippe-tesson/" title="Philippe Tesson">Philippe Tesson</a></li>
+<li><a href="/invites-du-point/michele-cotta/" title="Michèle Cotta" >Michèle Cotta</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/departementales-2015/" title="Départementales 2015" class="niveau1 " >Départementales 2015</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/departementales-2015/" title="Départementales 2015">Départementales 2015</a></li>
+<li><a href="http://www.lepoint.fr/departementales-2015/departementales-2015-mode-d-emploi-29-01-2015-1900665_2471.php" title="Mode d'emploi">Mode d'emploi</a></li>
+<li><a href="/departementales-2015/alpes-maritimes/" title="Alpes-Maritimes">Alpes-Maritimes</a></li>
+<li><a href="/departementales-2015/bouches-du-rhone/" title="Bouches-du-Rhône">Bouches-du-Rhône</a></li>
+<li><a href="/departementales-2015/herault/" title="Hérault">Hérault</a></li>
+<li><a href="/departementales-2015/puy-de-dome/" title="Puy-de-Dôme">Puy-de-Dôme</a></li>
+<li><a href="/departementales-2015/tarn-et-garonne/" title="Tarn-et-Garonne">Tarn-et-Garonne</a></li>
+<li><a href="http://www.lepoint.fr/departementales-2015/departementales-2015-les-dates-des-elections-02-02-2015-1901628_2471.php" title="Dates des élections" >Dates des élections</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/economie/" title="&Eacute;conomie" class="niveau1 " >&Eacute;conomie</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/economie/" title="Economie">&Eacute;conomie</a></li>
+<li><a href="/grandes-ecoles-de-commerce/" title="Grandes Ecoles">Grandes &Eacute;coles</a></li>
+<li><a href="/argent/" title="Argent">Argent</a></li>
+<li><a href="http://bourse.lepoint.fr/" title="Bourse">Bourse</a></li>
+<li><a href="/immobilier/" title="Immobilier" >Immobilier</a></li>
+<li><a href="/immobilier-neuf/" title="Immobilier neuf" >Immobilier neuf</a></li>
+<li><a href="/emploi/" title="Emploi">Emploi</a></li>
+<li><a href="/futurapolis/innovation-sociale/" title="Innovation sociale">Innovation sociale</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/high-tech-internet/" title="Tech &amp; Net" class="niveau1 ">Tech &amp; Net</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/high-tech-internet/" title="Tech &amp; Net">Tech &amp; Net</a></li>
+<li class="gdn"><a href="/guide-du-numerique/" title="Guide du num&eacute;rique">Guide du num&eacute;rique</a></li>
+<li class="jeuxvideo"><a href="/jeux-video/" title="Jeux vid&eacute;o">Jeux vid&eacute;o</a></li>
+<li><a href="/high-tech-internet/planete-appli/" title="Plan&egrave;te Appli">Plan&egrave;te Appli</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/sport/" title="Sports" class="niveau1 ">Sports</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/sport/" title="Sports">Sports</a></li>
+<li><a href="/sport/football/" title="Football">Football</a></li>
+<li><a href="/sport/football/ligue-1/" title="Ligue1">Ligue 1</a></li>
+<li><a href="/golf/" title="Golf">Golf</a></li>
+<li><a href="/automobile/sports-et-reves/" title="Sport Auto">Sport Auto</a></li>
+<li><a href="/poker/" title="Poker">Poker</a></li>
+<!--<li><a href="/coupe-du-monde-2014/" title="Coupe du monde 2014">Mondial 2014</a></li>-->
+</ul>
+</div>
+</li>
+<li>
+<a href="/sante/" title="Sant&eacute;" class="niveau1 ">Sant&eacute;</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/sante/" title="Sant&eacute;">Sant&eacute;</a></li>
+<li><a href="http://hopitaux.lepoint.fr" title="Palmar&egrave;s des H&ocirc;pitaux et des cliniques">Palmar&egrave;s des H&ocirc;pitaux et des cliniques</a></li>
+<li class="partenaires"><a title="Entra&icirc;nement c&eacute;r&eacute;bral" href="/entrainement-cerebral/">Entra&icirc;nement c&eacute;r&eacute;bral</a></li>
+<li><a href="/sante/phytotherapie/" title="Phytothérapie">Phytothérapie</a></li>
+<li><a href="/sante/kine/" title="Kinésithérapie">Kinésithérapie</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/culture/" title="Culture" class="niveau1 ">Culture</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/culture/" title="Culture">Culture</a></li>
+<li><a href="/cinema/" title="Cin&eacute;ma">Cin&eacute;ma</a></li>
+<li><a href="/series-tv/" title="Séries TV">Séries TV</a></li>
+<li><a href="/bandes-annonces/" title="Bandes-annonces">Bandes-annonces</a></li>
+<li><a href="/people/" title="People">People</a></li>
+<li><a href="/livres/" title="Livres">Livres</a></li>
+<li><a href="/arts/" title="Arts">Arts</a></li>
+<li><a href="/musique/" title="Musique">Musique</a></li>
+<li><a href="/histoire/" title="Histoire">Histoire</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/sciences-nature/" title="Sciences & Nature" class="niveau1 ">Sciences & Nature</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/sciences-nature/" title="Sciences & Nature">Sciences & Nature</a></li>
+<li><a href="/astronomie/" title="Astronomie">Astronomie</a></li>
+<li><a href="/environnement/" title="Environnement">Environnement</a></li>
+<li><a href="/science/" title="Sciences">Sciences</a></li>
+<li><a href="/innovation/" title="Innovation">Innovation</a></li>
+<li><a href="/futurapolis/" title="Futurapolis">Futurapolis</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/art-de-vivre/" title="Lifestyle" class="niveau1 ">Lifestyle</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/art-de-vivre/" title="Lifestyle">Lifestyle</a></li>
+<li><a href="/golf/" title="Golf">Golf</a></li>
+<li><a href="/voyages/" title="Voyages">Voyages</a></li>
+<li><a href="/gastronomie/" title="Gastronomie">Gastronomie</a></li>
+<li><a href="/mode-design/" title="Mode & Design">Mode & Design</a></li>
+<!--li><a href="/design/" title="Design">Design</a></li-->
+</ul>
+</div>
+</li>
+<li>
+<a href="/automobile/" title="Automobile" class="niveau1 ">Automobile</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/automobile/" title="Automobile">Automobile</a></li>
+<li><a href="/automobile/actualites/" title="Actualité">Actualité</a></li>
+<li><a href="/automobile/essais/" title="Essais">Essais</a></li>
+<li><a href="/automobile/securite/" title="S&eacute;curit&eacute;">S&eacute;curit&eacute;</a></li>
+<li><a href="/automobile/salons/" title="Salons">Salons</a></li>
+<li><a href="/automobile/sports-et-reves/" title="Sports et R&ecirc;ves">Sport</a></li>
+<li><a href="/automobile/innovations/" title="Innovations">Innovations</a></li>
+</ul>
+</div>
+</li>
+<li>
+<a href="/vin/" title="Vins" class="niveau1 ">Vins</a>
+<div style="display: none;" class="dhtml">
+<ul>
+<li><a href="/vin/" title="Vins">Vins</a></li>
+<li><a href="/vin/chroniques/" title="Chroniques">Chroniques</a></li>
+<li><a href="/vin/accords-mets-vins/" title="Accords mets et vins">Accords mets et vins</a></li>
+<li><a href="/vin/appellations/" title="Appellations">Appellations</a></li>
+<li><a href="/vin/cepages/" title="C&eacute;pages">C&eacute;pages</a></li>
+<li><a href="/vin/blog-invites/" title="Le bloc des invit&eacute;s">Les blogs des invit&eacute;s</a></li>
+<li><a href="/vin/mots-du-vin/" title="Les mots du vin">Les mots du vin</a></li>
+<li><a href="/vin/le-saviez-vous/" title="Le saviez-vous">Le saviez-vous</a></li>
+</ul>
+</div>
+</li>
+<!--li class="diaporama"><a href="/diaporamas/"  title="Diaporamas">Diaporamas</a></li-->
+<!--li class="bt-promo"><a href="http://afrique.lepoint.fr/coupe-d-afrique-des-nations/" title="CAN 2015"><img src="/images/can2015.png" alt="CAN 2015"></a></li-->
+<!--<li class="picto video"><a href="/video"  title="Le Point TV">Le Point TV</a></li>-->
+</ul>
+</div>
+<!-- PUB -->
+<div id="pub_haut">
+<div style="margin:0 auto;text-align:center;min-width:728px">
+<script type="text/javascript">
+document.write('<scr'+'ipt type="text/javascript" src="http://ad.fr.doubleclick.net/N7750430/adj/ts.lepoint.fr/'+rub+';tile='+(tile=tile+1)+';dcopt=ist;thematique='+thematique+';sousthema='+sousthema+';auteur='+auteur+';dossier='+dossier+';marque='+marque+';recherche='+recherche+';type='+type+';sz=728x90;pos=haut;compte='+compte+';abonne='+abonne+';ord=' + ord + '?"><\/script>');
+</script>
+</div>
+</div>
+<style type="text/css">
+#pub_haut * {
+vertical-align: middle;
+margin-left: auto;
+margin-right: auto;
+}
+</style>
+<!-- /PUB -->
+<div id="smenu">
+<ul class="clearfix">
+<li><a href="/" title="Actualit&eacute;" >Actualit&eacute;</a></li>
+<li><a href="http://www.lepoint.fr/politique/" title="Politique">Politique</a></li>
+<li><a href="http://www.lepoint.fr/monde/" title="International" >International</a></li>
+<li><a href="/societe/" title="Soci&eacute;t&eacute;" class="on">Soci&eacute;t&eacute;</a></li>
+<li><a href="/justice/" title="Justice" >Justice</a></li>
+<li><a href="/medias/" title="M&eacute;dias" >M&eacute;dias</a></li>
+<li><a href="/villes/" title="Villes" >Villes</a></li>
+<li><a href="http://www.lepoint.fr/insolite/" title="Insolites" >Insolites</a></li>
+<li><a href="http://www.lepoint.fr/confidentiels/" title="Confidentiels" >Confidentiels</a></li>
+<li><a href="http://www.lepoint.fr/invites-du-point/" title="Les invités" >Les invités</a></li>
+<li><a href="http://www.lepoint.fr/editos-du-point/" title="&Eacute;ditos" >Éditos & Chroniques</a></li>
+<!-- <li class="bt-promo"><a href="/municipales-2014/" onclick="return xt_adc(this, 'INT-89')"><img src="http://logi8.xiti.com/get.ad?xts=188560&ati=INT-89-[Button]&type=AT&rn=1&url=http://www.lepoint.fr/images/commun3/municipale-2014.jpg" width="124" height="28" alt="Municipales 2014" title="Municipales 2014"></a></li> --> </ul>
+</div></nav>
+<!--/BLOC HEADER - Nouveau header - DYN - HEADER v.2-->
+</header>
+<!--/COL CHD --><div class="contenu"><!-- début contenu -->
+<!--COL A10 1-->
+<!--BLOC RUBRIQUE - 630 - tétière - AUTOCMS-->
+<!--bMmrg - blocp_tetiere.tpl-->
+<div class="tag_page">
+<div class="t">
+<nav class="nav_filariane">
+<div itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="fildariane">
+<a href="/"
+itemprop="url" class="fildariane_first">
+<span itemprop="title">
+Actualité</span>
+</a>
+<div itemprop="child" itemscope itemtype="http://data-vocabulary.org/Breadcrumb" class="fildariane">
+<a href="/societe/" itemprop="url">
+<span itemprop="title">Société</span>
+</a>
+</div>
+</div>
+</nav>
+<a href="/societe/rss.xml" class="fildariane_rss">&nbsp;</a>		</div>
+</div>
+<!--/BLOC RUBRIQUE - 630 - tétière - AUTOCMS-->
+<!--/COL A10 1-->
+<div id="gauche">
+<div class="page_article">
+<!--COL A10 2-->
+<!--/COL A10 2-->
+<article itemscope itemtype="http://schema.org/NewsArticle">
+<header>
+<input type="hidden" name="id_sans_version_article_courant" id="id_sans_version_article_courant" value="1894629" />
+<div style="position:relative;padding-top:25px;" id="entete_article">
+<h1 itemprop="headline">
+Attentat contre &quot;Charlie Hebdo&quot; : la rédaction décimée
+</h1>
+<p class="info_article" style="position:absolute;left:0px;top:0px;">
+Le Point
+- Publi&eacute; le <time itemprop="datePublished" datetime="2015-01-07T12:03" pubdate>
+07/01/2015 à 12:03</time>
+- Modifi&eacute; le <time itemprop="dateModified" datetime="2015-01-07T18:50">
+07/01/2015 à 18:50</time>
+</p>
+<h2 itemprop="description" class="chapo">
+Le siège du journal a été la cible d'un attentat. Charb, Cabu, Wolinski et Tignous figurent, ainsi que le journaliste Bernard Maris, parmi les tués.
+</h2>
+</div>
+<figure class="media_article panoramique" itemprop="associatedMedia" itemscope itemtype="http://schema.org/ImageObject">
+<a class="fancy-img" rel="images_article" href="/images/2015/01/07/3044373-jpg_2649376_652x284.JPG" title="Les dessinateurs (de gauche à droite) Cabu (76 ans), Charb (47 ans), Tignous (57 ans) et Wolinski (80 ans), tous décédés dans la fusillade de &quot;Charlie Hebdo&quot;."><img alt="Les dessinateurs (de gauche à droite) Cabu (76 ans), Charb (47 ans), Tignous (57 ans) et Wolinski (80 ans), tous décédés dans la fusillade de &quot;Charlie Hebdo&quot;." title="Les dessinateurs (de gauche à droite) Cabu (76 ans), Charb (47 ans), Tignous (57 ans) et Wolinski (80 ans), tous décédés dans la fusillade de &quot;Charlie Hebdo&quot;." src="/images/2015/01/07/3044373-jpg_2649376_652x284.JPG" width="652" height="284"></a>
+<figcaption><span itemprop="description">Les dessinateurs (de gauche à droite) Cabu (76 ans), Charb (47 ans), Tignous (57 ans) et Wolinski (80 ans), tous décédés dans la fusillade de &quot;Charlie Hebdo&quot;.</span>
+&copy;                     DR
+</figcaption>
+</figure>
+<div id="entete2_article"></div>
+<div class="signature_article signature_left" id="standard" >
+<strong>Le Point.fr</strong>
+</div>
+</header>
+<!-- Article zoomable -->
+<div class="article zoomable">
+<!-- Col article -->
+<span itemprop="articleBody">
+<p>La fusillade à <i>Charlie Hebdo</i> a fait 12 morts, dont 2 policiers, et 8 blessés, dont 4 "en situation d'urgence absolue". Elle a été commise, selon la précision du ministre de l'Intérieur <a href="/tags/bernard-cazeneuve" class="surligner">Bernard Cazeneuve</a>, par "trois criminels". Le journaliste et dessinateur <a href="http://www.lepoint.fr/societe/charlie-hebdo-charb-cabu-wolinsky-et-tignous-morts-dans-la-fusillade-07-01-2015-1894661_23.php"  title="">Charb, directeur de la publication, ainsi que les dessinateurs Cabu, Wolinski et Tignous</a> ont été tués. Le journaliste Bernard Maris, qui avait été un des fondateurs de l'hebdomadaire, est lui aussi décédé. Le grand reporter de <i>Libération</i> Philippe Lançon, qui y collaborait, serait blessé au visage, mais son pronostic vital n'est pas engagé. </p><p><b>>> Lire également <a href="http://www.lepoint.fr/societe/charlie-hebdo-charb-cabu-wolinsky-et-tignous-morts-dans-la-fusillade-07-01-2015-1894661_23.php"  title="">Charb, Cabu, Tignous et Wolinski tués</a></b><br /></p><p>Le journal a été touché le jour de <a href="http://www.lepoint.fr/societe/charlie-hebdo-houellebecq-et-djihadistes-au-sommaire-du-dernier-numero-07-01-2015-1894667_23.php"  title="">sa conférence de rédaction hebdomadaire</a>, qui réunit chaque mercredi matin l'ensemble des journalistes. Selon le porte-parole du syndicat UNSA Police Christophe Crépin, qui s'est exprimé encore sous le choc, l'attentat contre <i>Charlie Hebdo</i> est avant tout un assassinat de sang-froid. Les agresseurs, a-t-il indiqué, "ont d'abord tué un policier du service de protection des personnalités, abattu d'un coup de fusil automatique". Ce dernier, prénommé Franck, était affecté à la protection de Charb. Le second policier assassiné, rattaché au commissariat du 11e arrondissement, aurait été cueilli par les agresseurs alors qu'ils sortaient du bâtiment, au moment où il patrouillait à VTT. Âgé de 42 ans, il s'appelait Ahmed. <br /></p><h3>"On a vengé le Prophète"<br /></h3><p>Les agresseurs se seraient d'abord trompés d'immeuble et seraient entrés à la mauvaise adresse. Puis, vers 11 h 30, les hommes armés d'une kalachnikov et d'un lance-roquettes ont fait irruption au siège de <i>Charlie Hebdo</i>. Le commando aurait commencé à tirer dans le hall, puis serait monté dans les étages. Une trentaine de coups de feu auraient été tirés. Jointe par téléphone par le journal <i>L'Humanité</i>, alors qu'elle était encore sur les lieux de la fusillade, en état de choc, la dessinatrice Corinne Rey dite "Coco" témoigne : "J'étais allée chercher ma fille à la garderie, en arrivant devant la porte de l'immeuble du journal, deux hommes cagoulés et armés nous ont brutalement menacées. Ils voulaient entrer, monter. J'ai tapé le code. Ils ont tiré sur Wolinski, <a href="/tags/jean-cabu" class="surligner">Cabu</a>... Ça a duré cinq minutes... Je m'étais réfugiée sous un bureau... Ils parlaient parfaitement le français... Se revendiquaient d'al-Qaïda." <br /></p><p><b>>> Lire également <a href="http://www.lepoint.fr/societe/charlie-hebdo-des-corps-qui-sont-a-terre-des-mares-de-sang-des-blesses-tres-graves-07-01-2015-1894677_23.php"  title="">"Des corps qui sont à terre, des mares de sang, des blessés très graves" </a></b></p><p>Une vidéo montre deux hommes quittant le journal en criant : "On a vengé le Prophète, on a tué <i>Charlie Hebdo</i>." Une autre laisse clairement entendre le cri "Allah Akbar". Depuis février 2006 et la première affaire des caricatures de Mahomet, le journal satirique était régulièrement la <a href="http://www.lepoint.fr/societe/attentat-contre-charlie-hebdo-huit-ans-de-caricatures-et-de-menaces-07-01-2015-1894647_23.php"  title="">cible de menaces</a> et avaient fait, à plusieurs reprises, l'objet d'une protection policière. <br /></p><h3>Enquête<br /></h3><p>La Direction générale de la sécurité intérieure (DGSI) et la section antiterroriste (SAT) de la préfecture de Paris recherchent activement les auteurs de l'attentat en Seine-Saint-Denis. Les policiers auraient perdu leur trace porte de Pantin, à la sortie de Paris, où dans leur fuite ils auraient percuté un piéton. Les hommes armés, après avoir quitté le siège du journal en voiture, auraient changé de véhicule non loin de là, place du Colonel-Fabien, dans le 10e arrondissement. Un appel à témoins a été lancé par la police judiciaire et un numéro vert a été activé : 08.05.02.17.17.</p><p><div class="video-container"><iframe frameborder="0" width="560" height="315" src="http://www.dailymotion.com/embed/video/x2e74g1?autoPlay=0&logo=0" allowfullscreen></iframe></div><br /></p><p><b>>> EN IMAGES<i> </i><a href="http://www.lepoint.fr/societe/charlie-hebdo-une-attaque-a-l-arme-de-guerre-07-01-2015-1894680_23.php"  title=""><i><a href="/tags/charlie-hebdo" class="surligner">Charlie Hebdo</a>,</i> une attaque à l'arme de guerre</a></b><br /></p><p><a href="http://www.lepoint.fr/societe/carnage-a-charlie-hebdo-hollande-c-est-un-attentat-terroriste-07-01-2015-1894643_23.php"  title="">Le président de la République François Hollande, qui s'est rapidement rendu sur place de même que le Premier ministre Manuel Valls et le ministre de l'Intérieur Bernard Cazeneuve, a évoqué </a>un "attentat terroriste". "Nous punirons les agresseurs", a déclaré le chef de l'État. Matignon <a href="http://www.lepoint.fr/societe/fusillade-a-charlie-hebdo-vigipirate-releve-au-niveau-alerte-attentats-07-01-2015-1894641_23.php"  title="">a annoncé le relèvement du plan Vigipirate</a> au niveau "alerte attentats", le niveau le plus élevé, dans toute l'Ile-de-France. Organes de presse, grands magasins, lieux de culte et transports ont été placés sous "protection renforcée". Les sorties scolaires à Paris et les activités en dehors des établissements sont suspendues jusqu'à nouvel ordre, a indiqué mercredi le rectorat. Le Premier ministre Manuel Valls a "activé" mercredi en début d'après-midi la cellule interministérielle de crise du gouvernement.</p><p><b>>> Lire aussi <a href="http://www.lepoint.fr/politique/attentat-chez-charlie-hebdo-la-classe-politique-horrifiee-07-01-2015-1894669_20.php"  title="">Les réactions politiques à l'attentat</a></b></p><p><a href="http://www.lepoint.fr/societe/charlie-hebdo-le-monde-entier-condamne-l-attentat-07-01-2015-1894703_23.php"  title="">De nombreux chefs d'État étrangers</a>, ainsi que des responsables religieux, ont manifesté dans l'après-midi leur soutien à Paris. Cet attentat est le plus meurtrier commis en France depuis l'attentat perpétré à l'aéroport d'Orly en 1978. Peu après la fusillade sanglante, <a href="http://www.lepoint.fr/societe/charlie-hebdo-jesuischarlie-la-solidarite-s-exprime-sur-les-reseaux-sociaux-07-01-2015-1894681_23.php"  title="">le hashtag #Jesuischarlie</a> est apparu sur Twitter en signe de solidarité.<br /></p><p><script type="text/javascript">$(function(){$('.fancy-img').fancybox({helpers: {title:'inside'}, nextEffect : 'none', nextSpeed:200, prevEffect : 'none'});});</script><style>.fancybox-opened{z-index:2147483647} #fancybox-overlay{z-index:2147483630} .fancybox-prev{left:-47px} .fancybox-next{right:-47px}</style><div id="3044809" class="image_embed_container placement_middle " style="width:420px;padding-right:10px"><a class="fancy-img" rel="images_article" href="/images/2015/01/07/3044809-ide-charliehebdo-150107-cabu-wolinski-charb-tignous-01-jpg_2650227.jpg" title="Les 4 dessinateurs de &#34;Charlie Hebdo&#34; tués &copy;  Idé"><div class="zoom"></div><img id="3044809_img" alt="Les 4 dessinateurs de &#34;Charlie Hebdo&#34; tués &copy;  Idé" onclick="return xt_med('F','214','Images::attentat_contre_charlie_hebdo_la_redaction_decimee_3044809')" title="Les 4 dessinateurs de &#34;Charlie Hebdo&#34; tués &copy;  Idé" class="image_embed" style="max-width:100%" src="/images/2015/01/07/3044809-ide-charliehebdo-150107-cabu-wolinski-charb-tignous-01-jpg_2650227.jpg" /></a></div><script type="text/javascript">$(function(){if(typeof($('#3044809').width())=='number'){$('#3044809').width($('3044809_img').width()); $('#3044809').css('padding-right', '0'); $('#3044809_img').css('margin', '0');if($('.col_article').length > 0 && $('#3044809, #3044809_img').position().top > ($('.col_article').position().top + $('.col_article').height()) && (750 >= (652 * (100 / 100)))) $('#3044809, #3044809_img').width((652 * (100 / 100)));else if(($('.col_article').length > 0) && (750 >= (430 * (100 / 100)))) $('#3044809, #3044809_img').width((430 * (100 / 100)));else if($('.col_article').length == 0 && (750 >= (430 * (100 / 100)))) $('#3044809, #3044809_img').width((652 * (100 / 100)));}});</script><br /></p><br /><br />
+</span>
+<script type="text/javascript">
+//<![CDATA[
+var contenu_col_article_start = [];
+$('.col_article_brouil_start').append(contenu_col_article_start.contenu);
+var contenu_col_article_end = [];
+$('.col_article_brouil_end').append(contenu_col_article_end.contenu);
+var contenu_partage_article = {"contenu":"<!-- Code de la barre en haut -->\n<div id=\"share\" class=\"barreArticle\">\n    <!-- Barre d'outil -->\n    <div class=\"blocOutil floatL\">\n\n                    <div class=\"bouton mrgR10 floatL\" onclick=\"xt_click(this,'C','214','barre_du_haut::favori','A');\">\n                <a href=\"\/auth\/archivageArticle.php?id_sans_version=1894629&titre=Attentat%20contre%20%22Charlie%20Hebdo%22%20%3A%20la%20r%C3%A9daction%20d%C3%A9cim%C3%A9e&chapeau=Le%20si%C3%A8ge%20du%20journal%20a%20%C3%A9t%C3%A9%20la%20cible%20d%27un%20attentat.%20Charb%2C%20Cabu%2C%20Wolinski%20et%20Tignous%20figurent%2C%20ainsi%20que%20le%20journaliste%20Bernard%20Maris%2C%20parmi%20les%20tu%C3%A9s.&date=2015-01-07 12:03:00&image=\/images\/2015\/01\/07\/3044373-jpg_2649376_113x76.JPG&auteur=Le Point.fr\" id=\"archiverArticle\" class=\"hint hint--top hint--info colorbox-archive cboxElement\" onclick=\"return false;\" data-hint=\"Ajouter l'article \u00e0 mes archives\"><\/a>\n            <\/div>\n        \n                    <div class=\"bouton mrgR10 floatL\">\n                <a href=\"javascript:window.print();\" id=\"imprimerArticle\" class=\"hint hint--top hint--info\" data-hint=\"Imprimer\" onclick=\"return xt_click(this,'C','214','barre_du_haut::imprimer','A');\">\n                <\/a>\n            <\/div>\n                <div class=\"bouton mrgR10 floatL\" onclick=\"xt_click(this,'C','214','barre_du_haut::envoi_ami','A')\">\n            <a href=\"\/send-friend\/form.php?titre=Attentat%20contre%20%22Charlie%20Hebdo%22%20%3A%20la%20r%C3%A9daction%20d%C3%A9cim%C3%A9e&surtitre=&texte=La%20fusillade%20%C3%A0%20Charlie%20Hebdo%20a%20fait%2012%20morts%2C%20dont%202%20poli...&url=%2Fsociete%2Fen-direct-fusillade-a-charlie-hebdo-selon-i-tele-et-20-minutes-07-01-2015-1894629_23.php\" class=\"hint hint--top hint--info\" id=\"mailArticle\" data-hint=\"Envoyer \u00e0 un ami\" onclick=\"return false;\"><\/a>\n        <\/div>\n                                    <div class=\"bouton mrgR10 floatL\">\n                    <a href=\"\/societe\/en-direct-fusillade-a-charlie-hebdo-selon-i-tele-et-20-minutes-07-01-2015-1894629_23.php#bloc_commentaire\" id=\"commenterArticle\" class=\"hint hint--top hint--info\" data-hint=\"Commenter cet article\" onclick=\"return xt_click(this,'C','214','barre_du_haut::commenter','A');\">\n                    <\/a>\n                <\/div>\n                                        <div class=\"bouton mrgR10 floatL\">\n                <a href=\"javascript:void(0)\" id=\"agrandir\" class=\"hint hint--top hint--info grossir_texte\" data-hint=\"Agrandir le texte\" onclick=\"return xt_click(this,'C','214','barre_du_haut::agrandir_texte','A');\"><\/a>\n            <\/div>\n            <div class=\"bouton mrgR10 floatL\">\n                <a href=\"javascript:void(0)\" id=\"reduire\" class=\"hint hint--top hint--info reduire_texte reduire_off\" data-hint=\"R\u00e9duire le texte\" onclick=\"return xt_click(this,'C','214','barre_du_haut::diminuer_texte','A');\"><\/a>\n            <\/div>\n                \n    <\/div>\n    <!-- Fin barre d'outil -->\n\n    <!-- Bouton Freemium -->\n    <div id=\"abo_share\"><a id=\"share1Euro\"href=\"http:\/\/abo.lepoint.fr\/\" onclick=\"return xt_adc(this, 'INT-194-[Button]')\" target=\"_blank\"><img src=\"http:\/\/logi8.xiti.com\/get.ad?xts=188560&ati=INT-194-[Button]&type=AT&rn=1&url=http:\/\/www.lepoint.fr\/images\/myad.gif\"><\/a><\/div>    <!-- Fin Bouton Freemium -->\n\n    <!-- Barre bouton sociaux -->\n    <div class=\"blocSociaux floatR\">\n\n        <!-- Facebook -->\n        <div class=\"mrgR10 floatL\">\n            <div class=\"floatL\"><a href=\"javascript:void(0)\" id=\"fb_b\" onclick=\"window.open('http:\/\/www.facebook.com\/sharer.php?u=http:\/\/w.lpnt.fr\/1894629f', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_haut::Partage_Facebook','A');\" rel=\"nofollow\"><\/a><\/div>\n            <div class=\"floatL mrgL2 facebookBulle\"><\/div>\n            <div class=\"floatL bulle borderFacebook facebooklike\"><\/div>\n        <\/div>\n        <!-- Facebook -->\n\n        <!-- Twitter -->                                                                                                                    \n\n        <div class=\"mrgR10 floatL\">\n\n            <div class=\"floatL\"><a href=\"javascript:void(0)\" id=\"tw_b\" onclick=\"window.open('https:\/\/twitter.com\/intent\/tweet?original_referer=http:\/\/www.lepoint.fr&source=tweetbutton&text=Attentat%20contre%20%22Charlie%20Hebdo%22%20%3A%20la%20r%C3%A9daction%20d%C3%A9cim%C3%A9e&url=http:\/\/w.lpnt.fr\/1894629t&hashtags=Soci%C3%A9t%C3%A9&via=LePoint&related=LePoint', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_haut::Partage_Twitter','A')\" rel=\"nofollow\"><\/a><\/div>\n\n\n\n            <div class=\"floatL mrgL2 twitterBulle\"><\/div>\n            <div class=\"floatL bulle borderTwitter twitterlike\"><\/div>\n        <\/div>\n        <!-- Twitter -->\n\n        <!-- Google + -->\n        <div class=\"mrgR10 floatL\">\n            <div class=\"floatL\"><a href=\"javascript:void(0)\" id=\"gp_b\" onclick=\"window.open('https:\/\/plus.google.com\/share?url=http:\/\/www.lepoint.fr\/societe\/en-direct-fusillade-a-charlie-hebdo-selon-i-tele-et-20-minutes-07-01-2015-1894629_23.php', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_haut::Partage_Googleplus','A');\" rel=\"nofollow\"><\/a><\/div>\n            <div class=\"floatL mrgL2 googleBulle\"><\/div>\n            <div class=\"floatL bulle borderGoogle googlelike\"><\/div>\n        <\/div>\n        <!-- Google + -->\n\n        <!-- Linkedin -->\n        <div class=\"mrgR10 floatL\">\n            <div class=\"floatL\"><a href=\"javascript:void(0)\" id=\"li_b\" onclick=\"window.open('http:\/\/www.linkedin.com\/shareArticle?mini=true&url=http:\/\/www.lepoint.fr\/societe\/en-direct-fusillade-a-charlie-hebdo-selon-i-tele-et-20-minutes-07-01-2015-1894629_23.php&title=Attentat%20contre%20%22Charlie%20Hebdo%22%20%3A%20la%20r%C3%A9daction%20d%C3%A9cim%C3%A9e', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_haut::Partage_Linkedin','A');\" rel=\"nofollow\"><\/a><\/div>\n            <div class=\"floatL mrgL2 linkedinBulle\"><\/div>\n            <div class=\"floatL bulle borderLinkedin linkedinlike\"><\/div>\n        <\/div>\n        <!-- Linkedin -->\n\n        <!-- Viadeo -->\n        <div class=\"floatL\">\n            <div class=\"floatL\"><a href=\"javascript:void(0)\" id=\"vd_b\" onclick=\"window.open('http:\/\/www.viadeo.com\/shareit\/share\/?url=http:\/\/www.lepoint.fr\/societe\/en-direct-fusillade-a-charlie-hebdo-selon-i-tele-et-20-minutes-07-01-2015-1894629_23.php&title=Attentat%20contre%20%22Charlie%20Hebdo%22%20%3A%20la%20r%C3%A9daction%20d%C3%A9cim%C3%A9e', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_haut::Partage_Viadeo','A');\" rel=\"nofollow\"><\/a><\/div>\n            <div class=\"floatL mrgL2 viadeoBulle\"><\/div>\n            <div class=\"floatL bulle borderViadeo viadeolike\"><\/div>\n        <\/div>\n        <!-- Viadeo -->\n\n    <\/div>\n    <!-- Fin barre bouton sociaux -->\n\n<\/div>\n<!-- Fin de la barre en haut -->\n\n<script>\n$(document).ready(function() {\n    $.ajax({\n        url: \"\/html\/share\/rs\/rs.php\",\n        type: 'POST',\n        data: \"url=\/societe\/en-direct-fusillade-a-charlie-hebdo-selon-i-tele-et-20-minutes-07-01-2015-1894629_23.php&type=rshare\",\n        success: function(data){\n            if(data){\n                var rshare = JSON.parse(data);\n                var facebook = rshare.facebook;\n                var twitter = rshare.twitter;\n                var linkedin = rshare.linkedin;\n                var googleplus = rshare.googleplus;\n                var viadeo = rshare.viadeo;\n\n                if(facebook>0){\n                    $(\".facebooklike\").show();\n                    $(\".facebookBulle\").show();\n                    $(\".facebooklike\").html(facebook);\n                }\n\n                if(twitter>0){\n                    $(\".twitterlike\").show();\n                    $(\".twitterBulle\").show();\n                    $(\".twitterlike\").html(twitter);\n                }\n\n                if((linkedin-1)>0){\n                    $(\".linkedinlike\").show();\n                    $(\".linkedinBulle\").show();\n                    $(\".linkedinlike\").html(linkedin-1);\n                }\n\n                if(googleplus>0){\n                    $(\".googlelike\").show();\n                    $(\".googleBulle\").show();\n                    $(\".googlelike\").html(googleplus);\n                }\n\n                if(viadeo>0){\n                    $(\".viadeolike\").show();\n                    $(\".viadeoBulle\").show();\n                    $(\".viadeolike\").html(viadeo);\n                }\n            }\n        }\n    });\n});\n<\/script>\n"};
+$("#entete2_article").after(contenu_partage_article.contenu);
+//]]>
+</script>
+<div class="lien_dossier">
+<p>Consultez notre dossier : <a href="/dossiers/societe/attentat-charlie-hebdo/">Attentats meurtriers en France</a></p>
+</div>
+</div>
+<!-- /Article zoomable -->
+<!-- Afficher google plus link -->
+<div class="liens-promo-gratuit"><a href="http://abo.lepoint.fr" target="_blank" Onclick="return xt_adc(this, 'INT-245-[lienTexte]')">Accédez à l’intégralité des contenus du Point à partir de 1€ seulement</a></div>
+<section class="util_article bottom">
+</section>
+<script type="text/javascript">
+var viadeoWidgetsJsUrl = document.location.protocol+"//widgets.viadeo.com";
+(function(){
+var e = document.createElement('script');
+e.type='text/javascript';
+e.async = true;
+e.src = viadeoWidgetsJsUrl+'/js/viadeowidgets.js';
+var s = document.getElementsByTagName('head')[0];
+s.appendChild(e);
+})();
+</script>
+<script type="text/javascript">
+//<![CDATA[
+var contenu_util_article = {"contenu":"\n<!-- Code de la barre en bas -->\n\n<div id=\"share\" class=\"mrgT20 barreArticle\">\n  <!-- Bouton Freemium -->\n    <div target=\"_blank\" id=\"abo_share\" class=\"mrgR5\"><a href=\"http:\/\/abo.lepoint.fr\/\" Onclick=\"return xt_adc(this, 'INT-244-[Button]')\" target=\"_blank\">Abonnez-vous <br \/>\u00e0 partir de 1\u20ac<img src=\"http:\/\/logi8.xiti.com\/get.ad?xts=188560&ati=INT-194-[Button]&type=AT&rn=1&url=http:\/\/www.lepoint.fr\/images\/myad.gif\"><\/a><\/div>    <!-- Fin Bouton Freemium -->\n  <div class=\"bouton mrgR5 floatL\"> <a id=\"imprimerArticle2\" href=\"javascript:window.print();\" class=\"hint hint--top hint--info\" data-hint=\"Imprimer\" onclick=\"return xt_click(this,'C','214','barre_du_bas::imprimer','A');\"><\/a><\/div>\n  <div class=\"bouton mrgR5 floatL\" onclick=\"xt_click(this,'C','214','barre_du_bas::envoi_ami','A')\"> <a id=\"mailArticle2\" href=\"\/send-friend\/form.php?titre=Attentat%20contre%20%22Charlie%20Hebdo%22%20%3A%20la%20r%C3%A9daction%20d%C3%A9cim%C3%A9e&surtitre=&texte=La%20fusillade%20%C3%A0%20Charlie%20Hebdo%20a%20fait%2012%20morts%2C%20dont%202%20poli...&url=%2Fsociete%2Fen-direct-fusillade-a-charlie-hebdo-selon-i-tele-et-20-minutes-07-01-2015-1894629_23.php\" class=\"hint hint--top hint--info\" data-hint=\"Envoyer \u00e0 un ami\" onclick=\"return false;\"><\/a> <\/div>\n              <div class=\"bouton mrgR20 floatL\"> <a id=\"commenterArticle2\" href=\"\/societe\/en-direct-fusillade-a-charlie-hebdo-selon-i-tele-et-20-minutes-07-01-2015-1894629_23.php#bloc_commentaire\" class=\"hint hint--top hint--info\" data-hint=\"Commenter cet article\" onclick=\"return xt_click(this,'C','214','barre_du_haut::commenter','A')\"><\/a> <\/div>\n        \n  <!-- Google + -->\n     <!-- Google + --> \n  \n  <!-- Twitter -->\n  <div class=\"mrgR5 floatL\">\n    <div class=\"floatL\"><a id=\"tw_b2\" href=\"javascript:void(0)\" onclick=\"window.open('https:\/\/twitter.com\/intent\/tweet?original_referer=http:\/\/www.lepoint.fr&source=tweetbutton&text=Attentat%20contre%20%22Charlie%20Hebdo%22%20%3A%20la%20r%C3%A9daction%20d%C3%A9cim%C3%A9e&url=http:\/\/w.lpnt.fr\/1894629t&hashtags=Soci%C3%A9t%C3%A9&via=LePoint&related=LePoint', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_haut::Partage_Twitter','A')\" rel=\"nofollow\"><\/a><\/div>\n    <div class=\"floatL mrgL2 twitterBulle\"><\/div>\n    <div class=\"floatL bulle borderTwitter twitterlike\"><\/div>\n  <\/div>\n  <!-- Twitter --> \n  \n  <!-- Facebook -->\n  <div class=\"mrgR20 floatL\">\n    <div class=\"floatL\"><a href=\"javascript:void(0)\" onclick=\"window.open('http:\/\/www.facebook.com\/sharer.php?u=http:\/\/w.lpnt.fr\/1894629f', 'popup', 'width=700,height=650,scrollbars=0');return xt_click(this,'C','214','barre_du_bas::Partage_Facebook','A');\" rel=\"nofollow\"><\/a><\/div>\n    <div class=\"floatL mrgL2 facebookBulle\"><\/div>\n    <div class=\"floatL bulle borderFacebook facebooklike\"><\/div>\n  <\/div>\n  <!-- Facebook --> \n  \n  <script>\n\t    $('#bloc_newsletter').submit(function(){return submitnl();});\n\t<\/script> \n  <!-- Newsletter -->\n    <form id=\"bloc_newsletter_article\" action=\"#\" method=\"get\" name=\"bloc_newsletter\" onsubmit=\"return submitnlarticle();\">\n    <input type=\"hidden\" value=\"nla\" name=\"origine\">\n    <input type=\"hidden\" value=\"nl13h,nl8h,offrespoint\" name=\"nl\">\n    <div class=\"floatR\">\n      <div class=\"newsletter floatL\">newsletter<\/div>\n      <div class=\"floatL\">\n        <input id=\"nlmailarticle\" type=\"text\" placeholder=\"Votre e-mail\" name=\"mail\" \/>\n      <\/div>\n      <div class=\"floatL\">\n        <input class=\"submit\" type=\"submit\" name=\"go\" value=\"ok\" onclick=\"return xt_click(this,'F','214','barre_du_bas::Abonnement_Newsletter');\">\n      <\/div>\n    <\/div>\n  <\/form>\n  <script type=\"text\/javascript\">\n\t\t\tfunction submitnlarticle()\n\t\t\t{\n\n\t\t\t\tvar url = 'http:\/\/boc.lepoint.fr';\n\t\t\t\tvar url2 = 'http:\/\/www.lepoint.fr';\n\t\t\t\tjQuery.post(url2+'\/html\/lepoint\/clientnl.php?'+jQuery('#bloc_newsletter_article').serialize()+'&url='+url,\n\t\t\t\tfunction(data) {\n\t\t\t\t\tif(data[\"resultat\"] == \"ok\" && data[\"raison\"] == \"precompte\" ){\n\t\t\t\t\t\tdocument.location.href=url+\"\/inscription\/index\/o\/nla\/mail\/\"+$(\"#nlmailarticle\").val();\n\t\t\t\t\t} else {\n\t\t\t\t\t\tjQuery('#messagenl').html(data['message']);\n\t\t\t\t\t\tjQuery('#amessagenl').colorbox({open:true,inline:true, href:\"#messagenl\"});\n\t\t\t\t\t}\n\t\t\t\t}, 'json');\n\t\t\t\treturn false;\n\t\t\t\t\/\/});\n\t\t\t}\n\t\t<\/script> \n  <!-- Fin newsletter -->\n  \n  <\/div>\n<!-- Fin de la barre en bas --><hr \/>\n"};
+$('.util_article.bottom').append(contenu_util_article.contenu);
+//]]>
+</script>
+</article>
+<!--COL A10 3-->
+<!--BLOC ARTICLE - 630 - autres articles - AUTOCMS-->
+<!--bMmrg - bloc_autres_articles.tpl-->
+<!-- Autres articles -->
+<div class="autres_articles">
+<div class="t">
+<h3>Sur le m&ecirc;me sujet</h3>
+<a href="/societe/rss.xml">RSS Société</a>            </div>
+<ul>
+<li><a  href="/societe/charlie-hebdo-les-syndicats-de-la-presse-appellent-a-un-rassemblement-a-17-heures-07-01-2015-1894707_23.php">Manifestations de soutien partout en France</a></li>
+<li><a  href="/societe/charlie-hebdo-le-ps-appelle-a-une-marche-des-republicains-07-01-2015-1894662_23.php">Le PS appelle à une &quot;marche des républicains&quot;</a></li>
+<li><a  href="/politique/charlie-hebdo-valls-active-la-cellule-interministerielle-de-crise-07-01-2015-1894676_20.php">Valls active la cellule interministérielle de crise</a></li>
+<li>
+<a href="/societe/pollution-pas-de-circulation-alternee-vendredi-a-paris-19-03-2015-1914278_23.php">Pollution : pas de circulation alternée vendredi à Paris</a>
+</li>
+</ul>
+<div class="tous">
+<a href="/societe/">Tous les articles - Société</a>
+</div>
+</div><!-- Fin autres articles -->
+<!--/BLOC ARTICLE - 630 - autres articles - AUTOCMS-->
+<!--BLOC ARTICLE - 630 - Conditions Pub Ligatus / Google  - STATIC-->
+<!--bH:-->
+<div class="module_flux bloc-pub"><script type="text/javascript" src="http://a.ligatus.com/?ids=16650&t=js"></script></div>
+<style>
+.lig_wrapper_global_35198 {
+border-bottom: 0;
+border-top: 0;
+}</style>
+<!--/BLOC ARTICLE - 630 - Conditions Pub Ligatus / Google  - STATIC-->
+<!--BLOC ARTICLE - 630 - commentaire - saisie - DYN-->
+<!--bMmrg - blocp_commentaire.tpl-->
+<script type="text/javascript">
+function loadCommentaryPage(page, noScroll){
+jQuery('#jxcommtary').html('<div class="comments_loader"><img src="/images/commun3/loading.gif" /></div>');
+jQuery.get('/_commentaires/commentaire_getter.php', {id_sans_version:"1894629", path:"lp:w:actu:societe", page_cmtary:page}).done(function(data){
+jQuery('#jxcommtary').html(data);
+if(!noScroll){
+$('html, body').animate({
+scrollTop: $("#liste_commentaires").offset().top
+}, 500);
+}
+jQuery('#pagination-item,#precedent,#suivant').each(function(){
+jQuery(this).attr('onclick', 'xt_med(\'F\',200,\'Societe::1894629_le_point_fr::attentat_contre_charlie_hebdo_la_redaction_decimee_commentaires_ajax\');' + jQuery(this).attr('onclick'));
+});
+});
+}
+jQuery(document).ready(function() {
+// récupération des commentaires en ajax
+loadCommentaryPage(1, true);
+jQuery('#ajouteruncommentairehaut').click(function(){jQuery('#reservehaut').slideDown();jQuery('#reservebas').slideUp();})
+jQuery('#ajouteruncommentairebas').click(function(){jQuery('#reservebas').slideDown();jQuery('#reservehaut').slideUp();})
+});
+</script>
+<section id="bloc_commentaire" class="bloc_commentairev2">
+<div class="liste_commentaires" id="liste_commentaires" itemscope>
+<div class="t">
+<p class="ph3"><span class="nb">652</span> <span class="titre">Commentaires</span></p>
+<p class="floatright boutonsajout clearnone" id="ajouteruncommentairehaut">
+<a href="javascript:void(0)" >Ajouter un commentaire</a>
+</p>
+</div>
+<div class="reserveauxabonnes txtcenter" id="reservehaut" style="display:none;">
+<p class="fontsize13 mb15">Ce service est <strong>réservé aux abonnés</strong></p>
+<p class="clearnone">
+<a href="javascript:void(0)" class="iframe_viacomment identifiez cboxElement dejaabonne">Déjà abonné ? <b>Identifiez-vous</b></a>
+<a href="http://abo.lepoint.fr/" class="abonnezvous1euro" onclick="return xt_adc(this, 'INT-293-[Button]')" target="_blank">Abonnez-vous à partir de 1€</a>
+</p>
+</div>
+<div id="jxcommtary"></div>
+<div class="tous">
+<a href="/reactions/societe/commentaires-sur-en-direct-fusillade-a-charlie-hebdo-selon-i-tele-et-20-minutes-07-01-2015-1894629_23">Tous les commentaires</a>
+</div>
+<div class="t"><p class="floatright boutonsajout clearnone" id="ajouteruncommentairebas"> <a href="javascript:void(0)" >Ajouter un commentaire</a> </p></div>
+<div class="reserveauxabonnes txtcenter" id="reservebas" style="display:none;">
+<p class="fontsize13 mb15">Ce service est <strong>réservé aux abonnés</strong></p>
+<p class="clearnone">
+<a href="javascript:void(0)" class="iframe_viacomment identifiez cboxElement dejaabonne">Déjà abonné ? <b>Identifiez-vous</b></a>
+<a href="http://abo.lepoint.fr/" class="abonnezvous1euro" onclick="return xt_adc(this, 'INT-293-[Button]')" target="_blank">Abonnez-vous à partir de 1€</a>
+</p>
+</div>
+</div>
+</section>
+<!--/BLOC ARTICLE - 630 - commentaire - saisie - DYN-->
+<!--BLOC ARTICLE - 630 - commentaire - message fermeture - DYN-->
+<!--bH:-->
+<!--/BLOC ARTICLE - 630 - commentaire - message fermeture - DYN-->
+<!--/COL A10 3-->
+</div><!-- fin page_article -->
+</div><!-- fin gauche -->
+<!-- début droite -->
+<div id="droite">
+<!--COL R30 1-->
+<!--BLOC RUBRIQUE - 300 - Dernière minute Société - AUTOCMS-->
+<!--bMexe - bloc_derniere_minute_300.tpl-->
+<div class="bloc derniere_depeche">
+<div class="t">
+<p class="ph3">Société</p>
+</div>
+<ul id="actualite-societe">
+<li>
+<span><time datetime="2015-03-24T10:29">10h29</time></span>
+<p class="ph3">
+<a href="/societe/sncf-de-11-000-a-13-000-suppressions-de-postes-en-vue-24-03-2015-1915302_23.php">SNCF: de 11.000 à 13.000 suppressions de postes en vue</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-03-24T10:25">10h25</time></span>
+<p class="ph3">
+<a href="/societe/savoir-s-aimer-moins-pour-s-aimer-mieux-24-03-2015-1915299_23.php">Savoir s&#039;aimer moins pour s&#039;aimer mieux</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-03-24T10:22">10h22</time></span>
+<p class="ph3">
+<a href="/societe/le-chomage-nuit-gravement-a-la-sante-24-03-2015-1915298_23.php">Le chômage nuit gravement à la santé</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-03-24T08:43">08h43</time></span>
+<p class="ph3">
+<a href="/societe/departementales-sarkozy-ne-deviera-pas-de-sa-ligne-ni-fn-ni-ps-24-03-2015-1915266_23.php">Départementales: Sarkozy ne &quot;déviera pas&quot; de sa ligne, ni FN ni PS</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-03-24T07:19">07h19</time></span>
+<p class="ph3">
+<a href="/societe/sncf-plus-de-800-indigenes-du-rail-demandent-justice-24-03-2015-1915250_23.php">SNCF : plus de 800 &quot;indigènes du rail&quot; demandent justice</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-03-24T06:23">06h23</time></span>
+<p class="ph3">
+<a href="/societe/radio-france-6e-jour-de-greve-un-plan-de-departs-se-profile-24-03-2015-1915235_23.php">Radio France: 6e jour de grève, un plan de départs se profile</a>
+</p>
+</li>
+</ul>
+<span class="nb">&nbsp;</span>
+<a class="tous" href="/24h-info/societe/">Société : l'actualité en direct</a>
+</div>
+<!--/BLOC RUBRIQUE - 300 - Dernière minute Société - AUTOCMS-->
+<!--BLOC Le Point - 300 - Pub Haut en 1 - POS 2 - STATIC-->
+<!--bH:-->
+<!-- pub haut pavé -->
+<div class="pub" id="pavehaut">
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+document.write('<scr'+'ipt type="text/javascript" src="http://ad.fr.doubleclick.net/N7750430/adj/ts.lepoint.fr/'+rub+';tile='+(tile=tile+1)+';thematique='+thematique+';sousthema='+sousthema+';auteur='+auteur+';dossier='+dossier+';marque='+marque+';recherche='+recherche+';type='+type+';pos=haut;sz=300x250;compte='+compte+';abonne='+abonne+';freemium='+freemium+';tronque='+tronque+';ord=' + ord + '?"><\/script>');
+//]]>
+</script>
+</div>
+<!-- Fin pub Hautpavé -->
+<!-- Test affichage pub pavé haut-->
+<!--/BLOC Le Point - 300 - Pub Haut en 1 - POS 2 - STATIC-->
+<!--BLOC RUBRIQUE - 300 - Quiz actu Mars 15 - STATIC-->
+<!--bH:-->
+<div class="module">
+<a href="http://jeux-concours.lepoint.fr/quiz-actualite-mars-2015"><img src="/images/modules2/infos/quiz_actu_mars15.jpg" alt="Quiz Actu Mars 2015" title="Quiz Actu Mars 2015" /></a>
+</div>
+<!--/BLOC RUBRIQUE - 300 - Quiz actu Mars 15 - STATIC-->
+<!--BLOC RUBRIQUE - 300 - Abo Newsletter - POS 3 - STATIC-->
+<!--bH:-->
+<div class="bloc" id="abo_newsletter" style="overflow:hidden;">
+<div class="t">
+<p class="ph3">Inscrivez-vous à la newsletter</p>
+Et restez connecté à l'actualité au quotidien.<br />
+</div>
+<form id="bloc_newsletter" action="#" method="get" name="bloc_newsletter" onSubmit="return submitnl()" target="_blank">
+<input id="nlmail" class="abonnementNL" type="text" placeholder="Votre e-mail" name="mail" />
+<input type="hidden" value="nlr" name="origine" />
+<input type="hidden" value="nl13h,nl8h,offrespoint" name="nl" />
+<input class="boutonNL" type="submit" onClick="return xt_click(this,'F','214','Abonnez-vous_a_notre_newsletter')" name="go" value="Je m'inscris" />
+</form>
+</div>
+<div id="amessagenl" style="display:none">
+<div id="messagenl" style="padding:50px" > </div>
+</div>
+<script type="text/javascript">
+function submitnl()
+{
+var url = 'http://boc.lepoint.fr';
+var url2 = 'http://www.lepoint.fr'
+jQuery.post(url2+'/html/lepoint/clientnl.php?'+jQuery('#bloc_newsletter').serialize()+'&url='+url,
+function(data) {
+if(data["resultat"] == "ok" && data["raison"] ==
+"precompte" )
+{
+document.location.href=url+"/campagne/inscription/origine/nlr/email/"+$("#nlmail").val();
+}
+else
+{
+jQuery('#messagenl').html(data['message']);
+jQuery('#amessagenl').colorbox({open:true,inline:true, href:"#messagenl"});
+}
+},
+'json');
+return false;
+//});
+}
+</script>
+<!-- BLOC EN VENTE -->
+<!--/BLOC RUBRIQUE - 300 - Abo Newsletter - POS 3 - STATIC-->
+<!--BLOC Le Point - 300 - Pub AUTOPROMO - 300x190 - STATIC-->
+<!--bH:-->
+<div class="pub" id="paveautopromo">
+<script language="javascript" type="text/javascript">
+//<![CDATA[
+document.write('<scr'+'ipt type="text/javascript" src="http://ad.fr.doubleclick.net/N7750430/adj/ts.lepoint.fr/'+rub+';tile='+(tile=tile+1)+';thematique='+thematique+';sousthema='+sousthema+';auteur='+auteur+';dossier='+dossier+';marque='+marque+';recherche='+recherche+';type='+type+';pos=haut;sz=300x190;compte='+compte+';abonne='+abonne+';freemium='+freemium+';tronque='+tronque+';ord=' + ord + '?"><\/script>');
+//]]>
+</script>
+</div>
+<!--/BLOC Le Point - 300 - Pub AUTOPROMO - 300x190 - STATIC-->
+<!--BLOC RUBRIQUE - 300 - Orange Top - POS 5 - STATIQUE-->
+<!--bH:-->
+<div id="orange_search" class="bloc">
+<p class="ph6">Top des recherches</p>
+<div id="n1"><a href="http://r-presse.ke.voila.fr/regis+laspales" target="_blank">Regis laspales</a></div><div id="n2"><a href="http://r-presse.ke.voila.fr/philippe+candeloro" target="_blank">Philippe candeloro</a></div><div id="n3"><a href="http://r-presse.ke.voila.fr/gerard+depardieu" target="_blank">Gerard depardieu</a></div><div id="n4"><a href="http://r-presse.ke.voila.fr/fc+barcelone+real+madrid" target="_blank">Fc barcelone real madrid</a></div><div id="n5"><a href="http://r-presse.ke.voila.fr/jean+luc+lahaye" target="_blank">Jean luc lahaye</a></div></div>
+<!--/BLOC RUBRIQUE - 300 - Orange Top - POS 5 - STATIQUE-->
+<!--BLOC RUBRIQUE - 300 - Sondages Débattre - POS 6 - AUTOCMS-->
+<!--bMexe - bloc_sondage_rubrique.tpl-->
+<div class="sondage">
+<form id="form_1913505">
+<p class="ph3">Sondage</p>
+<p class="ph4">
+<a href="/sondages/quels-enseignements-tirez-vous-de-la-campagne-electorale-des-elections-departementales-17-03-2015-1913505_366.php">Quels enseignements tirez-vous de la campagne électorale des élections départementales ?</a>
+<span> (<span id='nb_votant_1913505'>32132 votants</span>)</span> </p>
+<div id='reponses_1913505'>
+<div class="ligne">
+<input type="radio" id="radio_droite1" name="id_reponse" value="1" class='radio_1913505' />
+<label for="radio_droite1">Elle a une fois de plus montré la pauvreté du débat politique français : on n'a parlé QUE du Front national.</label>
+</div>
+<div class="ligne">
+<input type="radio" id="radio_droite2" name="id_reponse" value="2" class='radio_1913505' />
+<label for="radio_droite2">L'UMP a redressé la tête et amorce son retour au pouvoir.</label>
+</div>
+<div class="ligne">
+<input type="radio" id="radio_droite3" name="id_reponse" value="3" class='radio_1913505' />
+<label for="radio_droite3">Le FN s'est installé dans notre paysage politique et il sera difficile de l'en déloger.</label>
+</div>
+<div class="ligne">
+<input type="radio" id="radio_droite4" name="id_reponse" value="4" class='radio_1913505' />
+<label for="radio_droite4">Le rejet de François Hollande et du PS s'amplifie et devient préoccupant.</label>
+</div>
+<div class="action">
+<a href="" onclick="return xt_med('F','214','Sondages::Voter')" title="Valider" id ="vote_1913505" class="sond_vote">Voter</a>
+<a href="" onclick="return xt_med('F','214','Sondages::Resultats')" title="Voir les résultats" id ="voir_1913505" class="sond_voir">Voir les résultats</a>
+<span> (<span id='nb_votant_1913505'>32132 votants</span>)</span>
+</div>
+</div>
+</form>
+<div id='resultats_1913505' class='resultats' style='display:none;'>
+<div class="ligne">
+<p class="ph5">Elle a une fois de plus montré la pauvreté du débat politique français : on n'a parlé QUE du Front national.<span> (<span id='nb_votant_rep_1'>17134 votants</span>)</span></p>
+<div class="barre">
+<div class="contour" style="width: 228px;">
+<span title="53.3%" style="width: 122px;"></span>
+</div>
+<p>53.3%</p>
+</div>
+</div>
+<div class="ligne">
+<p class="ph5">L'UMP a redressé la tête et amorce son retour au pouvoir.<span> (<span id='nb_votant_rep_2'>2519 votants</span>)</span></p>
+<div class="barre">
+<div class="contour" style="width: 228px;">
+<span title="7.8%" style="width: 18px;"></span>
+</div>
+<p>7.8%</p>
+</div>
+</div>
+<div class="ligne">
+<p class="ph5">Le FN s'est installé dans notre paysage politique et il sera difficile de l'en déloger.<span> (<span id='nb_votant_rep_3'>7082 votants</span>)</span></p>
+<div class="barre">
+<div class="contour" style="width: 228px;">
+<span title="22%" style="width: 50px;"></span>
+</div>
+<p>22%</p>
+</div>
+</div>
+<div class="ligne">
+<p class="ph5">Le rejet de François Hollande et du PS s'amplifie et devient préoccupant.<span> (<span id='nb_votant_rep_4'>5397 votants</span>)</span></p>
+<div class="barre">
+<div class="contour" style="width: 228px;">
+<span title="16.8%" style="width: 38px;"></span>
+</div>
+<p>16.8%</p>
+</div>
+</div>
+<div class='action'>
+<a href="" title="Masquer les résultats" id ="masquer_1913505" class="sond_hide">Masquer les résultats</a>
+<span> (<span id='nb_votant_1913505'>32132 votants</span>)</span>
+</div>
+</div>
+<a class="tous" href="/sondages/">Tous les sondages</a>
+</div>
+<script>
+jQuery(document).ready(function(){
+jQuery('#voir_1913505, #masquer_1913505').click(function(){
+var id=jQuery(this).attr('id');
+if(id=='voir_1913505'){
+var showDiv='#resultats_1913505',
+hideDiv='#reponses_1913505';
+}else{
+var showDiv='#reponses_1913505',
+hideDiv='#resultats_1913505';
+}
+jQuery(hideDiv).fadeOut(
+'slow',
+function(){
+jQuery(showDiv).fadeIn('slow');
+}
+);
+return false;
+});
+jQuery('#vote_1913505').click(function(){
+var reponse=jQuery('#form_1913505').serialize();
+reponse += reponse!=''?'&':'';
+reponse += 'id=1913505&nb_votes=1' ;
+jQuery.ajax({
+url: '/sondages/ajax.php',
+type: 'post',
+data: reponse,
+success: function(data) {
+if(data!=0){
+jQuery('#reponses_1913505 .action').hide();
+window.location.reload();
+}
+return false;
+}
+});
+return false;
+});
+});
+</script>
+<!--/BLOC RUBRIQUE - 300 - Sondages Débattre - POS 6 - AUTOCMS-->
+<!--BLOC RUBRIQUE - 300 - En vente - POS 7 - STATIC-->
+<!--bH:-->
+<div id="enVenteMag" class="module">
+<div class="enVenteHeader">En vente actuellement</div>
+<div class="enVenteDate"><a onclick="return xt_adc(this,'INT-157-[lienTexte]')" href="http://www.lepoint.fr/versions-numeriques/">Numéro 2219 du 19 mars 2015</a></div>
+<a href="http://www.lepoint.fr/versions-numeriques/" onclick="return xt_adc(this, 'INT-159-[couv]')"><img src="/images/couv/lepoint2219-anticancer-les-nouveaux-exploits-de-la-medecine1.jpg" alt="Le Point Numéro 2219" title="Le Point Numéro 2219" /></a>
+<div class="enVenteTagline"><a onclick="return xt_adc(this,'INT-264-[lienTexte]')" href="http://www.lepoint.fr/versions-numeriques/">Retrouvez tous les numéros du Point</a></div>
+<div class="enVenteAbo1"><a onclick="return xt_adc(this,'INT-140-[Button]')" href="http://abo.lepoint.fr/">Abonnez-vous à partir de 1€</a></div>
+</div>
+
+<!--/BLOC RUBRIQUE - 300 - En vente - POS 7 - STATIC-->
+<!--BLOC Le Point - Immobilier Neuf Défiscaliser - Droite 1 - STATIC-->
+<!--bH:-->
+<div class="module"><iframe src="http://immobilier-neuf.lepoint.fr/investir-solutions-defiscalisation.php" frameborder="0" scrolling="no" width="300" height="360"></iframe></div>
+<!--/BLOC Le Point - Immobilier Neuf Défiscaliser - Droite 1 - STATIC-->
+<!--BLOC RUBRIQUE - 300 - Diaporama Actualités - rubrique spéficique - AUTOCMS-->
+<!--bMmrg - bloc_diapo_300.tpl-->
+<div class="en_image_droite">
+<div class="t">
+<p class="ph3">
+En images     	</p>
+<!--<ul class="onglet">
+<li class="diaporama"><a href="#en_image_droite1" class="in">Diaproramas</a></li>
+<li class="video"><a href="#en_image_droite2">Vid&eacute;os</a></li>
+</ul>-->
+</div>
+<div class="cont_en_image_droite" id="detail_en_image_droite1"></div>
+<div class="cont_en_image_droite" id="detail_en_image_droite2" style="display:none;"></div>
+<ul id="en_image_droite1" class="carousel">
+<li>
+<a href="/images/2015/03/23/./V3137843_292x197.jpg" width="278" height="187" title="&quot;Mission impossible&quot;, une saga légendaire">
+<img src="/images/2015/03/23/3137843-jpg_2781193_69x46.jpg" alt="&quot;Mission impossible&quot;, une saga légendaire" width="69" height="46" />
+</a>
+<a href="/cinema/mission-impossible-une-saga-legendaire-23-03-2015-1915209_35.php" class="href">&quot;Mission impossible&quot;, une saga légendaire</a>
+</li>
+<li>
+<a href="/images/2015/03/22/./V3133000_292x197.jpg" width="278" height="187" title="Printemps-été 2015 - Thomas Dutronc se lance dans la mode">
+<img src="/images/2015/03/22/3133000-jpg_2778389_69x46.jpg" alt="Printemps-été 2015 - Thomas Dutronc se lance dans la mode" width="69" height="46" />
+</a>
+<a href="/art-de-vivre/printemps-ete-2015-thomas-dutronc-se-lance-dans-la-mode-22-03-2015-1914806_4.php" class="href">Printemps-été 2015 - Thomas Dutronc se lance dans la mode</a>
+</li>
+<li>
+<a href="/images/2015/03/21/./V3135247_292x197.jpg" width="278" height="187" title="La &quot;marée du siècle&quot; se brise sur la côte atlantique">
+<img src="/images/2015/03/21/3135247-jpg_2777795_69x46.jpg" alt="La &quot;marée du siècle&quot; se brise sur la côte atlantique" width="69" height="46" />
+</a>
+<a href="/environnement/la-maree-du-siecle-se-brise-sur-la-cote-atlantique-21-03-2015-1914699_1927.php" class="href">La &quot;marée du siècle&quot; se brise sur la côte atlantique</a>
+</li>
+<li>
+<a href="/images/2015/03/20/./V3133760_292x197.jpg" width="278" height="187" title="Baselworld 2015 : 24 stars à Bâle">
+<img src="/images/2015/03/20/3133760-jpg_2776026_69x46.jpg" alt="Baselworld 2015 : 24 stars à Bâle" width="69" height="46" />
+</a>
+<a href="/art-de-vivre/baselworld-2015-24-stars-a-bale-20-03-2015-1914488_4.php" class="href">Baselworld 2015 : 24 stars à Bâle</a>
+</li>
+<li>
+<a href="/images/2015/03/18/./V3129382_292x197.jpg" width="278" height="187" title="Florence Arthaud, une aventurière inoubliable">
+<img src="/images/2015/03/18/3129382-jpg_2772038_69x46.jpg" alt="Florence Arthaud, une aventurière inoubliable" width="69" height="46" />
+</a>
+<a href="/sport/florence-arthaud-une-aventuriere-inoubliable-18-03-2015-1913896_26.php" class="href">Florence Arthaud, une aventurière inoubliable</a>
+</li>
+<li>
+<a href="/images/2015/03/18/./V3131918_292x197.jpg" width="278" height="187" title="Gisele Bündchen dit adieu aux podiums">
+<img src="/images/2015/03/18/3131918-jpg_2772819_69x46.jpg" alt="Gisele Bündchen dit adieu aux podiums" width="69" height="46" />
+</a>
+<a href="/people/gisele-bundchen-dit-adieu-aux-podiums-18-03-2015-1913981_2116.php" class="href">Gisele Bündchen dit adieu aux podiums</a>
+</li>
+</ul>
+<div class="tous">
+<a href="/diaporamas-actualites/" id="a_en_image_droite1">Tous les diaporamas </a>
+<!--<a href="#" id="a_en_image_droite2" style="display:none;">Toutes les vid&eacute;os</a>-->
+</div>
+</div>
+<!--/BLOC RUBRIQUE - 300 - Diaporama Actualités - rubrique spéficique - AUTOCMS-->
+<!--BLOC RUBRIQUE - 300 - Bloc "Top articles"-->
+<!--bMmrg - bloc_plus_populaires.tpl-->
+<!-- bloc_plus_populaires.tpl -->
+<div class="bloc articles_commentaires articles_commentaires_300">
+<p class="ph3">Les plus populaires</p>
+<div class="nav">
+<ul class="onglet">
+<li>
+<a href="#plus_lus" class="in">Lus</a>
+</li>
+<li>
+<a href="#plus_commentes">Commentés</a>
+</li>
+<li class="last">
+<a href="#plus_partages">Partagés</a>
+</li>
+</ul>
+</div>
+<ol class="liste" id="plus_lus" >
+<li class="n1">
+<a href="/societe/pourquoi-un-paquet-de-cigarettes-devrait-couter-13-euros-23-03-2015-1915163_23.php">Pourquoi un paquet de cigarettes devrait co&ucirc;ter 13 euros</a>
+</li>
+<li class="n2">
+<a href="/societe/exclusif-interpellations-de-policiers-presumes-ripoux-23-03-2015-1915106_23.php">EXCLUSIF. Interpellations de policiers pr&eacute;sum&eacute;s ripoux</a>
+</li>
+<li class="n3">
+<a href="/societe/circulation-alternee-2-803-infractions-a-la-mi-journee-23-03-2015-1915082_23.php">Circulation altern&eacute;e : 2 803 infractions &agrave; la mi-journ&eacute;e</a>
+</li>
+<li class="n4">
+<a href="/societe/isere-un-directeur-d-ecole-primaire-soupconne-de-viols-sur-mineurs-23-03-2015-1915199_23.php">Is&egrave;re : un directeur d&#039;&eacute;cole primaire soup&ccedil;onn&eacute; de viols sur mineurs</a>
+</li>
+<li class="n5">
+<a href="/societe/sncf-plus-de-800-indigenes-du-rail-demandent-justice-24-03-2015-1915250_23.php">SNCF : plus de 800 &quot;indig&egrave;nes du rail&quot; demandent justice</a>
+</li>
+</ol>
+<ol class="liste" id="plus_commentes" style="display:none;">
+<li class="n1">
+<a href="/societe/pourquoi-un-paquet-de-cigarettes-devrait-couter-13-euros-23-03-2015-1915163_23.php">Pourquoi un paquet de cigarettes devrait co&ucirc;ter 13 euros</a>
+</li>
+<li class="n2">
+<a href="/societe/circulation-alternee-2-803-infractions-a-la-mi-journee-23-03-2015-1915082_23.php">Circulation altern&eacute;e : 2 803 infractions &agrave; la mi-journ&eacute;e</a>
+</li>
+<li class="n3">
+<a href="/societe/isere-un-directeur-d-ecole-primaire-soupconne-de-viols-sur-mineurs-23-03-2015-1915199_23.php">Is&egrave;re : un directeur d&#039;&eacute;cole primaire soup&ccedil;onn&eacute; de viols sur mineurs</a>
+</li>
+<li class="n4">
+<a href="/societe/sncf-plus-de-800-indigenes-du-rail-demandent-justice-24-03-2015-1915250_23.php">SNCF : plus de 800 &quot;indig&egrave;nes du rail&quot; demandent justice</a>
+</li>
+<li class="n5">
+<a href="/societe/exclusif-interpellations-de-policiers-presumes-ripoux-23-03-2015-1915106_23.php">EXCLUSIF. Interpellations de policiers pr&eacute;sum&eacute;s ripoux</a>
+</li>
+</ol>
+<ol class="liste" id="plus_partages" style="display:none;">
+<li class="n1">
+<a href="/societe/exclusif-interpellations-de-policiers-presumes-ripoux-23-03-2015-1915106_23.php">EXCLUSIF. Interpellations de policiers pr&eacute;sum&eacute;s ripoux</a>
+</li>
+<li class="n2">
+<a href="/societe/pourquoi-un-paquet-de-cigarettes-devrait-couter-13-euros-23-03-2015-1915163_23.php">Pourquoi un paquet de cigarettes devrait co&ucirc;ter 13 euros</a>
+</li>
+<li class="n3">
+<a href="/societe/l-education-contre-le-racisme-qu-est-ce-qu-on-peut-faire-on-n-est-que-des-citoyens-24-03-2015-1915233_23.php">L&#039;&eacute;ducation contre le racisme : &quot;Qu&#039;est-ce qu&#039;on peut faire ? On n&#039;est que des citoyens !&quot;</a>
+</li>
+<li class="n4">
+<a href="/societe/sncf-plus-de-800-indigenes-du-rail-demandent-justice-24-03-2015-1915250_23.php">SNCF : plus de 800 &quot;indig&egrave;nes du rail&quot; demandent justice</a>
+</li>
+<li class="n5">
+<a href="/societe/nantes-hommage-rendu-en-nombre-a-un-educateur-social-assassine-jeudi-23-03-2015-1915109_23.php">Nantes: hommage rendu en nombre &agrave; un &eacute;ducateur social assassin&eacute; jeudi</a>
+</li>
+</ol>
+</div>
+<!--/BLOC RUBRIQUE - 300 - Bloc "Top articles"-->
+<!--BLOC RUBRIQUE - 300 - Réseaux sociaux - Facebook + Recommendations Box + Twitter-->
+<!--bH:-->
+<div class="bloc" id="suivez-nous">
+<div class="t"><p class="ph3">Suivez-nous</p></div>
+<div id="reseauxsociaux">
+<a target="_blank" title="Facebook" href="https://www.facebook.com/lepoint.fr" class="bouton1">Facebook</a>
+<a target="_blank" title="Twitter" href="https://twitter.com/LePoint" class="bouton2">twitter</a>
+<a rel="publisher" target="_blank" title="Google +" href="https://plus.google.com/+LePointfr" class="bouton3">Google+</a>
+<a title="Flux RSS" href="http://www.lepoint.fr/rss.xml" class="bouton4" target="_blank">Flux RSS</a>
+<a title="Applications mobile" href="http://www.lepoint.fr/mobiles/" class="bouton5">Applications mobile</a>
+</div>
+</div>
+<!--/BLOC RUBRIQUE - 300 - Réseaux sociaux - Facebook + Recommendations Box + Twitter-->
+<!--BLOC RUBRIQUE - 300 - aération éditorialistes - AUTOCMS-->
+<!--bMmrg - bloc_opinion_300.tpl-->
+<div class="bloc editorialiste">
+<p class="ph3">Les éditorialistes du Point</p>
+<ul>
+<li>
+<a href="/editos-du-point/franz-olivier-giesbert/"><img src="/images/photos2/journalistes/franz-olivier-giesbert.gif" alt="Franz-Olivier Giesbert" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/editos-du-point/franz-olivier-giesbert/">Franz-Olivier Giesbert</a></p>
+<a href="/editos-du-point/franz-olivier-giesbert/fog-l-affaire-de-la-rue-helie-de-saint-marc-18-03-2015-1913727_70.php">FOG : l&#039;affaire de la rue Hélie-de-Saint-Marc&nbsp;<img src="/images/freemium/abonnes-petit.png"  alt=""/></a>
+</div>
+</li>
+<li>
+<a href="/editos-du-point/patrick-besson/"><img src="/images/photos2/journalistes/patrick-besson.gif" alt="Patrick Besson" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/editos-du-point/patrick-besson/">Patrick Besson</a></p>
+<a href="/editos-du-point/patrick-besson/patrick-besson-opportunement-22-03-2015-1914803_71.php">Patrick Besson : opportunément&nbsp;<img src="/images/freemium/abonnes-petit.png"  alt=""/></a>
+</div>
+</li>
+<li>
+<a href="/editos-du-point/pierre-antoine-delhommais/"><img src="/images/photos2/journalistes/pierre-antoine-delhommais.gif" alt="Pierre-Antoine Delhommais" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/editos-du-point/pierre-antoine-delhommais/">Pierre-Antoine Delhommais</a></p>
+<a href="/editos-du-point/pierre-antoine-delhommais/education-et-si-on-essayait-le-nivellement-par-le-haut-20-03-2015-1914323_493.php">Éducation : et si on essayait le nivellement par le haut ?&nbsp;<img src="/images/freemium/abonnes-petit.png"  alt=""/></a>
+</div>
+</li>
+<li>
+<a href="/editos-du-point/bernard-henri-levy/"><img src="/images/photos2/journalistes/bernard-henri-levy.gif" alt="Bernard-Henri Lévy" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/editos-du-point/bernard-henri-levy/">Bernard-Henri Lévy</a></p>
+<a href="/editos-du-point/bernard-henri-levy/bhl-pour-saluer-serguei-magnitski-21-03-2015-1914596_69.php">BHL - Pour saluer Sergueï Magnitski&nbsp;<img src="/images/freemium/abonnes-petit.png"  alt=""/></a>
+</div>
+</li>
+<li>
+<a href="/politique/emmanuel-berretta/"><img src="/images/photos2/journalistes/emmanuel-berretta.gif" alt="Emmanuel Berretta" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/politique/emmanuel-berretta/">Emmanuel Berretta</a></p>
+<a href="/politique/emmanuel-berretta/departementales-2015-francois-hollande-peut-il-encore-unir-la-gauche-23-03-2015-1915030_1897.php">Départementales 2015 : François Hollande peut-il encore unir la gauche ?&nbsp;<img src="/images/freemium/abonnes-petit.png"  alt=""/></a>
+</div>
+</li>
+</ul>
+<a href="/editos-du-point/" class="tous">Tous les éditoriaux </a>
+</div>
+<!--/BLOC RUBRIQUE - 300 - aération éditorialistes - AUTOCMS-->
+<!--BLOC RUBRIQUE - 300 - aération invités  - AUTOCMS-->
+<!--bMmrg - bloc_opinion_300.tpl-->
+<div class="bloc editorialiste">
+<p class="ph3">Les invités du Point</p>
+<ul>
+<li>
+<a href="/invites-du-point/caroline-galacteros/"><img src="/images/photos2/journalistes/caroline-galacteros.gif" alt="Caroline Galactéros" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/invites-du-point/caroline-galacteros/">Caroline Galactéros</a></p>
+<a href="/invites-du-point/caroline-galacteros/iran-le-retour-du-pragmatisme-americain-24-03-2015-1915230_2425.php">Iran : le retour du pragmatisme américain&nbsp;<img src="/images/freemium/abonnes-petit.png"  alt=""/></a>
+</div>
+</li>
+<li>
+<a href="/invites-du-point/patrick-artus/"><img src="/images/photos2/journalistes/patrick-artus.gif" alt="Patrick Artus" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/invites-du-point/patrick-artus/">Patrick Artus</a></p>
+<a href="/invites-du-point/patrick-artus/artus-au-secours-les-keynesiens-ont-pris-le-pouvoir-en-zone-euro-24-03-2015-1915231_1448.php">Artus : au secours, les keynésiens ont pris le pouvoir en zone euro !</a>
+</div>
+</li>
+<li>
+<a href="/invites-du-point/bertrand-chokrane/"><img src="/images/photos2/journalistes/bertrand-chokrane.gif" alt="Bertrand Chokrane" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/invites-du-point/bertrand-chokrane/">Bertrand Chokrane</a></p>
+<a href="/invites-du-point/bertrand-chokrane/chokrane-france-la-machine-a-exclure-24-03-2015-1915229_2466.php">Chokrane - France : la machine à exclure</a>
+</div>
+</li>
+<li>
+<a href="/invites-du-point/philippe-tesson/"><img src="/images/photos2/journalistes/philippe-tesson.gif" alt="Philippe Tesson" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/invites-du-point/philippe-tesson/">Philippe Tesson</a></p>
+<a href="/invites-du-point/philippe-tesson/tesson-departementales-les-gagnants-et-les-perdants-23-03-2015-1915054_543.php">Tesson - Départementales : les gagnants et les perdants</a>
+</div>
+</li>
+<li>
+<a href="/invites-du-point/charles-consigny/"><img src="/images/photos2/journalistes/charles-consigny.gif" alt="Charles Consigny" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/invites-du-point/charles-consigny/">Charles Consigny</a></p>
+<a href="/invites-du-point/charles-consigny/consigny-departementales-les-quatre-lecons-du-scrutin-23-03-2015-1915044_1449.php">Consigny - Départementales : les 4 leçons du scrutin</a>
+</div>
+</li>
+<li>
+<a href="/invites-du-point/gabriel-matzneff/"><img src="/images/photos2/journalistes/matzneff.gif" alt="Gabriel Matzneff" width="50" height="50" /></a>
+<div>
+<p class="ph4"><a href="/invites-du-point/gabriel-matzneff/">Gabriel Matzneff</a></p>
+<a href="/invites-du-point/gabriel-matzneff/matzneff-du-passe-faisons-table-rase-23-03-2015-1914908_1885.php">Matzneff : du passé faisons table rase&nbsp;<img src="/images/freemium/abonnes-petit.png"  alt=""/></a>
+</div>
+</li>
+</ul>
+<a href="/invites-du-point/" class="tous">Tous les invités </a>
+</div>
+<!--/BLOC RUBRIQUE - 300 - aération invités  - AUTOCMS-->
+<!--BLOC RUBRIQUE - 300 - Bloc météo Carrousel spoutnik - STATIC-->
+<!--bH:-->
+<!--
+-->
+<div class="module" id="leblocmeteo">﻿
+<div id="bloc-meteo">
+  <div id="bloc-meteo-contenu">
+    <ul id="meteo-carousel-static">
+      
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/paris.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_16.png" /></div>
+				<div class="blocs-meteo-temperature"><p>4&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Paris</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/marseille.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_07.png" /></div>
+				<div class="blocs-meteo-temperature"><p>10&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Marseille</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/lyon.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_07.png" /></div>
+				<div class="blocs-meteo-temperature"><p>8&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Lyon</p></div>
+			</a>
+			</li>    </ul>
+    <ul id="meteo-carousel" class="jcarousel-skin-tango" style="position:absolute">
+      
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/paris.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_16.png" /></div>
+				<div class="blocs-meteo-temperature"><p>4&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Paris</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/marseille.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_07.png" /></div>
+				<div class="blocs-meteo-temperature"><p>10&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Marseille</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/lyon.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_07.png" /></div>
+				<div class="blocs-meteo-temperature"><p>8&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Lyon</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/toulouse.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_11.png" /></div>
+				<div class="blocs-meteo-temperature"><p>10&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Toulouse</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/bordeaux.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_11.png" /></div>
+				<div class="blocs-meteo-temperature"><p>6&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Bordeaux</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/orleans.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_10.png" /></div>
+				<div class="blocs-meteo-temperature"><p>6&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Orléans</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/lille.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_10.png" /></div>
+				<div class="blocs-meteo-temperature"><p>0&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Lille</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/brest.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_07.png" /></div>
+				<div class="blocs-meteo-temperature"><p>6&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Brest</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/nantes.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_08.png" /></div>
+				<div class="blocs-meteo-temperature"><p>7&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Nantes</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/le-mans.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_10.png" /></div>
+				<div class="blocs-meteo-temperature"><p>6&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Le Mans</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/perpignan.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_10.png" /></div>
+				<div class="blocs-meteo-temperature"><p>10&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Perpignan</p></div>
+			</a>
+			</li>
+			<li class="bloc-meteo1">
+				<a href="/html/meteo/annecy.php">
+					<div class="blocs-meteo-picto"><img src="/images/meteo/icons_40x40/meteonews-icons_55.png" /></div>
+				<div class="blocs-meteo-temperature"><p>4&deg;C</p></div>
+				<div class="blocs-meteo-ville"><p>Annecy</p></div>
+			</a>
+			</li>    </ul>
+    <div id="toutelameteo">
+      <p><a href="/html/meteo/">Toute la m&eacute;t&eacute;o &gt;&gt;</a></p>
+    </div>
+  </div>
+</div>
+</div>
+<script type="text/javascript">function meteoCarousel_initCallback(a){a.buttonNext.bind("click",function(){a.startAuto(0)});a.buttonPrev.bind("click",function(){a.startAuto(0)});a.clip.hover(function(){a.stopAuto()},function(){a.startAuto()})}jQuery(document).ready(function(){$("#meteo-carousel-static").css("visibility" , "hidden");$("#meteo-carousel").show();jQuery("#meteo-carousel").jcarousel({auto:5,wrap:"circular",animation:"slow",initCallback:meteoCarousel_initCallback,buttonNextHTML:null,buttonPrevHTML:null})});
+</script>
+<!--/BLOC RUBRIQUE - 300 - Bloc météo Carrousel spoutnik - STATIC-->
+<!--BLOC RUBRIQUE - 300 - Se Loger Recherche parmi les ventes - DYN-->
+<!--bH:-->
+<style type="text/css">
+#seloger_recherche_immo p.ph1, #seloger_annonces_immo p.ph1 {
+font: normal 17px Georgia, "Times New Roman", Times, serif;
+color: #ba0000;
+float: left;
+margin: 10px 0 0 5px;
+}
+#seloger_dernieres_annonces p.ph1 {
+font: normal 17px Georgia, "Times New Roman", Times, serif;
+color: #ba0000;
+float: left;
+margin:0;
+width:200px;
+}
+#seloger_recherche_immo, #seloger_annonces_immo, #seloger_dernieres_annonces {
+margin-bottom: 20px
+}
+#seloger_recherche_immo {
+width: 300px;
+height: auto;
+border: 1px solid #bbbbbb;
+clear:both;
+}
+#seloger_annonces_immo {
+width: 300px;
+height: auto;
+border: 1px solid #bbbbbb;
+clear:both;
+}
+#seloger_dernieres_annonces {
+width: 300px;
+height: auto;
+border: 1px solid #bbbbbb;
+clear:both;
+}
+ul#dernieres_annonces a {
+color:#131313;
+text-decoration:none;
+}
+#seloger_dernieres_annonces .contenu_seloger img {
+width: 100px;
+height: 75px;
+}
+#dernieres_annonces img {
+width: 100px;
+height: 75px;
+}
+#seloger_recherche_immo .tous, #seloger_annonces_immo .tous, #seloger_dernieres_annonces .tous {
+margin: 0 0px 0px 150px;
+}
+.entete {
+width: 294px;
+height: 40px;
+margin: 3px 3px 3px 3px;
+border-bottom: 1px solid #bbbbbb;
+}
+.contenu_seloger {
+width: 284px;
+margin: 5px 8px 0 8px;
+padding: 0 0 7px 0;
+}
+.contenu_seloger #blocventes, .contenu_seloger #bloclocations {
+margin: 9px 8px 0 17px;
+width: 260px;
+}
+.contenu_seloger #blocventes p, .contenu_seloger #bloclocations p {
+padding: 0 10px;
+}
+.contenu_seloger p.ph2 {
+font-size: 14px;
+font-weight: bold;
+margin: 7px 0 5px 0
+}
+.avec_seloger {
+width: 50px;
+height: 40px;
+float: right;
+text-align: center;
+font-size: 11px;
+margin: 0 3px 0 0;
+}
+.avec_seloger img {
+width: 50px;
+}
+.annonces {
+overflow:hidden;
+}
+.annonces p {
+float:left;
+width:100px;
+margin-right : 8px;
+position:relative;
+margin-bottom:8px;
+}
+.annonces p span {
+width:90px;
+position:absolute;
+bottom:0;
+left:10px;
+background: none repeat scroll 0 0 rgba(0, 0, 0, 0.65);
+padding:5px;
+}
+.annonces p span a {
+color:#fff;
+text-decoration:none;
+font-size: 11px;
+}
+ul#dernieres_annonces {
+overflow:auto;
+margin-bottom:5px;
+background: #dadada;
+padding: 7px 0 7px 1px;/*color: #ffffff;*/
+}
+ul#dernieres_annonces li {
+float:left;
+width : 80px;
+padding-left : 10px;
+text-align:center;
+font-size:11px;
+}
+ul#dernieres_annonces li img {
+width: 80px;
+height: 60px;
+margin: 0 0 3px 0;
+}
+#onglets_seloger {
+width: 294px;
+height: 28px;
+margin: -3px 3px 0 3px;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+text-transform:uppercase;
+border-bottom: 1px solid #cccccc;
+background: -moz-linear-gradient(bottom, #cdcdcd, #dadada 20%) !important;
+background: #dddddd;
+clear:both;
+}
+ul.onglet_seloger {
+overflow:auto;
+margin-bottom:5px;
+}
+ul.onglet_seloger li {
+float:left;
+width : 129px;
+padding-left : 10px;
+text-align:center;
+font-size:13px;
+}
+ul.onglet_seloger li a {
+color:#333333;
+display:block;
+height: 20px;
+padding-top: 2px;
+margin: 5px 0 0 0;
+background: #e6e6e6;
+text-decoration:none;
+border-radius: 5px 5px 0 0;
+-moz-border-radius: 5px 5px 0 0;
+-webkit-border-radius: 5px 5px 0 0;
+border-top: 1px solid #cccccc;
+border-right: 1px solid #cccccc;
+border-bottom: 1px solid #cccccc;
+border-left: 1px solid #cccccc;
+background: -moz-linear-gradient(bottom, #cccccc, #eeeeee 8%);/*background: -webkit-gradient(linear, bottom, top, from(#cccccc), color-stop(0.06, #e5e7e6), color-stop(0.94, #e5e7e6), to(#798382));*/
+}
+ul.onglet_seloger li a.actif {
+color:#ac0000;
+background: #ffffff;
+font-weight:bold;
+border-top: 1px solid #bbbbbb;
+border-right: 1px solid #bbbbbb;
+border-bottom: 1px solid #ffffff;
+border-left: 1px solid #bbbbbb;
+-moz-box-shadow: 0px 2px 3px #666666; /* Firefox */
+-webkit-box-shadow: 0px 2px 3px #666666; /* Safari and Chrome */
+box-shadow: 0 0 3px #666666;
+}
+#seloger_recherche_immo input, #seloger_annonces_immo input,  #seloger_dernieres_annonces input {
+color:#aaaaaa;
+border: 1px solid #999999;
+padding: 3px 4px 3px 4px;
+margin: 5px 0 5px 0;
+}
+#seloger_annonces_immo select {
+color:#aaaaaa;
+border: 1px solid #999999;
+padding: 2px 4px 2px 4px;
+width: 150px;
+margin: 5px 0 5px 0;
+font: 12px Arial,Helvetica,sans-serif;
+}
+#seloger_recherche_immo input.immosubmit, #seloger_annonces_immo input.immosubmit, #seloger_dernieres_annonces input.immosubmit  {
+border: none;
+width: 25px;
+height: 20px;
+margin: 0;
+padding: 6px 2px 0;
+}
+#seloger_recherche_immo input.button, #seloger_annonces_immo input.button, #seloger_dernieres_annonces input.button {
+border:none;
+}
+</style>
+<div id="seloger_recherche_immo">
+<div class="entete">
+<p class="ph1">Votre recherche Immobilier</p>
+<div class="avec_seloger">
+<p>avec</p>
+<img src="http://immobilier.lepoint.fr/z/portail/svx/base_sl/images/logo_seloger_70.gif" /></div>
+</div>
+<div class="contenu_seloger">
+<p>Recevez par mail les annonces correspondant à votre recherche</p>
+<script>
+function converturl() {
+var emailfield = document.getElementsByName( "emailfield")[0];
+var fullurl = document.getElementsByName( "fullurl")[0];
+fullurl.value = "http://immobilier.lepoint.fr/alerte,step2.htm?mail="+ emailfield.value;
+}
+</script>
+<form target="_top" name="emailsend" onsubmit='converturl();location.href=fullurl.value;return false'>
+<input type="text" value="Votre adresse mail" size="30" name="emailfield" class="focusInput" />
+<input src="/images/commun3/bt-ok.jpg" type="image" value="submit" class="immosubmit" />
+<input name="fullurl" type="hidden" />
+</form>
+</div>
+</div>
+<!-- 2ème bloc -->
+<div id="seloger_annonces_immo">
+<div class="entete">
+<p class="ph1">Annonces Immobilières</p>
+<div class="avec_seloger">
+<p>avec</p>
+<img src="http://immobilier.lepoint.fr/z/portail/svx/base_sl/images/logo_seloger_70.gif" /></div>
+</div>
+<div class="contenu_seloger">
+<p>Lancez votre recherche parmi <br/>
+<strong>plus de 1&nbsp;438&nbsp;325 annonces</strong> à la vente</p>
+<form action="http://immobilier.lepoint.fr/prerecherche.htm" method="get" target="_top">
+<select name="idtypebien">
+<option value="2">Maison / Villa</option>
+<option value="1">Appartement</option>
+</select>
+<input type="text" value="Code postal" size="9" name="cp" class="focusInput">
+<input type="hidden" name="idtt" id="ididtt" value="2" />
+<input src="/images/commun3/bt-ok.jpg" type="image" value="submit" class="immosubmit" />
+</form>
+<p class="ph2">Les dernières annonces</p>
+<ul id="dernieres_annonces">
+<li><a href="http://immobilier.lepoint.fr/403546/93105087/detail.htm"><img src="http://8.visuels.poliris.com/thumbnails/8/0/1/7/801775b6-6c51.jpg" alt="Maison contemporaine - Jacou" width="80" /></a><br />Maison contemporaine - Jacou</li>
+<li><a href="http://immobilier.lepoint.fr/403546/97512867/detail.htm"><img src="http://7.visuels.poliris.com/thumbnails/7/f/4/2/7f42076b-3f94.jpg" alt="Maison contemporaine - Jacou" width="80" /></a><br />Maison contemporaine - Jacou</li>
+<li><a href="http://immobilier.lepoint.fr/467814/93574093/detail.htm"><img src="http://9.visuels.poliris.com/thumbnails/9/2/8/c/928c2f84-614c.jpg" alt="Villa 5 pi&egrave;ces - Montpellier" width="80" /></a><br />Villa 5 pi&egrave;ces - Montpellier</li>
+</ul>
+<p> <a href="http://immobilier.lepoint.fr" class="tous">Toutes les annonces</a></p>
+</div>
+</div>
+<!--/BLOC RUBRIQUE - 300 - Se Loger Recherche parmi les ventes - DYN-->
+<!--BLOC RUBRIQUE - 300 - Tag ASQ - Pavé 2 - STATIC-->
+<!--bH:-->
+<div id="appnexus2" class="pub">
+<script type="text/javascript">
+if (typeof(desactive_asq)=='undefined' || desactive_asq !=1){
+//<![CDATA[
+document.write('<scr'+'ipt type="text/javascript" SRC="http://ib.adnxs.com/ttj?id=1028319&size=300x250&promo_alignment=center&referrer=lepoint.fr"><\/script>');
+//]]>
+};
+</script>
+</div>
+<!--/BLOC RUBRIQUE - 300 - Tag ASQ - Pavé 2 - STATIC-->
+<!--BLOC RUBRIQUE - 300 - Espace boutique Le Point - STATIC-->
+<!--bH:-->
+
+<div class="bloc diffusion_droite boutique">
+<!-- 
+<p class="ph2"><img src="/images/commun/t_boutique.png" alt="La boutique Le Point" width="100%" height="29"/></p>
+ -->
+<!-- ph2 -->
+<div class="f">
+<ul class="visuels">
+		<li   >
+		<a onclick="return xt_adc(this,'INT-145-[Couv]')" href="http://boutique.lepoint.fr/produit/617/utopies-changer-le-monde?affiliate=15">
+			<img src="/images/hors-serie/module-boutique/utopies-changer-le-monde.jpg" alt="UTOPIES CHANGER LE MONDE" width="80px" height="117px"  />
+		</a>
+	</li>
+		<li   >
+		<a onclick="return xt_adc(this,'INT-146-[Couv]')" href="http://boutique.lepoint.fr/produit/614/2500-ans-de-liberte-d-expression?affiliate=15">
+			<img src="/images/hors-serie/module-boutique/2500-ans-de-liberte-dexpression.jpg" alt="2500 ans de Liberté d'expression" width="80px" height="117px"  />
+		</a>
+	</li>
+		<li   class="last" >
+		<a onclick="return xt_adc(this,'INT-147-[Couv]')" href="http://boutique.lepoint.fr/produit/613/50-phrases-cultes-et-droles-de-l-histoire?affiliate=15">
+			<img src="/images/hors-serie/module-boutique/50-phrases-cultes-et-droles-de-lhistoire.jpg" alt="50 phrases cultes et drôles de L'HISTOIRE" width="80px" height="117px"  />
+		</a>
+	</li>
+	</ul>
+<ul>
+	<li style="background: url('http://www.lepoint.fr/images/commun/puce/2.gif') no-repeat 0px 6px;"><a onclick="return xt_adc(this,'INT-148-[lienTexte]')" href="http://boutique.lepoint.fr/rayon/133/hors-serie?affiliate=15" style="font-size:14px!important;">Tous les hors-s&eacute;ries</a></li>
+	
+</ul>
+</div>
+
+</div>
+<!--/BLOC RUBRIQUE - 300 - Espace boutique Le Point - STATIC-->
+<!--BLOC RUBRIQUE - 300 - People - AUTOCMS-->
+<!--bMexe - bloc_derniere_minute_300.tpl-->
+<div class="bloc derniere_depeche">
+<div class="t">
+<p class="ph3">People</p>
+</div>
+<ul id="culture">
+<li>
+<span><time datetime="2015-03-24T08:47">08h47</time></span>
+<p class="ph3">
+<a href="/people/angelina-jolie-annonce-qu-elle-a-subi-une-ablation-preventive-des-ovaires-24-03-2015-1915267_2116.php">Angelina Jolie annonce qu&#039;elle a subi une ablation préventive des...</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-03-23T16:14">16h14</time></span>
+<p class="ph3">
+<a href="/people/monaco-dix-ans-de-regne-du-prince-albert-en-juillet-au-son-de-robbie-williams-23-03-2015-1915104_2116.php">Monaco: dix ans de règne du prince Albert en juillet au son de Robbie...</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-03-23T15:55">15h55</time></span>
+<p class="ph3">
+<a href="/people/huis-clos-au-proces-de-jean-luc-lahaye-pour-corruption-de-mineure-23-03-2015-1915098_2116.php">Procès de Jean-Luc Lahaye: 2 ans de prison avec sursis  requis</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-03-22T17:39">17h39</time></span>
+<p class="ph3">
+<a href="/people/jean-luc-lahaye-juge-pour-corruption-de-mineure-de-moins-de-15-ans-22-03-2015-1914842_2116.php">Jean-Luc Lahaye jugé pour corruption de mineure de moins de 15 ans</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-03-21T17:58">17h58</time></span>
+<p class="ph3">
+<a href="/people/dropped-retour-imminent-en-france-des-victimes-de-l-accident-21-03-2015-1914708_2116.php">&quot;Dropped&quot;: cérémonie à Roissy à l&#039;arrivée des corps des victimes</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-03-20T20:55">20h55</time></span>
+<p class="ph3">
+<a href="/people/etats-unis-l-ex-magnat-du-rap-suge-knight-fait-un-malaise-au-tribunal-20-03-2015-1914571_2116.php">Etats-Unis: l&#039;ex-magnat du rap &quot;Suge&quot; Knight fait un malaise au tribunal</a>
+</p>
+</li>
+</ul>
+<span class="nb">&nbsp;</span>
+<a class="tous" href="/24h-info/culture/">People : l'actualité en direct</a>
+</div>
+<!--/BLOC RUBRIQUE - 300 - People - AUTOCMS-->
+<!--BLOC RUBRIQUE - 300 - Insolite - AUTOCMS-->
+<!--bMexe - bloc_derniere_minute_300.tpl-->
+<div class="bloc insolites">
+<div class="t">
+<p class="ph6">Insolites</p>
+</div>
+<ul id="actualite" class="liste">
+<li>
+<span><time datetime="2015-03-24T09:57">09h57</time></span>
+<p class="ph3">
+<a href="/insolite/le-pays-qui-menace-le-plus-la-paix-est-les-etats-unis-24-03-2015-1915284_48.php">Le pays qui menace le plus la paix est... les États-Unis !</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-03-23T23:44">23h44</time></span>
+<p class="ph3">
+<a href="/insolite/excrements-et-eaux-usees-de-veritables-mines-d-or-selon-des-chercheurs-23-03-2015-1915208_48.php">Excréments et eaux usées: de véritables mines d&#039;or, selon des chercheurs</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-03-23T19:47">19h47</time></span>
+<p class="ph3">
+<a href="/insolite/le-monopoly-a-80-ans-la-belle-surprise-d-une-mere-de-famille-23-03-2015-1915175_48.php">Le Monopoly a 80 ans : la belle surprise d&#039;une mère de famille</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-03-23T08:20">08h20</time></span>
+<p class="ph3">
+<a href="/insolite/le-paradis-du-flipper-se-trouve-a-budapest-23-03-2015-1914944_48.php">Le paradis du flipper se trouve... à Budapest</a>
+</p>
+</li>
+<li>
+<span><time datetime="2015-03-22T11:47">11h47</time></span>
+<p class="ph3">
+<a href="/insolite/gb-le-roi-du-parking-richard-iii-reposera-bientot-dans-son-ultime-demeure-22-03-2015-1914793_48.php">Richard III, le &quot;roi du parking&quot; reposera bientôt dans son ultime demeure</a>
+</p>
+</li>
+</ul>
+<span class="nb">&nbsp;</span>
+<a class="tous" href="/24h-info/insolites/">Insolites : l'actualité en direct</a>
+</div>
+<!--/BLOC RUBRIQUE - 300 - Insolite - AUTOCMS-->
+<!--BLOC Rubrique - 300 - Pure Shopping - STATIC-->
+<!--bH:-->
+<div class="module">
+<div id="shoppingBox"></div><div style="height:10px;margin-bottom:5px;text-align:right;width:300px;"><a href="http://www.shopoon.fr/" style="color:#000;font:normal normal normal 10px Arial,sans-serif;text-decoration:none;">PureShopping</a></div><script type="text/javascript" src="http://static1.shopoon.fr/catalog/generated_boxes/504/display.js"></script>
+</div>
+<!--/BLOC Rubrique - 300 - Pure Shopping - STATIC-->
+<!--BLOC RUBRIQUE - 300 - tags cloud mots clés spoutnik - STATIC-->
+<!--bH:-->
+<!--/BLOC RUBRIQUE - 300 - tags cloud mots clés spoutnik - STATIC-->
+<!--BLOC RUBRIQUE - 300  -  E-Presse -  STATIC-->
+<!--bH:-->
+<div class="pub" id="blocepresse"> <a href="https://www.epresse.fr/magazine/le-point" target="_blank"><img width="300" height="100" title="Le Point en ligne iPad iPhone sur le kiosque ePresse.fr" alt="Le Point en ligne iPad iPhone sur le kiosque ePresse.fr" src="/images/modules2/partenariat/epresse-300x100.gif" xtclib="HP_colDroite_Pub_EPresse1"></a> </div>
+<!--/BLOC RUBRIQUE - 300  -  E-Presse -  STATIC-->
+<!--BLOC RUBRIQUE - 300 - Tag ASQ Pavé 3 - STATIC-->
+<!--bH:-->
+<div id="appnexus3" class="pub">
+<script type="text/javascript">
+if (typeof(desactive_asq)=='undefined' || desactive_asq !=1){
+//<![CDATA[
+document.write('<scr'+'ipt type="text/javascript" SRC="http://ib.adnxs.com/ttj?id=1028320&size=300x250&promo_alignment=center&referrer=lepoint.fr"><\/script>');
+//]]>
+};
+</script>
+</div>
+<!--/BLOC RUBRIQUE - 300 - Tag ASQ Pavé 3 - STATIC-->
+<!--/COL R30 1--><!-- COL R30 2 -->
+<!-- /COL R30 2 --><!--COL R30 3-->
+<!--/COL R30 3--></div><!-- fin droite -->
+</div><!-- fin contenu -->
+<!--COL CFT -->
+<footer>
+<!--BLOC RUBRIQUE - 650 - Script JS Murecsys display none - STATIC -->
+<!--bH:-->
+<script type="text/javascript" src="http://www.lepoint.fr/scripts2/murecsys_lepoint.api.js"></script>
+<script type="text/javascript">
+(function($) {
+var recsys = new Recsys('http://212.95.70.88:8080/murecsys/');
+var event = {
+"type": "CLICK", // le type d'événement: toujours utiliser "CLICK".
+"token": "", // le session id de l'utilisateur
+"itemId": 1894629, // l'id de l'article en cours de lecture
+"nbRecommendations": 4, // le nombre de recommendations retournés.
+"recommended": false // true si la personne click sur une recommendation, false sinon.
+};
+$.when(recsys.getRecDetail(event));
+})(jQuery);
+</script>
+<!--/BLOC RUBRIQUE - 650 - Script JS Murecsys display none - STATIC -->
+<!--BLOC FOOTER - 990 - Bandeau ASQ-->
+<!--bH:-->
+<style type="text/css">
+#bandeau_appnexus {
+clear: both;
+text-align: center;
+margin-bottom: 20px;
+}
+</style>
+<div id="bandeau_appnexus">
+<script type="text/javascript">
+if (typeof(desactive_asq)=='undefined' || desactive_asq !=1){
+//<![CDATA[
+document.write('<scr'+'ipt type="text/javascript" SRC="http://ib.adnxs.com/ttj?id=1028402&size=1000x300&promo_sizes=1000x90,728x90&promo_alignment=center&referrer=lepoint.fr"><\/script>');
+//]]>
+};
+</script>
+</div>
+<!--/BLOC FOOTER - 990 - Bandeau ASQ-->
+<!--BLOC FOOTER  - footer - DYN-->
+<!--bMiso - bloc_footer.tpl-->
+<script language="javascript" type="text/javascript">
+var timeoutID=0;
+function LoadPage(){
+window.document.location.reload();
+}
+function Timer(){
+timeoutID = window.setTimeout("LoadPage()",900000);
+}
+</script>
+<script language="javascript" type="text/javascript">Timer()</script>
+<!--PUSHWEB-->
+<script type="text/javascript">
+var boxpop1000mercissnippet = (location.protocol=='https:'?'https://cdn.1000mercis.com/prod/pushweb/newsletterLP.js':'http://cdn.1000mercis.com/prod/pushweb/newsletterLP.js');
+document.write ("<scr"+"ipt type='text/javascript' src='"+boxpop1000mercissnippet);
+document.write ("'></scr"+"ipt>");
+</script>
+<!--FIN PUSHWEB-->
+<script type="text/javascript">
+(function(w, d) { var a = function() { var a = d.createElement('script'); a.type = 'text/javascript';
+a.async = 'async'; a.src = '//' + ((w.location.protocol === 'https:') ? 's3.amazonaws.com/cdx-radar/' :
+'radar.cedexis.com/') + '01-10334-radar10.min.js'; d.body.appendChild(a); };
+if (w.addEventListener) { w.addEventListener('load', a, false); }
+else if (w.attachEvent) { w.attachEvent('onload', a); }
+}(window, document));
+</script>
+<!--TARGETING_1000MERCIS-->
+<img src="http://mmtro.com/p?tagid=6546820-036e958179baf6b375e26731242eeacf" width="1" height="1" border="0" />
+<!--FIN TARGETING_1000MERCIS-->
+<!--BASILIC-->
+<script type="text/javascript">
+(function(){var f,d,a,b=document.createElement("iframe");b.src="javascript:false";(b.frameElement||b).style.cssText="width: 0; height: 0; border: 0; display: none;";var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a);try{d=b.contentWindow.document}catch(c){f=document.domain;b.src="javascript:var d=document.open();d.domain='"+f+"';void(0);";d=b.contentWindow.document}d.open()._l=function(){var e=this.createElement("script");if(f){this.domain=f}e.id="boomr-if-as";e.src=window.location.protocol=="https:"?"https://d3phbp7p78bdk9.cloudfront.net/common/foglio.js":"http://foglio.basilic.io/common/foglio.js";this.body.appendChild(e)};d.write('<body onload="document._l();">');d.close()})();
+</script>
+<!--FIN BASILIC-->
+<!-- tag inRead -->
+<script type="text/javascript">
+window._ttf = window._ttf || [];
+_ttf.push({
+pid          : 23182
+,lang        : "fr"
+,slot        : '[itemprop="articleBody"] p'
+,format      : "inread"
+,filter      : function (obj) {
+return (typeof(desactive_inread)=='undefined' || desactive_inread !=1);
+}});
+(function (d) {
+var js, s = d.getElementsByTagName('script')[0];
+js = d.createElement('script');
+js.async = true;
+js.src = '//cdn.teads.tv/js/all-v1.js';
+s.parentNode.insertBefore(js, s);
+})(window.document);
+</script>
+<!-- fin tag inRead -->
+<!--Visual Revenue Reader Response Tracking Script (v6) -->
+<script type="text/javascript">
+var _vrq = _vrq || [];
+_vrq.push(['id', 503]);
+_vrq.push(['automate', false]);
+_vrq.push(['track', function(){}]);
+(function(d, a){
+var s = d.createElement(a),
+x = d.getElementsByTagName(a)[0];
+s.async = true;
+s.src = 'http://a.visualrevenue.com/vrs.js';
+x.parentNode.insertBefore(s, x);
+})(document, 'script');
+</script>
+<!-- End of VR RR Tracking Script - All rights reserved -->
+<div id="pied1">
+<div class="t">
+<p class="ph2">  | <span id="footer_rub"> Société </span></p>
+<form action="/recherche/recherche.php" method="get" id="search3">
+<input name="query" value="Rechercher sur le site" class="focusInput" id="mc_recherche_pied" type="text">
+<input type="submit" class="bouton" alt="Rechercher" value="" />
+</form>
+</div>
+<div class="b">
+<p style="padding:0 0 20px">
+Consultez les articles de la rubrique Société, suivez les informations en temps réel et accédez à nos analyses de l'actualité.
+</p>
+<div class="g" id="lp_dossiers">
+<div class="ligne">
+<p class="ph3"><a rel="nofollow" href="#">Dossiers Société</a></p>
+<ul class="dossier_liste">
+<li><a href="http://www.lepoint.fr/dossiers/societe/air-cocaine-proces/" title="Air cocaïne, le procès ">Air cocaïne, le procès </a></li><li><a href="http://www.lepoint.fr/dossiers/societe/peur-drones/" title="Faut-il avoir peur des drones ?">Faut-il avoir peur des drones ?</a></li><li><a href="http://www.lepoint.fr/dossiers/societe/etre-juif-france/" title="Être juif en France ">Être juif en France </a></li></ul>
+</div>
+</div>
+<div class="g" id="lp_divers">
+<div class="ligne">
+<p class="ph3">Le Magazine</p>
+<ul style="width:183px">
+<li><a href="http://boutique.lepoint.fr">Boutique</a></li>
+<li><a href="http://abo.lepoint.fr" Onclick="return xt_adc(this, 'INT-193-[lienTexte]')">Abonnements</a><img src="http://logi8.xiti.com/get.ad?xts=188560&ati=INT-193-[lienTexte]&type=AT&rn=1&url=http://www.lepoint.fr/images/myad.gif"></li>
+<li><a href="http://boutique.lepoint.fr/rayon/133/hors-serie">Hors-séries</a></li>
+<li><a href="http://www.lepoint.fr/html/lepoint/edition_digitale.php">Édition digitale</a></li>
+<li><a href="http://www.lepoint.fr/html/lepoint/en_kiosque.php">En kiosque</a></li>
+</ul>
+</div>
+</div>
+<div class="g" id="lp_mobile">
+<div class="ligne">
+<p class="ph3">Le Point mobile</p>
+<ul>
+<li><a href="https://itunes.apple.com/fr/app/le-point.fr/id326861451">Application iPhone et iPad</a></li>
+<li><a href="https://play.google.com/store/apps/details?id=fr.lepoint.android">Application Android</a></li>
+<li><a href="http://appworld.blackberry.com/webstore/content/22415/?lang=fr">Application Blackberry</a></li>
+<li><a href="http://www.windowsphone.com/fr-fr/store/app/lepoint/6dac26ec-c998-43b4-b93e-8b179982c229">Application Windows Phone</a></li>
+<li><a href="http://apps.microsoft.com/windows/fr-fr/app/le-point-fr/5155ca53-f6b8-4da3-8744-5cd19afd25b0">Application Windows 8</a></li>
+<li><a href="http://mobile.lepoint.fr">Site mobile</a></li>
+</ul>
+</div>
+</div>
+<div class="g" id="lp_suivre">
+<div class="ligne">
+<p class="ph3">Nous suivre</p>
+<div class="sn">
+<ul class="sn_foot">
+<li><a href="http://www.facebook.com/lepoint.fr">Facebook</a></li>
+<li><a href="http://twitter.com/LePoint">Twitter</a></li>
+<li><a rel="publisher" href="http://plus.google.com/u/0/b/108148124716497323623/108148124716497323623/posts">Google +</a></li>
+<li><a href="http://www.lepoint.fr/rss.xml" target="_blank">RSS</a></li>
+<li><a href="http://www.youtube.com/user/lepointTV">Vidéos</a></li>
+<li><a href="http://www.dailymotion.com/LePoint">Daily Motion</a></li>
+</ul>
+</div>
+</div>
+<div class="ligne ligne2">
+<!--<p class="ph3"><a href="#">Newsletters</a></p>-->
+<ul>
+<li><a href="http://boc.lepoint.fr/campagne/newsletters/origine/nlf">Recevez nos newsletters</a></li>
+<!--<li><a href="#">Newsletter Argus des Montres</a></li>
+<li><a href="#">Newsletter Auto Addict</a></li>-->
+</ul>
+</div>
+</div>
+<!-- Fin pied 1 -->
+</div>
+<div id="pied2">
+<ul>
+<li>&copy; <span itemprop="copyrightHolder" itemscope itemtype="http://schema.org/Organization"><span itemprop="name">Le Point.fr</span></span></li>
+<li><a href="http://www.lepoint.fr/html/conditions/mentions_legales.jsp" title="Mentions l&eacute;gales">Mentions l&eacute;gales</a></li>
+<li><a href="http://boc.lepoint.fr/Faq" title="FAQ">FAQ</a></li>
+<li><a href="http://www.lepoint.fr/html/conditions/moderation.php">Conditions g&eacute;n&eacute;rales d'utilisation</a></li>
+<li><a href="http://www.lepoint.fr/html/contacts/contacts.jsp" title="Contacts">Publicit&eacute;</a></li>
+<li><a href="http://www.lepoint.fr/html/contacts/support.php" title="Ecrire au Point" class="xtclick">Nous contacter</a></li>
+</ul>
+<div class="ojd">
+<a href="http://www.ojd-internet.com/chiffres/5701-lepoint.fr?adhid=4817" target="_blank" class="xtclick"></a>
+<p>La fr&eacute;quentation de ce site est certifi&eacute;e par l'OJD.</p>
+</div>
+</div>
+<div id="footer-cookies">
+<div id="footer-texte"><p>En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de cookies pour vous proposer des services et offres adaptés à vos centres d'intérêts. Pour en savoir plus, <a href="http://www.lepoint.fr/html/conditions/cookies-donnees-personnelles.php">cliquez ici</a>. <span id="fermer" style="float:right;"><a href="javascript:void(0)" style="text-decoration:none;">X</a></span></p></div>
+</div>
+<link href="http://www.lepoint.fr/css2/spoutnik/cookies.css" type="text/css" rel="stylesheet">
+<script type="text/javascript">
+jQuery(document).ready(function() {
+if(getCookie('accept_cookies') == null) {
+setCookie('accept_cookies','accept_cookies',3650);
+}
+jQuery("#fermer").click(function(){jQuery('#footer-cookies').css('display', 'none');})
+});
+</script>
+<!--/BLOC FOOTER  - footer - DYN-->
+</footer>
+<!--/COL CFT --><!-- /template body :  body_article_2col.tpl -->
+</div>
+<!-- Fin Site -->
+<!-- Tag xiti -->
+<div id="xiti-logo">
+<script type="text/javascript">
+<!--
+xtnv     = document; // parent.document or top.document or document
+xtsd     = "http://logi8";
+xtsite   = "188560";
+xtn2     = "200"; // level 2 site ID
+xtpage   = "Societe::1894629_le_point_fr::attentat_contre_charlie_hebdo_la_redaction_decimee"; // page name (with the use of :: to create chapters)
+xtdi     = ""; // implication degree
+xt_multc = "&x1=1&x2=1&x3=1&x4=lepoint-fr&x5=le-point-fr"; // all the xi indicators (like "&x1=...&x2=....&x3=...")
+xt_an    = ""; // user ID
+xt_ac    = ""; // category ID
+xt_ati = "";
+//do not modify below
+if (window.xtparam!=null){window.xtparam+="&ac="+xt_ac+"&an="+xt_an+"&ati="+xt_ati+xt_multc;} else {window.xtparam = "&ac="+xt_ac+"&an="+xt_an+"&ati="+xt_ati+xt_multc;};
+//do not modify below
+if (window.xtparam!=null){window.xtparam+=xt_multc+"&ac="+xt_ac+"&an="+xt_an;} else {window.xtparam=xt_multc+"&ac="+xt_ac+"&an="+xt_an;};
+xt_pagetype = "4-1-0";
+// do not modify below
+if (window.xtparam!=null) {window.xtparam+="&ptype="+xt_pagetype;} else {xtparam = "&ptype="+xt_pagetype;};
+//-->
+</script>
+<script type="text/javascript" src="http://www.lepoint.fr/scripts2/xtcore.js"></script>
+<script type="text/javascript" src="http://www.lepoint.fr/scripts2/xiti_mesure_clics.js"></script>
+<object>
+<noscript>
+<div id="xiti-logo-noscript">
+<img width="1" height="1" src="http://logi8.xiti.com/hit.xiti?s=188560&amp;s2=200&amp;p=Societe::1894629_le_point_fr::attentat_contre_charlie_hebdo_la_redaction_decimee&amp;di=&amp;an=&amp;ac=" alt="XiTi" />
+</div>
+</noscript>
+</object>
+</div>
+<!-- Fin tag xiti -->
+<script type="text/javascript" async src="//platform.twitter.com/widgets.js"></script>
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.10.2/jquery-ui.min.js"></script>
+<script type="text/javascript" src="/scripts2/jquery.smallipop.min.js"></script>
+<script type="text/javascript" src="/scripts2/spoutnik/plugins/jquery.jcarousel.min.js"></script>
+<script type="text/javascript" src="/scripts2/spoutnik/scripts.js"></script>
+<script type="text/javascript" src="/scripts2/commun.js"></script>
+<script type="text/javascript" src="/scripts2/preroll.js"></script>
+<script type="text/javascript" src="http://www.lepoint.fr/scripts2/brightcoveexperiences.js"></script>
+<script type="text/javascript" src="/scripts2/spoutnik/plugins/jquery.validate.min.js"></script>
+<script type="text/javascript" src="/scripts2/article.js"></script>
+</body>
+<!-- GenTmInf rubp=lp:w:actu:societe rubc=lp:w:actu:societe idsv=1894629 id=1894645 gstart=2015-03-19T21:11:56 updat=2015-01-07T18:52:05 -->
+<!-- ExeTmInf tm=2015-03-24T10:38:38 hn=lepoint-web3.sdv.fr dr=0.031142 -->
+</html>

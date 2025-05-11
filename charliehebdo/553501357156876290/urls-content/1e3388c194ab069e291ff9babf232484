@@ -1,0 +1,1220 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 24 Mar 2015 08:26:34 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 109
+Connection: keep-alive
+Cache-Control: private, max-age=90
+Location: http://trib.al/aGIVHod
+Mime-Version: 1.0
+Set-Cookie: _bit=55111fba-00292-05069-291cf10a;domain=.bbc.in;expires=Sun Sep 20 08:26:34 2015;path=/; HttpOnly
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html;charset=utf-8
+Date: Tue, 24 Mar 2015 08:26:34 GMT
+Location: http://www.bbc.co.uk/news/live/world-europe-30722098?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central
+Server: CherryPy/3.2.4
+Set-Cookie: tribal="d6ejpFkSQACitGDzW+xtKQ=="; expires=Fri, 06 Jan 2034 23:13:40 GMT; Path=/; Version=2
+Content-Length: 333
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Server: Apache
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+X-News-Data-Centre: telhc
+Content-Language: en-GB
+X-PAL-Host: pal172.back.live.telhc.local:80
+X-News-Cache-Id: 60028
+Content-Length: 34708
+Date: Tue, 24 Mar 2015 08:26:34 GMT
+Connection: keep-alive
+Set-Cookie: BBC-UID=85759191b13f8b3aa981da5ae18235f6df0b478c84d4f1aeaaf124eed2282e080Mozilla/5.0%20(X11%3b%20Ubuntu%3b%20Linux%20i686%3b%20rv:11.0)%20Gecko/20100101%20Firefox/11.0; expires=Sat, 23-Mar-19 08:26:34 GMT; path=/; domain=.bbc.co.uk
+Cache-Control: private, max-age=60, stale-while-revalidate
+X-Cache-Action: HIT
+X-Cache-Hits: 4
+X-Cache-Age: 32
+X-LB-NoCache: true
+Vary: X-CDN,Accept-Encoding
+
+
+<!DOCTYPE html>
+<html lang="en-GB" id="responsive-news">
+<head >
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>As it happened: France sieges end - BBC News</title>
+
+    <meta name="x-country" content="gb">
+    <meta name="x-audience" content="Domestic">
+    <meta name="CPS_AUDIENCE" content="Domestic">
+        <link rel="canonical" href="http://www.bbc.co.uk/news/live/world-europe-30722098">
+
+                        <link rel="alternate" hreflang="en-gb" href="http://www.bbc.co.uk/news/live/world-europe-30722098?ns_mchannel=social&#38;ns_campaign=bbc_breaking&#38;ns_source=twitter&#38;ns_linkname=news_central">
+                                <link rel="alternate" hreflang="en" href="http://www.bbc.com/news/live/world-europe-30722098?ns_mchannel=social&#38;ns_campaign=bbc_breaking&#38;ns_source=twitter&#38;ns_linkname=news_central">
+            
+    
+    
+    <meta name="apple-mobile-web-app-title" content="BBC News">
+    <link rel="apple-touch-icon-precomposed" sizes="57x57"    href="http://static.bbci.co.uk/news/1.61.5243/apple-touch-icon-57x57-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="72x72"    href="http://static.bbci.co.uk/news/1.61.5243/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="114x114"  href="http://static.bbci.co.uk/news/1.61.5243/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon-precomposed" sizes="144x144"  href="http://static.bbci.co.uk/news/1.61.5243/apple-touch-icon.png">
+    <link rel="apple-touch-icon" href="http://static.bbci.co.uk/news/1.61.5243/apple-touch-icon.png">
+    <meta name="application-name" content="BBC News">
+    <meta name="msapplication-TileImage" content="http://static.bbci.co.uk/news/1.61.5243/windows-eight-icon-144x144.png">
+    <meta name="msapplication-TileColor" content="#CC0101">
+    <meta http-equiv="cleartype" content="on">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="theme-color" content="#cc0101">
+    <meta name="robots" content="NOODP,NOYDIR" />
+    <script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+    <script>
+        (function() {
+            if (navigator.userAgent.match(/IEMobile\/10\.0/)) {
+                var msViewportStyle = document.createElement("style");
+                msViewportStyle.appendChild(
+                    document.createTextNode("@-ms-viewport{width:auto!important}")
+                );
+                document.getElementsByTagName("head")[0].appendChild(msViewportStyle);
+            }
+        })();
+    </script>
+    
+           <meta name="viewport" content="width=device-width, initial-scale=1.0" />   <script type="text/javascript">window.bbcredirection={geo:true}</script>  <!--orb.ws.require.lib--> <script type="text/javascript">/*<![CDATA[*/ if (typeof window.define !== 'function' || typeof window.require !== 'function') { document.write('<script class="js-require-lib" src="http://static.bbci.co.uk/frameworks/requirejs/lib.js"><'+'/script>'); } /*]]>*/</script> <script type="text/javascript">  bbcRequireMap = {"jquery-1":"http://static.bbci.co.uk/frameworks/jquery/0.3.0/sharedmodules/jquery-1.7.2", "jquery-1.4":"http://static.bbci.co.uk/frameworks/jquery/0.3.0/sharedmodules/jquery-1.4", "jquery-1.9":"http://static.bbci.co.uk/frameworks/jquery/0.3.0/sharedmodules/jquery-1.9.1", "swfobject-2":"http://static.bbci.co.uk/frameworks/swfobject/0.1.10/sharedmodules/swfobject-2", "demi-1":"http://static.bbci.co.uk/frameworks/demi/0.10.0/sharedmodules/demi-1", "gelui-1":"http://static.bbci.co.uk/frameworks/gelui/0.9.13/sharedmodules/gelui-1", "cssp!gelui-1/overlay":"http://static.bbci.co.uk/frameworks/gelui/0.9.13/sharedmodules/gelui-1/overlay.css", "istats-1":"http://static.bbci.co.uk/frameworks/istats/0.25.1/modules/istats-1", "relay-1":"http://static.bbci.co.uk/frameworks/relay/0.2.6/sharedmodules/relay-1", "clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/clock-1", "canvas-clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/canvas-clock-1", "cssp!clock-1":"http://static.bbci.co.uk/frameworks/clock/0.1.9/sharedmodules/clock-1.css", "jssignals-1":"http://static.bbci.co.uk/frameworks/jssignals/0.3.6/modules/jssignals-1", "jcarousel-1":"http://static.bbci.co.uk/frameworks/jcarousel/0.1.10/modules/jcarousel-1", "bump-3":"//emp.bbci.co.uk/emp/bump-3/bump-3"}; require({ baseUrl: 'http://static.bbci.co.uk/', paths: bbcRequireMap, waitSeconds: 30 }); </script>   <script type="text/javascript">/*<![CDATA[*/ if (typeof bbccookies_flag === 'undefined') { bbccookies_flag = 'ON'; } showCTA_flag = true; cta_enabled = (showCTA_flag && (bbccookies_flag === 'ON') ); (function(){var e="ckns_policy",m="Thu, 01 Jan 1970 00:00:00 GMT",k={ads:true,personalisation:true,performance:true,necessary:true};function f(p){if(f.cache[p]){return f.cache[p]}var o=p.split("/"),q=[""];do{q.unshift((o.join("/")||"/"));o.pop()}while(q[0]!=="/");f.cache[p]=q;return q}f.cache={};function a(p){if(a.cache[p]){return a.cache[p]}var q=p.split("."),o=[];while(q.length&&"|co.uk|com|".indexOf("|"+q.join(".")+"|")===-1){if(q.length){o.push(q.join("."))}q.shift()}f.cache[p]=o;return o}a.cache={};function i(o,t,p){var z=[""].concat(a(window.location.hostname)),w=f(window.location.pathname),y="",r,x;for(var s=0,v=z.length;s<v;s++){r=z[s];for(var q=0,u=w.length;q<u;q++){x=w[q];y=o+"="+t+";"+(r?"domain="+r+";":"")+(x?"path="+x+";":"")+(p?"expires="+p+";":"");bbccookies.set(y,true)}}}window.bbccookies={_setEverywhere:i,cookiesEnabled:function(){var o="ckns_testcookie"+Math.floor(Math.random()*100000);this.set(o+"=1");if(this.get().indexOf(o)>-1){g(o);return true}return false},set:function(o){return document.cookie=o},get:function(){return document.cookie},_setPolicy:function(o){return h.apply(this,arguments)},readPolicy:function(o){return b.apply(this,arguments)},_deletePolicy:function(){i(e,"",m)},isAllowed:function(){return true},_isConfirmed:function(){return c()!==null},_acceptsAll:function(){var o=b();return o&&!(j(o).indexOf("0")>-1)},_getCookieName:function(){return d.apply(this,arguments)},_showPrompt:function(){var o=(!this._isConfirmed()&&window.cta_enabled&&this.cookiesEnabled()&&!window.bbccookies_disable);return(window.orb&&window.orb.fig)?o&&(window.orb.fig("no")||window.orb.fig("ck")):o}};bbccookies._getPolicy=bbccookies.readPolicy;function d(p){var o=(""+p).match(/^([^=]+)(?==)/);return(o&&o.length?o[0]:"")}function j(o){return""+(o.ads?1:0)+(o.personalisation?1:0)+(o.performance?1:0)}function h(r){if(typeof r==="undefined"){r=k}if(typeof arguments[0]==="string"){var o=arguments[0],q=arguments[1];if(o==="necessary"){q=true}r=b();r[o]=q}else{if(typeof arguments[0]==="object"){r.necessary=true}}var p=new Date();p.setYear(p.getFullYear()+1);p=p.toUTCString();bbccookies.set(e+"="+j(r)+";domain=bbc.co.uk;path=/;expires="+p+";");bbccookies.set(e+"="+j(r)+";domain=bbc.com;path=/;expires="+p+";");return r}function l(o){if(o===null){return null}var p=o.split("");return{ads:!!+p[0],personalisation:!!+p[1],performance:!!+p[2],necessary:true}}function c(){var o=new RegExp("(?:^|; ?)"+e+"=(\\d\\d\\d)($|;)"),p=document.cookie.match(o);if(!p){return null}return p[1]}function b(o){var p=l(c());if(!p){p=k}if(o){return p[o]}else{return p}}function g(o){return document.cookie=o+"=;expires="+m+";"}function n(){var o='<script type="text/javascript" src="http://static.bbci.co.uk/frameworks/bbccookies/0.6.6/script/bbccookies.js"><\/script>';if(window.bbccookies_flag==="ON"&&!bbccookies._acceptsAll()&&!window.bbccookies_disable){document.write(o)}}n()})(); /*]]>*/</script> <script type="text/javascript">/*<![CDATA[*/
+(function(){window.fig=window.fig||{};window.fig.manager={include:function(a){a=a||window;var e=a.document,g=e.cookie,b=g.match(/(?:^|; ?)ckns_orb_fig=([^;]+)/);if(!b&&g.indexOf("ckns_orb_nofig=1")>-1){this.setFig(a,{no:1})}else{if(b){b=this.deserialise(decodeURIComponent(RegExp.$1));this.setFig(a,b)}e.write('<script src="https://ssl.bbc.co.uk/frameworks/fig/1/fig.js"><'+"/script>")}},confirm:function(a){a=a||window;if(a.orb&&a.orb.fig&&a.orb.fig("no")){this.setNoFigCookie(a)}if(a.orb===undefined||a.orb.fig===undefined){this.setFig(a,{no:1});this.setNoFigCookie(a)}},setNoFigCookie:function(a){a.document.cookie="ckns_orb_nofig=1; expires="+new Date(new Date().getTime()+1000*60*10).toGMTString()+";"},setFig:function(a,b){(function(){var c=b;a.orb=a.orb||{};a.orb.fig=function(d){return(arguments.length)?c[d]:c}})()},deserialise:function(b){var a={};b.replace(/([a-z]{2}):([0-9]+)/g,function(){a[RegExp.$1]=+RegExp.$2});return a}}})();fig.manager.include();/*]]>*/</script>
+ 
+<!--[if (gt IE 8) | (IEMobile)]><!-->
+<link rel="stylesheet" href="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/orb/4/style/orb.css">
+<!--<![endif]-->
+
+<!--[if (lt IE 9) & (!IEMobile)]>
+<link rel="stylesheet" href="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/orb/4/style/orb-ie.css">
+<![endif]-->
+
+  <script type="text/javascript">/*<![CDATA[*/ (function(undefined){if(!window.bbc){window.bbc={}}var ROLLING_PERIOD_DAYS=30;window.bbc.Mandolin=function(id,segments,opts){var now=new Date().getTime(),storedItem,DEFAULT_START=now,DEFAULT_RATE=1,COOKIE_NAME="ckpf_mandolin";opts=opts||{};this._id=id;this._segmentSet=segments;this._store=new window.window.bbc.Mandolin.Storage(COOKIE_NAME);this._opts=opts;this._rate=(opts.rate!==undefined)?+opts.rate:DEFAULT_RATE;this._startTs=(opts.start!==undefined)?new Date(opts.start).getTime():new Date(DEFAULT_START).getTime();this._endTs=(opts.end!==undefined)?new Date(opts.end).getTime():daysFromNow(ROLLING_PERIOD_DAYS);this._signupEndTs=(opts.signupEnd!==undefined)?new Date(opts.signupEnd).getTime():this._endTs;this._segment=null;if(typeof id!=="string"){throw new Error("Invalid Argument: id must be defined and be a string")}if(Object.prototype.toString.call(segments)!=="[object Array]"){throw new Error("Invalid Argument: Segments are required.")}if(opts.rate!==undefined&&(opts.rate<0||opts.rate>1)){throw new Error("Invalid Argument: Rate must be between 0 and 1.")}if(this._startTs>this._endTs){throw new Error("Invalid Argument: end date must occur after start date.")}if(!(this._startTs<this._signupEndTs&&this._signupEndTs<=this._endTs)){throw new Error("Invalid Argument: SignupEnd must be between start and end date")}removeExpired.call(this,now);var overrides=window.bbccookies.get().match(/ckns_mandolin_setSegments=([^;]+)/);if(overrides!==null){eval("overrides = "+decodeURIComponent(RegExp.$1)+";");if(overrides[this._id]&&this._segmentSet.indexOf(overrides[this._id])==-1){throw new Error("Invalid Override: overridden segment should exist in segments array")}}if(overrides!==null&&overrides[this._id]){this._segment=overrides[this._id]}else{if((storedItem=this._store.getItem(this._id))){this._segment=storedItem.segment}else{if(this._startTs<=now&&now<this._signupEndTs&&now<=this._endTs&&this._store.isEnabled()===true){this._segment=pick(segments,this._rate);if(opts.end===undefined){this._store.setItem(this._id,{segment:this._segment})}else{this._store.setItem(this._id,{segment:this._segment,end:this._endTs})}log.call(this,"mandolin_segment")}}}log.call(this,"mandolin_view")};window.bbc.Mandolin.prototype.getSegment=function(){return this._segment};function log(actionType,params){var that=this;require(["istats-1"],function(istats){istats.log(actionType,that._id+":"+that._segment,params?params:{})})}function removeExpired(expires){var items=this._store.getItems(),expiresInt=+expires;for(var key in items){if(items[key].end!==undefined&&+items[key].end<expiresInt){this._store.removeItem(key)}}}function getLastExpirationDate(data){var winner=0,rollingExpire=daysFromNow(ROLLING_PERIOD_DAYS);for(var key in data){if(data[key].end===undefined&&rollingExpire>winner){winner=rollingExpire}else{if(+data[key].end>winner){winner=+data[key].end}}}return(winner)?new Date(winner):new Date(rollingExpire)}window.bbc.Mandolin.prototype.log=function(params){log.call(this,"mandolin_log",params)};window.bbc.Mandolin.prototype.convert=function(params){log.call(this,"mandolin_convert",params);this.convert=function(){}};function daysFromNow(n){var endDate;endDate=new Date().getTime()+(n*60*60*24)*1000;return endDate}function pick(segments,rate){var picked,min=0,max=segments.length-1;if(typeof rate==="number"&&Math.random()>rate){return null}do{picked=Math.floor(Math.random()*(max-min+1))+min}while(picked>max);return segments[picked]}window.bbc.Mandolin.Storage=function(name){validateCookieName(name);this._cookieName=name;this._isEnabled=(bbccookies.isAllowed(this._cookieName)===true&&bbccookies.cookiesEnabled()===true)};window.bbc.Mandolin.Storage.prototype.setItem=function(key,value){var storeData=this.getItems();storeData[key]=value;this.save(storeData);return value};window.bbc.Mandolin.Storage.prototype.isEnabled=function(){return this._isEnabled};window.bbc.Mandolin.Storage.prototype.getItem=function(key){var storeData=this.getItems();return storeData[key]};window.bbc.Mandolin.Storage.prototype.removeItem=function(key){var storeData=this.getItems();delete storeData[key];this.save(storeData)};window.bbc.Mandolin.Storage.prototype.getItems=function(){return deserialise(this.readCookie(this._cookieName)||"")};window.bbc.Mandolin.Storage.prototype.save=function(data){window.bbccookies.set(this._cookieName+"="+encodeURIComponent(serialise(data))+"; expires="+getLastExpirationDate(data).toUTCString()+";")};window.bbc.Mandolin.Storage.prototype.readCookie=function(name){var nameEq=name+"=",ca=window.bbccookies.get().split("; "),i,c;validateCookieName(name);for(i=0;i<ca.length;i++){c=ca[i];if(c.indexOf(nameEq)===0){return decodeURIComponent(c.substring(nameEq.length,c.length))}}return null};function serialise(o){var str="";for(var p in o){if(o.hasOwnProperty(p)){str+='"'+p+'"'+":"+(typeof o[p]==="object"?(o[p]===null?"null":"{"+serialise(o[p])+"}"):'"'+o[p].toString()+'"')+","}}return str.replace(/,\}/g,"}").replace(/,$/g,"")}function deserialise(str){var o;str="{"+str+"}";if(!validateSerialisation(str)){throw"Invalid input provided for deserialisation."}eval("o = "+str);return o}var validateSerialisation=(function(){var OBJECT_TOKEN="<Object>",ESCAPED_CHAR='"\\n\\r\\u2028\\u2029\\u000A\\u000D\\u005C',ALLOWED_CHAR="([^"+ESCAPED_CHAR+"]|\\\\["+ESCAPED_CHAR+"])",KEY='"'+ALLOWED_CHAR+'+"',VALUE='(null|"'+ALLOWED_CHAR+'*"|'+OBJECT_TOKEN+")",KEY_VALUE=KEY+":"+VALUE,KEY_VALUE_SEQUENCE="("+KEY_VALUE+",)*"+KEY_VALUE,OBJECT_LITERAL="({}|{"+KEY_VALUE_SEQUENCE+"})",objectPattern=new RegExp(OBJECT_LITERAL,"g");return function(str){if(str.indexOf(OBJECT_TOKEN)!==-1){return false}while(str.match(objectPattern)){str=str.replace(objectPattern,OBJECT_TOKEN)}return str===OBJECT_TOKEN}})();function validateCookieName(name){if(name.match(/ ,;/)){throw"Illegal name provided, must be valid in browser cookie."}}})(); /*]]>*/</script>  <script type="text/javascript">  document.documentElement.className += (document.documentElement.className? ' ' : '') + 'orb-js';  fig.manager.confirm(); </script> <script src="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/orb/4/script/orb/api.min.js"></script> <script type="text/javascript"> window.orb_masthead_test = new bbc.Mandolin( 'orb_masthead', ['simple', 'control'], { rate: 6/1000, start: new Date('09/22/2014 08:00:00 GMT'), /* format: mm/dd/yyyy hh:mm:ss */ signupEnd: new Date('09/24/2014 08:00:00 GMT'), end: new Date('10/06/2014 08:00:00 GMT') } ); </script>   <script type="text/javascript"> /*<![CDATA[*/ function oqsSurveyManager(w, flag) { if (flag !== 'OFF') { w.document.write('<script type="text/javascript" src="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/orb/4/script/vendor/edr.js"><'+'/script>'); } } oqsSurveyManager(window, 'ON'); /*]]>*/ </script>             <!-- BBCDOTCOM template: responsive webservice  -->
+        <!-- BBCDOTCOM head --><script type="text/javascript"> /*<![CDATA[*/ var _sf_startpt = (new Date()).getTime(); /*]]>*/ </script><style type="text/css">.bbccom_display_none{display:none;}</style><script type="text/javascript"> /*<![CDATA[*/ var bbcdotcomConfig, googletag = googletag || {}; googletag.cmd = googletag.cmd || []; var bbcdotcom = false; (function(){ if(typeof require !== 'undefined') { require({ paths:{ "bbcdotcom":"http://static.bbci.co.uk/bbcdotcom/0.3.310/script" } }); } })(); /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ var bbcdotcom = { adverts: {}, advert: { write: function () {}, show: function () {}, isActive: function () { return false; }, layout: function() { return { reset: function() {} } } }, config: { init: function() {}, isActive: function() {}, setSections: function() {}, isAdsEnabled: function() {}, setAdsEnabled: function() {}, isAnalyticsEnabled: function() {}, setAssetPrefix: function() {}, setConfig: function() {} }, survey: { init: function(){ return false; } }, data: {}, init: function() {}, objects: function(str) { return false; }, locale: { set: function() {} }, setAdKeyValue: function() {}, utils: { addEvent: function() {}, addHtmlTagClass: function() {} }, addLoadEvent: function() {} }; /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ (function(){ if (typeof orb !== 'undefined' && typeof orb.fig === 'function') { if (orb.fig('ad') && orb.fig('uk') == 0) { bbcdotcom.data = { ads: (orb.fig('ad') ? 1 : 0), stats: (orb.fig('uk') == 0 ? 1 : 0), statsProvider: orb.fig('ap') }; } } else { document.write('<script type="text/javascript" src="'+('https:' == document.location.protocol ? 'https://ssl.bbc.com' : 'http://tps.bbc.com')+'/wwscripts/data">\x3C/script>'); } })(); /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ (function(){ if (typeof orb === 'undefined' || typeof orb.fig !== 'function') { bbcdotcom.data = { ads: bbcdotcom.data.a, stats: bbcdotcom.data.b, statsProvider: bbcdotcom.data.c }; } if (bbcdotcom.data.ads == 1) { document.write('<script type="text/javascript" src="'+('https:' == document.location.protocol ? 'https://ssl.bbc.co.uk' : 'http://www.bbc.co.uk')+'/wwscripts/flag">\x3C/script>'); } })(); /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ (function(){ if (window.bbcdotcom && (typeof bbcdotcom.flag == 'undefined' || (typeof bbcdotcom.data.ads !== 'undefined' && bbcdotcom.flag.a != 1))) { bbcdotcom.data.ads = 0; } if (/[?|&]ads-debug/.test(window.location.href) || document.cookie.indexOf('ads-debug=') !== -1) { bbcdotcom.data.ads = 1; bbcdotcom.data.stats = 1; } if (window.bbcdotcom && (bbcdotcom.data.ads == 1 || bbcdotcom.data.stats == 1)) { bbcdotcom.assetPrefix = "http://static.bbci.co.uk/bbcdotcom/0.3.310/"; document.write('<link rel="stylesheet" type="text/css" href="http://static.bbci.co.uk/bbcdotcom/0.3.310/style/orb/bbccom.css" />'); (function() { var useSSL = 'https:' == document.location.protocol; var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js'; document.write('<scr' + 'ipt src="' + src + '">\x3C/script>'); })(); if (/(sandbox|int)(.dev)*.bbc.co*/.test(window.location.href) || /[?|&]ads-debug/.test(window.location.href) || document.cookie.indexOf('ads-debug=') !== -1) { document.write('<script type="text/javascript" src="http://static.bbci.co.uk/bbcdotcom/0.3.310/script/orb/individual.js">\x3C/script>'); } else { document.write('<script type="text/javascript" src="http://static.bbci.co.uk/bbcdotcom/0.3.310/script/orb/bbcdotcom.js">\x3C/script>'); } if(/[\\?&]ads=([^&#]*)/.test(window.location.href)) { document.write('<script type="text/javascript" src="http://static.bbci.co.uk/bbcdotcom/0.3.310/script/orb/adverts/adSuites.js">\x3C/script>'); } } })(); /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ (function(){ if (window.bbcdotcom && (bbcdotcom.data.ads == 1 || bbcdotcom.data.stats == 1)) { bbcdotcomConfig = {"adFormat":"standard","adKeyword":"","adMode":"smart","adsEnabled":true,"appAnalyticsSections":"news>world","asyncEnabled":false,"disableInitialLoad":false,"advertInfoPageUrl":"http:\/\/www.bbc.co.uk\/faqs\/online\/adverts_general","advertisementText":"Advertisement","analyticsEnabled":true,"appName":"tabloid","assetPrefix":"http:\/\/static.bbci.co.uk\/bbcdotcom\/0.3.310\/","continuousPlayEnabled":true,"customAdParams":[],"customStatsParams":[],"headline":"As it happened: France sieges end","id":"30722098","inAssociationWithText":"In association with","keywords":"","language":"","orbTransitional":false,"outbrainEnabled":true,"palEnv":"live","productName":"","sections":[],"siteCatalystEnabled":true,"slots":"","sponsoredByText":"Sponsored by","summary":"Security forces storm the sites of sieges north-east of Paris, where the Charlie Hebdo shootings suspects were hiding, and at a supermarket in the capital where several hostages were being held.","type":"STORY","staticBase":"\/bbcdotcom","staticHost":"http:\/\/static.bbci.co.uk","staticVersion":"0.3.310","staticPrefix":"http:\/\/static.bbci.co.uk\/bbcdotcom\/0.3.310","dataHttp":"tps.bbc.com","dataHttps":"ssl.bbc.com","flagHttp":"www.bbc.co.uk","flagHttps":"ssl.bbc.co.uk","analyticsHttp":"sa.bbc.com","analyticsHttps":"ssa.bbc.com"}; bbcdotcom.config.init(bbcdotcomConfig, bbcdotcom.data, window.location, window.document); bbcdotcom.config.setAssetPrefix("http://static.bbci.co.uk/bbcdotcom/0.3.310/"); document.write('<!--[if IE 7]><script type="text/javascript">bbcdotcom.config.setIE7(true);\x3C/script><![endif]-->'); document.write('<!--[if IE 8]><script type="text/javascript">bbcdotcom.config.setIE8(true);\x3C/script><![endif]-->'); if (!bbcdotcom.config.isAsync() && bbcdotcom.config.isIE7()) { document.write('<link rel="stylesheet" type="text/css" href="http://static.bbci.co.uk/bbcdotcom/0.3.310/style/orb/bbccom-ie7.css" />'); } } })(); /*]]>*/ </script>             <script type="text/javascript">/*<![CDATA[*/ window.istats = (window.istats || {}); (istats.head = function(w,d) { w.istats._linkTracked = w.istats._trackingCookie = decodeURIComponent( (d.cookie.match(/\bsa_labels=([^;]+)/)||[]).pop() || '' ); var host = w.location.host, m = host.match(/(bbc(?:\.co\.uk|\.com))$/i); d.cookie = 'sa_labels=; expires=Thu, 01 Jan 1970 00:00:01 GMT; domain=' + (m? m[1] : host) + '; path=/'; })(window,document); /*]]>*/</script>  <script type="text/javascript"> /* <![CDATA[ */ define('id-statusbar-config', { 'translation_signedout': "Sign in", 'translation_signedin': "Your account", 'use_overlay' : false, 'signin_url' : "https://ssl.bbc.co.uk/id/signin?ptrt=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Flive%2Fworld-europe-30722098%3Fns_mchannel%3Dsocial%26ns_campaign%3Dbbc_breaking%26ns_source%3Dtwitter%26ns_linkname%3Dnews_central", 'locale' : "en-GB", 'policyname' : "", 'ptrt' : "http://www.bbc.co.uk/news/live/world-europe-30722098?ns_mchannel=social&ns_campaign=bbc_breaking&ns_source=twitter&ns_linkname=news_central" }); /* ]]> */ </script>  <script type="text/javascript"> (function () { if (! window.require) { throw new Error('idcta: could not find require'); } var map = {}; map['idapp-1'] = 'http://static.bbci.co.uk/idapp/0.66.06/modules/idapp/idapp-1'; map['idcta/idcta-1'] = 'http://static.bbci.co.uk/id/0.27.15/modules/idcta/idcta-1'; map['idcta/idCookie'] = 'http://static.bbci.co.uk/id/0.27.15/modules/idcta/idCookie'; map['idcta/overlayManager'] = 'http://static.bbci.co.uk/id/0.27.15/modules/idcta/overlayManager'; require({paths: map}); define('id-config', {"idapp":{"version":"0.66.06","hostname":"ssl.bbc.co.uk","insecurehostname":"www.bbc.co.uk","tld":"bbc.co.uk"},"idtranslations":{"version":"0.31.1"},"identity":{"baseUrl":"https:\/\/talkback.live.bbc.co.uk\/identity","cookieAgeDays":730},"pathway":{"name":null,"staticAssetUrl":"http:\/\/static.bbci.co.uk\/idapp\/0.66.06\/modules\/idapp\/idapp-1\/View.css"}}); })();  </script>                
+        <link type="text/css" rel="stylesheet" href="http://static.bbci.co.uk/news/1.61.5243/stylesheets/services/news/core.css">
+    <!--[if lt IE 9]>
+        <link type="text/css" rel="stylesheet" href="http://static.bbci.co.uk/news/1.61.5243/stylesheets/services/news/old-ie.css">
+        <script src="http://static.bbci.co.uk/news/1.61.5243/js/vendor/html5shiv/html5shiv.js"></script>
+    <![endif]-->
+ <script id="news-loader"> if (document.getElementById("responsive-news")) { window.bbcNewsResponsive = true; } var isIE = (function() { var undef, v = 3, div = document.createElement('div'), all = div.getElementsByTagName('i'); while ( div.innerHTML = '<!--[if gt IE ' + (++v) + ']><i></i><![endif]-->', all[0] ); return v > 4 ? v : undef; }()); var modernDevice = 'querySelector' in document && 'localStorage' in window && 'addEventListener' in window, forceCore = document.cookie.indexOf('ckps_force_core') !== -1, holepunched = isIE > 6 && document.getElementById('js-holepunched'); window.cutsTheMustard = (modernDevice && !forceCore) || holepunched; if (window.cutsTheMustard) { document.documentElement.className += ' ctm'; var insertPoint = document.getElementById('news-loader'), config = {"asset":{"asset_id":"30722098","asset_uri":"\/news\/live\/world-europe-30722098","first_created":{"date":"2015-01-08 06:33:18","timezone_type":3,"timezone":"Europe\/London"},"last_updated":{"date":"2015-01-08 06:36:28","timezone_type":3,"timezone":"Europe\/London"},"options":{"allowRightHandSide":true,"allowRelatedStoriesBox":true,"includeComments":false,"isIgorSeoTagsEnabled":false,"hasNewsTracker":false,"allowAdvertising":true,"hasContentWarning":false,"allowDateStamp":true,"allowHeadline":true,"isKeyContent":false,"allowPrintingSharingLinks":true,"isBreakingNews":false,"suitableForSyndication":true},"section":{"name":"Europe","id":"99123","uri":"\/news\/world\/europe","urlIdentifier":"\/news\/world\/europe"},"edition":"Domestic","audience":null,"iStats_counter_name":"news.world.europe.live_coverage.30722098.page","type":"LIV"},"smpBrand":null,"staticHost":"http:\/\/static.bbci.co.uk","environment":"live","locatorVersion":"0.46.3","pathPrefix":"\/news","staticPrefix":"http:\/\/static.bbci.co.uk\/news\/1.61.5243","jsPath":"http:\/\/static.bbci.co.uk\/news\/1.61.5243\/js","cssPath":"http:\/\/static.bbci.co.uk\/news\/1.61.5243\/stylesheets\/services\/news","cssPostfix":"","dynamic":null,"features":{"localnews":true,"video":true,"liveeventcomponent":true,"mediaassetpage":true,"travel":true,"gallery":true,"rollingnews":true,"rumanalytics":true,"sportstories":true,"radiopromo":true,"fromothernewssites":true,"locallive":true,"weather":true},"features2":{"chartbeat":true,"connected_stream":true,"connected_stream_promo":true,"nav":true,"pulse_survey":false,"correspondents":true,"explainer_banner":false,"tablet_explainer_banner":true,"blogs":true,"follow_us":true,"multi_client_cache":true,"marketdata_markets":true,"marketdata_shares":true,"politics_vote2014":true,"politics_scotref_polltracker":true,"politics_polltracker":true,"politics_election2015_hub":true,"politics_election2015_nation_hubs":true,"politics_election2015_results":true,"politics_scotref_live":true,"politics_scotref_results":true,"politics_scotref":true,"politics_councils":true,"politics_councils_az":true,"politics_constituencies_az":true,"politics_constituencies":true,"politics_eu_regions":true,"breaking_news":true,"responsive_breaking_news":true,"live_event":true,"most_popular":true,"most_popular_tabs":true,"most_popular_by_day":true,"routing":true,"rum":true,"radiopromonownext":true,"config_based_layout":true,"orb":true,"enhanced_gallery":true,"map_most_watched":true,"top_stories_promo":true,"features_and_analysis":true,"section_labels":true,"index_title":true,"share_tools":true,"local_live_promo":true,"adverts":true,"adexpert":true,"igor_geo_redirect":true,"igor_device_redirect":true,"live":true,"comscore_mmx":true,"find_local_news":true,"comments":true,"comments_enhanced":true,"browser_notify":true,"stream_grid_promo":true,"top_stories_max_volume":true,"record_livestats":true,"contact_form":true,"channel_page":true,"portlet_global_variants":true,"suppress_lep_timezone":true},"configuration":{"showtimestamp":"1","showweather":"1","showsport":"1","showolympics":"1","showfeaturemain":"1","showsitecatalyst":"1","candyplatform":"EnhancedMobile","showwatchlisten":"1","showspecialreports":"","videotopiccandyid":"","showvideofeedsections":"1","showstorytopstories":"","showstoryfeaturesandanalysis":"1","showstorymostpopular":"","showgallery":"1","cms":"cps","channelpagecandyid":"10318089"},"pollingHost":"http:\/\/polling.bbc.co.uk","service":"news","locale":"en-GB","locatorHost":null,"locatorFlagPole":true,"barlesqueVarsConfig":{"tabletexplainerbannerFlagpoleEnabled":false},"local":{"allowLocationLookup":true},"isWorldService":false,"rumAnalytics":{"server":"http:\/\/ingest.rum.bbc.co.uk","key":"news","sample_rate":0.1,"url_params":null,"edition":"domestic"},"isChannelPage":false,"suitenameMap":"","languageVariant":"","commentsHost":"http:\/\/feeds.bbci.co.uk"}; config.configuration['get'] = function (key) { return this[key.toLowerCase()]; };   var bootstrapUI=function(){var e=function(){if(navigator.userAgent.match(/(Android (2.0|2.1))|(Nokia)|(OSRE\/)|(Opera (Mini|Mobi))|(w(eb)?OSBrowser)|(UCWEB)|(Windows Phone)|(XBLWP)|(ZuneWP)/))return!1;if(navigator.userAgent.match(/MSIE 10.0/))return!0;var e,t=document,n=t.head||t.getElementsByTagName("head")[0],r=t.createElement("style"),s=t.implementation||{hasFeature:function(){return!1}};r.type="text/css",n.insertBefore(r,n.firstChild),e=r.sheet||r.styleSheet;var i=s.hasFeature("CSS2","")?function(t){if(!e||!t)return!1;var n=!1;try{e.insertRule(t,0),n=!/unknown/i.test(e.cssRules[0].cssText),e.deleteRule(e.cssRules.length-1)}catch(r){}return n}:function(t){return e&&t?(e.cssText=t,0!==e.cssText.length&&!/unknown/i.test(e.cssText)&&0===e.cssText.replace(/\r+|\n+/g,"").indexOf(t.split(" ")[0])):!1};return i('@font-face{ font-family:"font";src:"font.ttf"; }')}();e&&(document.getElementsByTagName("html")[0].className+=" ff"),function(){var e=document.documentElement.style;("flexBasis"in e||"WebkitFlexBasis"in e||"msFlexBasis"in e)&&(document.documentElement.className+=" flex")}();var t,n,r,s,i,a,o={},u=function(){t=window.innerWidth,n=window.innerHeight},c=function(e){var t=document.createElement("link");t.setAttribute("rel","stylesheet"),t.setAttribute("type","text/css"),t.setAttribute("href",r+e+s+".css"),t.setAttribute("media",a[e]),i.parentNode.insertBefore(t,i),delete a[e]},l=function(e,r,s){r&&!s&&(t>=r||n>=r)&&c(e),s&&!r&&(s>=t||s>=n)&&c(e),r&&s&&(t>=r||n>=r)&&(s>=t||s>=n)&&c(e)},f=function(e){if(o[e])return o[e];var t=e.match(/\(min\-width:[\s]*([\s]*[0-9\.]+)(px|em)[\s]*\)/),n=e.match(/\(max\-width:[\s]*([\s]*[0-9\.]+)(px|em)[\s]*\)/),r=t&&parseFloat(t[1])||null,s=n&&parseFloat(n[1])||null;return o[e]=[r,s],o[e]},m=function(){var e=0;for(var t in a)e++;return e},d=function(){m()||window.removeEventListener("resize",h,!1);for(var e in a){var t=a[e],n=f(t);l(e,n[0],n[1])}},h=function(){u(),d()},v=function(e,t){a=e,r=t.path+("/"!==t.path.substr(-1)?"/":""),s=t.postfix,i=t.insertBefore,u(),d(),window.addEventListener("resize",h,!1)};return{stylesheetLoaderInit:v}}(); bootstrapUI.stylesheetLoaderInit({ 'compact': '(max-width: 599px)', 'tablet' : '(min-width: 600px)', 'wide' : '(min-width: 1008px)' }, { path: 'http://static.bbci.co.uk/news/1.61.5243/stylesheets/services/news', postfix: '', insertBefore: insertPoint }); var loadRequire = function(){ var js_paths = {"jquery-1.9":"vendor\/jquery-1\/jquery","jquery-1":"http:\/\/static.bbci.co.uk\/frameworks\/jquery\/0.3.0\/sharedmodules\/jquery-1.7.2","demi-1":"http:\/\/static.bbci.co.uk\/frameworks\/demi\/0.10.0\/sharedmodules\/demi-1","swfobject-2":"http:\/\/static.bbci.co.uk\/frameworks\/swfobject\/0.1.10\/sharedmodules\/swfobject-2","jquery":"vendor\/jquery-2\/jquery.min","domReady":"vendor\/require\/domReady","translation":"module\/translations\/en-GB","bump-3":"\/\/emp.bbci.co.uk\/emp\/bump-3\/bump-3"};  js_paths.navigation = 'module/nav/navManager';  requirejs.config({ baseUrl: 'http://static.bbci.co.uk/news/1.61.5243/js', map: { 'vendor/locator': { 'module/bootstrap': 'vendor/locator/bootstrap', 'locator/stats': 'vendor/locator/stats', 'locator/locatorView': 'vendor/locator/locatorView' } }, paths: js_paths, waitSeconds: 30 }); define('config', function () { return config; });             require(['compiled/all'], function() {
+      require(['module/base', 'domReady'], function (base, domReady) { domReady(function () { base.init();  }); });              });
+     };  loadRequire();   } else { var l = document.createElement('link'); l.href = 'http://static.bbci.co.uk/news/1.61.5243/icons/generated/icons.fallback.css'; l.rel = 'stylesheet'; document.getElementsByTagName('head')[0].appendChild(l); } </script>  <script type="text/javascript"> /*<![CDATA[*/ bbcdotcom.init({adsToDisplay:['']}); /*]]>*/ </script>      <noscript><link href="http://static.bbci.co.uk/news/1.61.5243/icons/generated/icons.fallback.css" rel="stylesheet"></noscript>
+
+                
+        <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=1">
+</head>
+<!--[if IE]><body id="asset-type-liv" class="ie device--feature"><![endif]-->
+<!--[if !IE]>--><body id="asset-type-liv" class="device--feature"><!--<![endif]-->
+    <div class="direction" >
+
+             <!-- BBCDOTCOM bodyFirst --><div id="bbccom_interstitial" class="bbccom_display_none"><script type="text/javascript"> /*<![CDATA[*/ (function() { if (window.bbcdotcom && bbcdotcom.config.isActive('ads')) { googletag.cmd.push(function() { googletag.display('bbccom_interstitial'); }); } }()); /*]]>*/ </script></div><div id="bbccom_wallpaper" class="bbccom_display_none"><script type="text/javascript"> /*<![CDATA[*/ (function() { var wallpaper; if (window.bbcdotcom && bbcdotcom.config.isActive('ads')) { if (bbcdotcom.config.isAsync()) { googletag.cmd.push(function() { googletag.display('bbccom_wallpaper'); }); } else { googletag.display("wallpaper"); } wallpaper = bbcdotcom.adverts.adRegister.getAd('wallpaper'); if (wallpaper !== null && wallpaper !== undefined) { wallpaper.setDomElement('bbccom_wallpaper'); } } }()); /*]]>*/ </script></div><script type="text/javascript"> /*<![CDATA[*/ (function() { if (window.bbcdotcom && bbcdotcom.config.isActive('ads')) { document.write(unescape('%3Cscript id="gnlAdsEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } if (window.bbcdotcom && bbcdotcom.config.isActive('analytics')) { document.write(unescape('%3Cscript id="gnlAnalyticsEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } if (window.bbcdotcom && bbcdotcom.config.isActive('continuousPlay')) { document.write(unescape('%3Cscript id="gnlContinuousPlayEnabled" class="bbccom_display_none"%3E%3C/script%3E')); } }()); /*]]>*/ </script> <div id="blq-global"> <div id="blq-pre-mast">  </div> </div>  <script type="text/html" id="blq-bbccookies-tmpl"><![CDATA[ <section> <div id="bbccookies" class="bbccookies-banner orb-banner-wrapper bbccookies-d"> <div id="bbccookies-prompt" class="orb-banner b-g-p b-r b-f"> <h2 class="orb-banner-title"> Cookies on the BBC website </h2> <p class="orb-banner-content" dir="ltr"> We use cookies to ensure that we give you the best experience on our website.<span class="bbccookies-international-message"> We also use cookies to ensure we show you advertising that is relevant to you.</span> If you continue without changing your settings, we'll assume that you are happy to receive all cookies on the BBC website. However, if you would like to, you can change your cookie settings at any time. </p> <ul class="orb-banner-options"> <li id="bbccookies-continue"> <button type="button" id="bbccookies-continue-button">Continue</button> </li> <li id="bbccookies-settings"> <a href="/privacy/cookies/managing/cookie-settings.html">Change settings</a> </li> <li id="bbccookies-more"><a href="/privacy/cookies/bbc">Find out more</a></li></ul> </div> </div> </section> ]]></script> <script type="text/javascript">/*<![CDATA[*/ (function(){if(bbccookies._showPrompt()){var g=document,b=g.getElementById("blq-pre-mast"),e=g.getElementById("blq-bbccookies-tmpl"),a,f;if(b&&g.createElement){a=g.createElement("div");f=e.innerHTML;f=f.replace("<"+"![CDATA[","").replace("]]"+">","");a.innerHTML=f;b.appendChild(a);blqCookieContinueButton=g.getElementById("bbccookies-continue-button");blqCookieContinueButton.onclick=function(){a.parentNode.removeChild(a);return false};bbccookies._setPolicy()}var c=g.getElementById("bbccookies");if(c&&!window.orb.fig("uk")){c.className=c.className.replace(/\bbbccookies-d\b/,"");c.className=c.className+(" bbccookies-w")}}})(); /*]]>*/</script>   <script type="text/javascript">/*<![CDATA[*/ bbcFlagpoles_istats = 'ON'; istatsTrackingUrl = '//sa.bbc.co.uk/bbc/bbc/s?name=news.world.europe.live_coverage.30722098.page&cps_asset_id=30722098&page_type=live_event&section=%2Fnews%2Fworld%2Feurope&first_pub=2015-01-08T06%3A33%3A18%2B00%3A00&last_editorial_update=2015-01-08T06%3A36%3A28%2B00%3A00&title=As+it+happened%3A+France+sieges+end&for_nation=gb&pal_route=asset&ml_name=barlesque&app_type=responsive&language=en-GB&ml_version=0.25.1&pal_webapp=tabloid&prod_name=news&app_name=news'; if (window.istats_countername) { istatsTrackingUrl = istatsTrackingUrl.replace(/([?&]name=)[^&]+/ig, '$1' + istats_countername); } (function() { if ( /\bIDENTITY=/.test(document.cookie) ) { istatsTrackingUrl += '&bbc_identity=1'; } var c = (document.cookie.match(/\bckns_policy=(\d\d\d)/)||[]).pop() || ''; istatsTrackingUrl += '&bbc_mc=' + (c? 'ad'+c.charAt(0)+'ps'+c.charAt(1)+'pf'+c.charAt(2) : 'not_set'); if ( /\bckns_policy=\d\d0/.test(document.cookie) ) { istatsTrackingUrl += '&ns_nc=1'; } var screenWidthAndHeight = 'unavailable'; if (window.screen && screen.width && screen.height) { screenWidthAndHeight = screen.width + 'x' + screen.height; } istatsTrackingUrl += ('&screen_resolution=' + screenWidthAndHeight); istatsTrackingUrl += '&blq_s=4d&blq_r=2.7&blq_v=default&blq_e=pal'; })(); /*]]>*/</script>  <!-- Begin iStats 20100118 (UX-CMC 1.1009.3) --> <script type="text/javascript">/*<![CDATA[*/ (function() { window.istats || (istats = {}); var cookieDisabled = (document.cookie.indexOf('NO-SA=') != -1), hasCookieLabels = (document.cookie.indexOf('sa_labels=') != -1), hasClickThrough = /^#sa-(.*?)(?:-sa(.*))?$/.test(document.location.hash), runSitestat = !cookieDisabled && !hasCookieLabels && !hasClickThrough && !istats._linkTracked; if (runSitestat && bbcFlagpoles_istats === 'ON') { sitestat(istatsTrackingUrl); } else { window.ns_pixelUrl = istatsTrackingUrl; /* used by Flash library to track */ } function sitestat(n){var j=document,f=j.location,b="";if(j.cookie.indexOf("st_ux=")!=-1){var k=j.cookie.split(";");var e="st_ux",h=document.domain,a="/";if(typeof ns_!="undefined"&&typeof ns_.ux!="undefined"){e=ns_.ux.cName||e;h=ns_.ux.cDomain||h;a=ns_.ux.cPath||a}for(var g=0,f=k.length;g<f;g++){var m=k[g].indexOf("st_ux=");if(m!=-1){b="&"+unescape(k[g].substring(m+6))}}document.cookie=e+"=; expires="+new Date(new Date().getTime()-60).toGMTString()+"; path="+a+"; domain="+h}ns_pixelUrl=n;n=ns_pixelUrl+"&ns__t="+(new Date().getTime())+"&ns_c="+((j.characterSet)?j.characterSet:j.defaultCharset)+"&ns_ti="+escape(j.title)+b+"&ns_jspageurl="+escape(f&&f.href?f.href:j.URL)+"&ns_referrer="+escape(j.referrer);if(n.length>2000&&n.lastIndexOf("&")){n=n.substring(0,n.lastIndexOf("&")+1)+"ns_cut="+n.substring(n.lastIndexOf("&")+1,n.lastIndexOf("=")).substring(0,40)}(j.images)?new Image().src=n:j.write('<p><i'+'mg src="'+n+'" height="1" width="1" alt="" /></p>')}; })(); /*]]>*/</script> <noscript><p style="position: absolute; top: -999em;"><img src="//sa.bbc.co.uk/bbc/bbc/s?name=news.world.europe.live_coverage.30722098.page&amp;cps_asset_id=30722098&amp;page_type=live_event&amp;section=%2Fnews%2Fworld%2Feurope&amp;first_pub=2015-01-08T06%3A33%3A18%2B00%3A00&amp;last_editorial_update=2015-01-08T06%3A36%3A28%2B00%3A00&amp;title=As+it+happened%3A+France+sieges+end&amp;for_nation=gb&amp;pal_route=asset&amp;ml_name=barlesque&amp;app_type=responsive&amp;language=en-GB&amp;ml_version=0.25.1&amp;pal_webapp=tabloid&amp;prod_name=news&amp;app_name=news&amp;blq_js_enabled=0&amp;blq_s=4d&amp;blq_r=2.7&amp;blq_v=default&amp;blq_e=pal" height="1" width="1" alt="" /></p></noscript> <!-- End iStats (UX-CMC) -->   <!--[if (gt IE 8) | (IEMobile)]><!--> <header id="orb-banner" role="banner"> <!--<![endif]--> <!--[if (lt IE 9) & (!IEMobile)]> <![if (IE 8)]> <header id="orb-banner" role="banner" class="orb-old-ie orb-ie8"> <![endif]> <![if (IE 7)]> <header id="orb-banner" role="banner" class="orb-old-ie orb-ie7"> <![endif]> <![if (IE 6)]> <header id="orb-banner" role="banner" class="orb-old-ie orb-ie6"> <![endif]> <![endif]--> <div id="orb-header"  class="orb-nav-pri orb-nav-pri-white orb-nav-empty"  > <script type="text/javascript"> (function(){var h=document.getElementById('orb-header');if(/bbc\.co\.uk$/i.test(location.hostname)&&orb_masthead_test.getSegment()=='simple'&&(location.pathname===''||location.pathname==='/'||location.pathname==='/frameworks/test/mandolin/acceptance'&&h.setAttribute)){h.setAttribute('data-max-w','0');h.setAttribute('data-max-d','0');}}()); </script> <div class="orb-nav-pri-container b-r b-g-p"> <div class="orb-nav-section orb-nav-blocks"> <a href="/"> <img  src="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/orb/4/img/bbc-blocks-dark.png" width="84" height="24" alt="BBC" /> </a> </div> <section> <div class="orb-skip-links"> <h2>Accessibility links</h2> <ul>  <li><a href="#page">Skip to content</a></li>  <li><a id="orb-accessibility-help" href="/accessibility/">Accessibility Help</a></li> </ul> </div> </section>  <div class="orb-nav-section orb-nav-id orb-nav-focus orb-nav-id-default">     <a id="idcta-link" href="https://ssl.bbc.co.uk/id/status?ptrt=http%3A%2F%2Fwww.bbc.co.uk%2Fnews%2Flive%2Fworld-europe-30722098%3Fns_mchannel%3Dsocial%26ns_campaign%3Dbbc_breaking%26ns_source%3Dtwitter%26ns_linkname%3Dnews_central"><img id="idcta-image" src="http://static.bbci.co.uk/id/0.27.15/img/bbcid_orb_signin_dark.png" alt="" width="18" height="18" /><span id="idcta-username">BBC iD</span></a>           </div>  <nav role="navigation" class="orb-nav"> <div class="orb-nav-section orb-nav-links orb-nav-focus" id="orb-nav-links"> <h2>BBC navigation</h2> <ul>    <li  class="orb-nav-news orb-d"  > <a href="/news/">News</a> </li>    <li  class="orb-nav-newsdotcom orb-w"  > <a href="http://www.bbc.com/news/">News</a> </li>    <li  class="orb-nav-sport"  > <a href="/sport/">Sport</a> </li>    <li  class="orb-nav-weather"  > <a href="/weather/">Weather</a> </li>    <li  class="orb-nav-shop orb-w"  > <a href="http://shop.bbc.com/">Shop</a> </li>    <li  class="orb-nav-earthdotcom orb-w"  > <a href="http://www.bbc.com/earth/">Earth</a> </li>    <li  class="orb-nav-travel-dotcom orb-w"  > <a href="http://www.bbc.com/travel/">Travel</a> </li>    <li  class="orb-nav-capital orb-w"  > <a href="http://www.bbc.com/capital/">Capital</a> </li>    <li  class="orb-nav-iplayer orb-d"  > <a href="/iplayer/">iPlayer</a> </li>    <li  class="orb-nav-culture orb-w"  > <a href="http://www.bbc.com/culture/">Culture</a> </li>    <li  class="orb-nav-autos orb-w"  > <a href="http://www.bbc.com/autos/">Autos</a> </li>    <li  class="orb-nav-future orb-w"  > <a href="http://www.bbc.com/future/">Future</a> </li>    <li  class="orb-nav-tv"  > <a href="/tv/">TV</a> </li>    <li  class="orb-nav-radio"  > <a href="/radio/">Radio</a> </li>    <li  class="orb-nav-cbbc"  > <a href="/cbbc/">CBBC</a> </li>    <li  class="orb-nav-cbeebies"  > <a href="/cbeebies/">CBeebies</a> </li>    <li  class="orb-nav-arts orb-d"  > <a href="/arts/">Arts</a> </li>    <li  > <a href="/ww1/">WW1</a> </li>    <li  class="orb-nav-food"  > <a href="/food/">Food</a> </li>    <li  class="orb-nav-history"  > <a href="/history/">History</a> </li>    <li  class="orb-nav-learning"  > <a href="/learning/">Learning</a> </li>    <li  class="orb-nav-music"  > <a href="/music/">Music</a> </li>    <li  class="orb-nav-science"  > <a href="/science/">Science</a> </li>    <li  class="orb-nav-nature orb-w"  > <a href="/nature/">Nature</a> </li>    <li  class="orb-nav-earth orb-d"  > <a href="http://www.bbc.com/earth/">Earth</a> </li>    <li  class="orb-nav-local"  > <a href="/local/">Local</a> </li>    <li  class="orb-nav-travel orb-d"  > <a href="/travel/">Travel</a> </li>    <li  class="orb-nav-fullaz"  > <a href="/a-z/">Full A-Z</a> </li>    <li id="orb-nav-more"><a href="#orb-footer" data-alt="More">Menu<span class="orb-icon orb-icon-arrow"></span></a></li> </ul> </div> </nav> <div class="orb-nav-section orb-nav-search"> <a href="http://search.bbc.co.uk/search"> <img  src="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/orb/4/img/orb-search-dark.png" width="18" height="18" alt="Search the BBC" /> </a> <form class="b-f" id="orb-search-form" role="search" method="get" action="http://search.bbc.co.uk/search" accept-charset="utf-8"> <div>  <input type="hidden" name="uri" value="/news/live/world-europe-30722098?ns_mchannel=social&amp;#38;ns_campaign=bbc_breaking&amp;#38;ns_source=twitter&amp;#38;ns_linkname=news_central" />   <label for="orb-search-q">Search the BBC</label> <input id="orb-search-q" type="text" name="q" placeholder="Search" /> <input type="image" id="orb-search-button" src="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/orb/4/img/orb-search-dark.png" width="17" height="17" alt="Search the BBC" /> </div> </form> </div> </div> <div id="orb-panels"  > <script type="text/template" id="orb-panel-template"><![CDATA[ <div id="orb-panel-<%= panelname %>" class="orb-panel" aria-labelledby="orb-nav-<%= panelname %>"> <div class="orb-panel-content b-g-p b-r"> <%= panelcontent %> </div> </div> ]]></script> </div> </div> </header> <!-- Styling hook for shared modules only --> <div id="orb-modules">             
+    <div id="site-container">
+    
+    <!--[if lt IE 9]>
+<div class="browser-notify">
+    <div class="browser-notify__banner">
+        <div class="browser-notify__icon"></div>
+        <span>This site is optimised for modern web browsers, and does not fully support your version of Internet Explorer</span>
+    </div>
+</div>
+<![endif]-->
+            <div class="site-brand site-brand--height" role="banner" aria-label="News">
+                        <div class="site-brand-inner site-brand-inner--height">
+                <div class="navigation navigation--primary">
+                    <a href="/news" id="brand">
+    <img class="brand__logo" src="http://static.bbci.co.uk/news/1.61.5243/img/brand/news.png" alt="BBC News"/>
+    </a>
+                                        <a href="#core-navigation" class="navigation__section navigation__section--core" data-event="header" role="navigation" aria-label="News">
+                        Sections                    </a>
+                    <div class="find-local-wide" id="find-local-wide">
+    <button class="find-local-wide__link">Find local news</button>
+</div>
+                </div>
+            </div>
+                        
+
+<div class="navigation navigation--wide">
+    <ul class="navigation-wide-list" role="navigation" aria-label="News" data-panel-id="js-navigation-panel-primary">
+                    <li>
+                <a href="/news" class="navigation-wide-list__link">
+                    <span>Home</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/uk" data-panel-id="js-navigation-panel-UK" class="navigation-wide-list__link">
+                    <span>UK</span>
+                </a>
+                            </li>
+                    <li class="selected">
+                <a href="/news/world" data-panel-id="js-navigation-panel-World" class="navigation-wide-list__link navigation-arrow--open">
+                    <span>World</span>
+                </a>
+                 <span class="off-screen">selected</span>            </li>
+                    <li>
+                <a href="/news/business" data-panel-id="js-navigation-panel-Business" class="navigation-wide-list__link">
+                    <span>Business</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/politics" data-panel-id="js-navigation-panel-Politics" class="navigation-wide-list__link">
+                    <span>Politics</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/technology" class="navigation-wide-list__link">
+                    <span>Tech</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/science_and_environment" class="navigation-wide-list__link">
+                    <span>Science</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/health" class="navigation-wide-list__link">
+                    <span>Health</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/education" data-panel-id="js-navigation-panel-Education" class="navigation-wide-list__link">
+                    <span>Education</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/entertainment_and_arts" class="navigation-wide-list__link">
+                    <span>Entertainment &amp; Arts</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/video_and_audio" class="navigation-wide-list__link">
+                    <span>Video &amp; Audio</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/magazine" class="navigation-wide-list__link">
+                    <span>Magazine</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/in_pictures" class="navigation-wide-list__link">
+                    <span>In Pictures</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/also_in_the_news" class="navigation-wide-list__link">
+                    <span>Also in the News</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/special_reports" class="navigation-wide-list__link">
+                    <span>Special Reports</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/explainers" class="navigation-wide-list__link">
+                    <span>Explainers</span>
+                </a>
+                            </li>
+                    <li>
+                <a href="/news/the_reporters" class="navigation-wide-list__link navigation-wide-list__link--last">
+                    <span>The Reporters</span>
+                </a>
+                            </li>
+            </ul>
+</div>
+
+    <div class="secondary-navigation secondary-navigation--wide">
+        <nav class="navigation-wide-list navigation-wide-list--secondary" role="navigation" aria-label="World">
+            <a class="secondary-navigation__title navigation-wide-list__link " href="/news/world"><span>World</span></a> <span class="off-screen">selected</span>                            <ul data-panel-id="js-navigation-panel-secondary">
+                                            <li>
+                            <a href="/news/world/africa"
+                                class="navigation-wide-list__link navigation-wide-list__link--first ">
+                                <span>Africa</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/news/world/asia"
+                                class="navigation-wide-list__link  ">
+                                <span>Asia</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/news/world/australia"
+                                class="navigation-wide-list__link  ">
+                                <span>Australia</span>
+                            </a>
+                                                    </li>
+                                            <li class="selected">
+                            <a href="/news/world/europe"
+                                class="navigation-wide-list__link  ">
+                                <span>Europe</span>
+                            </a>
+                             <span class="off-screen">selected</span>                        </li>
+                                            <li>
+                            <a href="/news/world/latin_america"
+                                class="navigation-wide-list__link  ">
+                                <span>Latin America</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/news/world/middle_east"
+                                class="navigation-wide-list__link  ">
+                                <span>Middle East</span>
+                            </a>
+                                                    </li>
+                                            <li>
+                            <a href="/news/world/us_and_canada"
+                                class="navigation-wide-list__link  navigation-wide-list__link--last">
+                                <span>US &amp; Canada</span>
+                            </a>
+                                                    </li>
+                                    </ul>
+                    </nav>
+    </div>
+                    </div>
+    
+    
+    
+                        <div class="container-width-only">
+                            <span class="index-title index-title--redundant " id="comp-index-title" data-index-title-meta="{&quot;id&quot;:&quot;comp-index-title&quot;,&quot;type&quot;:&quot;index-title&quot;,&quot;handler&quot;:&quot;indexTitle&quot;,&quot;deviceGroups&quot;:null,&quot;opts&quot;:{&quot;alwaysVisible&quot;:false,&quot;onFrontPage&quot;:false},&quot;template&quot;:&quot;index-title&quot;}">
+        <span class="index-title__container">
+            <a href="/news/world/europe">Europe</a>
+        </span>
+    </span>
+                        </div>
+            
+
+       <div id="page" class="story">                         <div class="column--single">
+                                                                            <link rel="stylesheet" href="http://static.bbci.co.uk/live-experience/1.2.994/css/live-experience.css" media="screen" /><link rel="stylesheet" href="http://static.bbci.co.uk/live-experience/1.2.994/css/theme-news.css" media="screen" /><meta name="fragment" content="!">
+<noscript><meta http-equiv="refresh" content="0; URL=/news/live/world-europe-30722098?live_variant=nonjs" /></noscript>
+<noscript><style>.lx-pre-angular, .lx__loader { display: none !important; }</style></noscript>
+<script type="text/javascript">
+document.write('<style id="font-face-test">@font-face {font-family:"font";src:url("https://")}</style>');
+var LX = {
+    browser : {
+        isIE8: false
+    },
+    cuts_the_mustard : false,
+    features: {}
+};
+</script>
+<!--[if IE 8]>
+<script type="text/javascript">LX.browser.isIE8 = true;</script>
+<![endif]-->
+
+<script type="text/javascript">
+    LX.cuts_the_mustard = (function () {
+        var enhanced = (
+            'addEventListener' in window &&
+            'querySelector' in window.document &&
+            'localStorage' in window
+        );
+        return (enhanced || LX.browser.isIE8);
+    })();
+
+    LX.features = {
+        supportsAV: !(/(iemobile|windows phone)/).test(navigator.userAgent.toLowerCase()),
+
+        hasTouch: (function () {
+            return (('ontouchstart' in window) || window.DocumentTouch && document instanceof DocumentTouch);
+        })(),
+
+        fontface: (function () {
+            // Exclude if doesn't pass mustard test
+            if (!LX.cuts_the_mustard) {
+                return false;
+            }
+
+            // Exclude false positives
+            // http://blog.kaelig.fr/post/33373448491/testing-font-face-support-on-mobile-and-tablet
+            if (!!navigator.userAgent.match(/(Android (2.0|2.1))|(Nokia)|(Opera (Mini|Mobi))/)) {
+                return false;
+            }
+            if (!!navigator.userAgent.match(/(w(eb)?OSBrowser)|(UCWEB)|(Windows Phone OS 7)|(XBLWP)|(ZuneWP)/)) {
+                return false;
+            }
+
+            if (navigator.userAgent.match(/MSIE 10.0/)) return true;
+
+            var style = document.getElementById('font-face-test'),
+                sheet = style.sheet || style.styleSheet,
+                cssText = '';
+
+            if (sheet) {
+                if (sheet.cssRules && sheet.cssRules[0]) {
+                    cssText = sheet.cssRules[0].cssText;
+                } else {
+                    cssText = sheet.cssText || '';
+                }
+            }
+
+            if (/src/i.test(cssText) && cssText.indexOf('@font-face') === 0) {
+                return true;
+            }
+            return false;
+        })(),
+
+        cssAnimations: (function  () {
+
+            // stolen from
+            // https://developer.mozilla.org/en-US/docs/Web/Guide/CSS/Using_CSS_animations/Detecting_CSS_animation_support
+            var animation = false,
+                animationstring = 'animation',
+                keyframeprefix = '',
+                domPrefixes = 'Webkit Moz O ms Khtml'.split(' '),
+                pfx  = '',
+                elm = document.createElement('div');
+
+            document.documentElement.appendChild(elm);
+
+            if( elm.style.animationName !== undefined ) { animation = true; }
+
+            if( animation === false ) {
+                for( var i = 0; i < domPrefixes.length; i++ ) {
+                    if( elm.style[ domPrefixes[i] + 'AnimationName' ] !== undefined ) {
+                        pfx = domPrefixes[ i ];
+                        animationstring = pfx + 'Animation';
+                        keyframeprefix = '-' + pfx.toLowerCase() + '-';
+                        animation = true;
+                        break;
+                    }
+                }
+            }
+
+            elm.parentNode.removeChild(elm);
+
+            return animation;
+        }()),
+
+        svg: (function() {
+            return (document.implementation.hasFeature("http://www.w3.org/TR/SVG11/feature#Image", "1.1")) ? true: false;
+        }()),
+
+        classList: (function () {
+           return (document.documentElement.classList) ? true : false;
+        })()
+    };
+
+    LX.addClass = function (element, cssClass) {
+        if (LX.features.classList) {
+            element.classList.add(cssClass);
+        } else {
+            element.className += ' ' + cssClass;
+        }
+    };
+
+    LX.addFeatureClasses = function () {
+        var htmlElement = document.querySelector('html');
+            LX.addClass(htmlElement, 'feature-js');
+
+        if (LX.features.hasTouch) {
+            LX.addClass(htmlElement, 'feature-touch');
+        } else {
+            LX.addClass(htmlElement, 'feature-no-touch');
+        }
+
+        if (!LX.features.supportsAV) {
+            LX.addClass(htmlElement, 'lx-no-media');
+        }
+
+        if (LX.features.fontface) {
+            LX.addClass(htmlElement, 'feature-fontface');
+        } else {
+            LX.addClass(htmlElement, 'feature-no-fontface');
+        }
+
+        if (LX.features.svg) {
+            LX.addClass(htmlElement, 'svg');
+        } else {
+            LX.addClass(htmlElement, 'no-svg');
+        }
+
+        if (LX.features.cssAnimations) {
+            LX.addClass(htmlElement, 'feature-cssanimations');
+        }
+
+        if (LX.cuts_the_mustard) {
+            LX.addClass(htmlElement, 'lx-cuts-the-mustard');
+        }
+    };
+    LX.addFeatureClasses();
+</script><script>
+!function(){function e(e,o){this.loadResource(e,o)}e.prototype.loadResource=function(e,o){try{this.loadResourceFromLocalStorage(e,o)}catch(t){this.loadResourceFromRemote(e,o)}},e.prototype.loadResourceFromLocalStorage=function(e,o){var t,r=window.localStorage.getItem(e);if(r&&(t=JSON.parse(r)),t&&t.url!==o)throw"Resource is either not present or has been updated";this.insertSvgIntoBody(t.data,"local")},e.prototype.loadResourceFromRemote=function(e,o){return this.supportsXMLHttpRequest()?void this.loadResourceViaXmlHttp(e,o):void this.loadResourceViaXDomainRequest(e,o)},e.prototype.loadResourceViaXmlHttp=function(e,o){var t=new XMLHttpRequest,r=this;t.onreadystatechange=function(){4===this.readyState&&(r.insertSvgIntoBody(this.responseText,"remote"),r.removePreviousVersion(e),r.writeToLocalStorage(e,o,this.responseText))},t.open("GET",o),t.send()},e.prototype.loadResourceViaXDomainRequest=function(e,o){var t=new XDomainRequest,r=this;t.onload=function(){this.responseText&&(r.insertSvgIntoBody(this.responseText,"remote"),r.removePreviousVersion(e),r.writeToLocalStorage(e,o,this.responseText))},t.onprogress=function(){},t.onerror=function(){},t.ontimeout=function(){},t.open("GET",o,!0),t.send()},e.prototype.supportsXMLHttpRequest=function(){var e=new XMLHttpRequest;return"withCredentials"in e},e.prototype.writeToLocalStorage=function(e,o,t){var r=JSON.stringify({url:o,data:t});try{window.localStorage.setItem(e,r)}catch(n){}},e.prototype.insertSvgIntoBody=function(e,o){var t=document.createElement("div");t.innerHTML=e,t.setAttribute("data-loaded-from",o),t.style.display="none",document.body.insertBefore(t,document.body.childNodes[0])},e.prototype.removePreviousVersion=function(e){window.localStorage.hasOwnProperty(e)&&window.localStorage.removeItem(e)},window.Shovel={load:function(o,t){new e(o,t)}}}();
+</script>
+<script>
+if (!LX.browser.isIE8) {
+    window.addEventListener('load', function () {
+                        Shovel.load('gel-icons-basics', 'http://static.bbci.co.uk/live-experience/1.2.994/images/icon-sets/gel-icons-basics.svg');
+                    });
+}
+</script>
+<script type="text/javascript">
+define('live-experience/config', ['istats-1'], function(istats) {
+
+    var counterName,
+        appSuffix = function() {
+            if(/\/[\w\d]{0,}\.app/.test(window.location.href)) {
+                return ".app";
+            }
+            return "";
+        };
+
+    try{
+        counterName = istats.getCountername();
+    } catch (e) {
+        counterName = undefined;
+    }
+    return {
+        appSuffix: appSuffix(),
+        mustard: window.LX.cuts_the_mustard,
+        counterName: counterName,
+        promos: {"sport":{"winterolympics2014":{"hyperpuff":"\/sport\/winter-olympics\/25683480","primaryconcept":"http:\/\/www.bbc.co.uk\/things\/079a365b-0602-42f8-83d5-9db03c6b16c7#id"}}},
+        host: 'http://open.bbci.co.uk',
+        ichefHost: 'http://ichef.bbci.co.uk',
+        isUk: '1',
+        staticPrefix: 'http://static.bbci.co.uk/live-experience/1.2.994',
+        env: 'live',
+        epoch: '1427185563',
+        date: '2015-03-24',
+        countryCode : 'GB',
+                    isCoverageToday: false,
+                            media: {
+                product: 'news',
+                siteId: 'News',
+                defaultPlaylist: 'http://playlists.bbc.co.uk/sport/0/26757344A/playlist.sxml',
+                guidanceCleared: '1'
+            },
+                            flagpoles: {
+                chapterMarkers: 'ON',
+                liveRewindOnMobile: 'ON',
+                smpAirPlugins:  'ON',
+                aBTesting:  '',
+                smpPunditPlugin:   ''
+            },
+                            vote: {
+                iframeSrcBase: 'http://iframevote.tectonicinteractive.com/?sid=40&pageID={{cpsid}}'
+            },
+                batchRequests: true,
+        livePush: 'OFF',
+        brokerHistory: true,
+        shareEnabled: false    };
+});
+
+require.config({
+    paths: {
+        'angular': 'http://static.bbci.co.uk/live-experience/1.2.994/modules/lib/angular',
+        'angular-touch': 'http://static.bbci.co.uk/live-experience/1.2.994/modules/lib/angular-touch',
+        'socket.io': 'http://static.bbci.co.uk/live-experience/1.2.994/modules/lib/socket.io',
+        'live-push': 'http://a.files.bbci.co.uk/live-push-handshaker/live/live-push/live-push',
+                'live-experience': 'http://static.bbci.co.uk/live-experience/1.2.994/modules/src/live-experience',
+        'io': 'http://static.bbci.co.uk/live-experience/1.2.994/modules/io/src/io',
+                'bump-3': 'http://emp.bbci.co.uk/emp/bump-3/bump-3',
+        'MomentDateUtility': 'http://static.bbci.co.uk/live-experience/1.2.994/modules/lib/moment.min',
+        'lx-imager': 'http://static.bbci.co.uk/live-experience/1.2.994/modules/lib/imager',
+        'he': 'http://static.bbci.co.uk/live-experience/1.2.994/modules/lib/he',
+                // React Components
+        'live-reporting': 'http://static.bbci.co.uk/live-experience/1.2.994/modules/lib/live-reporting',
+        'cricket-header': 'http://static.bbci.co.uk/live-experience/1.2.994/modules/lib/cricket-header',
+        'react': 'http://static.bbci.co.uk/live-experience/1.2.994/modules/lib/react',
+        'es5-sham': 'http://static.bbci.co.uk/live-experience/1.2.994/modules/lib/es5-sham.min',
+        'es5-shim': 'http://static.bbci.co.uk/live-experience/1.2.994/modules/lib/es5-shim.min',
+        'classlist': 'http://static.bbci.co.uk/live-experience/1.2.994/modules/lib/classlist'
+    },
+    deps: ['es5-shim', 'es5-sham', 'classlist'],
+        shim: {
+        angular: {
+            exports: 'angular'
+        },
+        'angular-touch': {
+            deps: ['angular']
+        },
+        MomentDateUtility: {
+            exports: 'moment'
+        },
+        ngDropdowns: {
+            deps: ['angular'],
+            exports: 'ngDropdowns'
+        },
+        'live-reporting': {
+            deps: ['react']
+        },
+        'cricket-header': {
+            deps: ['react']
+        },
+        'es5-sham': {
+            deps: ['es5-shim']
+        },
+        react: {
+            deps: [
+                'es5-sham',
+                'es5-shim',
+            ]
+        }
+    }
+});
+</script>
+<script type="text/javascript">
+    if (!LX.cuts_the_mustard) {
+        document.write('<style>.lx-pre-angular, .lx__loader { display: none !important; }</style>')
+    }
+</script>
+
+<!--[if lt IE 9]>
+    <link rel="stylesheet" href="http://static.bbci.co.uk/live-experience/1.2.994/css/fixed.css" />
+    <link rel="stylesheet" href="http://static.bbci.co.uk/live-experience/1.2.994/css/flux-news-fixed.css" />
+    <script src="http://static.bbci.co.uk/live-experience/1.2.994/modules/lib/json3.min.js"></script>
+    <script src="http://static.bbci.co.uk/live-experience/1.2.994/modules/lib/index-of.js"></script>
+<![endif]-->
+<script type="text/javascript">
+    if (typeof bbcdotcom !== 'undefined' &&
+        typeof bbcdotcom.init !== 'undefined') {
+        bbcdotcom.init({adsToDisplay:['wallpaper', 'leaderboard', 'mpu']});
+    }
+
+    if (LX.cuts_the_mustard && LX.browser.isIE8 === false) {
+        document.write('<link rel="stylesheet" href="http://static.bbci.co.uk/live-experience/1.2.994/css/responsive.css" />');
+                document.write('<link rel="stylesheet" href="http://static.bbci.co.uk/live-experience/1.2.994/css/flux-news-enhanced.css" />');
+            }
+</script>
+<script type="text/javascript">
+define('live-experience/prefetched', [], function () {
+        return {"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news":[{"id":"06e1dc78c4199aea625b2cf73c16ca6b","lastModified":"2015-03-24T08:07:16.305+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":\"What were the indications?\",\"body\":\"<p>Security services could not hope to keep close tabs on everyone with terrorist sympathies, but there were important questions to be asked nonetheless, the Royal United Services Institute&#039;s Shashank Joshi tells the BBC.<\/p>\\n        <p>&quot;The question isn&#039;t so much &#039;did they slip through?&#039; - they certainly did - but what were the indications? Were there any indications they were acquiring weaponry, for example; that is a failure. They built up a weapons cache; there are some indications their neighbours knew about the weapons cache. The failure to have forewarning of that is a failure, but I think it is important to remember that there are hundreds and hundreds, if not thousands of people on these lists. No intelligence agency can track them all.&quot;<\/p>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"21:15\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":true,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"f9e756a0ca4b122fec7a68b9b20e5e14","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T21:16:28.000+0000"},{"id":"6b0bb57213b4510d0d3cf4e6e1929b15","lastModified":"2015-03-24T08:07:16.305+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":{},\"subHeading\":\"Tweet @BBC_HaveYourSay\",\"body\":\"<p><strong>@NickiMickeyB <\/strong><a href=\\\"https:\/\/twitter.com\/NickiMickeyB\/status\/553660054944378882\\\" >tweets<\/a>: @BBC_HaveYourSay I stand with France!  #JeSuisCharlie The pen remains mightier than the sword! #HealingofParis begins tonight! #VivelaFrance<\/p>\",\"type\":\"tweet\",\"bodyTextClass\":null,\"source\":null,\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":\"\/images\/1x1clear.png\",\"iconClass\":\"lx-ltc__icon-incident\",\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":true,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":false,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":true,\"hasIconClass\":true,\"cssClasses\":[\"lx-ltc__news-incident--tweet\",\"lx-ltc__posts--general\",\"has-icon\"]}}","payloadHash":"6280e43c22eac5890f95a953b54a5d59","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T21:34:22.000+0000"},{"id":"27fb92c7d30e8d164274944ede9186bf","lastModified":"2015-03-24T08:07:16.304+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":\"Questions over accomplices\",\"body\":\"<p>It is still not clear whether the supermarket gunman, 32-year-old Amedy Coulibaly, had an accomplice or not. Police had earlier issued an appeal saying they were looking for Coulibaly and a 26-year-old woman called Hayat Boumeddiene after both were suspected of involvement in the fatal shooting of a policewoman in a southern Paris suburb on Thursday. <\/p>\\n        <p>Police are still actively searching for Ms Boumeddiene, whose whereabouts remain unknown. <a href=\\\"http:\/\/www.lemonde.fr\/societe\/portfolio\/2015\/01\/09\/les-selfies-de-coulibaly-et-de-sa-compagne-arbalete-a-la-main_4552904_3224.html\\\" >Several old photos of the two have been published <\/a>on Le Monde&#039;s website, some of which show them both firing a small crossbow. <\/p>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"21:40\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":true,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"90b233e3b8e7be8b80999da6cb6979ca","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T21:43:51.000+0000"},{"id":"b50bfc71c4e5601f11df7e6a0ae7bcb0","lastModified":"2015-03-24T08:07:16.304+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":{},\"body\":\"<p>Forensic experts are still investigating the hostage site at the Jewish supermarket as night-time draws in.<\/p>\\n  <div class=\\\"caption full-width\\\">\\n  <img imager=\\\"http:\/\/news.bbcimg.co.uk\/media\/images\/80175000\/jpg\/_80175286_025340780-1.jpg\\\" imager-transform=\\\"cps\\\" imager-alt=\\\"French police officers and forensic experts investigate the scene at the Hyper Casher kosher grocery store near Porte de Vincennes in eastern Paris on January 9, 2015 \\\"\/>\\n\\n  <\/div>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"21:45\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"d2312072cd3713e1aceb85970350269c","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T21:45:19.000+0000"},{"id":"2c1ac637ed1d970a54540a99e45c4266","lastModified":"2015-03-24T08:07:16.304+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":\"Police 'heard gunman praying'\",\"body\":\"<p>According to French media, police were able to monitor what was happening inside the supermarket when the gunman, Amedy Coulibaly, failed to hang up properly after speaking to them. The BFMTV news channel says this was what enabled the police to hear what was going on in the background, as they heard the hostage taker saying a prayer. <\/p>\\n  <div class=\\\"caption full-width\\\">\\n  <img imager=\\\"http:\/\/news.bbcimg.co.uk\/media\/images\/80174000\/jpg\/_80174427_025336402-1.jpg\\\" imager-transform=\\\"cps\\\" imager-alt=\\\"Amedy Coulibaly in photo provided on 9 January 2015\\\"\/>\\n\\n  <\/div>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"21:59\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":true,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"5380c8fe69df45fdcebed3e486a6dacb","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T21:59:56.000+0000"},{"id":"4c443e9d21e1e1411092215ecb511005","lastModified":"2015-03-24T08:07:16.304+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":\"Kouachi brothers' neighbours 'found weapons'\",\"body\":\"<p>The Globe and Mail&#039;s Mark Mackinnon tells <a href=\\\"https:\/\/soundcloud.com\/bbc-world-service\/a-view-from-the-paris-attackers-neighbourhood?ocid=socialflow_twitter\\\" >BBC Newshour<\/a> that he met a Tunisian woman who was living next door to one of the Kouachi brothers.<\/p>\\n        <p>&quot;She had been concerned about her neighbours for quite some time, and described how she heard the brothers praying loudly through the walls. She thought they may be extremists so her husband broke in with the help of a plumber and discovered a cache of weapons. The brothers caught them, and forced them to promise not to tell the police.&quot;<\/p>\\n  <div class=\\\"caption full-width\\\">\\n  <img imager=\\\"http:\/\/news.bbcimg.co.uk\/media\/images\/80175000\/jpg\/_80175288_capture.jpg\\\" imager-transform=\\\"cps\\\" imager-alt=\\\"soundcloud\\\"\/>\\n\\n  <\/div>\",\"type\":\"blog\",\"bodyTextClass\":null,\"source\":null,\"time\":\"22:04\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":\"\/images\/1x1clear.png\",\"iconClass\":\"lx-ltc__icon-incident\",\"hasTheme\":true,\"hasTitle\":true,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":true,\"hasIconClass\":true,\"cssClasses\":[\"lx-ltc__news-incident--blog\",\"lx-ltc__posts--general\",\"has-icon\"]}}","payloadHash":"20eb8cf812442b49ea7ee337bcc88265","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T22:04:24.000+0000"},{"id":"53485bd8bef67ed654b25c50de89b347","lastModified":"2015-03-24T08:07:16.304+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":\"Get involved\",\"subHeading\":\"Email haveyoursay@bbc.co.uk\",\"body\":\"<div class=\\\"caption full-width\\\">\\n  <img imager=\\\"http:\/\/news.bbcimg.co.uk\/media\/images\/80175000\/jpg\/_80175827_guiliagotti.jpg\\\" imager-transform=\\\"cps\\\" imager-alt=\\\"Charlie tribute picture\\\"\/>\\n\\n    <span>Giulia Gotti sent in her pictures and says France needs to &quot;make a new step&quot; after the tragedy<\/span>\\n  <\/div>\",\"type\":\"email\",\"bodyTextClass\":null,\"source\":null,\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":\"\/images\/1x1clear.png\",\"iconClass\":\"lx-ltc__icon-incident\",\"hasTheme\":true,\"hasTitle\":true,\"hasSubHeading\":true,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":false,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":true,\"hasIconClass\":true,\"cssClasses\":[\"lx-ltc__news-incident--email\",\"lx-ltc__posts--general\",\"has-icon\"]}}","payloadHash":"6de56586ef5845498315d891729819dc","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T22:11:14.000+0000"},{"id":"00bccca2454636f986c43567ba83ce41","lastModified":"2015-03-24T08:07:16.304+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":\"Printing works employee 'hid'\",\"body\":\"<p>Paris prosecutor Francois Molins, speaking at a conference, says that an employee at the printing works where the Kouachi brothers were in Dammartin-en-Goele, was hiding on the second floor underneath a sink. The brothers did not realise there was another person hiding in the warehouse.<\/p>\",\"type\":\"blog\",\"bodyTextClass\":null,\"source\":null,\"time\":\"22:17\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":\"\/images\/1x1clear.png\",\"iconClass\":\"lx-ltc__icon-incident\",\"hasTheme\":true,\"hasTitle\":true,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":true,\"hasIconClass\":true,\"cssClasses\":[\"lx-ltc__news-incident--blog\",\"lx-ltc__posts--general\",\"has-icon\"]}}","payloadHash":"3ac60a44fd7d3af2a0259927fc8d6904","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T22:18:33.000+0000"},{"id":"31b06d43a3c6d301d1f65ac6ad48b3d5","lastModified":"2015-03-24T08:07:16.303+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":\"Francois Molins, Paris Prosecutor\",\"body\":\"<p>Coulibaly and his girlfriend, Hayat Boumeddiene, spoke more than 500 times to the Kouachi brothers over the phone.<\/p>\",\"type\":\"blog\",\"bodyTextClass\":null,\"source\":null,\"time\":\"22:27\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":\"\/images\/1x1clear.png\",\"iconClass\":\"lx-ltc__icon-incident\",\"hasTheme\":true,\"hasTitle\":true,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":true,\"hasIconClass\":true,\"cssClasses\":[\"lx-ltc__news-incident--blog\",\"lx-ltc__posts--general\",\"has-icon\"]}}","payloadHash":"fd68a62dea2b22e4f108a7404c21d882","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T22:27:43.000+0000"},{"id":"735522e9f5d8e92e957921fb12a4bc1d","lastModified":"2015-03-24T08:07:16.303+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":\"Francois Molins, Paris Prosecutor\",\"body\":\"<p>It is likely four of the hostages were killed when the gunman entered the Jewish supermarket, and not during the special police operation that ended the siege. The gunman had called a TV station to say that he had killed four of the hostages. <\/p>\",\"type\":\"blog\",\"bodyTextClass\":null,\"source\":null,\"time\":\"22:28\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":\"\/images\/1x1clear.png\",\"iconClass\":\"lx-ltc__icon-incident\",\"hasTheme\":true,\"hasTitle\":true,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":true,\"hasIconClass\":true,\"cssClasses\":[\"lx-ltc__news-incident--blog\",\"lx-ltc__posts--general\",\"has-icon\"]}}","payloadHash":"ee228d0395e3cd38fa36c3fc836df5c1","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T22:28:31.000+0000"},{"id":"b0bcede1fb266ee3d0bcf7ec228f4fa9","lastModified":"2015-03-24T08:07:16.303+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":\"Francois Molins, Paris Prosecutor\",\"body\":\"<p>Police were able to identify Coulibaly&#039;s DNA from a cloth found near the scene of the deadly attack on a policewoman in Montrouge on Thursday. He was identified within two hours. <\/p>\",\"type\":\"blog\",\"bodyTextClass\":null,\"source\":null,\"time\":\"22:34\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":\"\/images\/1x1clear.png\",\"iconClass\":\"lx-ltc__icon-incident\",\"hasTheme\":true,\"hasTitle\":true,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":true,\"hasIconClass\":true,\"cssClasses\":[\"lx-ltc__news-incident--blog\",\"lx-ltc__posts--general\",\"has-icon\"]}}","payloadHash":"3ed50710b6e6bfd3a5e1a5d9ad9e340c","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T22:34:55.000+0000"},{"id":"ef692a7190d3a114def6872754ca961d","lastModified":"2015-03-24T08:07:16.303+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":\"Iona Craig, Yemen, journalist\",\"body\":\"<p><a href=\\\"https:\/\/twitter.com\/ionacraig\/status\/553673474821332992\\\" >tweets: <\/a>Written statement from al-Qaeda in the Arabian Peninsula (AQAP) sources claimed AQAP leadership directed Paris attacks. Official video from AQAP praises, but does not claim.<\/p>\",\"type\":\"tweet\",\"bodyTextClass\":null,\"source\":null,\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":\"\/images\/1x1clear.png\",\"iconClass\":\"lx-ltc__icon-incident\",\"hasTheme\":true,\"hasTitle\":true,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":false,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":true,\"hasIconClass\":true,\"cssClasses\":[\"lx-ltc__news-incident--tweet\",\"lx-ltc__posts--general\",\"has-icon\"]}}","payloadHash":"2523ce588f7e3cd188d20da29714033d","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T22:38:36.000+0000"},{"id":"8a532ae0513a372764d8f98dffaf2da8","lastModified":"2015-03-24T08:07:16.303+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":{},\"body\":\"<p>Can confirm that the search for the supermarket attacker&#039;s girlfriend, Hayat Boumeddiene, is still ongoing. <\/p>\",\"type\":\"blog\",\"bodyTextClass\":null,\"source\":null,\"time\":\"22:40\",\"hasContributor\":true,\"contributor\":{\"description\":\"Paris Prosecutor\",\"name\":\"Francois Molins\"},\"contributorName\":\"Francois Molins\",\"icon\":\"\/images\/1x1clear.png\",\"iconClass\":\"lx-ltc__icon-incident\",\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":true,\"hasIcon\":true,\"hasIconClass\":true,\"cssClasses\":[\"lx-ltc__news-incident--blog\",\"lx-ltc__posts--third-party\",\"has-icon\"]}}","payloadHash":"a14cbbcd03424aecea8c491be7ca4787","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T22:41:25.000+0000"},{"id":"bd1b3f50d6fe85e42953831802e2b70e","lastModified":"2015-03-24T08:07:16.303+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":{},\"body\":\"<p>Only five people now remain in detention, including the wife of one of the Kouachi brothers.<\/p>\\n        <p>Picture: Mr Molins speaking at the press conference.<\/p>\\n  <div class=\\\"caption full-width\\\">\\n  <img imager=\\\"http:\/\/news.bbcimg.co.uk\/media\/images\/80174000\/jpg\/_80174429_025341275-1.jpg\\\" imager-transform=\\\"cps\\\" imager-alt=\\\"Paris prosecutor Francois Molins (R) holds a press conference on 9 January 2015 in Paris after an hostage-taking at a Jewish supermarket where four hostages were killed in eastern Paris\\\"\/>\\n\\n  <\/div>\",\"type\":\"blog\",\"bodyTextClass\":null,\"source\":null,\"time\":\"22:47\",\"hasContributor\":true,\"contributor\":{\"description\":\"Paris Prosecutor\",\"name\":\"Francois Molins\"},\"contributorName\":\"Francois Molins\",\"icon\":\"\/images\/1x1clear.png\",\"iconClass\":\"lx-ltc__icon-incident\",\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":true,\"hasIcon\":true,\"hasIconClass\":true,\"cssClasses\":[\"lx-ltc__news-incident--blog\",\"lx-ltc__posts--third-party\",\"has-icon\"]}}","payloadHash":"d998ec3765b0fd20ce77f122a96b4b3b","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T22:47:47.000+0000"},{"id":"9678960286f0de56368ba08ae4a81e59","lastModified":"2015-03-24T08:07:16.302+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":\"'Toulouse est Charlie'\",\"body\":\"<div class=\\\"caption full-width\\\">\\n  <img imager=\\\"http:\/\/news.bbcimg.co.uk\/media\/images\/80176000\/jpg\/_80176304_025341421-1.jpg\\\" imager-transform=\\\"cps\\\" imager-alt=\\\"A sign reading &quot;Toulouse est Charlie&quot; the side of a building\\\"\/>\\n\\n  <\/div>\\n      <p>In an earlier entry, we told you how the Arc de Triomphe has been lit up to say &quot;Paris is Charlie&quot; - there is a similar message of solidarity in Toulouse. <\/p>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"23:12\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":true,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"ad2c1e2271e6ebad96d03e372b0466b8","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T23:12:55.000+0000"},{"id":"a31f0b852833232fa2308e2cf6bdb3e9","lastModified":"2015-03-24T08:07:16.302+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":\"Get involved\",\"subHeading\":\"Email haveyoursay@bbc.co.uk\",\"body\":\"<p><strong>Francis Huicq <\/strong>in London emails: It will take time to heal our wounds, I have never felt myself this feeling of revolt, deep pain, distress and of being so far away from my country and my relatives and I have never been in a situation of crying at the view of newspapers or watching and hearing the news. The positive in this is the reaction and unity my fellow citizens have shown and also the support felt from abroad.<\/p>\",\"type\":\"email\",\"bodyTextClass\":null,\"source\":null,\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":\"\/images\/1x1clear.png\",\"iconClass\":\"lx-ltc__icon-incident\",\"hasTheme\":true,\"hasTitle\":true,\"hasSubHeading\":true,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":false,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":true,\"hasIconClass\":true,\"cssClasses\":[\"lx-ltc__news-incident--email\",\"lx-ltc__posts--general\",\"has-icon\"]}}","payloadHash":"8e389adfef25019235b2b7ddcbaf6e94","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T23:14:22.000+0000"},{"id":"1c039e987a55b5da4d85ce99533a3f87","lastModified":"2015-03-24T08:07:16.302+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":\"Dramatic footage\",\"body\":\"<p>Amateur footage broadcast by France2 TV shows the storming of the supermarket. The shop shutters open slowly to reveal a body lying as police quickly approach the entrance.  They fire into the building. <\/p>\\n        <p>The shot is frozen when a man dressed in black - possibly the hostage taker - appears running towards the door.  Dozens of police enter the supermarket and hostages run onto the street. A body is then seen being dragged out of the shop.  It is not clear whether it is that of the gunman.<\/p>\\n  <div class=\\\"caption full-width\\\">\\n  <img imager=\\\"http:\/\/news.bbcimg.co.uk\/media\/images\/80176000\/jpg\/_80176302_supermarketgunman.jpg\\\" imager-transform=\\\"cps\\\" imager-alt=\\\"France TV 2 screen grab\\\"\/>\\n\\n  <\/div>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"23:17\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":true,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"d2c65a4abb996d040ac58816dd2de9f9","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T23:17:37.000+0000"},{"id":"281259f15fb8d86eef411f08820d3ee6","lastModified":"2015-03-24T08:07:16.302+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":\"Police video of raid\",\"body\":\"<p><a href=\\\"https:\/\/www.youtube.com\/watch?v=yS57T5A0CIE&amp;feature=youtu.be\\\" >Another video<\/a> released by French police shows the moment special forces launched a raid on the print workshop in Dammartin-en-Goele, where the Charlie Hebdo suspects were hiding out.<\/p>\\n  <div class=\\\"caption full-width\\\">\\n  <img imager=\\\"http:\/\/news.bbcimg.co.uk\/media\/images\/80176000\/jpg\/_80176306_prints.jpg\\\" imager-transform=\\\"cps\\\" imager-alt=\\\"Screen grab of French police outside print works near Paris on 9 January 2015\\\"\/>\\n\\n  <\/div>\\n<div class=\\\"caption full-width\\\">\\n  <img src=\\\"http:\/\/news.bbcimg.co.uk\/media\/images\/80176000\/jpg\/_80176308_prints2.jpg\\\"   alt=\\\"Screen grab of exterior of printing works on 9 January 2015\\\" \/>\\n\\n  <\/div>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"23:29\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":true,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"e03020cdfe7866d82a35fd5fe9d2f3fb","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T23:29:20.000+0000"},{"id":"f0e77f7bf8823f0ff15c7f9ce5eaf759","lastModified":"2015-03-24T08:07:16.302+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":\"Get involved\",\"subHeading\":\"Email haveyoursay@bbc.co.uk\",\"body\":\"<p><strong>Ian Benton<\/strong> emails: We live in the Marais 5 minutes walk from the Charlie Hebdo offices. We are British\/American with our little 24 month old boy and expecting our little girl in May. Paris is a big but small city so wherever you live it is close to what is happening. This is also why Paris will always rebound stronger and more unified as the community spirit is what really makes it the city of lights. Vive la France :-)<\/p>\",\"type\":\"email\",\"bodyTextClass\":null,\"source\":null,\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":\"\/images\/1x1clear.png\",\"iconClass\":\"lx-ltc__icon-incident\",\"hasTheme\":true,\"hasTitle\":true,\"hasSubHeading\":true,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":false,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":true,\"hasIconClass\":true,\"cssClasses\":[\"lx-ltc__news-incident--email\",\"lx-ltc__posts--general\",\"has-icon\"]}}","payloadHash":"4c9969d175b691d7594fa0f323a27b0a","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T23:29:31.000+0000"},{"id":"e7b797972272dc0475a412d8c45ccad6","lastModified":"2015-03-24T08:07:16.301+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":\"Asterix is Charlie\",\"body\":\"<p>Perhaps France&#039;s best-know cartoonist has shown his solidarity too. Albert Uderzo, who co-created Asterix, released these two images telling <a href=\\\"http:\/\/www.lefigaro.fr\/culture\/2015\/01\/09\/03004-20150109ARTFIG00104-albert-uderzo-on-revient-a-l-epoque-gauloise.php\\\" >Le Figaro<\/a> he wanted to show his &quot;affection&quot; for the cartoonists who had died.<\/p>\\n  <div class=\\\"caption full-width\\\">\\n  <img imager=\\\"http:\/\/news.bbcimg.co.uk\/media\/images\/80175000\/jpg\/_80175508_8337e679-aba6-45d5-9486-e13fa9e57789.jpg\\\" imager-transform=\\\"cps\\\" imager-alt=\\\"@asterixofficiel\\\"\/>\\n\\n    <span>An Asterix cartoon released in tribute to the victims of the Charlie Hebdo attacks<\/span>\\n  <\/div>\\n<div class=\\\"caption full-width\\\">\\n  <img src=\\\"http:\/\/news.bbcimg.co.uk\/media\/images\/80175000\/jpg\/_80175510_21223373-7369-4841-9a80-be495664f0cb.jpg\\\"   alt=\\\"An Asterix cartoon released in tribute to the victims of the Charlie Hebdo attacks\\\" \/>\\n\\n  <\/div>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"23:32\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":true,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"426bc2d6a53fb75e8ed2a76840833042","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T23:32:46.000+0000"},{"id":"f17802d8c87e0a41295d588f137f4518","lastModified":"2015-03-24T08:07:16.301+0000","payload":"{\"post\":{\"theme\":\"news\",\"title\":{},\"body\":\"<p>We&#039;re bringing to an end our live coverage of the dramatic near simultaneous police raids that resulted in the killings of the two Charlie Hebdo suspects and a third gunman who took several people hostage at a supermarket in eastern Paris. <\/p>\\n        <p>France is continuing to mourn for the Charlie Hebdo victims, as well as four of the hostages killed during Friday&#039;s supermarket siege. You can follow further updates, as well as background material on the story, on the <a href=\\\"http:\/\/www.bbc.co.uk\/news\/world\/\\\" >BBC News website<\/a>.<\/p>\\n  <div class=\\\"caption full-width\\\">\\n  <img imager=\\\"http:\/\/news.bbcimg.co.uk\/media\/images\/80175000\/jpg\/_80175512_025340988-1.jpg\\\" imager-transform=\\\"cps\\\" imager-alt=\\\"A vigil for the victims of the France terror attacks\\\"\/>\\n\\n  <\/div>\",\"type\":\"standard\",\"bodyTextClass\":null,\"source\":null,\"time\":\"23:48\",\"hasContributor\":false,\"contributor\":{},\"contributorName\":null,\"icon\":null,\"iconClass\":null,\"hasTheme\":true,\"hasTitle\":false,\"hasSubHeading\":false,\"hasBody\":true,\"hasType\":true,\"hasBodyTextClass\":false,\"hasSource\":false,\"hasTime\":true,\"hasHasContributor\":true,\"hasContributorName\":false,\"hasIcon\":false,\"hasIconClass\":false,\"cssClasses\":[\"lx-ltc__posts--general\"]}}","payloadHash":"52d302d2fdf5f78adb4c3285520f7f52","request":"pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb&limit=21&template=pulsar&theme=news","timestamp":"2015-01-09T23:48:53.000+0000"}]};
+    });
+</script>
+    <link rel="stylesheet" href="http://static.bbci.co.uk/gelstyles/0.9.1/style/core.css" />
+  <!--[if (lte IE 7)&(!IEMobile)]>
+    <link rel="stylesheet" href="http://static.bbci.co.uk/gelstyles/0.9.1/style/core-ie7.css" />
+  <![endif]-->
+
+<!--[if lt IE 8]>
+<div class="lx-group live-space br-box-subtle is-old-ie lx-pre-angular-bootstrap" role="main" id="live-space">
+<![endif]-->
+
+<!--[if IE 8]>
+<div class="lx-group live-space br-box-subtle is-ie8 lx-pre-angular-bootstrap" role="main" id="live-space">
+<![endif]-->
+
+<!--[if gt IE 8]><!-->
+<div class="lx-group live-space br-box-subtle lx-pre-angular-bootstrap" role="main" id="live-space">
+<!--<![endif]-->
+
+    <noscript>
+    <div class="live-notice--container">
+        <div class="live-notice">
+            <p class="live-notice--text lx-long-primer">We use JavaScript to ensure we can give you the best experience on our website.
+            JavaScript is not supported in your browser. For a better experience, enable JavaScript or <a class="live-notice--link" href="/news/live/world-europe-30722098?live_variant=nonjs">redirect to the No JavaScript version of the page</a>.</p>
+        </div>
+    </div>
+</noscript>
+
+<script type="text/javascript">
+(function(LX) {
+	if (LX.cuts_the_mustard) {
+		return;
+	}
+	document.write(
+		'<div class="live-notice--container">' +
+        	'<div class="live-notice">' +
+            	'<p class="live-notice--text lx-long-primer">' +
+            		'We are redirecting you to a page suitable for your browser. ' +
+            		'<a class="live-notice--link" href="/news/live/world-europe-30722098?live_variant=nonjs">' + 
+            		'Click here if your browser does not redirect automatically.</a>' +
+            	'</p>' +
+       		'</div>' +
+    	'</div>'
+	);
+}(LX));
+</script>
+    <script type="text/javascript">
+    setTimeout(function () {
+      document.getElementById('lx-loading-message').innerHTML = 'Loading <span>As it happened: France sieges end</span>';
+    }, 5000);
+    </script>
+
+    <div live-error></div>
+     
+     <div class=" lxw-header lx-pre-angular is-full no-media media-inactive not-live" > <div class="live-media-cta"> <div class="lx-media-player"></div> <section class="lx-sessionimg" role="region" aria-label="Coverage image"> <div class="lx-sessionimg__placeholder"> </div> </section> <div class="live-header"> <div class="live-header-content"> <div class="live-header-content__cta"> <span class="lxw-title"> <h1 class="live-media-title__copy lx-trafalgar" > <span class="lx-icon lx-icon__live--medium">Live: </span>As it happened: France sieges end </h1> <div class="live-media__bg live-media-title__bg"></div> </span> </div> </div> </div> </div> <div class=" lxw-tabs tabs-hidden ">  <div class="lxw-tab-content lx-group">   <div class="live-tab-content "> <section class="lx-summary live-header-tab-module" role="region" aria-labelledby="live-summary" aria-atomic="true" > <h2 class="lx-summary__title lx-pica">Summary</h2> <ol class="lx-summary__keypoints lx-long-primer lx-group" aria-live="polite">  <li class="lx-summary__keypoint"> <span class="lx-summary__keypoint--bullet" aria-hidden="true">&nbsp;</span>French forces storm two separate hostage sites in and around Paris on 9 January, killing three hostage takers </li>  <li class="lx-summary__keypoint"> <span class="lx-summary__keypoint--bullet" aria-hidden="true">&nbsp;</span>Charlie Hebdo suspects Said and Cherif Kouachi killed at a printing warehouse north of Paris </li>  <li class="lx-summary__keypoint"> <span class="lx-summary__keypoint--bullet" aria-hidden="true">&nbsp;</span>One employee trapped in the printing works was rescued </li>  <li class="lx-summary__keypoint"> <span class="lx-summary__keypoint--bullet" aria-hidden="true">&nbsp;</span>Hostage-taker, named by officials as Amedy Coulibaly, also killed in assault on Paris supermarket </li>  <li class="lx-summary__keypoint"> <span class="lx-summary__keypoint--bullet" aria-hidden="true">&nbsp;</span>Four hostages killed and another four seriously injured at the supermarket, officials say </li>  </ol> </section> </div>  </div> </div> </div> 
+    <script type="text/ng-template" id="share-tools.tpl">
+<div />
+</script>
+<div class="lxw-header lx-post-angular is-compact no-media media-inactive" media-status media-playing-status live-status header-status ng-controller="HeaderController">
+    <div cta class="live-media-cta">
+        <section session-image></section>
+        <div media-player></div>
+    </div>
+    <ul tabs>
+        <li class="lx-tabs__item" tab title="Information" icon="event-info">
+            <div liveheader></div>
+        </li><li class="lx-tabs__item" tab title="Key Points" ng-controller="KeyPointsController">
+            <div summary title="Key Points"></div>
+        </li><li class="lx-tabs__item" tab title="Key Video" ng-if="supportsMedia">
+            <div carousel id="lx-media-switcher-highlights" title="Key Video">
+                <ol class="lx-carousel__items lx-group" ng-controller="HighlightsController" title="Key Video">
+                    <li media-items></li>
+                </ol>
+            </div>
+        </li><li class="lx-tabs__item" tab title="Live Coverage" ng-if="supportsMedia">
+            <div carousel id="lx-media-switcher-live" title="Live Coverage">
+                <ol class="lx-carousel__items lx-group" ng-controller="RelatedContentController" title="Live Coverage">
+                    <li media-items></li>
+                </ol>
+            </div>
+        </li>
+    </ul>
+</div>
+
+<div class="lxw-body lx-post-angular lx-group" content-tabs="has-secondary-content" ng-controller="LtcContentTabsController" ng-class="{true:'lxw-body--has-content', false:''}[hasContent]">
+    <div class="lxw-primary lx-content-tabs__hidden">
+                    <div livetext theme="news" limit="20" content-tab="Reporting" coverage="coverage"></div>
+            </div>
+    <aside class="lxw-secondary" ng-controller="SecondaryContentTabsController">
+        <div content-tab="More from News">
+            <div more-from="News" tab-title="More from News" coverage="coverage"></div>
+        </div>
+    </aside>
+</div>
+
+    <div loader class="lx__loader br-box-page" ng:class="{true:'lx__loader--loaded', false:''}[loaded]">
+        <p class="lx-double-pica" id="lx-loading-message">This page automatically updates</p>
+    </div>
+
+    <div tv-license></div>
+</div>
+
+
+<!--[if IE 8]>
+    <script>require(['live-experience/tools/no_fontface']);</script>
+<![endif]--><script type="text/javascript">
+(function(LX) {
+	if (!LX.cuts_the_mustard) {
+    	var loc = window.location,
+    		url = loc.protocol + "//" + loc.host + '/news/live/world-europe-30722098?live_variant=nonjs';
+
+        window.location.href = url;
+    }
+}(LX));
+</script><script type="text/javascript">
+    define('live-experience/historyData', function () {
+        return [];
+    });
+
+    define('live-experience/services', function () {
+        return ["coverage:\/\/coverage?id=\/news\/live\/world-europe-30722098&template=sport.coverage&isuk=1&template=sport.coverage&isuk=1","pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb"];
+    });
+
+    define('live-experience/coverage', function () {
+                return {"assetId":"30722098","assetUri":"\/news\/live\/world-europe-30722098","coverageUrl":"http:\/\/www.bbc.co.uk\/news\/live\/world-europe-30722098","type":"LIV","isLive":false,"isAllDayEvent":false,"feedsLive":false,"status":"CATCH UP","headline":"As it happened: France sieges end","shortHeadline":"As it happened: France sieges end","summary":"Security forces storm the sites of sieges north-east of Paris, where the Charlie Hebdo shootings suspects were hiding, and at a supermarket in the capital where several hostages were being held.","scheduledStartTime":"2015-01-09T00:00:00+00:00","scheduledEndTime":"2015-01-09T23:52:00+00:00","primaryConceptId":null,"secondaryConceptId":null,"iStatsCounterName":"news.world.europe.live_coverage.30722098.page","mediaPlayerItems":[{"mediaType":"video","title":"Footage of Kouachi siege ending","availability":{"state":"HIGHLIGHT"},"poster":"http:\/\/news.bbcimg.co.uk\/media\/images\/80176000\/jpg\/_80176829_80176792.jpg","playlist":"http:\/\/playlists.bbc.co.uk\/news\/world-europe-30758792A\/playlist.sxml","itemType":"episode","pid":"p02gmfzh","duration":"1 min"},{"mediaType":"video","title":"Kouachi brothers killed in assault ","availability":{"state":"HIGHLIGHT"},"poster":"http:\/\/news.bbcimg.co.uk\/media\/images\/80176000\/jpg\/_80176239_80176238.jpg","playlist":"http:\/\/playlists.bbc.co.uk\/news\/world-europe-30754340A\/playlist.sxml","itemType":"episode","pid":"p02gm29k","duration":"03:30 mins"},{"mediaType":"video","title":"Kosher supermarket siege ended","availability":{"state":"HIGHLIGHT"},"poster":"http:\/\/news.bbcimg.co.uk\/media\/images\/80173000\/jpg\/_80173182_par.jpg","playlist":"http:\/\/playlists.bbc.co.uk\/news\/world-europe-30753200A\/playlist.sxml","itemType":"episode","pid":"p02gm2d1","duration":"02:33 mins"},{"mediaType":"video","title":"Charlie Hebdo editor remembered ","availability":{"state":"HIGHLIGHT"},"poster":"http:\/\/news.bbcimg.co.uk\/media\/images\/80173000\/jpg\/_80173444_80168524.jpg","playlist":"http:\/\/playlists.bbc.co.uk\/news\/world-europe-30755079A\/playlist.sxml","itemType":"episode","pid":"p02gm2sy","duration":"02:53 mins"},{"mediaType":"video","title":"Cherif Kouachi 'met Yemen jihadists'","availability":{"state":"HIGHLIGHT"},"poster":"http:\/\/news.bbcimg.co.uk\/media\/images\/80176000\/jpg\/_80176712_80175714.jpg","playlist":"http:\/\/playlists.bbc.co.uk\/news\/world-europe-30758957A\/playlist.sxml","itemType":"episode","pid":"p02gmdvm","duration":"01:08 mins"},{"mediaType":"video","title":"The Kouachi brothers' terrorist links","availability":{"state":"HIGHLIGHT"},"poster":"http:\/\/news.bbcimg.co.uk\/media\/images\/80174000\/jpg\/_80174527_80174526.jpg","playlist":"http:\/\/playlists.bbc.co.uk\/news\/world-europe-30754764A\/playlist.sxml","itemType":"episode","pid":"p02gghv3","duration":"01:36 mins"},{"mediaType":"video","title":"Hollande calls for vigilance","availability":{"state":"HIGHLIGHT"},"poster":"http:\/\/news.bbcimg.co.uk\/media\/images\/80174000\/jpg\/_80174403_80174219.jpg","playlist":"http:\/\/playlists.bbc.co.uk\/news\/world-europe-30752578A\/playlist.sxml","itemType":"episode","pid":"p02glzxh","duration":"02:29 mins"},{"mediaType":"video","title":"Vincennes: 'They must not divide us'","availability":{"state":"HIGHLIGHT"},"poster":"http:\/\/news.bbcimg.co.uk\/media\/images\/80173000\/jpg\/_80173749_jjjj.jpg","playlist":"http:\/\/playlists.bbc.co.uk\/news\/world-europe-30753202A\/playlist.sxml","itemType":"episode","pid":"p02gm07r","duration":"02:06 mins"},{"mediaType":"video","title":"Obama: US stands with France","availability":{"state":"HIGHLIGHT"},"poster":"http:\/\/news.bbcimg.co.uk\/media\/images\/80174000\/jpg\/_80174251_obamaparis.jpg","playlist":"http:\/\/playlists.bbc.co.uk\/news\/world-europe-30755428A\/playlist.sxml","itemType":"episode","pid":"p02glxd2","duration":"1 min"},{"mediaType":"video","title":"Charlie Hebdo survivors back at work","availability":{"state":"HIGHLIGHT"},"poster":"http:\/\/news.bbcimg.co.uk\/media\/images\/80174000\/jpg\/_80174462_80174461.jpg","playlist":"http:\/\/playlists.bbc.co.uk\/news\/world-europe-30755651A\/playlist.sxml","itemType":"episode","pid":"p02gm2yq","duration":"01:15 mins"},{"mediaType":"video","title":"'I didn't want to leave his body'","availability":{"state":"HIGHLIGHT"},"poster":"http:\/\/news.bbcimg.co.uk\/media\/images\/80167000\/jpg\/_80167628_80167627.jpg","playlist":"http:\/\/playlists.bbc.co.uk\/news\/world-europe-30751424A\/playlist.sxml","itemType":"episode","pid":"p02glhf8","duration":"02:29 mins"},{"mediaType":"video","title":"Parisians watch siege unfold on TV","availability":{"state":"HIGHLIGHT"},"poster":"http:\/\/news.bbcimg.co.uk\/media\/images\/80160000\/jpg\/_80160793_80160792.jpg","playlist":"http:\/\/playlists.bbc.co.uk\/news\/world-europe-30744749A\/playlist.sxml","itemType":"episode","pid":"p02gl0t0","duration":"01:27 mins"},{"mediaType":"video","title":"'I shook hands with terror suspect'","availability":{"state":"HIGHLIGHT"},"poster":"http:\/\/news.bbcimg.co.uk\/media\/images\/80161000\/jpg\/_80161580_80156001.jpg","playlist":"http:\/\/playlists.bbc.co.uk\/news\/world-europe-30739509A\/playlist.sxml","itemType":"episode","pid":"p02gl10s","duration":"01:14 mins"},{"mediaType":"video","title":"Hostages freed from supermarket","availability":{"state":"HIGHLIGHT"},"poster":"http:\/\/news.bbcimg.co.uk\/media\/images\/80169000\/jpg\/_80169616_80168151.jpg","playlist":"http:\/\/playlists.bbc.co.uk\/news\/world-europe-30744751A\/playlist.sxml","itemType":"episode","pid":"p02gm1mz","duration":"01:22 mins"}],"keyPoints":["French forces storm two separate hostage sites in and around Paris on 9 January, killing three hostage takers","Charlie Hebdo suspects Said and Cherif Kouachi killed at a printing warehouse north of Paris","One employee trapped in the printing works was rescued","Hostage-taker, named by officials as Amedy Coulibaly, also killed in assault on Paris supermarket","Four hostages killed and another four seriously injured at the supermarket, officials say"],"section":{"name":"Europe","uri":"\/news\/world\/europe","urlIdentifier":"\/news\/world\/europe"},"site":{"name":"BBC News"},"images":{"index":{"80171363":{"height":945,"width":1680,"href":"http:\/\/news.bbcimg.co.uk\/media\/images\/80171000\/jpg\/_80171363_80168976.jpg","altText":"Security forces storm Paris supermarket","copyrightHolder":"AFP","originCode":"mcs"}},"index-thumbnail":{"80171365":{"height":180,"width":320,"href":"http:\/\/news.bbcimg.co.uk\/media\/images\/80171000\/jpg\/_80171365_80168976.jpg","altText":"Security forces storm Paris supermarket","copyrightHolder":"AFP","originCode":"mcs"}},"hero":{"80171382":{"height":945,"width":1680,"href":"http:\/\/news.bbcimg.co.uk\/media\/images\/80171000\/jpg\/_80171382_80171381.jpg","altText":"Security forces storm Paris supermarket","copyrightHolder":"AFP","originCode":"mcs"}},"compact-hero":{"80168979":{"height":473,"width":1680,"href":"http:\/\/news.bbcimg.co.uk\/media\/images\/80168000\/jpg\/_80168979_80168976.jpg","altText":"Security forces storm Paris supermarket","copyrightHolder":"AFP","originCode":"mcs"},"80155379":{"height":473,"width":1680,"href":"http:\/\/news.bbcimg.co.uk\/media\/images\/80155000\/jpg\/_80155379_80155376.jpg","altText":"Security forces in Dammartin-en Goele","copyrightHolder":"AP","originCode":"mcs"},"80149516":{"height":473,"width":1680,"href":"http:\/\/news.bbcimg.co.uk\/media\/images\/80149000\/jpg\/_80149516_80149126.jpg","altText":"epa","copyrightHolder":"EPA","originCode":"mcs"},"80134977":{"height":473,"width":1680,"href":"http:\/\/news.bbcimg.co.uk\/media\/images\/80134000\/jpg\/_80134977_pens.jpg","altText":"Two people stand with pens at a vigil for Charlie Hebdo staff","copyrightHolder":"AFP","originCode":"mcs"}}},"options":{"allowAdvertising":true},"body":"","feeds":["coverage:\/\/coverage?id=\/news\/live\/world-europe-30722098&template=sport.coverage&isuk=1&template=sport.coverage&isuk=1","pulsar:\/\/channel?channel-id=bbc.cps.asset.30722099_HighWeb"],"getInvolved":{"twitter":false,"facebook":false,"sms":false,"phone":false,"email":false,"hasDiscussionPanel":false},"header":{"headline":"As it happened: France sieges end","commentators":[{"name":"Julia Macfarlane, "},{"name":"Sarah Fowler, "},{"name":"Thom Poole, "},{"name":"Stephen Robb, "},{"name":"Yaroslav Lukov, "},{"name":"Aidan Lewis, "},{"name":"Kerry Alexandra "},{"name":"and Bernadette McCague"}],"vivo":{"authors":"Julia Macfarlane, Sarah Fowler, Thom Poole, Stephen Robb, Yaroslav Lukov, Aidan Lewis, Kerry Alexandra and Bernadette McCague"}},"nitroFeeds":[],"seeAlso":[]};
+            });
+
+    define('live-experience/defaults', function () {
+                return {"session-image":"http:\/\/static.bbci.co.uk\/news\/1.61.5243\/img\/live\/news.jpg","theme":"news"};
+            });
+    
+                LX.pubsubModuleName = 'lx-pubsub';
+    define('lx-pubsub', [], function () {
+        return {
+            on: function () {},
+            emit: function () {}
+        };
+    });
+    </script>
+
+    <script src="http://static.bbci.co.uk/live-experience/1.2.994/js/io.min.js" type="text/javascript"></script>
+    <script src="http://static.bbci.co.uk/live-experience/1.2.994/js/live-experience-base.min.js" type="text/javascript"></script>
+
+            <script src="http://static.bbci.co.uk/live-experience/1.2.994/js/bundles/news.min.js" type="text/javascript"></script>
+    
+                                        
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                            
+                                        
+<script type="text/javascript">
+(function(LX, require) {
+    if (!LX.cuts_the_mustard) {
+        return;
+    }
+    define(
+        'live-experience/io',
+        [
+            'live-experience/config', 
+            'live-experience/tools/host-selector', 
+            'io/app'
+        ],
+        function (config, HostSelector, IO) {
+            var isHybridApp = (config.appSuffix === '.app'),
+                isPollingEnabled = true;
+
+            if (Object.keys(config).contains('isCoverageToday')) {
+                isPollingEnabled = config.isCoverageToday;
+            }
+
+            return new IO({
+                host: config.host,
+                isUk: config.isUk,
+                batch: config.batchRequests,
+                environment: HostSelector.getEnvironment(config.host),
+                livePush: config.livePush,
+                brokerHistory: config.brokerHistory,
+                hybridApp: isHybridApp,
+                pollingEnabled: isPollingEnabled
+            }
+        );
+    });
+    require([
+        'jquery-1.9',
+        'angular',
+        'react',
+        'live-experience/angular/factory/io',
+        'live-experience/angular/factory/imager',
+        'live-experience/imager/app',
+        'live-experience/angular/factory/istats',
+        'live-experience/angular/factory/media-player',
+        'live-experience/angular/live-directives',
+        'live-experience/tools/bindonce',
+        'live-experience/carousel/loader','live-experience/content-tabs/loader','live-experience/live-error/loader','live-experience/live-header/loader','live-experience/live-ltc/loader','live-experience/loader/loader','live-experience/ifs-ads/loader','live-experience/live-media/loader','live-experience/live-reporting/loader','live-experience/live-summary/loader','live-experience/lx-horizontal-swipe/loader','live-experience/media-items/loader','live-experience/more-coverage/loader','live-experience/more-from/loader','live-experience/related-live-sessions/loader','live-experience/session-image/loader','live-experience/tabs/loader','live-experience/ivote/loader','live-experience/tv-license/loader'],
+        function ($, angular) {
+            angular.element(document).ready(function () {
+                angular.bootstrap(document, [
+                    'io',
+                    'imager-factory',
+                    'imager',
+                    'istats',
+                    'media-player',
+                    'live-directives',
+                    'pasvaz.bindonce',
+                    'carousel','content-tabs','live-error','live-header','live-ltc','loader','ifs-ads','live-media','live-reporting','live-summary','lx-horizontal-swipe','media-items','more-coverage','more-from','related-live-sessions','session-image','tabs','ivote','tv-license'                ]);
+
+                var $lxPreBootstrapContainers = $('.lx-pre-angular-bootstrap');
+                $('.lx-pre-angular').remove();
+                $lxPreBootstrapContainers.removeClass('lx-pre-angular-bootstrap');
+
+                            });
+        });
+
+}(LX, require));
+</script>
+<script type="text/javascript">
+    var firstPostTimer,
+        post;
+
+    if (window.performance && window.performance.mark && window.performance.measure) {
+
+        window.performance.mark('start_looking_for_post');
+
+        if (! firstPostTimer) {
+            firstPostTimer = window.setInterval(function() {
+                post = document.querySelector('.lx-ltc__post-contents');
+
+                if (post) {
+                    window.performance.mark('first_post');
+                    window.performance.measure('ttfp', 'start_looking_for_post', 'first_post');
+                    window.clearInterval(firstPostTimer);
+                }
+            }, 250);
+        }
+    }
+</script>
+                                                                        </div>
+             </div>
+
+
+  
+
+<div id="core-navigation" class="navigation--footer">
+            <nav id="secondary-navigation--bottom" class="secondary-navigation--bottom" role="navigation" aria-label="World">
+            <a class="secondary-navigation__title navigation-arrow " href="/news/world"><span>World</span></a> <span class="off-screen">selected</span>                            <ul class="secondary-navigation--bottom__toplevel">
+                    <li class="navigation-core-title"><span>Sections</span></li>
+                                                            <li>
+                        <a href="/news/world/africa"><span>Africa</span></a>
+                                            </li>
+                                        <li>
+                        <a href="/news/world/asia"><span>Asia</span></a>
+                                            </li>
+                                        <li>
+                        <a href="/news/world/australia"><span>Australia</span></a>
+                                            </li>
+                                        <li class="selected">
+                        <a href="/news/world/europe"><span>Europe</span></a>
+                         <span class="off-screen">selected</span>                    </li>
+                                        <li>
+                        <a href="/news/world/latin_america"><span>Latin America</span></a>
+                                            </li>
+                                        <li>
+                        <a href="/news/world/middle_east"><span>Middle East</span></a>
+                                            </li>
+                                        <li>
+                        <a href="/news/world/us_and_canada"><span>US &amp; Canada</span></a>
+                                            </li>
+                                    </ul>
+                    </nav>
+    
+    <nav id="navigation--bottom" class="navigation navigation--bottom core--with-secondary" role="navigation" aria-label="News">
+        <ul class="navigation--bottom__toplevel">
+                                        <li class="">
+                    <a href="/news" class="">
+                        <span>Home</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/uk" data-panel-id="js-navigation-panel-UK" class="navigation-arrow">
+                        <span>UK</span>
+                    </a>
+                                                                <div class="navigation-panel navigation-panel--closed js-navigation-panel-UK">
+                            <div class="navigation-panel__content">
+                                <ul class="navigation-panel-secondary">
+                                    <li><a href="/news/uk"><span>UK Home</span></a></li>
+                                                                            <li>
+                                            <a href="/news/england"><span>England</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/news/northern_ireland"><span>N. Ireland</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/news/scotland"><span>Scotland</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/news/wales"><span>Wales</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/cymrufyw"><span>Cymru</span></a>                                        </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                                    </li>
+                            <li class="selected navigation-list-item--open">
+                    <a href="/news/world" data-panel-id="js-navigation-panel-World" class="navigation-arrow navigation-arrow--open">
+                        <span>World</span>
+                    </a>
+                     <span class="off-screen">selected</span>                                            <div class="navigation-panel js-navigation-panel-World">
+                            <div class="navigation-panel__content">
+                                <ul class="navigation-panel-secondary">
+                                    <li><a href="/news/world"><span>World Home</span></a></li>
+                                                                            <li>
+                                            <a href="/news/world/africa"><span>Africa</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/news/world/asia"><span>Asia</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/news/world/australia"><span>Australia</span></a>                                        </li>
+                                                                            <li class="selected">
+                                            <a href="/news/world/europe"><span>Europe</span></a> <span class="off-screen">selected</span>                                        </li>
+                                                                            <li>
+                                            <a href="/news/world/latin_america"><span>Latin America</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/news/world/middle_east"><span>Middle East</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/news/world/us_and_canada"><span>US &amp; Canada</span></a>                                        </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                                    </li>
+                            <li class="">
+                    <a href="/news/business" data-panel-id="js-navigation-panel-Business" class="navigation-arrow">
+                        <span>Business</span>
+                    </a>
+                                                                <div class="navigation-panel navigation-panel--closed js-navigation-panel-Business">
+                            <div class="navigation-panel__content">
+                                <ul class="navigation-panel-secondary">
+                                    <li><a href="/news/business"><span>Business Home</span></a></li>
+                                                                            <li>
+                                            <a href="/news/business/your_money"><span>Your Money</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="http://www.bbc.co.uk/news/business/market_data"><span>Market Data</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/news/business/markets"><span>Markets</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/news/business/companies"><span>Companies</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/news/business/economy"><span>Economy</span></a>                                        </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                                    </li>
+                            <li class="">
+                    <a href="/news/politics" data-panel-id="js-navigation-panel-Politics" class="navigation-arrow">
+                        <span>Politics</span>
+                    </a>
+                                                                <div class="navigation-panel navigation-panel--closed js-navigation-panel-Politics">
+                            <div class="navigation-panel__content">
+                                <ul class="navigation-panel-secondary">
+                                    <li><a href="/news/politics"><span>Politics Home</span></a></li>
+                                                                            <li>
+                                            <a href="/news/election/2015"><span>Election 2015</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/news/events/scotland-decides"><span>Scotland Decides</span></a>                                        </li>
+                                                                            <li>
+                                            <a href="/news/events/vote2014"><span>Vote 2014</span></a>                                        </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                                    </li>
+                            <li class="">
+                    <a href="/news/technology" class="">
+                        <span>Tech</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/science_and_environment" class="">
+                        <span>Science</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/health" class="">
+                        <span>Health</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/education" data-panel-id="js-navigation-panel-Education" class="navigation-arrow">
+                        <span>Education</span>
+                    </a>
+                                                                <div class="navigation-panel navigation-panel--closed js-navigation-panel-Education">
+                            <div class="navigation-panel__content">
+                                <ul class="navigation-panel-secondary">
+                                    <li><a href="/news/education"><span>Education Home</span></a></li>
+                                                                            <li>
+                                            <a href="/schoolreport"><span>School Report</span></a>                                        </li>
+                                                                    </ul>
+                            </div>
+                        </div>
+                                    </li>
+                            <li class="">
+                    <a href="/news/entertainment_and_arts" class="">
+                        <span>Entertainment &amp; Arts</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/video_and_audio" class="">
+                        <span>Video &amp; Audio</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/magazine" class="">
+                        <span>Magazine</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/in_pictures" class="">
+                        <span>In Pictures</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/also_in_the_news" class="">
+                        <span>Also in the News</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/special_reports" class="">
+                        <span>Special Reports</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/explainers" class="">
+                        <span>Explainers</span>
+                    </a>
+                                                        </li>
+                            <li class="">
+                    <a href="/news/the_reporters" class="">
+                        <span>The Reporters</span>
+                    </a>
+                                                        </li>
+                    </ul>
+    </nav>
+</div>
+   <div id="services-bar" class="blue-tit" role="navigation" aria-label="BBC News Services">
+    <div class="blue-tit__inner">
+        <h2 class="blue-tit__title">BBC News Services</h2>
+        <ul class="blue-tit__list">
+            <li class="blue-tit__list-item">
+                <a href="http://www.bbc.co.uk/news/10628994" class="blue-tit__list-item-link mobile">On your mobile</a>
+            </li>
+            <li class="blue-tit__list-item">
+                <a href="http://www.bbc.co.uk/news/help-17655000" class="blue-tit__list-item-link connected-tv">On your connected TV</a>
+            </li>
+            <li class="blue-tit__list-item">
+                <a href="http://www.bbc.co.uk/news/10628323" class="blue-tit__list-item-link newsletter">Get news alerts</a>
+            </li>
+            <li class="blue-tit__list-item">
+                <a href="http://www.bbc.co.uk/news/20039682" class="blue-tit__list-item-link contact-us">Contact BBC News</a>
+            </li>
+        </ul>
+    </div>
+</div>
+  </div><!-- closes #site-container -->      </div> <div id="orb-footer"  class="orb-footer orb-footer-grey" > <aside role="complementary"> <div id="orb-aside" class="orb-nav-sec b-r b-g-p"> <div class="orb-footer-inner" role="navigation"> <h2 class="orb-footer-lead">Explore the BBC</h2>  <div id="orb-footer-promo" class="orb-d"></div>  <div class="orb-footer-primary-links"> <ul>    <li  class="orb-nav-news orb-d"  > <a href="/news/">News</a> </li>    <li  class="orb-nav-newsdotcom orb-w"  > <a href="http://www.bbc.com/news/">News</a> </li>    <li  class="orb-nav-sport"  > <a href="/sport/">Sport</a> </li>    <li  class="orb-nav-weather"  > <a href="/weather/">Weather</a> </li>    <li  class="orb-nav-shop orb-w"  > <a href="http://shop.bbc.com/">Shop</a> </li>    <li  class="orb-nav-earthdotcom orb-w"  > <a href="http://www.bbc.com/earth/">Earth</a> </li>    <li  class="orb-nav-travel-dotcom orb-w"  > <a href="http://www.bbc.com/travel/">Travel</a> </li>    <li  class="orb-nav-capital orb-w"  > <a href="http://www.bbc.com/capital/">Capital</a> </li>    <li  class="orb-nav-iplayer orb-d"  > <a href="/iplayer/">iPlayer</a> </li>    <li  class="orb-nav-culture orb-w"  > <a href="http://www.bbc.com/culture/">Culture</a> </li>    <li  class="orb-nav-autos orb-w"  > <a href="http://www.bbc.com/autos/">Autos</a> </li>    <li  class="orb-nav-future orb-w"  > <a href="http://www.bbc.com/future/">Future</a> </li>    <li  class="orb-nav-tv"  > <a href="/tv/">TV</a> </li>    <li  class="orb-nav-radio"  > <a href="/radio/">Radio</a> </li>    <li  class="orb-nav-cbbc"  > <a href="/cbbc/">CBBC</a> </li>    <li  class="orb-nav-cbeebies"  > <a href="/cbeebies/">CBeebies</a> </li>    <li  class="orb-nav-arts orb-d"  > <a href="/arts/">Arts</a> </li>    <li  > <a href="/ww1/">WW1</a> </li>    <li  class="orb-nav-food"  > <a href="/food/">Food</a> </li>    <li  class="orb-nav-history"  > <a href="/history/">History</a> </li>    <li  class="orb-nav-learning"  > <a href="/learning/">Learning</a> </li>    <li  class="orb-nav-music"  > <a href="/music/">Music</a> </li>    <li  class="orb-nav-science"  > <a href="/science/">Science</a> </li>    <li  class="orb-nav-nature orb-w"  > <a href="/nature/">Nature</a> </li>    <li  class="orb-nav-earth orb-d"  > <a href="http://www.bbc.com/earth/">Earth</a> </li>    <li  class="orb-nav-local"  > <a href="/local/">Local</a> </li>    <li  class="orb-nav-travel orb-d"  > <a href="/travel/">Travel</a> </li>    <li  class="orb-nav-fullaz"  > <a href="/a-z/">Full A-Z</a> </li>    </ul> </div> </div> </div> </aside> <footer role="contentinfo"> <div id="orb-contentinfo" class="orb-nav-sec b-r b-g-p"> <div class="orb-footer-inner"> <ul>        <li  > <a href="/terms/">Terms of Use</a> </li>    <li  > <a href="/aboutthebbc/">About the BBC</a> </li>    <li  > <a href="/privacy/">Privacy Policy</a> </li>    <li  > <a href="/privacy/cookies/about">Cookies</a> </li>    <li  > <a href="/accessibility/">Accessibility Help</a> </li>    <li  > <a href="/guidance/">Parental Guidance</a> </li>    <li  > <a href="/contact/">Contact the BBC</a> </li>        </ul> <small> <span class="orb-hilight">Copyright &copy; 2015 BBC.</span> The BBC is not responsible for the content of external sites. <a href="/help/web/links/" class="orb-hilight">Read about our approach to external linking.</a> </small> </div> </div> </footer> </div>     <!-- BBCDOTCOM bodyLast --><div class="bbccom_display_none"><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && window.bbcdotcom.analytics) { bbcdotcom.analytics.page(); } if (window.bbcdotcom && bbcdotcom.currencyProviders) { bbcdotcom.currencyProviders.write(); } /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.currencyProviders) { bbcdotcom.currencyProviders.postWrite(); } /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ /** * ASNYC waits to make any gpt requests until the bottom of the page */ /*]]>*/ </script><script type="text/javascript"> /*<![CDATA[*/ if (window.bbcdotcom && bbcdotcom.data && bbcdotcom.data.stats && bbcdotcom.data.stats === 1 && bbcdotcom.utils && window.location.pathname === '/' && window.bbccookies && bbccookies.readPolicy('performance') ) { var wwhpEdition = bbcdotcom.utils.getMetaPropertyContent('wwhp-edition'); var _sf_async_config={}; /** CONFIGURATION START **/ _sf_async_config.uid = 50924; _sf_async_config.domain = "bbc.co.uk"; _sf_async_config.title = "Homepage"+(wwhpEdition !== '' ? ' - '+wwhpEdition : ''); _sf_async_config.sections = "Homepage"+(wwhpEdition !== '' ? ', Homepage - '+wwhpEdition : ''); _sf_async_config.region = wwhpEdition; _sf_async_config.path = "/"+(wwhpEdition !== '' ? '?'+wwhpEdition : ''); /** CONFIGURATION END **/ (function(){ function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement("script"); e.setAttribute("language", "javascript"); e.setAttribute("type", "text/javascript"); e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js'); document.body.appendChild(e); } var oldonload = window.onload; window.onload = (typeof window.onload != "function") ? loadChartbeat : function() { oldonload(); loadChartbeat(); }; })(); } /*]]>*/ </script></div> <!-- BBCDOTCOM all code in page -->  <script type="text/javascript"> document.write('<' + 'script id="orb-js-script" data-assetpath="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/orb/4/" src="http://static.bbci.co.uk/frameworks/barlesque/2.83.4/orb/4/script' + (( document.cookie.indexOf('ckns_debugorbjs') > -1 )? '-debug' : '') + '/orb.js"><' + '/script>'); </script>  <script type="text/javascript"> (function() {
+    'use strict';
+
+    var promoManager = {
+        url: '',
+        segments: ['a', 'b'],
+        promoLoaded: false,
+                makeUrl: function (variant, theme, win) {
+            var loc = win? win.location : window.location,
+                proto = loc.protocol,
+                host = loc.host,
+                url = proto + '//' + ((proto.match(/s:/i) && !host.match(/^www\.(int|test)\./i))? 'ssl.' : 'www.'),
+                themes = ['light', 'dark'];
+
+            if ( host.match(/^(?:www|ssl)\.(int|test|stage|live)\.bbc\./i) ) {
+                url += RegExp.$1 + '.';
+            }
+            else if ( host.match(/^pal\.sandbox\./i) ) {
+                url += 'test.';
+            }
+ 
+                        theme = themes[ +(theme === themes[0]) ];
+           
+           return url + 'bbc.co.uk/navpromo/' + variant + '/' + theme;
+        },
+                validSegment: function (segment) {
+            var validSegments = this.segments;
+            
+            for (var i = 0, len = validSegments.length; i < len; i++) {
+                if (validSegments[i] === segment) {
+                    return segment;
+                }
+            }
+            
+            return validSegments[0];
+        },
+                init: function(node) {
+            var disabledByCookie = (document.cookie.indexOf('ckns_orb_nopromo=1') > -1),
+                orbFullWidth     = (document.getElementById('orb-aside').offsetWidth >= 1008),
+                that = this;
+            
+            if (window.promomanagerOverride) {
+                for (var p in promomanagerOverride) {
+                    that[p] = promomanagerOverride[p];
+                }
+            }
+                
+            if ( window.orb.fig('uk') && orbFullWidth && !disabledByCookie ) {
+                require(['orb/async/_footerpromo', 'istats-1'], function(promo, istats) {
+                                        var mandolinEndDate = new Date().getTime() + (7 * 60 * 60 * 24) * 1000,
+                        mandolin = new bbc.Mandolin('footer-promo', that.segments, {rate: 0.2, end: mandolinEndDate}),
+                        segmentToRequest = that.validSegment(mandolin.getSegment());
+
+                    that.url = (window.promomanagerOverride || that).makeUrl(segmentToRequest, 'light');
+
+                    if (that.url) { 
+                        promo.load(that.url, node, {
+                                                          onSuccess: function(e) {
+                                istats.addLabels({ 'campaignID': e.campaignID });
+                                if (segmentToRequest === mandolin.getSegment()) {
+                                    istats.addLabels({ 'promo_id_segment': e.campaignID + ':' + mandolin.getSegment() });
+                                }
+                                istats.track('internal', {region: node, linkLocation : 'orb-footer-promo'});
+
+                                istats.log('display', 'orb-footer-promo-displayed', {campaignID : e.campaignID, testVariant: segmentToRequest});
+                                node.className = node.className + ' orb-footer-promo-loaded';
+                                promoManager.promoLoaded = true;
+                                promoManager.event('promo-loaded').fire(e);
+                             },
+                             onError: function() {
+                                istats.log('error', 'orb-footer-promo-failed');
+                                document.cookie = 'ckns_orb_nopromo=1; expires=' + new Date(new Date().getTime() + 1000 * 60 * 10).toGMTString() + ';';
+                             }
+                        });   
+                    }
+                });
+            }
+        }
+    };
+    
+        
+    define('orb/promomanager', ['orb/lib/_event'], function (event) {
+        event.mixin(promoManager);
+        return promoManager;
+    });
+    
+    require(['orb/promomanager'], function (promoManager) {
+        promoManager.init(document.getElementById('orb-footer-promo'));
+    })
+})();
+ </script>   <script type="text/javascript"> if (typeof require !== 'undefined') { require(['istats-1'], function(istats){ istats.track('external', { region: document.getElementsByTagName('body')[0] }); istats.track('download', { region: document.getElementsByTagName('body')[0] }); }); } </script>               <img alt="" id="livestats" src="http://stats.bbc.co.uk/o.gif?~RS~s~RS~News~RS~t~RS~HighWeb_Story~RS~i~RS~30722098~RS~p~RS~99123~RS~a~RS~Domestic~RS~u~RS~/news/live/world-europe-30722098~RS~r~RS~0~RS~q~RS~0~RS~z~RS~3016~RS~">     <script> window.old_onload = window.onload; window.onload = function() { if(window.old_onload) { window.old_onload(); } window.loaded = true; }; </script> <!-- Chartbeat Web Analytics code - start -->
+<script type="text/javascript">
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+    _sf_async_config.uid = "50924";
+    _sf_async_config.domain = "m.bbc.co.uk";
+    _sf_async_config.sections = "News, News - europe, News - LIV, News - europe - LIV";
+    <!-- if page is an index, add the edition to the path -->
+    _sf_async_config.path = "/news/live/world-europe-30722098?ns_mchannel=social&#38;ns_campaign=bbc_breaking&#38;ns_source=twitter&#38;ns_linkname=news_central";
+    (function() {
+        var noCookies = true;
+        var cookiePrefix = '_chartbeat';
+        if ("object" === typeof bbccookies && typeof bbccookies.readPolicy == 'function') {
+            noCookies = !bbccookies.readPolicy().performance;
+        }
+        if (noCookies && document.cookie.indexOf(cookiePrefix) !== -1) {
+            //Find and remove cookies whose names begin with '_chartbeat'
+            var cookieSplit = document.cookie.split(';');
+            var cookieLength = cookieSplit.length;
+            while (cookieLength--) {
+                var cookie = cookieSplit[cookieLength].replace(/^\s+|\s+$/g, '');
+                var cookieName = cookie.split('=')[0];
+
+                if (cookieName.indexOf(cookiePrefix) === 0) {
+                    document.cookie = cookieName + '=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/;';
+                }
+            }
+        }
+        _sf_async_config.noCookies = noCookies;
+    }());
+
+    /** CONFIGURATION END **/
+    (function(){
+        function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement("script");
+            e.setAttribute("language", "javascript");
+            e.setAttribute("type", "text/javascript");
+            e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+            document.body.appendChild(e);
+        }
+        var oldonload = window.onload;
+        window.onload = (typeof window.onload != "function") ?
+            loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    }());
+</script>
+<!-- Chartbeat Web Analytics code - end -->
+ <!-- comscore mmx - start -->
+<script>
+	var _comscore = _comscore || [];
+	_comscore.push({ c1: "2", c2: "17986528"});
+
+	(function() {
+		var s = document.createElement("script")
+			, el = document.getElementsByTagName("script")[0];
+		s.async = true;
+		s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+		el.parentNode.insertBefore(s, el);
+	})();
+</script>
+
+<noscript>
+	<img src="http://b.scorecardresearch.com/p?c1=2&c2=17986528&cv=2.0&cj=1" class="image-hide" />
+</noscript>
+<!-- comscore mmx - end --> </body> </html> 
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,21 @@
+{
+    "tweet_id": "552783667052167168",
+    "created_at": "Wed Jan 07 11:07:51 +0000 2015",
+    "text": "France: 10 people dead after shooting at HQ of satirical weekly newspaper #CharlieHebdo, according to witnesses http://t.co/FkYxGmuS58",
+    "user": {
+      "user_id": "25067168",
+      "screen_name": "euronews",
+      "name": "euronews",
+      "verified": true,
+      "followers_count": 129573,
+      "location": "Europe",
+      "description": "Most watched news channel in Europe. We tweet in 13 languages. Choose yours: http://t.co/oJUYq0FdJC"
+    },
+    "retweet_count": 486,
+    "favorite_count": 38,
+    "lang": "en",
+    "hashtags": ["CharlieHebdo"],
+    "media": ["http://pbs.twimg.com/media/B6vhzVDCAAArnxh.jpg"],
+    "evidence_type": "url-given"
+  }
+  

@@ -1,0 +1,1117 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 24 Mar 2015 08:23:38 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 109
+Connection: keep-alive
+Cache-Control: private, max-age=90
+Location: http://trib.al/1KpzdFK
+Mime-Version: 1.0
+Set-Cookie: _bit=55111f0a-0013e-0507a-291cf10a;domain=.apne.ws;expires=Sun Sep 20 08:23:38 2015;path=/; HttpOnly
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html;charset=utf-8
+Date: Tue, 24 Mar 2015 08:23:38 GMT
+Location: http://bigstory.ap.org/article/5817417ce93c4030a8632c528338c005/brothers-past-draws-scrutiny-french-manhunt-enters-day-3
+Server: CherryPy/3.2.4
+Set-Cookie: tribal="/LOT8FKSQXSh/sBkP1TPXg=="; expires=Fri, 06 Jan 2034 23:13:40 GMT; Path=/; Version=2
+Content-Length: 295
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Server: nginx
+Content-Type: text/html; charset=utf-8
+Last-Modified: Tue, 24 Mar 2015 08:23:33 +0000
+ETag: "1427185413"
+Content-Language: en
+Link: </node/10016871>; rel="shortlink",</article/5817417ce93c4030a8632c528338c005/brothers-past-draws-scrutiny-french-manhunt-enters-day-3>; rel="canonical",</article/5817417ce93c4030a8632c528338c005/brothers-past-draws-scrutiny-french-manhunt-enters-day-3>; rel="canonical",</node/10016871>; rel="shortlink"
+X-Request-ID: v-0f695c32-d1ff-11e4-a947-1231381918ff
+X-AH-Environment: prod
+Content-Encoding: gzip
+Content-Length: 29141
+Accept-Ranges: bytes
+X-Varnish: 1497896007
+X-Age: 0
+Cache-Control: no-cache, must-revalidate, post-check=0, pre-check=0
+Expires: Tue, 24 Mar 2015 08:23:38 GMT
+Date: Tue, 24 Mar 2015 08:23:38 GMT
+Connection: keep-alive
+Vary: Accept-Encoding
+
+	<!DOCTYPE html PUBLIC "-//W3C//DTD HTML+RDFa 1.1//EN">
+<html lang="en" dir="ltr" version="HTML+RDFa 1.1"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/terms/"
+  xmlns:foaf="http://xmlns.com/foaf/0.1/"
+  xmlns:og="http://ogp.me/ns#"
+  xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#"
+  xmlns:sioc="http://rdfs.org/sioc/ns#"
+  xmlns:sioct="http://rdfs.org/sioc/types#"
+  xmlns:skos="http://www.w3.org/2004/02/skos/core#"
+  xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+  xmlns:fb="http://ogp.me/ns/fb#"
+  xmlns:article="http://ogp.me/ns/article#"
+  xmlns:book="http://ogp.me/ns/book#"
+  xmlns:profile="http://ogp.me/ns/profile#"
+  xmlns:video="http://ogp.me/ns/video#"> 
+<head profile="http://www.w3.org/1999/xhtml/vocab">
+ <meta name="apple-itunes-app" content="app-id=284901416"/>
+ <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UwEPUFdADQYFU1NT"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+<meta property="twitter:title" content="French security forces kill gunmen, end terror rampage" />
+<meta property="twitter:description" content="PARIS (AP) — With explosions and gunfire, security forces Friday ended three days of terror around Paris, killing the two al-Qaida-linked brothers who staged a murderous rampage at a satirical newspaper and an accomplice…" />
+<meta property="twitter:image" content="http://binaryapi.ap.org/d25a097b8fef4750b28fe11076eb6a46/460x.jpg" />
+<meta property="twitter:site" content="@ap" />
+<meta property="article:publisher" content="https://www.facebook.com/APNews" />
+<meta property="og:type" content="article" />
+<meta property="og:locale" content="en_US" />
+<meta property="twitter:url" content="http://bigstory.ap.org/article/5817417ce93c4030a8632c528338c005/brothers-past-draws-scrutiny-french-manhunt-enters-day-3" />
+<meta property="twitter:card" content="summary_large_image" />
+<meta name="twitter:app:name:iphone" content="AP Mobile" />
+<meta name="twitter:app:name:googleplay" content="AP Mobile" />
+<meta name="twitter:app:id:googleplay" content="mnn.Android" />
+<meta name="twitter:app:url:googleplay" content="apmobile://article/5817417ce93c4030a8632c528338c005" />
+<link href="http://bigstory.ap.org/profiles/ap/themes/ap_vertical/touch-icon.png" rel="apple-touch-icon" />
+<meta name="twitter:app:url:ipad" content="apmobile://article/5817417ce93c4030a8632c528338c005" />
+<meta name="twitter:app:id:ipad" content="284901416" />
+<meta name="twitter:app:id:iphone" content="284901416" />
+<meta name="twitter:app:url:iphone" content="apmobile://article/5817417ce93c4030a8632c528338c005" />
+<meta name="twitter:app:name:ipad" content="AP Mobile" />
+<meta property="fb:app_id" content="118162278248556" />
+<meta property="og:image" content="http://binaryapi.ap.org/d25a097b8fef4750b28fe11076eb6a46/460x.jpg" />
+<meta property="al:ios:url" content="apmobile://article/5817417ce93c4030a8632c528338c005" />
+<meta property="al:ios:app_store_id" content="284901416" />
+<meta property="og:description" content="PARIS (AP) — With explosions and gunfire, security forces Friday ended three days of terror around Paris, killing the two al-Qaida-linked brothers who staged a murderous rampage at a satirical newspaper and an accomplice…" />
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1, user-scalable=no" />
+<link rel="shortcut icon" href="http://bigstory.ap.org/sites/bigstory/files/AP_Favicon_0_0.png" type="image/png" />
+<link rel="canonical" href="http://bigstory.ap.org/article/5817417ce93c4030a8632c528338c005/brothers-past-draws-scrutiny-french-manhunt-enters-day-3" />
+<link rel="shortlink" href="/node/10016871" />
+<meta property="al:android:url" content="apmobile://article/5817417ce93c4030a8632c528338c005" />
+<meta property="al:ios:app_name" content="AP Mobile" />
+<meta property="og:site_name" content="The Big Story" />
+<meta property="og:url" content="http://bigstory.ap.org/article/5817417ce93c4030a8632c528338c005/brothers-past-draws-scrutiny-french-manhunt-enters-day-3" />
+<meta property="al:android:app_name" content="AP Mobile" />
+<meta property="og:title" content="French security forces kill gunmen, end terror rampage" />
+<meta property="al:web:url" content="http://bigstory.ap.org/article/5817417ce93c4030a8632c528338c005/brothers-past-draws-scrutiny-french-manhunt-enters-day-3" />
+<meta property="al:android:package" content="mnn.Android" />
+<meta property="al:android:class" content="com.ap.facebook.FacebookShareActivity" />
+<meta name="description" content="PARIS (AP) — With explosions and gunfire, security forces Friday ended three days of terror around Paris, killing the two al-Qaida-linked brothers who staged a murderous rampage at a satirical newspaper and an accomplice who seized hostages at a kosher supermarket to try to help the brothers escape. The worst terrorist violence France has seen in decades killed at least 20 people, including the three gunmen. A fourth suspect — the common law wife of the market attacker — was still at large and believed to be armed. Al-Qaida&#039;s branch in Yemen said it directed the attack against the publication Charlie Hebdo to avenge the honor of the Prophet Muhammad, a frequent target of the weekly&#039;s satire. The brothers were not unknown to authorities: One had a terrorism-related conviction for ties to a network sending fighters to battle American forces in Iraq, and both were on the U.S. no-fly list, according to a U.S. official. President Francois Hollande urged his nation to remain united and vigilant, and the city shut down a famed Jewish neighborhood amid fears of more violence. &quot;The threats facing France are not finished,&quot; Hollande said. &quot;We are a free people who cave to no pressure.&quot; The drama, which played out on live TV and social media, began with the brothers Said and Cherif Kouachi methodically massacring 12 people Wednesday at the Charlie Hebdo offices, stopping to shoot a wounded police officer in the head before escaping by car. On Thursday, a gunman police identified as Amedy Coulibaly shot a policewoman to death south of Paris, although authorities were not sure at first if it was related to the Charlie Hebdo shootings. It all ended at dusk Friday with near-simultaneous raids in two locations: a printing plant in the town of Dammartin-en-Goele, northeast of Paris, where the Kouachis were holed up, and the Paris supermarket where Coulibaly killed four hostages and threatened more violence unless the police let the Kouachis go. As scores of black-clad security forces surrounded both sites, booming explosions, heavy gunfire and dense smoke heralded the news that the twin sieges finally had ended. The three gunmen were dead — but the authorities also discovered four dead hostages at the market. Sixteen hostages were freed, one from the printing plant and 15 others from the store. The attackers had ties both to each other and to terrorist activities that reached back years and extended from Paris to al-Qaida in Yemen. They epitomized Western authorities&#039; greatest fear: Islamic radicals who trained abroad and came home to stage attacks. After the killings at the Charlie Hebdo offices, Cherif Kouachi, 32, and his 34-year-old brother Said led police on a chase around northeastern France, robbing a gas station and stealing a car before ending up at the printing plant in Dammartin-en-Goele, near Charles de Gaulle airport. One of the brothers was wounded in the neck at one point during a shootout with police after he commandeered a car, Paris Prosecutor Francois Molins said. Authorities said the brothers temporarily took a man hostage at the plant but let him go, and a second man was later discovered to have been hiding inside the building. A member of the al-Qaida in the Arabian Peninsula gave a statement in English to The Associated Press saying the group&#039;s leadership &quot;directed the operations and they have chosen their target carefully.&quot; The attack was in line with warnings from the late al-Qaida leader Osama bin Laden to the West about &quot;the consequences of the persistence in the blasphemy against Muslim sanctities,&quot; the member said, speaking on condition of anonymity because the group&#039;s regulations do not permit him to give his name. The brothers were cornered there for much of the day before the explosions and gunfire rang out in the twilight and a police SWAT team clambered onto the roof. &quot;They said they want to die as martyrs,&quot; Yves Albarello, a local lawmaker inside the command post, told French television station i-Tele. At the kosher grocery near the Porte de Vincennes neighborhood of the capital, the gunman burst in shooting just a few hours before the Jewish Sabbath began, declaring &quot;You know who I am,&quot; the official recounted. The attack came before sundown when the store would have been crowded with shoppers, and Hollande called it &quot;a terrifying anti-Semitic act.&quot; Coulibaly killed the four people in the market shortly after entering, Molins said. Several people wounded in the grocery store were able to flee and get medical care, the official said. About 100 students were locked down in nearby schools and the highway ringing Paris was closed. The mayor&#039;s office also shut down all shops along Rosiers Street in the city&#039;s famed Marais neighborhood in the heart of the tourist district. Hours before the Jewish Sabbath, the street is usually crowded with shoppers. The street is also only a kilometer (half-mile) from Charlie Hebdo&#039;s offices. Charles de Gaulle airport, not far from the standoff in Dammartin-en-Goele, briefly closed two runways to arrivals, and Hollande held a series of crisis meetings with his security team throughout the day. Police released a photo of Coulibaly and his wife, Hayat Boumeddiene, described as an accomplice. Authorities increasingly grew to see links between the attackers after they discovered that Boumeddiene and the companion of one of the Kouachi brothers had exchanged about 500 phone calls, Molins said. He added that several people have been given preliminary charges in the investigation. They include relatives of the three gunmen. Minutes before police stormed both sites, Coulibaly had threatened more violence if authorities launched an assault on the two brothers, a police official said. A group of people holed up in the supermarket&#039;s freezer — apparently unbeknownst to the gunman. BFM also said it spoke with Coulibaly, who said he and the Kouachis were coordinating their actions, and that he was with the militant Islamic State group. The organizations are normally rivals. The TV station said Coulibaly didn&#039;t hang up properly after the phone call and that this allowed police to hear him saying a final prayer before his death, perhaps suggesting that this prompted the police raid. In the final assault, phalanxes of security forces converged on the store entrance behind a flash from a stun grenade — and fired inside. Frenzied civilians — one of them carrying a toddler — scurried out under escort by helmeted police in body armor. Police said Coulibaly had been a co-suspect with Cherif Kouachi in a court case involving terrorism that never made it to trial. Cherif Kouachi was convicted of terrorism charges in 2008 for ties to a network sending jihadis to fight U.S. forces in Iraq. According to a Yemeni security official, Said Kouachi is suspected of having fought for al-Qaida in Yemen. Another senior security official added that Said was in Yemen until 2012. Both officials spoke to the AP on condition of anonymity because of an ongoing investigation into Kouachi&#039;s stay in Yemen. Both brothers were also on the U.S. no-fly list, a senior U.S. counterterrorism official said, speaking on condition of anonymity because the official was not authorized to discuss foreign intelligence publicly. The attacks in France as well as a hostage siege last month in Sydney and the October killing of a solder near Canada&#039;s parliament prompted the U.S. State Department to issue a global travel warning for Americans. It also cites an increased risk of reprisals against U.S. and Western targets for the U.S.-led intervention against Islamic State militants in Syria and Iraq. Authorities around Europe have warned of the threat posed by the return of Western jihadis trained in warfare. France counts at least 1,200 citizens in the war zone in Syria — headed there, returned or dead. Both the Islamic State group and al-Qaida have threatened France, home to Western Europe&#039;s largest Muslim population. The publication Charlie Hebdo had long drawn threats for its depictions of Islam, although it also lampooned other religions and political figures. It had caricatured the Prophet Muhammad, and a sketch of Islamic State&#039;s leader was the last tweet sent by the irreverent newspaper minutes before the attack. Eight journalists, two police officers, a maintenance worker and a visitor were killed in the newspaper attack, including the paper&#039;s editor. Charlie Hebdo plans a special edition next week, produced in the offices of another paper. ___ Associated Press writers Samuel Petrequin, Sylvie Corbet, Jamey Keaten, John Leicester and Angela Charlton in Paris; Raphael Satter and Trung Latieule in Dammartin-en-Goele, Jill Lawless in London; Eric Tucker in Washington; Ahmed al-Hag in Sanaa, Yemen; Sarah el-Deeb in Cairo contributed to this report." />
+<meta name="keywords" content="Yemen, France government, Al-Qaida, Manuel Valls, Francois Hollande, Assault and battery, Peshawar school massacre, Counterterrorism, Hostage situations, Cherif Kouachi, Extortion and threats, Evacuations, Building explosions, Explosions, Said Kouachi, Helicopter manufacturing, Aircraft manufacturing, Aerospace and defense industry, Kosher food, Cuisines, Food and drink, Charlie Hebdo shooting in Paris, Benjamin Netanyahu, Massacres, Osama bin Laden, News industry, Media industry, Media and entertainment industry, Travel restrictions and advisories, Travel safety" />
+<meta name="rights" content="2012 Associated Press" />
+    <title>French security forces kill gunmen, end terror rampage</title>  
+  <style type="text/css" media="all">@import url("http://bigstory.ap.org/modules/system/system.base.css?nlh03t");
+@import url("http://bigstory.ap.org/modules/system/system.menus.css?nlh03t");
+@import url("http://bigstory.ap.org/modules/system/system.messages.css?nlh03t");
+@import url("http://bigstory.ap.org/modules/system/system.theme.css?nlh03t");</style>
+<style type="text/css" media="all">@import url("http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/css/flyout.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/modules/contrib/date/date_api/date.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/modules/contrib/date/date_popup/themes/datepicker.1.7.css?nlh03t");
+@import url("http://bigstory.ap.org/modules/field/theme/field.css?nlh03t");
+@import url("http://bigstory.ap.org/modules/node/node.css?nlh03t");
+@import url("http://bigstory.ap.org/modules/search/search.css?nlh03t");
+@import url("http://bigstory.ap.org/modules/user/user.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/modules/contrib/views/css/views.css?nlh03t");</style>
+<style type="text/css" media="all">@import url("http://bigstory.ap.org/profiles/ap/modules/contrib/ctools/css/ctools.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/modules/custom/dev/ap_polar_ads/css/polar_ad_article_bs.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_microformats/ap_microformats.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/css/siro.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/css/glyphicon.css?nlh03t");</style>
+<style type="text/css" media="all">@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/css/fonts.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/css/foundation.min.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/css/styles-bigStory.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/css/style.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/css/magnific-popup.css?nlh03t");</style>
+<style type="text/css" media="all">@import url("http://bigstory.ap.org/profiles/ap/themes/omega/alpha/css/alpha-mobile.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/themes/omega/omega/css/omega-branding.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/themes/omega/omega/css/omega-menu.css?nlh03t");
+@import url("http://bigstory.ap.org/profiles/ap/themes/omega/omega/css/omega-visuals.css?nlh03t");</style>
+<style type="text/css" media="print">@import url("http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/css/print.css?nlh03t");</style>
+
+<!--[if (lt IE 9)&(!IEMobile)]>
+<style type="text/css" media="all">@import url("http://bigstory.ap.org/profiles/ap/themes/omega/alpha/css/grid/alpha_default/normal/alpha-default-normal-12.css?nlh03t");</style>
+<![endif]-->
+  <script type="text/javascript" src="http://launch.newsinc.com/js/embed.js" id="_nw2e-js"></script>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+  <script type="text/javascript" src="/profiles/ap/themes/bigstory_v2/assets/js/responsive_ads.js"></script>
+  <script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.google_analytics_uacct = "UA-27590430-2";
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/misc/jquery.js?v=1.4.4"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/misc/jquery.once.js?v=1.2"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + 
+'//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+googletag.slots = googletag.slots || {};
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/misc/drupal.js?nlh03t"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["topic_box_2"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/10016871", [300, 250], "dfp-ad-topic_box_2")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["leaderboard"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/10016871", [[728, 90], [970, 66], [970, 90], [970, 250]], "dfp-ad-leaderboard")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["mobileleaderboard"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/10016871", [[300, 50], [320, 50]], "dfp-ad-mobileleaderboard")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["half_page"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/10016871", [[300, 600], [300, 250]], "dfp-ad-half_page")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.slots["mediumrectangle"] = googletag.defineSlot("/15786418/BigStory/AP/site/node/10016871", [300, 250], "dfp-ad-mediumrectangle")
+  .addService(googletag.pubads());
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _sf_startpt=(new Date()).getTime()
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _comscore = _comscore || [];
+_comscore.push({ c1: "2", c2: "11304492" });(function() { var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true; s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js"; el.parentNode.insertBefore(s, el); })();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/jquery.hoverIntent.minified.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/jquery.masonry.min.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/ap_boxes.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/ap_boxes_masonry.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_boxes/js/ap_boxes_flyout.js?nlh03t"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+googletag.cmd.push(function() {
+  googletag.pubads().enableAsyncRendering();
+  googletag.pubads().enableSingleRequest();
+});
+googletag.enableServices();
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+<!--Visual Revenue Reader Response Tracking Script (v6) -->
+    var _vrq = _vrq || [];
+    _vrq.push(["id", 113]);
+    _vrq.push(["automate", false]);
+    _vrq.push(["track", function(){}]);
+    (function(d, a){
+        var s = d.createElement(a),
+        x = d.getElementsByTagName(a)[0];
+        s.async = true;
+        s.src = "http://a.visualrevenue.com/vrs.js";
+        x.parentNode.insertBefore(s, x);
+    })(document, "script");
+<!-- End of VR RR Tracking Script - All rights reserved -->
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://content.zemanta.com/static/custom/bigstory/js/loader.js"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_article/js/dynamic-carousel.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_article/js/jquery.wmuslider.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/core/ap_article/js/ap_carousel.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/optional/responsive_dfp_box/js/responsive_dfp.js?nlh03t"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+window.CKEDITOR_BASEPATH = '/profiles/ap/libraries/ckeditor/'
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/contrib/google_analytics/googleanalytics.js?nlh03t"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _gaq = _gaq || [];_gaq.push(["_setAccount", "UA-27590430-2"]);_gaq.push(["_trackPageview"]);(function() {var ga = document.createElement("script");ga.type = "text/javascript";ga.async = true;ga.src = ("https:" == document.location.protocol ? "https://ssl" : "http://www") + ".google-analytics.com/ga.js";var s = document.getElementsByTagName("script")[0];s.parentNode.insertBefore(ga, s);})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/sites/bigstory/files/ap_polar_ads.js?nlh03t"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load();}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+try{Typekit.load();}catch(e){}
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://use.typekit.com/uta3cck.js"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/package-quojs-2.3.6/quo.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/contrib/disqus/disqus.js?nlh03t"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var AP_SOCIAL = {"refresh_delay":"3600","node_id":"10016871"}
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/js/mondernizr.custom.min.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/vendor/modernizr.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/jquery-scrolltofixed.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/custom.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/magnific-popup/jquery.magnific-popup.min.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/magnific-popup/core.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/magnific-popup/gallery.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/bigstory_v2/assets/js/magnific-popup/image.js?nlh03t"></script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/themes/omega/omega/js/omega-mediaqueries.js?nlh03t"></script>
+<script type="text/javascript">
+<!--//--><![CDATA[//><!--
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"bigstory_v2","theme_token":"NrNnezfhbW8SRlV-I4e7S9HhpkSkKNuuN06VfmCxlKo","js":{"0":1,"profiles\/ap\/modules\/custom\/optional\/ap_social\/js\/ap_social.min.js":1,"1":1,"misc\/jquery.js":1,"misc\/jquery.once.js":1,"2":1,"http:\/\/www.googletagservices.com\/tag\/js\/gpt.js":1,"misc\/drupal.js":1,"3":1,"4":1,"5":1,"6":1,"7":1,"8":1,"9":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/jquery.hoverIntent.minified.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/jquery.masonry.min.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/ap_boxes.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/ap_boxes_masonry.js":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/js\/ap_boxes_flyout.js":1,"10":1,"11":1,"http:\/\/content.zemanta.com\/static\/custom\/bigstory\/js\/loader.js":1,"profiles\/ap\/modules\/custom\/core\/ap_article\/js\/dynamic-carousel.js":1,"profiles\/ap\/modules\/custom\/core\/ap_article\/js\/jquery.wmuslider.js":1,"profiles\/ap\/modules\/custom\/core\/ap_article\/js\/ap_carousel.js":1,"profiles\/ap\/modules\/custom\/optional\/responsive_dfp_box\/js\/responsive_dfp.js":1,"12":1,"profiles\/ap\/modules\/contrib\/google_analytics\/googleanalytics.js":1,"13":1,"public:\/\/ap_polar_ads.js":1,"14":1,"15":1,"http:\/\/use.typekit.com\/uta3cck.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/package-quojs-2.3.6\/quo.js":1,"profiles\/ap\/modules\/contrib\/disqus\/disqus.js":1,"16":1,"profiles\/ap\/themes\/bigstory_v2\/js\/mondernizr.custom.min.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/vendor\/modernizr.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/jquery-scrolltofixed.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/custom.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/magnific-popup\/jquery.magnific-popup.min.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/magnific-popup\/core.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/magnific-popup\/gallery.js":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/js\/magnific-popup\/image.js":1,"profiles\/ap\/themes\/omega\/omega\/js\/omega-mediaqueries.js":1},"css":{"modules\/system\/system.base.css":1,"modules\/system\/system.menus.css":1,"modules\/system\/system.messages.css":1,"modules\/system\/system.theme.css":1,"profiles\/ap\/modules\/custom\/core\/ap_boxes\/css\/flyout.css":1,"profiles\/ap\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/ap\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"modules\/node\/node.css":1,"modules\/search\/search.css":1,"modules\/user\/user.css":1,"profiles\/ap\/modules\/contrib\/views\/css\/views.css":1,"profiles\/ap\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/ap\/modules\/custom\/dev\/ap_polar_ads\/css\/polar_ad_article_bs.css":1,"profiles\/ap\/modules\/custom\/core\/ap_microformats\/ap_microformats.css":1,"profiles\/ap\/themes\/bigstory_v2\/css\/siro.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/glyphicon.css":1,"profiles\/ap\/themes\/bigstory_v2\/css\/fonts.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/foundation.min.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/styles-bigStory.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/style.css":1,"profiles\/ap\/themes\/bigstory_v2\/assets\/css\/magnific-popup.css":1,"profiles\/ap\/themes\/omega\/alpha\/css\/alpha-mobile.css":1,"profiles\/ap\/themes\/omega\/omega\/css\/omega-branding.css":1,"profiles\/ap\/themes\/omega\/omega\/css\/omega-menu.css":1,"profiles\/ap\/themes\/omega\/omega\/css\/omega-visuals.css":1,"profiles\/ap\/themes\/bigstory_v2\/css\/print.css":1,"ie::normal::profiles\/ap\/themes\/omega\/alpha\/css\/grid\/alpha_default\/normal\/alpha-default-normal-12.css":1}},"responsive_dfp_box":{"responsive_leaderboard":{"desktop":"\n\u003Cdiv  id=\u0022dfp-ad-leaderboard\u0022 class=\u0022dfp-tag-wrapper\u0022\u003E\n    \u003Cscript type=\u0022text\/javascript\u0022\u003E\n    googletag.cmd.push(function() {\n      googletag.display(\u0022dfp-ad-leaderboard\u0022);\n    });\n  \u003C\/script\u003E\n\u003C\/div\u003E\n","mobile":"\n\u003Cdiv  id=\u0022dfp-ad-mobileleaderboard\u0022 class=\u0022dfp-tag-wrapper\u0022\u003E\n    \u003Cscript type=\u0022text\/javascript\u0022\u003E\n    googletag.cmd.push(function() {\n      googletag.display(\u0022dfp-ad-mobileleaderboard\u0022);\n    });\n  \u003C\/script\u003E\n\u003C\/div\u003E\n"}},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip"},"disqus":{"domain":"thebigstory","url":"http:\/\/bigstory.ap.org\/article\/5817417ce93c4030a8632c528338c005\/brothers-past-draws-scrutiny-french-manhunt-enters-day-3","title":"French security forces kill gunmen, end terror rampage","identifier":"node\/10016871"},"omega":{"layouts":{"primary":"normal","order":["narrow","normal"],"queries":{"narrow":"screen and (min-width: 740px) and (min-device-width: 740px), (max-device-width: 800px) and (min-width: 740px) and (orientation:landscape)","normal":"screen and (min-width: 1040px) and (min-device-width: 1040px), all and (max-device-width: 1024px) and (min-width: 1024px) and (orientation:landscape)"}}}});
+//--><!]]>
+</script>
+  <!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
+  <!--[if lt IE 9]><link rel="stylesheet" href="/profiles/ap/themes/bigstory_v2/assets/css/fix-ie8.css"><![endif]-->
+  <!--[if lt IE 10]><link rel="stylesheet" href="/profiles/ap/themes/bigstory_v2/assets/css/fix-ie9.css"><![endif]-->
+  <!--[if lt IE 9]><script src="/profiles/ap/themes/bigstory_v2/assets/js/fix-ie8.js"></script><![endif]-->
+  <!--[if IE 9]><script src="/profiles/ap/themes/bigstory_v2/assets/js/fix-ie9.js"></script><![endif]-->
+  <!--[if lt IE 10]><script src="/profiles/ap/themes/bigstory_v2/assets/js/css3-multi-column.js"></script><![endif]-->
+  <script type="text/javascript">
+      $(function(){
+          if( $('body').hasClass("node-type-ap-article") ){
+              var script_quo = document.createElement('script')
+              script_quo.src = '/profiles/ap/themes/bigstory_v2/assets/js/package-quojs-2.3.6/quo.js'
+              document.documentElement.firstChild.appendChild(script_quo);
+          }
+      });
+  </script>
+</head>
+<body class="html not-front not-logged-in page-node page-node- page-node-10016871 node-type-ap-article context-article">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+  <div id="skip-link">
+    <a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+  </div>
+
+  <div class="region region-page-top" id="region-page-top">
+  <div class="region-inner region-page-top-inner">
+      </div>
+</div>  <div class="page clearfix" id="page">
+      <header id="section-header" class="section section-header">
+  <div id="zone-branding-wrapper" class="zone-wrapper zone-branding-wrapper clearfix">  
+  <div id="zone-branding" class="zone zone-branding clearfix container-12">
+    <header>
+    <nav class="top-bar" data-topbar="">
+        <ul class="title-area">
+            <li class="name">
+                <a class="logo" href="/">
+                    <!--[if gte IE 9]><!-->
+                    <img src="/profiles/ap/themes/bigstory_v2/assets/images/ap_logo_bigstory.svg" width="291" alt="">
+                    <!--<![endif]-->
+                    <!--[if lte IE 8]>
+                      <img class="fix-ie8-logo" src="/profiles/ap/themes/bigstory_v2/assets/images/ap_logo_bigstory.png" width="291" alt="">
+                    <![endif]-->
+                </a>
+            </li>
+            <li class="toggle-topbar menu-icon"><a href="#"><span><!-- menu --></span></a></li>
+        </ul>
+
+        <section class="top-bar-section">
+            <!--<nav id="nav">-->
+            <!--menu dinamico-->
+            <ul class="right medium-3 menuLinks">
+                
+                            <li class="hide-for-medium">
+            
+                            <a href="http://bigstory.ap.org/latest">
+                    Latest News                </a>
+            
+
+                        </li>
+           
+                        <li class="hide-for-small search-li dividerbigstory">
+                    <a id="idsearchform" type="button" data-options="align:left" data-dropdown="headerSearch" data-options="is_hover:false">
+                        <span class="glyphicon glyphicon-search"></span>
+                    </a>
+                    <div data-dropdown-content="" class="small content searchform drop-left open" id="headerSearch" style="display: none; position: absolute; left: -295px; top: 3px;">
+                        
+                        <form action="/" method="post" id="search-block-form" accept-charset="UTF-8">
+                                
+                                    <!--<div class="container-inline">
+                                    <div class="form-item form-type-textfield form-item-search-block-form">-->
+                        <div class="row">
+                            <div class="small-12 columns">
+                                <div class="row collapse">
+                                    <div class="small-10 colu">
+                                        <input title="Enter the terms you wish to search for." placeholder="Search..." type="text" id="edit-search-block-form--2" name="search_block_form" value=""  maxlength="128" class="form-text">
+                                    </div>
+                                    <div  class="small-2 colu" id="edit-actions">
+                                        <input id="butonsearch" class="button postfix" type="submit" name="op" value="Go" >
+                                    </div>
+                                    <input type="hidden" name="form_id" value="search_block_form">
+                                </div>
+                            </div>
+                        </div>
+                        </form>
+                    </div>
+                </li>
+                <li class="searchForm show-for-small">
+                    <form action="/" method="post" id="search-block-form" accept-charset="UTF-8" >
+                            <!--<div class="container-inline">-->
+                        <div class="">
+                            <div class="small-12 columns">
+                                <div class="row collapse" style="float:left">
+                                    <div class="small-10 columns">
+                                        <input title="Enter the terms you wish to search for." placeholder="Search..." type="text" id="edit-search-block-form--2" name="search_block_form" value=""  maxlength="128" class="form-text"/>
+                                    </div>
+                                    <div  class="small-2 columns" id="edit-actions2">
+                                        <input id="butonsearch" class="button postfix" type="submit" name="op" value="Go" />
+                                    </div>
+                                <input type="hidden" name="form_id" value="search_block_form"/>
+                                </div>
+                            </div>
+                        </div>
+                    </form>
+                </li>
+                <li class="divider show-for-small"></li>
+                <!--<li class="ad_nav">
+                    <a href="#"><img src="/profiles/ap/themes/bigstory_v2/assets/sample/ad_88x31.png" alt=""></a>
+                </li>-->
+            </ul>
+            <!--</nav>-->
+        </section>
+    </nav>
+</header>
+<div class="block block-boxes block-boxes-responsive-dfp block-responsive-leaderboard block-boxes-responsive-leaderboard odd block-without-title" id="block-boxes-responsive-leaderboard">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id='boxes-box-responsive_leaderboard' class='boxes-box'><div class="boxes-box-content"><div id="responsive_leaderboard-responsive-ad" class="responsive-ad"></div></div></div>    </div>
+  </div>
+
+</div>  </div>
+</div><!--<div>    <div id="whitelabel_header" class="clearfix">
+      </div>
+    <div class="menu-zone-inner-wrapper">
+	  <div>
+	    	  </div>
+  </div>
+</div>--></header>    
+      <section id="section-content" class="section section-content">
+  <div id="zone-content-wrapper" class="zone-wrapper zone-content-wrapper clearfix">  
+  <div id="zone-content" class="zone zone-content clearfix container-12">    
+        
+            <div id="section-article-full">
+
+
+  <div class="region-inner region-content-inner">
+    <a id="main-content"></a>
+                 
+            <div class="tabs clearfix"></div>        <div class="block block-system block-main block-system-main odd block-without-title" id="block-system-main">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    
+<section class="row article">
+<!-- Main article BEGIN -->
+<article class="large-9 medium-8 columns">
+    <section class="articleHeader">
+        
+        <div class="byline-dateline">
+            <!--
+                        <a href="/tags/yemen">Yemen</a>
+                        -->
+        </div>
+
+                          <h1 class="story-heading">French security forces kill gunmen, end terror rampage <span></span></h1>
+                
+      <div class="story-meta-footer">
+          
+        <div class="byline-dateline"> 
+            <div id="byline"><div class="field field-name-field-byline-original field-type-text field-label-hidden"><div class="field-items"><div class="field-item even">By <a href="/author/lori-hinnant">LORI HINNANT</a> and <a href="/author/elaine-ganley">ELAINE GANLEY</a></div></div></div></div>
+            <div id="dateline">
+                   <span  class="updated" title="2015-01-09T20:25:16-05:00">Jan. 9, 2015 8:25 PM EST</span> 
+            </div>
+        </div>
+          
+      </div>
+
+    </section>
+
+    <!-- sticky Tool-bar BEGIN -->
+    <section class="article_toolbar sticky" id="sticky-article-toolbar">
+        <div class="small-12 left">
+            
+<a class="share_bt hide-for-small" id="facebook" href="#"><i></i></a>
+<a class="share_bt hide-for-small" id="twitter" href="#"><i></i></a>
+<a class="share_bt hide-for-small" id="email" href="mailto:?subject=AP Big Story: French security forces kill gunmen, end terror rampage&body=From AP, %0D%0A %0D%0AFrench security forces kill gunmen, end terror rampage. %0D%0A %0D%0APARIS (AP) &#x2014; With explosions and gunfire, security forces Friday ended three days of terror around Paris, killing the two al-Qaida-linked brothers who staged a murderous rampage at a satirical newspaper and an accomplice who seized hostages at a kosher supermarket to try to help the brothers escape.  %0D%0A %0D%0Ahttp://bigstory.ap.org/article/5817417ce93c4030a8632c528338c005/brothers-past-draws-scrutiny-french-manhunt-enters-day-3"><i></i></a>
+<a href="#" class="share_bt" id="shareAll" data-dropdown="social-dropdown" onclick="javascript:return false;"><i></i>
+  <span class="share_bt" id="sharesTotal"></span>
+</a>
+
+<div class="right">
+  <a href="#" class="share_bt right" id="commentsAnchor"><i></i><span id="comments-count"></span></a>
+</div>
+
+<div id="social-dropdown-parent">
+  <div id="social-dropdown" class="f-dropdown">
+    <h6>Share article</h6>
+    <ul class="small-block-grid-3">
+      <li><a class="share_bt" id="facebook" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="twitter" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="linkedin" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="googleplus" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="reddit" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="tumblr" href="#"><i></i></a></li>
+      <li><a class="share_bt" id="email" href="mailto:?subject=AP Big Story: French security forces kill gunmen, end terror rampage&body=From AP, %0D%0A %0D%0AFrench security forces kill gunmen, end terror rampage. %0D%0A %0D%0APARIS (AP) &#x2014; With explosions and gunfire, security forces Friday ended three days of terror around Paris, killing the two al-Qaida-linked brothers who staged a murderous rampage at a satirical newspaper and an accomplice who seized hostages at a kosher supermarket to try to help the brothers escape.  %0D%0A %0D%0Ahttp://bigstory.ap.org/article/5817417ce93c4030a8632c528338c005/brothers-past-draws-scrutiny-french-manhunt-enters-day-3"><i></i></a></li>
+    </ul>
+  </div>
+</div>
+        </div>
+    </section>
+    
+ <script type="text/javascript">var only_one_photo = 0;</script> 
+<section class="slideshow lead-photo" id="lead-photo-slideshow">
+    <div class="photo-count">
+        26 photos    </div>
+    <script>var total_imgs =26</script>
+
+    <ul class="gallery popup-gallery" id="ul-gallery">
+        
+                                                <li class="visible">
+                                                        <a class="open-gallery" href="http://binaryapi.ap.org/d25a097b8fef4750b28fe11076eb6a46/460x.jpg" title="Security officers escort released hostages after they stormed a kosher market to end a hostage situation, Paris, Friday, Jan. 9, 2015. Explosions and gunshots were heard as police forces stormed a kosher grocery in Paris where a gunman was holding people hostage. Two sets of attackers seized hostages and locked down hundreds of French security forces around the capital on Friday, sending the city into fear and turmoil for a third day in a series of linked attacks that began with the deadly newspaper terror attack that left 12 people dead. (AP Photo/Michel Euler)">
+                                <img src="http://binaryapi.ap.org/d25a097b8fef4750b28fe11076eb6a46/460x.jpg" alt="France Attack Newspaper Photo Gallery" title="France Attack Newspaper Photo Gallery" />
+                            </a>
+                        </li>                      
+                    
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            </ul>
+    
+    <script type="text/javascript">      
+        var imgArray = new Array();
+         imgArray[1] = '<a class="open_gallery" href="http://binaryapi.ap.org/3e8416da43aa4548b5b4e24cc16fb37a/460x.jpg" title="Armed security forces fly overhead in a military helicopter  in Dammartin-en-Goele, northeast of Paris, Friday Jan. 9, 2015.   French security forces swarmed this small industrial town northeast of Paris Friday in an operation to capture a pair of heavily armed suspects in the deadly storming of a satirical newspaper. (AP Photo/Thibault Camus)"><img src="http://binaryapi.ap.org/3e8416da43aa4548b5b4e24cc16fb37a/460x.jpg" alt="APTOPIX France Newspaper Attack" title="APTOPIX France Newspaper Attack" /></a>'; 
+             imgArray[2] = '<a class="open_gallery" href="http://binaryapi.ap.org/e5a1305252c1454e892e8eaed1aaf91b/460x.jpg" title="An elite police officer followed by a man takes up position atop a building in Dammartin-en-Goele, northeast of Paris, where the two brothers suspected in a deadly terror attack were cornered, Friday, Jan.9, 2015. Two sets of attackers seized hostages and locked down hundreds of French security forces around the capital on Friday, sending the city into fear and turmoil for a third day in a series of linked attacks that began with the deadly newspaper terror attack that left 12 people dead. (AP Photo/Michel Spingler)"><img src="http://binaryapi.ap.org/e5a1305252c1454e892e8eaed1aaf91b/460x.jpg" alt="France Newspaper Attack" title="France Newspaper Attack" /></a>'; 
+             imgArray[3] = '<a class="open_gallery" href="http://binaryapi.ap.org/50c46c7e947a41709e18ca2c4ab9085d/460x.jpg" title="Security officers escort released hostages after they stormed a kosher market to end a hostage situation, Paris, Friday, Jan. 9, 2015. Explosions and gunshots were heard as police forces stormed a kosher grocery in Paris where a gunman was holding at least five people hostage. (AP Photo/Michel Euler)"><img src="http://binaryapi.ap.org/50c46c7e947a41709e18ca2c4ab9085d/460x.jpg" alt="APTOPIX France Market Attack" title="APTOPIX France Market Attack" /></a>'; 
+             imgArray[4] = '<a class="open_gallery" href="http://binaryapi.ap.org/90b297c583424ba9b1e9123096ee1d88/460x.jpg" title="Smoke emanates from the entrance to a kosher market as security forces prepare to end a hostage situation, Paris, Friday, Jan. 9, 2015. Explosions and gunshots were heard as police forces stormed a kosher grocery in Paris where a gunman was holding at least five people hostage. (AP Photo/Michel Euler)"><img src="http://binaryapi.ap.org/90b297c583424ba9b1e9123096ee1d88/460x.jpg" alt="APTOPIX France Market Attack" title="APTOPIX France Market Attack" /></a>'; 
+             imgArray[5] = '<a class="open_gallery" href="http://binaryapi.ap.org/f2a6399772c54b64a08d75cc482d0aae/460x.jpg" title="This photo provided by The Paris Police Prefecture Thursday, Jan.8, 2015 shows the suspects Cherif, left, and Said Kouachi  in the newspaper attack along with a plea for witnesses. Police hunted Thursday for two heavily armed men, one with possible links to al-Qaida, in the methodical killing of 12 people at a satirical newspaper that caricatured the Prophet Muhammed. France began a day of national mourning for what its president called "an act of exceptional barbarism. (AP Photo/Prefecture de Police de Paris)"><img src="http://binaryapi.ap.org/f2a6399772c54b64a08d75cc482d0aae/460x.jpg" alt="France Newspaper Attack" title="France Newspaper Attack" /></a>'; 
+             imgArray[6] = '<a class="open_gallery" href="http://binaryapi.ap.org/af9702031b82496f972a56254dd70c95/460x.jpg" title="CORRECTS FIRST NAME OF FEMALE SUSPECT  In this combination photo provided by the Paris Police Prefecture, Amedy Coulibaly, left, and Hayat Boumddiene, two suspects named by police as accomplices in a kosher market attack on the eastern edges of Paris on Friday, Jan. 9, 2015. A police official says the man who has taken at least five people hostage in a kosher market on the eastern edges of Paris Friday appears linked to the newsroom massacre earlier this week that left 12 people dead. Paris police released a photo of Amedy Coulibaly as a suspect in the killing Thursday of a policewoman, and the official named him as the man holed up in the market. He said the man is armed with an automatic rifle and some hostages have been gravely wounded. He said a second suspect, a woman named Hayat Boumddiene, is the gunman&#39s accomplice. (AP Photo/Prefecture de Police de Paris)"><img src="http://binaryapi.ap.org/af9702031b82496f972a56254dd70c95/460x.jpg" alt="France Market Attack" title="France Market Attack" /></a>'; 
+             imgArray[7] = '<a class="open_gallery" href="http://binaryapi.ap.org/5fa4825b457040d3a85be0b83961650d/460x.jpg" title="A security officer directs released hostages after they stormed a kosher market to end a hostage situation, Paris, Friday, Jan. 9, 2015. Explosions and gunshots were heard as police forces stormed a kosher grocery in Paris where a gunman was holding at least five people hostage. (AP Photo/Michel Euler)"><img src="http://binaryapi.ap.org/5fa4825b457040d3a85be0b83961650d/460x.jpg" alt="APTOPIX France Market Attack" title="APTOPIX France Market Attack" /></a>'; 
+             imgArray[8] = '<a class="open_gallery" href="http://binaryapi.ap.org/7f65a16cb6704ffda968accdf0c6128e/460x.jpg" title="FILE - In this Friday Jan. 9, 2015 file photo, a French police officer stands guard outside the Grand Mosque as people arrive for Friday prayers, Paris. Firebombs and pigs&#39 heads are being tossed at mosques and women in veils have been insulted in a surge of anti-Muslim acts since last week&#39s murderous assault on the newsroom of a satirical Paris paper, according to a Muslim who tracks such incidents in France. France&#39s large Muslim population risks becoming collateral damage in the aftermath of the three attacks by French radical Islamists who killed 17 people. Muslims in other European countries also won&#39t be spared, some Muslim leaders and experts say. Concern about a backlash against Muslims was discussed Monday Jan. 13, 2015, during a meeting on counter-terrorism measures at the Interior Ministry. (AP Photo/Michel Euler, File)"><img src="http://binaryapi.ap.org/7f65a16cb6704ffda968accdf0c6128e/460x.jpg" alt="France Newspaper Attack" title="France Newspaper Attack" /></a>'; 
+             imgArray[9] = '<a class="open_gallery" href="http://binaryapi.ap.org/7964925dd7c947509e4ecd9e9607fc54/460x.jpg" title="Armed security forces fly overhead in a military helicopter  in Dammartin-en-Goele, northeast of Paris, Friday Jan. 9, 2015.   French security forces swarmed this small industrial town northeast of Paris Friday in an operation to capture a pair of heavily armed suspects in the deadly storming of a satirical newspaper. (AP Photo/Thibault Camus)"><img src="http://binaryapi.ap.org/7964925dd7c947509e4ecd9e9607fc54/460x.jpg" alt="France Newspaper Attack" title="France Newspaper Attack" /></a>'; 
+             imgArray[10] = '<a class="open_gallery" href="http://binaryapi.ap.org/1a1f1028f8134ae9b91304bbc5abd8c9/460x.jpg" title="Police officers control the access to Dammartin-en-Goele, northeast of Paris, Friday Jan. 9, 2015.  French security forces swarmed this small industrial town northeast of Paris Friday in an operation to capture a pair of heavily armed suspects in the deadly storming of a satirical newspaper. (AP Photo/Thibault Camus)"><img src="http://binaryapi.ap.org/1a1f1028f8134ae9b91304bbc5abd8c9/460x.jpg" alt="APTOPIX France Newspaper Attack" title="APTOPIX France Newspaper Attack" /></a>'; 
+             imgArray[11] = '<a class="open_gallery" href="http://binaryapi.ap.org/5986f28bdf774411bbaf86cf9f73a4f1/460x.jpg" title="A police helicopter circles over Dammartin-en-Goele, northeast Paris, as part of an operation to seize two heavily armed suspects, Friday, Jan. 9, 2015.  French security forces swarmed a small industrial town northeast of Paris Friday in an operation to capture a pair of heavily armed suspects in the deadly storming of a satirical newspaper. Shots were fired as the brothers stole a car in the early morning hours, said a French security official, who could not immediately confirm reports of hostages taken or deaths later in the day in the town of Dammartin-en-Goele, about 40 kilometers (25 miles) northeast of Paris. (AP Photo/Michel Spingler)"><img src="http://binaryapi.ap.org/5986f28bdf774411bbaf86cf9f73a4f1/460x.jpg" alt="France Newspaper Attack" title="France Newspaper Attack" /></a>'; 
+             imgArray[12] = '<a class="open_gallery" href="http://binaryapi.ap.org/230f67b6076346588c9097129dbc7dc4/460x.jpg" title="French interior minister Bernard Cazeneuve addresses reporters at the end of a crisis meeting with French President Francois Hollande, at the Elysee Palace in Paris, Friday Jan. 9, 2015. Investigators are scrutinizing the recent past of two brothers with al-Qaida sympathies, as a manhunt for the suspects in the newsroom massacre at a satirical French weekly enters its third day. (AP Photo/Remy de la Mauviniere)"><img src="http://binaryapi.ap.org/230f67b6076346588c9097129dbc7dc4/460x.jpg" alt="France Newspaper Attack" title="France Newspaper Attack" /></a>'; 
+             imgArray[13] = '<a class="open_gallery" href="http://binaryapi.ap.org/3abd314e7138452f97e550c1d9aa9bc1/460x.jpg" title="Armed securtiy forces fly overhead in a military helicopter  in Dammartin-en-Goele, northeast of Paris, Friday Jan. 9, 2015.   French security forces swarmed this small industrial town northeast of Paris Friday in an operation to capture a pair of heavily armed suspects in the deadly storming of a satirical newspaper. (AP Photo/Thibault Camus)"><img src="http://binaryapi.ap.org/3abd314e7138452f97e550c1d9aa9bc1/460x.jpg" alt="France Newspaper Attack" title="France Newspaper Attack" /></a>'; 
+             imgArray[14] = '<a class="open_gallery" href="http://binaryapi.ap.org/31b7c97d8f414387b0a3aad5eb6b6131/460x.jpg" title="A security officer directs released hostages after they stormed a kosher market to end a hostage situation, Paris, Friday, Jan. 9, 2015. Explosions and gunshots were heard as police forces stormed a kosher grocery in Paris where a gunman was holding people hostage. Two sets of attackers seized hostages and locked down hundreds of French security forces around the capital on Friday, sending the city into fear and turmoil for a third day in a series of linked attacks that began with the deadly newspaper terror attack that left 12 people dead. (AP Photo/Michel Euler)"><img src="http://binaryapi.ap.org/31b7c97d8f414387b0a3aad5eb6b6131/460x.jpg" alt="France Attack Newspaper Photo Gallery" title="France Attack Newspaper Photo Gallery" /></a>'; 
+             imgArray[15] = '<a class="open_gallery" href="http://binaryapi.ap.org/0b1b59c6318c4fdaae3a503175ab6ff1/460x.jpg" title="Ambulances arrive in Dammartin-en-Goele, northeast Paris, as part of an operation to seize two heavily armed suspects, Friday, Jan. 9, 2015. French security forces swarmed a small industrial town northeast of Paris Friday in an operation to capture a pair of heavily armed suspects in the deadly storming of a satirical newspaper. Shots were fired as the brothers stole a car in the early morning hours, said a French security official, who could not immediately confirm reports of hostages taken or deaths later in the day in the town of Dammartin-en-Goele, about 40 kilometers (25 miles) northeast of Paris. (AP Photo/Michel Spingler)"><img src="http://binaryapi.ap.org/0b1b59c6318c4fdaae3a503175ab6ff1/460x.jpg" alt="France Newspaper Attack" title="France Newspaper Attack" /></a>'; 
+             imgArray[16] = '<a class="open_gallery" href="http://binaryapi.ap.org/139eca42f9c74e189080372571dca86f/460x.jpg" title="Police officers arrive at a hostage-taking situation at a kosher market in Paris, Friday Jan. 9, 2015. France&#39s anti-terrorism prosecutor says a shooting and hostage-taking attack is underway at a kosher market on the eastern edge of Paris. A police official said there are multiple hostages and wounded at the scene. (AP Photo/Francois Mori)"><img src="http://binaryapi.ap.org/139eca42f9c74e189080372571dca86f/460x.jpg" alt="France  Market Attack" title="France  Market Attack" /></a>'; 
+             imgArray[17] = '<a class="open_gallery" href="http://binaryapi.ap.org/9412fbda3d684fb3a8107182b1a9e364/460x.jpg" title="Grand Mosque rector Dalil Boubakeur, center, delivers a statement to members of the media following Friday prayers, Paris, Friday, Jan. 9, 2015. Two brothers suspected in a terror attack took a hostage Friday and were cornered by police inside a printing house northeast of Paris. One lawmaker said they told negotiators they "want to die as martyrs." (AP Photo/Michel Euler)"><img src="http://binaryapi.ap.org/9412fbda3d684fb3a8107182b1a9e364/460x.jpg" alt="France Newspaper Attack" title="France Newspaper Attack" /></a>'; 
+             imgArray[18] = '<a class="open_gallery" href="http://binaryapi.ap.org/bd3513e5b1424aaba5c23cc7068ff9ad/460x.jpg" title="French gendarmes escort children from the Henri Dunand school to a safe location to be picked up by their parents in Dammartin-en-Goele, 30 kilometers (19 miles) northeast of Paris, France, Friday Jan. 9, 2015. French security forces struggled with two rapidly developing hostage-taking situations Friday, one northeast of Paris where two terror suspects were holed up with a hostage in a printing plant and the other an attack on a kosher market in Paris. (AP Photo/Peter Dejong)"><img src="http://binaryapi.ap.org/bd3513e5b1424aaba5c23cc7068ff9ad/460x.jpg" alt="France Newspaper Attack" title="France Newspaper Attack" /></a>'; 
+             imgArray[19] = '<a class="open_gallery" href="http://binaryapi.ap.org/2484e8132b614c46b03067ca1a07b4d1/460x.jpg" title="Armed police officers in Dammartin-en-Goele, northeast of Paris, Friday Jan. 9, 2015. Brothers suspected in a newspaper terror attack were cornered with a hostage inside a printing house on Friday, after they hijacked a car and police followed them to a village near Paris&#39 main airport. (AP Photo/Peter Dejong)"><img src="http://binaryapi.ap.org/2484e8132b614c46b03067ca1a07b4d1/460x.jpg" alt="France Newspaper Attack" title="France Newspaper Attack" /></a>'; 
+             imgArray[20] = '<a class="open_gallery" href="http://binaryapi.ap.org/646e6db3a9a549dd9198d404f574a1ff/460x.jpg" title="A hooded police officer stands on a roof in Dammartin-en-Goele, northeast of Paris, where the two brothers suspected in a deadly terror attack were cornered, Friday, Jan.9, 2015. Two sets of attackers seized hostages and locked down hundreds of French security forces around the capital on Friday, sending the city into fear and turmoil for a third day in a series of linked attacks that began with the deadly newspaper terror attack that left 12 people dead. (AP Photo/Christophe Ena)"><img src="http://binaryapi.ap.org/646e6db3a9a549dd9198d404f574a1ff/460x.jpg" alt="France Newspaper Attack" title="France Newspaper Attack" /></a>'; 
+             imgArray[21] = '<a class="open_gallery" href="http://binaryapi.ap.org/2ed0463bfc1d4ec19c93713ae1b09fdd/460x.jpg" title="A hooded police officer stands on a roof in Dammartin-en-Goele, northeast of Paris, where the two brothers suspected in a deadly terror attack were cornered, Friday, Jan.9, 2015. Two sets of attackers seized hostages and locked down hundreds of French security forces around the capital on Friday, sending the city into fear and turmoil for a third day in a series of linked attacks that began with the deadly newspaper terror attack that left 12 people dead. (AP Photo/Christophe Ena)"><img src="http://binaryapi.ap.org/2ed0463bfc1d4ec19c93713ae1b09fdd/460x.jpg" alt="France Newspaper Attack" title="France Newspaper Attack" /></a>'; 
+             imgArray[22] = '<a class="open_gallery" href="http://binaryapi.ap.org/9fdd0534f70f4b23ae933c58db1597cc/460x.jpg" title="Police officers detain youth who riding a scooter outside a hostage-taking situation at a kosher market in Paris, Friday Jan.9, 2015. France&#39s anti-terrorism prosecutor says a shooting and hostage-taking attack is underway at a kosher market on the eastern edge of Paris. A police official said there are multiple hostages and wounded at the scene.  It is not known if the two youths were involved in the hostage taking situation. (AP Photo/Francois Mori)"><img src="http://binaryapi.ap.org/9fdd0534f70f4b23ae933c58db1597cc/460x.jpg" alt="France  Market Attack" title="France  Market Attack" /></a>'; 
+             imgArray[23] = '<a class="open_gallery" href="http://binaryapi.ap.org/6a59d37f29ed4534acc283d0ca029899/460x.jpg" title="Smoke rises from a building in Dammartin-en-Goele, northeast of Paris, where the two brothers suspected in a deadly terror attack were cornered, Friday, Jan. 9, 2015. Explosions and gunshots rang out and smoke rose outside a building where two brothers suspected in a newspaper massacre are holed up with a hostage. (AP Photo/Michel Spingler)"><img src="http://binaryapi.ap.org/6a59d37f29ed4534acc283d0ca029899/460x.jpg" alt="France Newspaper Attack" title="France Newspaper Attack" /></a>'; 
+             imgArray[24] = '<a class="open_gallery" href="http://binaryapi.ap.org/98bdbe49589d43c2b69c47a6547a0e35/460x.jpg" title="In this image taken from a video provided by PFMTV, police officers storm a kosher grocery to end a hostage situation in Paris, Friday, Jan. 9, 2015. Two sets of attackers seized hostages and locked down hundreds of French security forces around the capital on Friday, sending the city into fear and turmoil for a third day in a series of linked attacks that began with the deadly newspaper terror attack that left 12 people dead. (AP Photo /BFMTV)   FRANCE OUT ONLINE OUT MANDATORY CREDIT BFMTV"><img src="http://binaryapi.ap.org/98bdbe49589d43c2b69c47a6547a0e35/460x.jpg" alt="France Attack Newspaper Photo Gallery" title="France Attack Newspaper Photo Gallery" /></a>'; 
+             imgArray[25] = '<a class="open_gallery" href="http://binaryapi.ap.org/7eaef0d8a3b742aa88e120191bb9df20/460x.jpg" title="FILE - Local residents watch as police officers escort hostages after they stormed a kosher grocery in Paris, in this Friday, Jan. 9, 2015 file photo. Galvanized by the recent terror attacks in France, European Union leaders on Thursday Feb. 12, 2015 debate a range of ambitious steps to better protect their 28 nations, including exchanging airliner passenger manifests, tightening controls at the border and combating extremism on the Internet.  (AP Photo/Michel Euler)"><img src="http://binaryapi.ap.org/7eaef0d8a3b742aa88e120191bb9df20/460x.jpg" alt="France Attack Newspaper Photo Gallery" title="France Attack Newspaper Photo Gallery" /></a>'; 
+             
+    </script> 
+    
+        
+    <div class="field-name-caption"><block><p>Security officers escort released hostages after they stormed a kosher market to end a hostage situation, Paris, Friday, Jan. 9, 2015. Explosions and gunshots were heard as police forces stormed a kosher grocery in Paris where a gunman was holding people hostage. Two sets of attackers seized hostages and locked down hundreds of French security forces around the capital on Friday, sending the city into fear and turmoil for a third day in a series of linked attacks that began with the deadly newspaper terror attack that left 12 people dead. (AP Photo/Michel Euler)</p></block></div>    
+
+    <div id="information-small" class="small-12 show-for-small-only">
+	<div class="small-10 columns byline-dateline">
+            	</div>
+        <a id="infoGallery"><span class="caption overlay-caption" data-thumb-index="0">i</span></a>
+    </div>
+</section>
+ 
+    <script type="text/javascript">
+    $(document).ready(function() {
+
+        if (total_imgs == 1) {
+            var aImg = $('.popup-gallery li a');
+            
+            var text = aImg.attr('title');
+            
+            $('.field-name-caption').html('<block><p>' + text + '</p></block>');
+        }     
+        
+        var chrMax = 100;
+        
+        var origText = $('.field-name-caption block p').text();
+
+        var charLength = $('.field-name-caption block p').text().length;
+        
+        var screen_width = $( window ).width();
+        var width_mobile = 650;
+        
+        var pAbsoluteShow = 0;
+        
+        if (charLength > chrMax) {
+            var shortText = jQuery.trim(origText).substring(0, chrMax).split(" ").slice(0, -1).join(" ") + "... ";
+            $('.field-name-caption block p').text(shortText);            
+            $('.field-name-caption block p').append('<a id="readMore">Read more</a>');
+        }
+        
+
+        var screen_width = $( window ).width();
+
+        if (screen_width <= width_mobile) {  
+        
+        $$('.mfp-figure figure').tap(function() { 
+            var screen_width = $( window ).width();
+
+            if (screen_width <= width_mobile) {  
+                switchPDescription(); 
+            }
+        }); 
+
+        $$('#p-absolute').unbind('tap').tap(function() { 
+            var screen_width = $( window ).width();
+
+            if (screen_width <= width_mobile) {                      
+                switchPDescription(); 
+            }
+        }); 
+
+        $$('.mfp-figure figure').unbind('swipeLeft').swipeLeft(function() { 
+            var screen_width = $( window ).width();
+
+            if (screen_width <= width_mobile) {                      
+                if (mfp.index == (total_imgs - 1)) {
+                    mfp.index = 0;
+                }
+                else {
+                    mfp.index = mfp.index + 1;
+                }      
+                mfp.updateItemHTML();
+            }
+        });
+
+        $$('.mfp-figure figure').unbind('swipeRight').swipeRight(function() {                
+            var screen_width = $( window ).width();
+
+            if (screen_width <= width_mobile) {                   
+                if (mfp.index == 0) {
+                    mfp.index = total_imgs - 1;
+                }
+                else {
+                    mfp.index = mfp.index -1;
+                }
+                mfp.updateItemHTML();
+            }
+        });    
+        
+        }
+
+       function configMobile() {
+            var screen_width = $( window ).width();
+            
+            if (screen_width <= width_mobile) {        
+                showDescription(pAbsoluteShow);        
+            }
+        }
+
+
+        $('.popup-gallery').magnificPopup({
+            delegate: 'a',
+            type: 'image',
+            tLoading: 'Loading image #%curr%...',
+            mainClass: 'mfp-img-mobile',
+            
+            gallery: {
+              enabled: true,
+              navigateByImgClick: true,
+              preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+            },
+            
+            image: {
+                tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+                titleSrc: function(item) {
+                    return item.el.attr('title');
+                }
+            },
+
+            callbacks: {
+                
+                open: function() {
+
+                    $('.mfp-bottom-carrousel').html("");
+
+                    var img_total = 0;
+
+                    $('.popup-gallery li a').each(function(idx,el){
+
+                        img_total = img_total + 1;
+                        var _img = document.createElement('img');
+
+                        $(_img).attr('id', 'thumb-gallery-'+idx );
+                        $(_img).attr('src', $(el).attr('href'));
+                        $(_img).attr('alt', $(el).attr('title'));
+
+
+                        if (idx == 0) $(_img).addClass('select');
+
+                        $(_img).click(function(){
+                            mfp.direction = (idx >= mfp.index);
+                            mfp.index = idx;
+                            mfp.updateItemHTML();
+
+                            updateCarousel(idx);
+                        });
+
+                        if (only_one_photo == 0) {
+                            $('.mfp-bottom-carrousel').append(_img);
+                        }
+
+                    })
+
+                    var width_img_total = (img_total * 120) + 3;
+
+                    $('.mfp-bottom-carrousel').width(width_img_total + 'px');
+                    
+                    configMobile();
+                },
+                close: function() {
+                    $('#p-absolute').hide();
+                    pAbsoluteShow = 0;
+                }
+                // e.t.c.
+            }
+        });
+        
+        $('#readMore').click(function(){
+            $('.open_gallery').click();
+            mfp.index = 0;
+            mfp.updateItemHTML();
+            updateCarousel(0);
+        });  
+        
+        $('#infoGallery').click(function(){
+            pAbsoluteShow = 1;
+            $('.open_gallery').click();
+            mfp.index = 0;
+            mfp.updateItemHTML();
+            updateCarousel(0);
+        });   
+        
+        $('#button_comments').click(function(){
+            if( $('#articleComments').is(":visible") ) {
+                $('#articleComments').css('cssText', 'display: none !important');
+                $('#button_comments').removeClass('comments_visible');
+                $('#button_comments').html('SEE COMMENTS');
+            }
+            else {
+                $('#articleComments').css('cssText', 'display: block !important');
+                $('#button_comments').addClass('comments_visible');
+                $('#button_comments').html('HIDE COMMENTS');                
+            }
+        });
+        
+        
+    });
+    </script>
+
+ 
+
+<div  class="hnews-hidden"><div  class="hnews-author-org hnews-author-org hnews-author-org hnews-author-org hnews-author-org"><div  class="hnews-author-org hnews-author-org hnews-author-org hnews-author-org hnews-author-org"><div  class="hnews-author-org hnews-author-org hnews-author-org hnews-author-org hnews-author-org"><div  class="hnews-author-org hnews-author-org hnews-author-org hnews-author-org hnews-author-org"><div  class="hnews-author-org hnews-author-org hnews-author-org hnews-author-org hnews-author-org">By: <span  class="author vcard"><a href="/author/lori-hinnant" class="fn">LORI HINNANT</a></span> (<span  class="source-org vcard"><span  class="org fn">AP</span></span>), <span  class="author vcard"><a href="/content/angela-charlton" class="fn">ANGELA CHARLTON</a></span> (<span  class="source-org vcard"><span  class="org fn">AP</span></span>), <span  class="author vcard"><a href="/content/raphael-satter" class="fn">Raphael Satter</a></span> (<span  class="source-org vcard"><span  class="org fn">AP</span></span>), <span  class="author vcard"><a href="/author/elaine-ganley" class="fn">ELAINE GANLEY</a></span> (<span  class="source-org vcard"><span  class="org fn">AP</span></span>), <span  class="author vcard"><a href="/author/samuel-petrequin" class="fn">SAMUEL PETREQUIN</a></span> (<span  class="source-org vcard"><span  class="org fn">AP</span></span>)</div></div></div></div></div><span  class="dateline">PARIS</span><a  rel="item-license" id="license-56da4c9cecb8e752c30cc274ae3b2f31" href="#license-56da4c9cecb8e752c30cc274ae3b2f31">Copyright 2015 The Associated Press. All rights reserved. This material may not be published, broadcast, rewritten or redistributed.</a><div  class="geo hnews-geo"><span  class="latitude">48.8534</span><span  class="longitude">2.3488</span></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden entry-content"><div class="field-items"><div class="field-item even"><p><block><p>PARIS (AP) — With explosions and gunfire, security forces Friday ended three days of terror around Paris, killing the two al-Qaida-linked brothers who staged a murderous rampage at a satirical newspaper and an accomplice who seized hostages at a kosher supermarket to try to help the brothers escape.</p>
+<p>The worst terrorist violence France has seen in decades killed at least 20 people, including the three gunmen. A fourth suspect — the common law wife of the market attacker — was still at large and believed to be armed.</p>
+<p>Al-Qaida's branch in Yemen said it directed the attack against the publication Charlie Hebdo to avenge the honor of the Prophet Muhammad, a frequent target of the weekly's satire.</p>
+<p>The brothers were not unknown to authorities: One had a terrorism-related conviction for ties to a network sending fighters to battle American forces in Iraq, and both were on the U.S. no-fly list, according to a U.S. official.</p>
+<p>President Francois Hollande urged his nation to remain united and vigilant, and the city shut down a famed Jewish neighborhood amid fears of more violence.</p>
+<p>"The threats facing France are not finished," Hollande said. "We are a free people who cave to no pressure."</p>
+<p>The drama, which played out on live TV and social media, began with the brothers Said and Cherif Kouachi methodically massacring 12 people Wednesday at the Charlie Hebdo offices, stopping to shoot a wounded police officer in the head before escaping by car.</p>
+<p>On Thursday, a gunman police identified as Amedy Coulibaly shot a policewoman to death south of Paris, although authorities were not sure at first if it was related to the Charlie Hebdo shootings.</p>
+<p>It all ended at dusk Friday with near-simultaneous raids in two locations: a printing plant in the town of Dammartin-en-Goele, northeast of Paris, where the Kouachis were holed up, and the Paris supermarket where Coulibaly killed four hostages and threatened more violence unless the police let the Kouachis go.</p>
+<p>As scores of black-clad security forces surrounded both sites, booming explosions, heavy gunfire and dense smoke heralded the news that the twin sieges finally had ended.</p>
+<p>The three gunmen were dead — but the authorities also discovered four dead hostages at the market. Sixteen hostages were freed, one from the printing plant and 15 others from the store.</p>
+<p>The attackers had ties both to each other and to terrorist activities that reached back years and extended from Paris to al-Qaida in Yemen. They epitomized Western authorities' greatest fear: Islamic radicals who trained abroad and came home to stage attacks.</p>
+<p>After the killings at the Charlie Hebdo offices, Cherif Kouachi, 32, and his 34-year-old brother Said led police on a chase around northeastern France, robbing a gas station and stealing a car before ending up at the printing plant in Dammartin-en-Goele, near Charles de Gaulle airport. One of the brothers was wounded in the neck at one point during a shootout with police after he commandeered a car, Paris Prosecutor Francois Molins said.</p>
+<p>Authorities said the brothers temporarily took a man hostage at the plant but let him go, and a second man was later discovered to have been hiding inside the building.</p>
+<p>A member of the al-Qaida in the Arabian Peninsula gave a statement in English to The Associated Press saying the group's leadership "directed the operations and they have chosen their target carefully."</p>
+<p>The attack was in line with warnings from the late al-Qaida leader Osama bin Laden to the West about "the consequences of the persistence in the blasphemy against Muslim sanctities," the member said, speaking on condition of anonymity because the group's regulations do not permit him to give his name.</p>
+<p>The brothers were cornered there for much of the day before the explosions and gunfire rang out in the twilight and a police SWAT team clambered onto the roof.</p>
+<p>"They said they want to die as martyrs," Yves Albarello, a local lawmaker inside the command post, told French television station i-Tele.</p>
+<p>At the kosher grocery near the Porte de Vincennes neighborhood of the capital, the gunman burst in shooting just a few hours before the Jewish Sabbath began, declaring "You know who I am," the official recounted.</p>
+<p>The attack came before sundown when the store would have been crowded with shoppers, and Hollande called it "a terrifying anti-Semitic act."</p>
+<p>Coulibaly killed the four people in the market shortly after entering, Molins said.</p>
+<p>Several people wounded in the grocery store were able to flee and get medical care, the official said.</p>
+<p>About 100 students were locked down in nearby schools and the highway ringing Paris was closed.</p>
+<p>The mayor's office also shut down all shops along Rosiers Street in the city's famed Marais neighborhood in the heart of the tourist district. Hours before the Jewish Sabbath, the street is usually crowded with shoppers. The street is also only a kilometer (half-mile) from Charlie Hebdo's offices.</p>
+<p>Charles de Gaulle airport, not far from the standoff in Dammartin-en-Goele,  briefly closed two runways to arrivals, and Hollande held a series of crisis meetings with his security team throughout the day.</p>
+<p>Police released a photo of Coulibaly and his wife, Hayat Boumeddiene, described as an accomplice.</p>
+<p>Authorities increasingly grew to see links between the attackers after they discovered that Boumeddiene and the companion of one of the Kouachi brothers had exchanged about 500 phone calls, Molins said.</p>
+<p>He added that several people have been given preliminary charges in the investigation. They include relatives of the three gunmen.</p>
+<p>Minutes before police stormed both sites, Coulibaly had threatened more violence if authorities launched an assault on the two brothers, a police official said. A group of people holed up in the supermarket's freezer — apparently unbeknownst to the gunman.</p>
+<p>BFM also said it spoke with Coulibaly, who said he and the Kouachis were coordinating their actions, and that he was with the militant Islamic State group. The organizations are normally rivals.</p>
+<p>The TV station said Coulibaly didn't hang up properly after the phone call and that this allowed police to hear him saying a final prayer before his death, perhaps suggesting that this prompted the police raid.</p>
+<p>In the final assault, phalanxes of security forces converged on the store entrance behind a flash from a stun grenade — and fired inside. Frenzied civilians — one of them carrying a toddler — scurried out under escort by helmeted police in body armor.</p>
+<p>Police said Coulibaly had been a co-suspect with Cherif Kouachi in a court case involving terrorism that never made it to trial.</p>
+<p>Cherif Kouachi was convicted of terrorism charges in 2008 for ties to a network sending jihadis to fight U.S. forces in Iraq.</p>
+<p>According to a Yemeni security official, Said Kouachi is suspected of having fought for al-Qaida in Yemen. Another senior security official added that Said was in Yemen until 2012.</p>
+<p>Both officials spoke to the AP on condition of anonymity because of an ongoing investigation into Kouachi's stay in Yemen.</p>
+<p>Both brothers were also on the U.S. no-fly list, a senior U.S. counterterrorism official said, speaking on condition of anonymity because the official was not authorized to discuss foreign intelligence publicly.</p>
+<p>The attacks in France as well as a hostage siege last month in Sydney and the October killing of a solder near Canada's parliament prompted the U.S. State Department to issue a global travel warning for Americans. It also cites an increased risk of reprisals against U.S. and Western targets for the U.S.-led intervention against Islamic State militants in Syria and Iraq.</p>
+<p>Authorities around Europe have warned of the threat posed by the return of Western jihadis trained in warfare. France counts at least 1,200 citizens in the war zone in Syria — headed there, returned or dead. Both the Islamic State group and al-Qaida have threatened France, home to Western Europe's largest Muslim population.</p>
+<p>The publication Charlie Hebdo had long drawn threats for its depictions of Islam, although it also lampooned other religions and political figures. It had caricatured the Prophet Muhammad, and a sketch of Islamic State's leader was the last tweet sent by the irreverent newspaper minutes before the attack.</p>
+<p>Eight journalists, two police officers, a maintenance worker and a visitor were killed in the newspaper attack, including the paper's editor. Charlie Hebdo plans a special edition next week, produced in the offices of another paper.</p>
+<p>___</p>
+<p>Associated Press writers Samuel Petrequin, Sylvie Corbet, Jamey Keaten, John Leicester and Angela Charlton in Paris; Raphael Satter and Trung Latieule in Dammartin-en-Goele, Jill Lawless in London; Eric Tucker in Washington; Ahmed al-Hag in Sanaa, Yemen; Sarah el-Deeb in Cairo contributed to this report.</p>
+</block></p></div></div></div>
+</article>
+
+
+
+  <div class="loadMore show-full-article">
+    <section id="articleExpand">
+        <div class="fade"></div>
+	<button>SEE FULL ARTICLE</button>
+
+	<!-- ad -->
+        <section class="columns ad-block">
+            <div class="block block-dfp block-topic-box-2 block-dfp-topic-box-2 odd block-without-title" id="block-dfp-topic-box-2">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id="dfp-ad-topic_box_2-wrapper" class="dfp-tag-wrapper"><div class="slug">Advertisement</div>
+<div  id="dfp-ad-topic_box_2" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-topic_box_2");
+    });
+  </script>
+</div>
+</div>    </div>
+  </div>
+
+</div>            <!--<img src="/profiles/ap/themes/bigstory_v2/assets/sample/ad_300x250.png" alt="" />-->
+        </section>
+    </section>
+  </div>
+
+<!-- Pagination BEGIN -->
+<!--    <section id="pagination" class="large-8 medium-8 small-12 columns">
+        <a class="article-prev" href="#">
+            <span class="arrow"><img src="assets/images/pagination_arrows_prev.png" alt="" /></span>
+            <div class="title">
+                <span>&#60; Previous</span>
+                Article title Lorem ipsum dolor aner xculis Article title Lorem ipsum dolor
+                long Article title
+            </div>
+        </a>
+
+        <a class="article-next right" href="#">
+            <span class="arrow"><img src="assets/images/pagination_arrows_next.png" alt="" /></span>
+            <div class="title">
+                <span>Next &#62;</span>
+                Article title Lorem ipsum dolor aner xculis Article title Lorem ipsum dolor
+            </div>
+        </a>
+    </section> -->
+    <!-- Pagination END -->
+
+    <div class="loadMore hide-for-medium-up">
+        <button id="button_comments" class="small-12 left">SEE COMMENTS</button>
+    </div>
+    
+    <section id="articleComments" class="large-8 medium-8 left columns hide-for-small">
+	<h4>Comments</h4>
+	<div id="disqus_thread"><noscript><p><a href="http://thebigstory.disqus.com/?url=http%3A%2F%2Fbigstory.ap.org%2Farticle%2F5817417ce93c4030a8632c528338c005%2Fbrothers-past-draws-scrutiny-french-manhunt-enters-day-3">View the discussion thread.</a></p></noscript></div>    </section>    
+
+</section>
+
+    </div>
+  </div>
+
+</div>      </div>
+</div><aside class="grid-4 region region-sidebar-first" id="region-sidebar-first">
+  <div class="region-inner region-sidebar-first-inner">
+    <div class="ap-recent-articles"><section class="block block-ap-misc block-ap-recent-articles block-ap-misc-ap-recent-articles odd" id="block-ap-misc-ap-recent-articles">
+  <div class="block-inner clearfix">
+                      <h2 class="block-title">Latest News</h2>
+            
+    <div class="content clearfix"   data-vr-zone='Latest News'>
+       <!-- sidebar BEGIN -->
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin even clearfix" id="node-ap-article-10752472">
+  <div class="article-list-node-content clearfix" data-vr-contentbox="">
+
+      	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/article/35846aff4e8b4504a82f3e48f933e128/china-executes-3-over-knife-attack-kunming-train-station" title="China executes 3 over Kunming knife attack that killed 31"><a href="/article/35846aff4e8b4504a82f3e48f933e128/china-executes-3-over-knife-attack-kunming-train-station">China executes 3 over Kunming knife attack that killed 31</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span  class="updated" title="2015-03-24T04:14:17-04:00">Mar. 24, 2015 4:14 AM EDT</span>		  </div>
+	  </footer>
+  </div>
+</article>
+
+   <!-- sidebar BEGIN -->
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin odd clearfix" id="node-ap-article-10752791">
+  <div class="article-list-node-content clearfix" data-vr-contentbox="">
+
+      	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/article/461ab2f02e49416db1b284df8d3a12cf/indian-film-star-shashi-kapoor-named-top-cinema-honor" title="Indian film star Shashi Kapoor named for top cinema honor"><a href="/article/461ab2f02e49416db1b284df8d3a12cf/indian-film-star-shashi-kapoor-named-top-cinema-honor">Indian film star Shashi Kapoor named for top cinema honor</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span  class="updated" title="2015-03-24T03:58:58-04:00">Mar. 24, 2015 3:58 AM EDT</span>		  </div>
+	  </footer>
+  </div>
+</article>
+
+   <!-- sidebar BEGIN -->
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin even clearfix" id="node-ap-article-10752636">
+  <div class="article-list-node-content clearfix" data-vr-contentbox="">
+
+      	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/article/a232c909f21c442688cd8402934915b9/indian-court-junks-clause-offensive-net-messages" title="Indian court junks clause on &#039;offensive&#039; Net messages"><a href="/article/a232c909f21c442688cd8402934915b9/indian-court-junks-clause-offensive-net-messages">Indian court junks clause on &#039;offensive&#039; Net messages</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span  class="updated" title="2015-03-24T03:46:37-04:00">Mar. 24, 2015 3:46 AM EDT</span>		  </div>
+	  </footer>
+  </div>
+</article>
+
+   <!-- sidebar BEGIN -->
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin odd clearfix" id="node-ap-article-10752586">
+  <div class="article-list-node-content clearfix" data-vr-contentbox="">
+
+      	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/article/79b057ac312045e1a5e00179c97957b3/christian-pastor-stands-trial-over-cross-removals-china" title="Christian pastor stands trial over cross removals in China"><a href="/article/79b057ac312045e1a5e00179c97957b3/christian-pastor-stands-trial-over-cross-removals-china">Christian pastor stands trial over cross removals in China</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span  class="updated" title="2015-03-24T03:37:40-04:00">Mar. 24, 2015 3:37 AM EDT</span>		  </div>
+	  </footer>
+  </div>
+</article>
+
+   <!-- sidebar BEGIN -->
+<article class="node node-ap-article hnews hentry item node-published node-not-promoted node-not-sticky author-admin even clearfix" id="node-ap-article-10752776">
+  <div class="article-list-node-content clearfix" data-vr-contentbox="">
+
+      	  <div class="article-list-header">
+	    		    <h4 class="entry-title node-title title" rel="bookmark"><a href="/article/f6efa88978a2423db17656b4698e7091/james-corden-plays-nice-bow-late-late-show-host" title="James Corden plays nice in bow as &#039;Late Late Show&#039; host"><a href="/article/f6efa88978a2423db17656b4698e7091/james-corden-plays-nice-bow-late-late-show-host">James Corden plays nice in bow as &#039;Late Late Show&#039; host</a></a></h4>
+		  		</div>  
+	  
+	  <div class="article-list-body">
+	    	  </div>
+		
+		<footer>
+		  <div class="article-data">
+		    <span  class="updated" title="2015-03-24T03:34:35-04:00">Mar. 24, 2015 3:34 AM EDT</span>		  </div>
+	  </footer>
+  </div>
+</article>
+
+    </div>
+  </div>
+
+</section></div><div class="block block-ap-polar-ads block-ap-polar-ad-article block-ap-polar-ads-ap-polar-ad-article even block-without-title" id="block-ap-polar-ads-ap-polar-ad-article">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id="polar-article-content"><input type="hidden" id="polar-identifier" /></div>    </div>
+  </div>
+
+</div><div class="block block-dfp block-half-page block-dfp-half-page odd block-without-title" id="block-dfp-half-page">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id="dfp-ad-half_page-wrapper" class="dfp-tag-wrapper"><div class="slug">Advertisement</div>
+<div  id="dfp-ad-half_page" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-half_page");
+    });
+  </script>
+</div>
+</div>    </div>
+  </div>
+
+</div><div class="block block-block block-6 block-block-6 even block-without-title" id="block-block-6">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <style type="text/css">
+<!--/*--><![CDATA[/* ><!--*/
+
+#block-block-6
+{
+margin-top: 15px;
+}
+
+#block-block-6 .slug
+{
+position: relative;
+}
+/*--><!]]>*/
+</style><div class="slug">Advertisement</div>
+<div id="hgWdgBd"></div>
+<script type="text/javascript">
+<!--//--><![CDATA[// ><!--
+
+(function(window, undefined) {var d = window.document,s = d.getElementById("hgWdgBd"),f = d.createElement('IFRAME'),h;f.scrolling = 'no';f.style.border = 'none';f.style.width = '100%';f.src = "http://healthguides.healthgrades.com/ap-syndication-big-story?_embed=true&_format=_frame&refurl="+document.URL;s.parentNode.insertBefore(f, s);window.addEventListener('message', function(event) {var nh = parseInt(event.data, 10);if (h !== nh) {f.style.height = nh + 'px';h = nh;}}, false);})(window);
+
+//--><!]]>
+</script>    </div>
+  </div>
+
+</div><div class="block block-ap-misc block-ap-tags-detail block-ap-misc-ap-tags-detail odd block-without-title" id="block-ap-misc-ap-tags-detail">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div  class="ap-article-tags categories">
+    
+    
+    
+<h3 class="h3_tags">Topics</h3>
+<div class="tags">
+<a href="/tags/yemen" rel="tag">Yemen</a>, <a href="/tags/assault-and-battery" rel="tag">Assault and battery</a>, <a href="/tags/al-qaida" rel="tag">Al-Qaida</a>, <a href="/tags/massacres" rel="tag">Massacres</a>, <a href="/tags/evacuations" rel="tag">Evacuations</a>, <a href="/tags/media-industry" rel="tag">Media industry</a>, <a href="/tags/food-and-drink" rel="tag">Food and drink</a>, <a href="/tags/osama-bin-laden" rel="tag">Osama bin Laden</a>, <a href="/tags/explosions" rel="tag">Explosions</a>, <a href="/tags/counterterrorism" rel="tag">Counterterrorism</a>, <a href="/tags/francois-hollande" rel="tag">Francois Hollande</a>, <a href="/tags/benjamin-netanyahu" rel="tag">Benjamin Netanyahu</a>, <a href="/tags/extortion-and-threats" rel="tag">Extortion and threats</a>, <a href="/tags/aircraft-manufacturing" rel="tag">Aircraft manufacturing</a>, <a href="/tags/hostage-situations" rel="tag">Hostage situations</a>, <a href="/tags/travel-restrictions-and-advisories" rel="tag">Travel restrictions and advisories</a>, <a href="/tags/travel-safety" rel="tag">Travel safety</a>, <a href="/tags/france-government" rel="tag">France government</a>, <a href="/tags/cuisines" rel="tag">Cuisines</a>, <a href="/tags/helicopter-manufacturing" rel="tag">Helicopter manufacturing</a>, <a href="/tags/building-explosions" rel="tag">Building explosions</a>, <a href="/tags/manuel-valls" rel="tag">Manuel Valls</a>, <a href="/tags/kosher-food" rel="tag">Kosher food</a>, <a href="/tags/media-and-entertainment-industry" rel="tag">Media and entertainment industry</a>, <a href="/tags/aerospace-and-defense-industry" rel="tag">Aerospace and defense industry</a>, <a href="/tags/news-industry" rel="tag">News industry</a>, <a href="/tags/peshawar-school-massacre" rel="tag">Peshawar school massacre</a>, <a href="/tags/cherif-kouachi" rel="tag">Cherif Kouachi</a>, <a href="/tags/said-kouachi" rel="tag">Said Kouachi</a>, <a href="/tags/charlie-hebdo-shooting-paris" rel="tag">Charlie Hebdo shooting in Paris</a></div>
+</div>    </div>
+  </div>
+
+</div><div class="block block-dfp block-mediumrectangle block-dfp-mediumrectangle even block-without-title" id="block-dfp-mediumrectangle">
+  <div class="block-inner clearfix">
+                        
+    <div class="content clearfix"  >
+    <div id="dfp-ad-mediumrectangle-wrapper" class="dfp-tag-wrapper"><div class="slug">Advertisement</div>
+<div  id="dfp-ad-mediumrectangle" class="dfp-tag-wrapper">
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+      googletag.display("dfp-ad-mediumrectangle");
+    });
+  </script>
+</div>
+</div>    </div>
+  </div>
+
+</div>  </div>
+</aside>  </div>
+</div></section>    
+  
+      <footer id="section-footer" class="section section-footer">
+  <div id="zone-footer-wrapper" class="zone-wrapper zone-footer-wrapper clearfix">  
+  <div id="zone-footer" class="zone zone-footer clearfix container-12">
+    
+<footer>
+  <div id="siteFooter">
+    <div class="row">
+        <div class="medium-4 columns">
+            <h5>Get the AP Mobile app</h5>
+<a href="http://www.ap.org/apmobile/"><img src="http://bigstory.ap.org/sites/bigstory/files/Mobile%20App%20Download.png"></a>
+        </div>
+        <div class="medium-4 columns">
+            <h5>AP Sites</h5>
+            <ul class="">
+                <li><a href="http://wintergames.ap.org" >Winter Games</a></li>
+                <li><a href="http://collegebasketball.ap.org" >College Basketball</a></li>
+                <li><a href="http://racing.ap.org" >Auto Racing</a></li>
+                <li><a href="http://pro32.ap.org" >Football</a></li>
+            </ul>
+        </div>
+        <div class="medium-4 columns">
+            <h5>Follow AP</h5>
+            <ul class="">
+                <li><a href="https://www.facebook.com/pages/Associated-Press/107751995914945">Facebook</a></li>
+                <li><a href="https://twitter.com/AP">Twitter</a></li>
+                <li><a href="https://plus.google.com/+AP/">Google+</a></li>
+                <li><a href="https://www.linkedin.com/company/associated-press">LinkedIn</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="row">
+        <hr>
+        <div class="medium-12 columns"> 
+            AP News | 
+           &copy; 2015 Associated Press  | 
+            <a href="/content/privacy-policy">Privacy Policy</a>  |  
+            <a href="/content/terms-use">Terms of Use</a>  |  
+            <a href="http://www.apimages.com/">AP Images</a>  |  
+            <a href="http://www.ap.org/">ap.org</a>
+        </div>
+    </div>
+</div>
+
+
+
+<style>
+#dfp-ad-leaderboard{
+text-align: center
+}
+</style></footer>  </div>
+</div></footer>  </div>  <div class="region region-page-bottom" id="region-page-bottom">
+  <div class="region-inner region-page-bottom-inner">
+    <noscript><img src="http://b.scorecardresearch.com/p?c1=2&c2=11304492&cv=2.0&cj=1" /></noscript>  </div>
+</div><script type="text/javascript">
+<!--//--><![CDATA[//><!--
+var _sf_async_config={uid:11689,domain:""};(function() {function loadChartbeat() { window._sf_endpt=(new Date()).getTime(); var e = document.createElement('script'); e.setAttribute('language', 'javascript'); e.setAttribute('type', 'text/javascript'); e.setAttribute('src', (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") + "js/chartbeat.js"); document.body.appendChild(e); }var oldonload = window.onload;window.onload = (typeof window.onload != 'function') ? loadChartbeat : function() { oldonload(); loadChartbeat(); };})();
+//--><!]]>
+</script>
+<script type="text/javascript" src="http://bigstory.ap.org/profiles/ap/modules/custom/optional/ap_social/js/ap_social.min.js?nlh03t"></script>
+  <script type="text/javascript" src="http://platform.tumblr.com/v1/share.js"></script>
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"560baa128a","applicationID":"555721","transactionName":"MlRTYkFSWkNUU0EKDQsecFVHWlteGl5aBwc6QVBRVmxCWVBH","queueTime":0,"applicationTime":915,"ttGuid":"","agentToken":"","atts":"HhNQFAlISU0=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-627.min.js"}</script></body>
+</html>

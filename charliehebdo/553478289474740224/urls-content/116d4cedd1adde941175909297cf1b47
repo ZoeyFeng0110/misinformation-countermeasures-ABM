@@ -1,0 +1,1306 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 24 Mar 2015 10:16:00 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 179
+Connection: keep-alive
+Cache-Control: private, max-age=90
+Location: http://www.reuters.com/article/2015/01/09/france-shooting-islamicstate-idUSL6N0UO0CE20150109
+Mime-Version: 1.0
+Set-Cookie: _bit=55113960-00033-0505b-291cf10a;domain=.reut.rs;expires=Sun Sep 20 10:16:00 2015;path=/; HttpOnly
+
+HTTP/1.1 200 OK
+Server: Apache-Coyote/1.1
+Last-UpdatedL: Tue, 24 Mar 2015 10:08:25 GMT
+Last-UpdatedA: Fri, 09 Jan 2015 07:36:36 GMT
+CHANNEL-NAME: cyclicalConsumerGoodsSector
+Content-Type: text/html;charset=UTF-8
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Length: 17995
+Date: Tue, 24 Mar 2015 10:16:00 GMT
+Connection: keep-alive
+
+<!--[if !IE]> This has NOT been served from cache <![endif]-->
+<!--[if !IE]> Request served from apache server: S264630NJ2XSF13 <![endif]-->
+<!--[if !IE]> token: 5f5fdc74-d2f5-4d8e-bad9-6846f7e27828 <![endif]-->
+<!--[if !IE]> App Server /S264630NJ2XSF54/ <![endif]-->
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+<script language="javascript" type="text/javascript" src="http://www.reuters.com/reuters_bootstrap.js"></script>
+
+<script language="javascript">
+		try{
+			if(location.href.indexOf('/commentsChild?') == -1 && window.self===window.top) {
+				document.write("<scr"+"ipt type=\"text/javascript\" src=\"//nexus.ensighten.com/reuters/Bootstrap.js\"></scr"+"ipt>");
+			}
+		} catch(e){;}
+        
+        var parallelMediaHosts = new Array();
+        
+        	parallelMediaHosts.push("s1.reutersmedia.net");
+        
+        	parallelMediaHosts.push("s2.reutersmedia.net");
+        
+        	parallelMediaHosts.push("s3.reutersmedia.net");
+        
+        	parallelMediaHosts.push("s4.reutersmedia.net");
+        </script>  
+
+<META name="DCSext.DartZone" content="us.reuters/bizfinance/industries/article">
+    <title>
+      Islamic State praise Paris attackers as heroic jihadists
+| Reuters
+
+</title>
+		<meta name="DCSext.ChannelList" content="rbssTechMediaTelecomNews;rbssPublishing;everything;forexNewsCopy;cfaglobal;nonegative;Intel;HP_Ad2one_Asia;PFG;Fidelity2014;TCS_IN;ABG_IN;cyclicalConsumerGoodsSector">
+
+
+<META name="description" content="DUBAI, Jan 9 (Reuters) - The Islamic State militant grouppraised the gunmen behind this week's killings at the Parisheadquarters of the Charlie Hebdo weekly newspaper as heroicjihadists, a monitoring">
+	  <META name="keywords" content="France">
+<META name="REVISION_DATE" content="Fri Jan 09 07:36:36 UTC 2015">
+
+<META property="og:title" content="Islamic State praise Paris attackers as heroic jihadists" />
+<META property="og:url" content="http://www.reuters.com/article/2015/01/09/france-shooting-islamicstate-idUSL6N0UO0CE20150109" />
+<META property="og:type" content="article" />
+<META property="og:site_name" content="Reuters" />
+<META property="fb:app_id" content="169549326390879"/>
+<!--Property passed to loop is null--><script type="application/ld+json">
+      {
+        "@context": "http://schema.org",
+        "@type": "NewsArticle",
+        "headline": "Islamic State praise Paris attackers as \"heroic jihadists\"",
+        "url": "http://www.reuters.com/article/2015/01/09/france-shooting-islamicstate-idUSL6N0UO0CE20150109",
+        "thumbnailUrl": "",
+        "dateCreated": "2015-01-09T07:36:36+0000",
+        "articleSection": "Finance - Industries",
+        "creator": [""],
+        "keywords": ["Breaking News"," World News"," Video news"," Investing"," financial information","  Business News"," Rueters"," Roiters","cyclicalConsumerGoodsSector"]
+      }
+</script>
+
+
+
+<link rel="canonical" href="http://www.reuters.com/article/2015/01/09/france-shooting-islamicstate-idUSL6N0UO0CE20150109" />
+		  	<link rel="shortcut icon" href="http://s3.reutersmedia.net/resources/images/favicon.ico" />
+  <link rel="icon" href="http://s3.reutersmedia.net/resources/images/favicon.ico"  />
+  <link href="http://s3.reutersmedia.net/resources_v2/css/rcom-main.css" rel="stylesheet" />
+    <style type="text/css">
+#specialFeature .module .moduleHeader {
+float: left;
+width: 100%;
+background: #333;
+padding: 8px 0;
+margin: 0 0 5px 0;
+}
+
+#specialFeature .module .moduleHeader h3 {
+margin: 0 10px;
+font-size: 14px;
+color: #FFF;
+text-align: left;
+}
+</style><script src="http://s3.reutersmedia.net/resources_v2/js/libraries/yui_2_7_0/yahoo/yahoo-min.js" type="text/javascript"></script>
+	<script src="http://s4.reutersmedia.net/resources_v2/js/libraries/yui_2_7_0/event/event-min.js" type="text/javascript"></script>
+	<script src="http://s3.reutersmedia.net/resources_v2/js/libraries/yui_2_7_0/dom/dom-min.js" type="text/javascript"></script>
+	<script src="http://s4.reutersmedia.net/resources_v2/js/libraries/yui_2_7_0/yahoo-dom-event/yahoo-dom-event.js" type="text/javascript"></script>
+	<script src="http://s3.reutersmedia.net/resources_v2/js/libraries/yui_2_7_0/animation/animation-min.js" type="text/javascript"></script>
+	<script src="http://s3.reutersmedia.net/resources_v2/js/libraries/yui_2_7_0/connection/connection-min.js" type="text/javascript"></script>
+	<script src="http://s2.reutersmedia.net/resources_v2/js/libraries/yui_2_7_0/cookie/cookie-min.js" type="text/javascript"></script>
+<script src="http://s3.reutersmedia.net/resources_v2/js/libraries/jquery-1.6.1.min.js" type="text/javascript"></script>
+<script>
+		var myaccount='My Account'
+		var logout='Logout'
+	</script>
+	
+	
+	<script src="http://s3.reutersmedia.net/resources_v2/js/rcom-main.js"></script>
+	<script src="http://s4.reutersmedia.net/resources_v2/js/rcom-agent.js"></script>
+	<script src="http://s4.reutersmedia.net/resources_v2/js/extensions.js"></script>
+	<script src="http://s4.reutersmedia.net/resources_v2/js/rcom-ads.js"></script>
+	<script src="http://s4.reutersmedia.net/resources_v2/js/rcom-wt-mlt.js"></script>
+	<script src="http://s2.reutersmedia.net/resources_v2/js/rcom-pid.js"></script>
+	<script src="http://s3.reutersmedia.net/resources_v2/js/rcom-geoIP.js"></script>
+<script type="text/javascript" src="/assets/rcom-cobrand.js"></script>
+
+<script type="text/javascript" src="http://s4.reutersmedia.net/resources_v2/js/rcom-tns.js"></script>
+    <link href="http://s2.reutersmedia.net/resources_v2/css/rcom-article.css?view=20150219" rel="stylesheet" />
+<link href="http://s2.reutersmedia.net/resources_v2/css/rcom-network-footer.css?view=20111129" rel="stylesheet" />
+<link href="http://s2.reutersmedia.net/resources_v2/css/rcom-comments.css?view=20140919" rel="stylesheet" />
+<script type="text/javascript" src="http://s2.reutersmedia.net/resources_v2/js/rcom-article.js"></script>
+<script type="text/javascript" src="http://s2.reutersmedia.net/resources_v2/js/rcom-linkback.js"></script>
+
+<!--Slideshow JS and CSS files --> 
+
+<script type="text/javascript" src="http://s2.reutersmedia.net/resources_v2/js/YUI_slideshow.js"></script>
+<link href="http://s2.reutersmedia.net/resources_v2/css/rcom-slideshow.css" type="text/css" rel="stylesheet" />
+<link href="http://s2.reutersmedia.net/resources_v2/css/rcom-multimedia.css" type="text/css" rel="stylesheet" />
+
+<style type="text/css">
+.articleComments .grid8 .dividerInlineH { margin-top: 10px; }
+#relatedInteractive h2 { font-size: 14px; margin: 5px 0; }
+#bankrate .section{margin-bottom: 18px;}
+</style>
+
+<!--Press release disclaimer --> 
+
+<style >
+.pressRelease{
+ color:#666;
+ font-size:11px;
+ margin-bottom:10px;
+}
+.required{
+  color:red;
+  font-size:11px;
+  font-weight:bold;
+} 
+
+div#ad-div-mpu{margin-bottom:20px;}
+
+#most-popular-parsely{margin-bottom:20px;}
+</style>
+
+<script type="text/javascript" src="http://www.googletagservices.com/tag/js/gpt.js"></script>
+
+<script type='text/javascript'> 
+googletag.cmd.push(function() { 
+googletag.defineSlot('/1309/us.reuters/%5Bsection%5D', [300, 250], 'ad-div-mpu').addService(googletag.companionAds()).addService(googletag.pubads());
+googletag.companionAds().setRefreshUnfilledSlots(true); 
+googletag.pubads().enableVideoAds(); 
+googletag.enableServices(); 
+}); 
+</script>
+
+
+<script type="text/javascript">
+ window._taboola = window._taboola || [];
+ window._taboola.push({article:'auto'}); 
+ !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+  }(document.createElement('script'), document.getElementsByTagName('script')[0], 'http://cdn.taboola.com/libtrc/reuters-network/loader.js');
+</script>
+
+</head>
+<body>
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-W9SLGS"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>if (location.href.indexOf('/commentsChild?') == -1){ (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})
+(window,document,'script','dataLayer','GTM-W9SLGS'); }</script>
+<!-- End Google Tag Manager -->
+
+<script>
+var revop_wtfpc = YAHOO.util.Cookie.get("WT_FPC"); // read webtrends cookie
+if (revop_wtfpc==null) {
+	var u = ";U=NC;";
+	}
+else
+	{
+	var u = ";U="+revop_wtfpc+";";
+	}
+</script> <!-- see if snrd cookie was set by trigger page -->
+<script>
+var srnd = YAHOO.util.Cookie.get("srnd_keyword");
+var srnd_sequence = YAHOO.util.Cookie.get("srnd_sequence");
+if (srnd!=null && srnd!="")
+  {
+         var srnd="srnd="+srnd+";srnd_sequence="+srnd_sequence+";";
+  }
+
+</script>
+
+
+<link href="http://s4.reutersmedia.net/resources_v2/css/rcom-masthead-nav-new.css" rel="stylesheet" />
+<script src="/assets/info" type="text/javascript"></script>
+<script type="text/javascript">
+var currentUsedEdition = 'BETAUS';
+</script>
+
+<div id="header">
+<a name="top" id="top" style="position: absolute;overflow:hidden;">&nbsp;</a>
+	<div id="marketsHeader"></div>
+    <div id="market-cont"><div id="md-toggle"></div></div>
+	<div id="masthead">
+		<div class="mast-strip">
+		<div id="logo">
+            <a id="logoLink" href="/" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'logo','label':''});" >
+                <img src="http://s3.reutersmedia.net/resources_v2/images/masthead-logo.gif" alt="Reuters" border="0" />
+                </a>
+        </div>
+
+	<div id="editionsTop" class="panel editions">
+			<ul id="editionSwitchTop" class="editionSwitch">
+				<li>
+					<div class="currentEditionTitle">Edition:</div>
+					<div class="currentEdition">U.S.</div>
+					<div class="editionArrow"></div>
+					<ul>
+                    	<li><a href="http://af.reuters.com" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'edition switcher','label':$(this).attr('href')});" >Africa</a></li>
+						<li><a href="http://ara.reuters.com" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'edition switcher','label':$(this).attr('href')});" >Arabic</a></li>
+						<li><a href="http://ar.reuters.com" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'edition switcher','label':$(this).attr('href')});" >Argentina</a></li>
+						<li><a href="http://br.reuters.com" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'edition switcher','label':$(this).attr('href')});" >Brazil</a></li>
+						<li><a href="http://ca.reuters.com" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'edition switcher','label':$(this).attr('href')});" >Canada</a></li>
+<li><a href="http://cn.reuters.com" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'edition switcher','label':$(this).attr('href')});">China</a></li>
+<li><a href="http://fr.reuters.com" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'edition switcher','label':$(this).attr('href')});">France</a></li>
+						<li><a href="http://de.reuters.com" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'edition switcher','label':$(this).attr('href')});">Germany</a></li>
+<li><a href="http://in.reuters.com" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'edition switcher','label':$(this).attr('href')});">India</a></li>
+<li><a href="http://it.reuters.com" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'edition switcher','label':$(this).attr('href')});">Italy</a></li>
+<li><a href="http://jp.reuters.com" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'edition switcher','label':$(this).attr('href')});">Japan</a></li>
+<li><a href="http://lta.reuters.com" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'edition switcher','label':$(this).attr('href')});">Latin America</a></li>
+						<li><a href="http://mx.reuters.com" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'edition switcher','label':$(this).attr('href')});">Mexico</a></li>
+				    <li><a href="http://ru.reuters.com" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'edition switcher','label':$(this).attr('href')});">Russia</a></li>
+						<li><a href="http://es.reuters.com" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'edition switcher','label':$(this).attr('href')});">Spain</a></li>
+<li><a href="http://uk.reuters.com" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'edition switcher','label':$(this).attr('href')});">United Kingdom</a></li>
+</ul>
+				</li>
+			</ul>
+		</div>
+		<div id="search" class="panel">
+		<div id="searchbox" class="search">
+        	<form id="searchForm" class="search-form" name="searchbox" method="get" action="/search/news" autocomplete="off">
+            	<input id="searchfield" class="search-field" name="blob" type="text" value="Search Reuters" onblur="if(this.value == '') { this.value = 'Search Reuters'; }" onfocus="if(this.value == 'Search Reuters') { this.value = ''; }" onclick="if(this.value == 'Search Reuters') { this.value = ''; }" size="30" maxlength="128">
+                <input type="submit" id="searchbuttonNav" class="search-submit-button" value="" onmousedown="if(document.forms['searchbox'].blob.value == 'Search Reuters') { document.forms['searchbox'].blob.value = ''; }">
+            </form>
+        </div>
+	</div>
+		<div id="utilities" class="panel"></div>
+	</div>
+	</div>
+
+	<div id="dd-navigation">
+    	<div id="nav-strip">
+            <ul>
+                <li class="nav-item no-subnav" id="nav-item_1"><a href="/home" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sections','label':$(this).attr('href')});" ><span class="primary-link">Home</span></a>
+                    </li>
+                <li class="nav-item" id="nav-item_2"><a href="/finance" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sections','label':$(this).attr('href')});" ><span class="primary-link">Business</span></a>
+                    <div class="subnav " id="subnav_2">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="/finance" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Business Home</a></li>
+                            <li class=""><a href="/legal" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Legal</a></li>
+                            <li class=""><a href="/finance/deals" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Deals</a></li>
+                            <li class=""><a href="/news/video?videoChannel=5" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Business Video</a></li>
+                            <li class=""><a href="/subjects/aerospace-and-defense" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Aerospace & Defense</a></li>
+                            <li class=""><a href="/subjects/banks" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Financial Institutions </a></li>
+                            <li class=""><a href="/subjects/autos" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Autos</a></li>
+                            <li class="lastChild "><a href="/finance/summits" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Reuters Summits</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_3"><a href="/finance/markets" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sections','label':$(this).attr('href')});" ><span class="primary-link">Markets</span></a>
+                    <div class="subnav double" id="subnav_3">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="/finance/markets" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Markets Home</a></li>
+                            <li class=""><a href="/finance/markets/us" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >U.S. Markets</a></li>
+                            <li class=""><a href="/finance/markets/europe" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >European Markets</a></li>
+                            <li class=""><a href="/finance/markets/asia" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Asian Markets</a></li>
+                            <li class=""><a href="/finance/global-market-data" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Global Market Data</a></li>
+                            <li class=""><a href="/finance/markets/indices" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Indices</a></li>
+                            <li class=""><a href="/finance/stocks" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Stocks</a></li>
+                            <li class="lastChild "><a href="/finance/bonds" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Bonds</a></li>
+                            </ul><ul class="two"><li class=""><a href="/finance/currencies" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Currencies</a></li>
+                            <li class=""><a href="/finance/commodities" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Comm & Energy</a></li>
+                            <li class=""><a href="/finance/futures" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Futures</a></li>
+                            <li class=""><a href="/finance/funds" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Funds</a></li>
+                            <li class=""><a href="http://www.pehub.com/" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >peHUB</a></li>
+                            <li class=""><a href="/finance/EarningsUS" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Earnings</a></li>
+                            <li class="lastChild "><a href="/finance/markets/dividends" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Dividends</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_4"><a href="/news/world" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sections','label':$(this).attr('href')});" ><span class="primary-link">World</span></a>
+                    <div class="subnav double" id="subnav_4">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="/news/world" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >World Home</a></li>
+                            <li class=""><a href="/news/us" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >U.S.</a></li>
+                            <li class=""><a href="/subjects/specialReports" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Special Reports</a></li>
+                            <li class=""><a href="http://www.reuters.com/investigates" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Reuters Investigates</a></li>
+                            <li class=""><a href="/subjects/euro-zone" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Euro Zone</a></li>
+                            <li class=""><a href="/subjects/middle-east" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Middle East</a></li>
+                            <li class="lastChild "><a href="/places/china" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >China</a></li>
+                            </ul><ul class="two"><li class=""><a href="/places/japan" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Japan</a></li>
+                            <li class=""><a href="/places/mexico" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Mexico</a></li>
+                            <li class=""><a href="/places/brazil" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Brazil</a></li>
+                            <li class=""><a href="/places/africa" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Africa</a></li>
+                            <li class=""><a href="/places/russia" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Russia</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/india" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >India Insight</a></li>
+                            <li class="lastChild "><a href="/news/video?videoChannel=117760" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >World Video</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_5"><a href="/politics" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sections','label':$(this).attr('href')});" ><span class="primary-link">Politics</span></a>
+                    <div class="subnav " id="subnav_5">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="/politics" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Politics Home</a></li>
+                            <li class=""><a href="/subjects/supreme-court" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Supreme Court</a></li>
+                            <li class="lastChild "><a href="/news/video?videoChannel=1003" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Politics Video</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_6"><a href="/news/technology" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sections','label':$(this).attr('href')});" ><span class="primary-link">Tech</span></a>
+                    <div class="subnav " id="subnav_6">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="/news/technology" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Technology Home</a></li>
+                            <li class=""><a href="/news/science" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Science</a></li>
+                            <li class=""><a href="/news/video?videoChannel=6" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Tech Video</a></li>
+                            <li class=""><a href="/bizfinance/technology/Top100Innovators" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Top 100 Global Innovators</a></li>
+                            <li class="lastChild "><a href="/news/environment" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Environment</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_7"><a href="http://blogs.reuters.com/us/" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sections','label':$(this).attr('href')});" ><span class="primary-link">Opinion</span></a>
+                    <div class="subnav " id="subnav_7">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="http://blogs.reuters.com/us/" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Opinion Home</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/great-debate" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >The Great Debate</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/data-dive/ " target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Data Dive</a></li>
+                            <li class="lastChild "><a href="http://blogs.reuters.com/morning-bid" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Morning Bid</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_8"><a href="http://blogs.reuters.com/breakingviews/" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sections','label':$(this).attr('href')});" ><span class="primary-link">Breakingviews</span></a>
+                    <div class="subnav " id="subnav_8">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="http://blogs.reuters.com/breakingviews/category/equities/" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Equities</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/breakingviews/category/credit" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Credit</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/breakingviews/category/private-equity/" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Private Equity</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/breakingviews/category/m-a/" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >M&A</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/breakingviews/category/macro-markets/" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Macro & Markets</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/breakingviews/category/politics/" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Politics</a></li>
+                            <li class="lastChild "><a href="/video/breakingviews" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Breakingviews Video</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_9"><a href="/finance/personal-finance" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sections','label':$(this).attr('href')});" ><span class="primary-link">Money</span></a>
+                    <div class="subnav double" id="subnav_9">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="/finance/personal-finance" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Money Home</a></li>
+                            <li class=""><a href="/subjects/us-lipper-awards" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Lipper Awards</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/globalinvesting" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Global Investing</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/unstructuredfinance/" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Unstructured Finance</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/linda-stern/ " target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Linda Stern</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/mark-miller/" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Mark Miller</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/john-wasik/" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >John Wasik</a></li>
+                            <li class="lastChild "><a href="http://blogs.reuters.com/jim-saft/" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >James Saft</a></li>
+                            </ul><ul class="two"><li class=""><a href="https://commerce.us.reuters.com/purchase/default.do" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Analyst Research</a></li>
+                            <li class=""><a href="http://alerts.us.reuters.com/US/company.asp" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Alerts</a></li>
+                            <li class=""><a href="http://portfolio.us.reuters.com/US/watchlist/create.asp" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Watchlist</a></li>
+                            <li class=""><a href="http://portfolio.us.reuters.com/US/public/index.asp" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Portfolio</a></li>
+                            <li class=""><a href="http://stockscreener.us.reuters.com/Stock/US/Index?quickscreen=gaarp" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Stock Screener</a></li>
+                            <li class=""><a href="http://funds.us.reuters.com/US/screener/screener.asp" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Fund Screener</a></li>
+                            <li class=""><a href="/news/video?videoChannel=303" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Personal Finance Video</a></li>
+                            <li class="lastChild "><a href="/finance/personal-finance/retirement" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Retirement</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_10"><a href="/news/lifestyle" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sections','label':$(this).attr('href')});" ><span class="primary-link">Life</span></a>
+                    <div class="subnav " id="subnav_10">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="/news/health" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Health</a></li>
+                            <li class=""><a href="/news/sports" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Sports</a></li>
+                            <li class=""><a href="/news/entertainment/arts" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Arts</a></li>
+                            <li class=""><a href="/news/entertainment" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Entertainment</a></li>
+                            <li class=""><a href="/news/oddlyEnough" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Oddly Enough</a></li>
+                            <li class=""><a href="http://blogs.reuters.com/faithworld" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Faithworld</a></li>
+                            <li class="lastChild "><a href="/news/video?videoChannel=1004" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Lifestyle Video</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item" id="nav-item_11"><a href="/news/pictures" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sections','label':$(this).attr('href')});" ><span class="primary-link">Pictures</span></a>
+                    <div class="subnav " id="subnav_11">
+                       
+                        <div class="subnav-inner">
+                        <ul class="one">
+                       
+                            <li class=""><a href="/news/pictures" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Pictures Home</a></li>
+                            <li class=""><a href="http://widerimage.reuters.com" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >The Wider Image</a></li>
+                            <li class="lastChild "><a href="http://widerimage.reuters.com/photographer" target="_top" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sub-sections','label':$(this).attr('href')});" >Photographers</a></li>
+                            </ul>
+                      
+                       </div>
+                       
+                       </div>
+
+                       </li>
+                <li class="nav-item no-subnav" id="nav-item_12"><a href="/video" onmousedown="dataLayer.push({'event':'click-event','category':'navigation','action':'sections','label':$(this).attr('href')});" ><span class="primary-link">Video</span></a>
+                    </li>
+                </ul>
+       	</div>
+    </div>
+</div>
+<script src="http://s2.reutersmedia.net/resources_v2/js/libraries/jquery.bgiframe.js" type="text/javascript"></script>
+<script src="http://s4.reutersmedia.net/resources_v2/js/rcom-nav.js" type="text/javascript"></script>
+
+<div id="content"><div class="section bleeding" id="breakingNewsBand">
+	<div class="sectionContent">
+<script type="text/javascript">
+Reuters.namespace("info");
+Reuters.info.articleId = 'USL6N0UO0CE20150109';
+Reuters.info.articlePartnerURI = '';
+Reuters.info.channel = 'cyclicalConsumerGoodsSector';
+Reuters.info.articleUrl = '/article/2015/01/09/france-shooting-islamicstate-idUSL6N0UO0CE20150109';
+</script>
+
+<div class="sectionColumns">
+
+<div class="gridPanel grid12">
+<div id="breakingNewsContent"></div>
+<script type="text/javascript">
+Reuters.utils.replaceContent("breakingNewsContent", "/assets/breakingNews", null, null);
+</script>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<div class="section bleeding" id="bannerStrip">
+	<div class="sectionContent">
+<div class="sectionColumns">
+
+<div class="gridPanel grid12">
+<style>
+
+/*
+#bannerStrip 
+.sectionContent { width: 990px; }
+.sectionContent .grid12 { width: 960px !important; }
+.sectionContent .grid12 .ad { margin: 0; }
+#homepageSponsorBand, #adTopBanner { margin-bottom: 0px; }
+*/
+
+</style> 
+
+<div class="ad" id="leaderboard">
+
+		<script language="javascript" type="text/javascript">
+
+			
+		  var adsrc = 'us.reuters/bizfinance/industries/article;' + 'type=leaderboard;sz=728x90;tile=1;vbc=Fidelity2014;articleID=USL6N0UO0CE20150109;' + '';
+		  adsrc = TR3.createDFPUrl(adsrc); 
+		  if ( typeof(AD_TRACKER) != 'undefined' ) {
+		     adsrc = AD_TRACKER.processAdSrcType(adsrc);
+		  }
+
+		  
+		  if ((typeof (hideAllAds) == 'undefined' || hideAllAds == false) && (typeof (AD_TRACKER) == 'undefined' || AD_TRACKER.isAdHidden('leaderboard') == false) &&
+		      (typeof (hideAd_17554166) == 'undefined' || hideAd_17554166 == false)) {
+              if (typeof (TR3) !== "undefined") {
+                 TR3.writeDFPURL("http://ad.doubleclick.net/N4735792/adj/" + adsrc);
+              }
+		  }
+
+		  </script>
+
+		<noscript>
+		    <a href="http://ad.doubleclick.net/N4735792/jump/us.reuters/bizfinance/industries/article;type=leaderboard;sz=728x90;tile=1;vbc=Fidelity2014;articleID=USL6N0UO0CE20150109;ord=0834?" target="_blank">
+		      <img src="http://ad.doubleclick.net/N4735792/ad/us.reuters/bizfinance/industries/article;type=leaderboard;sz=728x90;tile=1;vbc=Fidelity2014;articleID=USL6N0UO0CE20150109;ord=0834?" width="728" height="90" border="0" alt="">
+		    </a>
+		</noscript>
+
+		<META name="DCSext.VBC" content="Fidelity2014">
+	        </div>
+
+		</div>
+
+</div>
+
+</div>
+</div>
+<div class="section comments-tabs">
+	<div class="sectionContent">
+<div class="sectionColumns">
+
+<div class="gridPanel grid12">
+<script type="text/javascript" src="http://s3.reutersmedia.net/resources_v2/js/commentLogin.js"></script>
+<div class="tabs" style="display:none;">
+	<ul>
+		<li class="current" tns="no" ><a href="/article/2015/01/09/france-shooting-islamicstate-idUSL6N0UO0CE20150109">Article</a></li>
+    </ul>
+</div>
+
+</div>
+
+</div>
+
+</div>
+</div>
+<div class="section main-content">
+	<div class="sectionContent">
+<div id="freqCap_poe" style="display:none;">
+	<div id="poeContainer" class="poeContainer">
+    	<div class="ad" id="poe">
+
+		<script language="javascript" type="text/javascript">
+
+			
+		  var adsrc = 'us.reuters/bizfinance/industries/article;' + 'type=poe;sz=1x1;articleID=USL6N0UO0CE20150109;taga=aaaaaaaaa;' + '';
+		  adsrc = TR3.createDFPUrl(adsrc); 
+		  if ( typeof(AD_TRACKER) != 'undefined' ) {
+		     adsrc = AD_TRACKER.processAdSrcType(adsrc);
+		  }
+
+		  
+		  if ( typeof(freqCap_poe) == 'undefined' || freqCap_poe == null ) {
+		      try { console.debug("frequency manager: %s is undefined, could be channel include/exclude or scheduling", 'freqCap_poe') } catch(e) {};
+		  }
+		  if ( typeof(freqCap_poe) != 'undefined' &&
+		       ((typeof(freqCap_poe.isAdNeeded) != 'undefined' && freqCap_poe.isAdNeeded()) ||
+		        (typeof(freqCap_poe.isDefaultAdNeeded) != 'undefined' && freqCap_poe.isDefaultAdNeeded()))) {
+		  
+		  if ((typeof (hideAllAds) == 'undefined' || hideAllAds == false) && (typeof (AD_TRACKER) == 'undefined' || AD_TRACKER.isAdHidden('poe') == false) &&
+		      (typeof (hideAd_10034971) == 'undefined' || hideAd_10034971 == false)) {
+              if (typeof (TR3) !== "undefined") {
+                 TR3.writeDFPURL("http://ad.doubleclick.net/N4735792/adj/" + adsrc);
+              }
+		  }
+
+		  
+		  }
+		  </script>
+
+		<noscript>
+		    <a href="http://ad.doubleclick.net/N4735792/jump/us.reuters/bizfinance/industries/article;type=poe;sz=1x1;articleID=USL6N0UO0CE20150109;taga=aaaaaaaaa;ord=0079?" target="_blank">
+		      <img src="http://ad.doubleclick.net/N4735792/ad/us.reuters/bizfinance/industries/article;type=poe;sz=1x1;articleID=USL6N0UO0CE20150109;taga=aaaaaaaaa;ord=0079?" width="1" height="1" border="0" alt="">
+		    </a>
+		</noscript>
+
+		<META name="DCSext.VBC" content="Fidelity2014">
+	        </div>
+
+		</div>
+</div>
+
+<script type="text/javascript">
+	if ( typeof(freqCap_poe) != 'undefined' && 
+       ((typeof(freqCap_poe.isAdNeeded) != 'undefined' && (freqCap_poe.isAdNeeded())) || 
+       (typeof(freqCap_poe.isDefaultAdNeeded) != 'undefined' && freqCap_poe.isDefaultAdNeeded()))) {
+	    document.getElementById('freqCap_poe').style.display = 'block';
+	}
+</script>
+
+
+<div class="linebreak"></div>
+	<div class="sectionColumns">
+
+<div class="column1 gridPanel grid8">
+<h1>Islamic State praise Paris attackers as "heroic jihadists"</h1>
+    
+    <div id="articleInfo">
+        <p>
+        <span class="location">DUBAI</span> <span class="pipe"> </span> 
+        <span class="timestamp">Fri Jan 9, 2015 2:36am EST</span>
+        </p>
+    </div>
+<div class="topShare gridPanel grid6"><div class="module shareLinks horizontal">
+	     <div class="moduleBody">
+	        <ul>
+
+                <li class="twitter " tns="no">
+			<a href="http://twitter.com/share" class="twitter-share-button"  data-counturl="http://www.reuters.com/article/2015/01/09/france-shooting-islamicstate-idUSL6N0UO0CE20150109" data-via="reuters" data-text="Islamic State praise Paris attackers as &quot;heroic jihadists&quot;" id="twitter-share-link">Tweet</a>
+              		</li>
+
+                    <script type="text/javascript">
+							var shortUrl = 'http://reut.rs/1xY224v';
+							var twitterShareLink = document.getElementById("twitter-share-link");
+							twitterShareLink.setAttribute("data-url", shortUrl);
+							Reuters.utils.loadScript("twitterShare", "http://platform.twitter.com/widgets.js");
+						</script>
+					<li class="linkedIn " tns="no">
+                        <script type="text/javascript" src="http://platform.linkedin.com/in.js"></script><script type="in/share" data-url="http://www.reuters.com/article/2015/01/09/france-shooting-islamicstate-idUSL6N0UO0CE20150109" data-counter="right"></script>
+                 	</li>
+	            <li class="facebook" tns="no"><span class="hrefClone" onclick="Reuters.utils.popup('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.reuters.com%2Farticle%2F2015%2F01%2F09%2Ffrance-shooting-islamicstate-idUSL6N0UO0CE20150109&t=Islamic+State+praise+Paris+attackers+as+%22heroic+jihadists%22', 626, 436, 1, 'shareArticle');">Share this</span></li>
+	            <li class="google " tns="no"><span id="googleTag"><g:plusone size="small" count="true" href="http://www.reuters.com/article/2015/01/09/france-shooting-islamicstate-idUSL6N0UO0CE20150109"></span></g:plusone></li>
+              	<li tns="no" class="email"><span class="hrefClone" onclick="Reuters.utils.popup('/do/emailArticle?articleId=USL6N0UO0CE20150109', 580, 735, 1, 'emailArticle');">Email</span></li>
+     			<li tns="no" class="print last"><span class="hrefClone" onclick="Reuters.utils.popup('/assets/print?aid=USL6N0UO0CE20150109', 580, 735, 3, 'printArticle');">Print</span></li>
+     			</ul>
+	    </div>
+	</div>
+</div><div class="linebreak"></div>
+	<div id="relatedInlineVideo" class="relatedRai"><script src="http://s1.reutersmedia.net/resources_v2/js/yoplayer-2.1-32.js" language="javascript"></script>
+<script src="http://s1.reutersmedia.net/resources_v2/js/article_video_plugin.js" language="javascript"></script>
+<script src="http://s1.reutersmedia.net/resources_v2/js/article-yoplayer.js" language="javascript"></script>
+
+<link rel="stylesheet" type="text/css" href="http://s1.reutersmedia.net/resources_v2/css/rcom-article-video.css" />
+<script type="text/javascript">
+Reuters.namespace("yospace");
+Reuters.yospace.width=610;
+Reuters.yospace.height=350;
+Reuters.yospace.adtype="article_preroll";
+Reuters.yospace.debug="false";
+Reuters.yospace.console_debug="false";
+Reuters.yospace.autoplay="false";
+Reuters.yospace.footspace=43;
+Reuters.yospace.embed="true";
+Reuters.yospace.miid=Reuters.inlinevideo.flashVideoSource.split("?f=")[0].split(",/")[1];
+Reuters.yospace.fid=Reuters.inlinevideo.flashVideoSource.split("?f=")[1];
+Reuters.yospace.yoVersion="2.1-32";
+Reuters.yospace.videoFrameSize="610x350";
+Reuters.yospace.startlevel=2;
+</script>
+<script src="https://www.google.com/jsapi" language="javascript"></script>
+<script language="javascript" src="http://s1.reutersmedia.net/resources_v2/js/rcom-tv.js"> </script>
+<script language="javascript" src="http://s1.reutersmedia.net/resources_v2/js/widget-yovideoexpansion.js"> </script></div><script type="text/javascript">
+if(typeof Reuters.info.skipSlideshow == 'undefined'&& document.getElementById("displayFrame")) {Reuters.utils.addLoadEvent(function() { Reuters.utils.loadScript('sJSON','/assets/multimediaJSON?articleId=USL6N0UO0CE20150109&setImage=378&view=100&startNumber=1') });}</script>
+<div class="columnLeft"><div class="relatedRail gridPanel grid2"></div></div><div class="columnLeft"><div class="relatedRail gridPanel grid2">
+</div></div><div class="columnLeft"><div class="relatedRail gridPanel grid2"></div></div><div class="columnLeft"><div class="relatedRail gridPanel grid2"><div id="relatedNews" class="module">
+	<div class="moduleHeader"><h3>Related News</h3></div>
+	<div class="moduleBody">
+		<ul>
+		<li><a href="/article/2015/01/08/us-france-shooting-idUSKBN0KG0Y120150108">Armed French gendarmes swoop on villages in manhunt for newspaper attackers</a><div class="timestamp">Thu, Jan 8 2015</div></li><li><a href="/article/2015/01/08/us-france-shooting-aqim-idUSKBN0KH1WD20150108">Al Qaeda's North Africa branch praises gunmen for Paris attack</a><div class="timestamp">Thu, Jan 8 2015</div></li><li><a href="/article/2015/01/08/us-france-shooting-newspapers-idUSKBN0KH1E620150108">Europe's media differ over publishing Charlie Hebdo cartoons</a><div class="timestamp">Thu, Jan 8 2015</div></li><li><a href="/article/2015/01/08/us-france-shooting-charliehebdo-idUSKBN0KH1UI20150108">Attacked satirical French weekly to print a million copies next week</a><div class="timestamp">Thu, Jan 8 2015</div></li><li><a href="/article/2015/01/08/us-france-shooting-syria-idUSKBN0KH1AU20150108">Syria says Paris attack underlines threat of radical Islamism</a><div class="timestamp">Thu, Jan 8 2015</div></li></ul>
+	</div>
+</div>
+</div></div><div class="columnLeft"><div class="relatedRail gridPanel grid2"><div id="relatedPosts" class="module">
+	<div class="moduleHeader"><h3>Analysis & Opinion</h3></div>
+	<div class="moduleBody">
+		<ul>
+<li><a href="http://blogs.reuters.com/faithworld/2015/01/08/attacked-satirical-french-weekly-to-print-a-million-copies-next-week/">Attacked satirical French weekly to print a million copies next week</a>
+	</li>
+<li><a href="http://blogs.reuters.com/breakingviews/2015/01/08/response-to-paris-attacks-caught-between-two-risks/">Response to Paris attacks caught between two risks</a>
+	</li>
+</ul>
+	</div>
+</div>
+
+</div></div><div class="columnLeft"><div class="relatedRail gridPanel grid2"><div id="thirdPartyLinkbackNews"></div></div></div><div class="columnLeft"><div id="relatedInteractive" class="relatedRail gridPanel grid2"></div></div><div class="columnLeft"><div id="specialFeature" class="focus gridPanel grid2">
+</div></div><span id="articleText">
+<span id="midArticle_start"></span>
+
+<span class="focusParagraph"><p><span class="articleLocation">DUBAI</span> Jan 9 (Reuters) - The Islamic State militant group
+praised the gunmen behind this week's killings at the Paris
+headquarters of the Charlie Hebdo weekly newspaper as "heroic
+jihadists", a monitoring group said on Friday.</p>
+</span><span id="midArticle_0"></span><p>The SITE Intelligence Group, which monitors radical Islamist
+organisations in the media, said Islamic State praised the
+gunmen in a brief note in its daily audio bulletin, which was
+distributed on Twitter and jihadi forums on Thursday.</p><span id="midArticle_1"></span><p>"We start our bulletin with France. Heroic jihadists killed
+12 journalists and wounded ten others working in the French
+magazine Charlie Hebdo, and that was support for our master
+(Prophet) Mohammad, may Allah's peace and blessings be upon
+him," according to the audio bulletin.</p><span id="midArticle_2"></span><p>In France, armed and masked anti-terrorism police swooped on
+woodland villages northeast of Paris in a manhunt for two
+brothers suspected of carrying out Wednesday's attack on Charlie
+Hebdo, a satirical newspaper which had published cartoons of
+Islam's Prophet Mohammad as well as other religious and
+political figures.</p><span id="midArticle_3"></span><p>Ten journalists and two police officers were killed in the
+attack, which has raised questions of security in the Western
+world and beyond.</p><span id="midArticle_4"></span><p>Many Muslims consider any depiction of the Prophet Mohammad
+to be against Islam.</p><span id="midArticle_5"></span><p>Islamic State is a powerful militant group which has
+captured broad swathes of Iraqi and Syrian territory.
+
+ (Reporting by Rania El Gamal; Editing by Toby Chopra)</p><span id="midArticle_6"></span></span>
+
+<div class="relatedTopicButtons"><div class="file_under">FILED UNDER: </div> 
+			<div class="actionButton"><a href="/sectors/cyclicals">Cyclical Consumer Goods</a></div>
+			</div><div class="facebookRec" tns="no">
+		<iframe src="http://www.facebook.com/plugins/like.php?href=http%3A%2F%2Fwww.reuters.com%2Farticle%2F2015%2F01%2F09%2Ffrance-shooting-islamicstate-idUSL6N0UO0CE20150109&amp;layout=standard&amp;show_faces=false&amp;width=450&amp;action=recommend&amp;colorscheme=light&amp;height=35" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:450px; height:35px;" allowTransparency="true"></iframe>
+        </div>
+<div id="relatedStocks2"><div class="module shareLinks horizontal">
+	     <div class="moduleBody">
+	        <ul>
+
+                <li class="twitter " tns="no">
+                   		<span class="hrefClone" onclick="Reuters.tns.retweet();">Tweet this</span>
+					</li>
+                <li class="linkedIn " tns="no">
+                       	<span class="hrefClone" onclick="Reuters.utils.popup('http://www.linkedin.com/shareArticle?mini=true&source=Reuters&url=http%3A%2F%2Fwww.reuters.com%2Farticle%2F2015%2F01%2F09%2Ffrance-shooting-islamicstate-idUSL6N0UO0CE20150109&title=Islamic+State+praise+Paris+attackers+as+%22heroic+jihadists%22&summary=DUBAI%2C+Jan+9+%28Reuters%29+-+The+Islamic+State+militant+group%0Apraised+the+gunmen+behind+this+week%27s+killings+at+the+Paris%0Aheadquarters+of+the+Charlie+Hebdo+weekly+newspaper+as+%22heroic%0Ajihadists%22%2C+a+monitoring+group+said+on+Friday.%0AThe+SITE+Intelligence...', 520, 570, 1, 'shareArticle');">Link this</span>
+                 	</li>
+	            <li class="facebook" tns="no"><span class="hrefClone" onclick="Reuters.utils.popup('http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.reuters.com%2Farticle%2F2015%2F01%2F09%2Ffrance-shooting-islamicstate-idUSL6N0UO0CE20150109&t=Islamic+State+praise+Paris+attackers+as+%22heroic+jihadists%22', 626, 436, 1, 'shareArticle');">Share this</span></li>
+	            <li class="digg " tns="no">
+                       	<span class="hrefClone" onclick="Reuters.utils.popup('http://digg.com/submit?url=http%3A%2F%2Fwww.reuters.com%2Farticle%2F2015%2F01%2F09%2Ffrance-shooting-islamicstate-idUSL6N0UO0CE20150109&bodytext=Islamic+State+praise+Paris+attackers+as+%22heroic+jihadists%22', 1062, 570, 1, 'shareArticle');">Digg this</span>
+	                </li>
+	            <li tns="no" class="email"><span class="hrefClone" onclick="Reuters.utils.popup('/do/emailArticle?articleId=USL6N0UO0CE20150109', 580, 735, 1, 'emailArticle');">Email</span></li>
+     			<li tns="no" class="print last"><span class="hrefClone" onclick="Reuters.utils.popup('/assets/print?aid=USL6N0UO0CE20150109', 580, 735, 3, 'printArticle');">Print</span></li>
+     			<li tns="no" class="reprints"><a href="http://www.reutersreprints.com">Reprints</a></li>
+                </ul>
+	    </div>
+	</div>
+</div><script type="text/javascript" src="http://widget.perfectmarket.com/reuters/load.js"></script><div class="section">
+	<div class="sectionContent">
+<div class="sectionColumns">
+
+<div class="gridPanel grid12">
+<script type="text/javascript">
+	Reuters.namespace("info");
+	Reuters.info.outbrain_env = 'produsx';
+</script>
+<div>
+<div id='taboola-bmc' style="float:left;width:295px"></div>
+<script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({mode:'organic-text-links-2c', container:'taboola-bmc', placement:'bmc', target_type:'mix'});
+</script>
+<div style="float:left;width:300px;margin-left:10px">
+     <iframe valign="middle" width="305" height="295" marginheight=0 marginwidth=0 frameborder=0 vspace=0 hspace=0 scrolling=NO  src="http://www.smartlinks.dianomi.com/smartads.epl?id=1734"></iframe>
+</div>
+</div><div class="linebreak"></div>
+	</div>
+
+</div>
+
+</div>
+</div>
+
+
+<div>
+<div id='taboola-below-main-column'></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({mode:'thumbs-2r', container:'taboola-below-main-column', placement:'below-main-column'});
+</script>
+</div><script language="javascript" src="/assets/inlineArticleLinks"></script><div>
+<script type="text/javascript">
+     //TR.insertBussUnit ("http:\/\/ad.doubleclick.net\/N4735792\/adj\/" + dfpzone + ";type=BizDev_Article_SP3;sz=610x1");
+
+    var tester = TR.getURLQueryParameterByName("adstest");
+    if (!!tester) {
+        var dfpzone = TR.extractDartZone () + ";adstest\x3d" + tester
+
+         console.info("Bizdev ad call :  "+"http:\/\/ad.doubleclick.net\/N4735792\/adj\/" + dfpzone + ";type=BizDev_Article_SP3;sz=610x1");
+          TR.insertBussUnit ("http:\/\/ad.doubleclick.net\/N4735792\/adj\/" + dfpzone + ";type=BizDev_Article_SP3;sz=610x1");
+       }  else {
+           TR.insertBussUnit ("http:\/\/ad.doubleclick.net\/N4735792\/adj\/us.reuters;type=BizDev_Article_SP3;sz=610x1");
+       }
+</script>   
+<div class="linebreak"></div>
+</div>
+</div>
+
+<div class="column2 gridPanel grid4">
+<style>
+#most-popular .module {border: medium none !important;width: 288px;margin: 0px !important;}
+.most-popular, .most-popular.more-in-business { background: none;border: none;float: left;margin: 0 0 20px;padding: none;}
+.topShare {width: 500px !important;}
+#ac_5301 .ac_container {display: inline-block;margin-top: 13px;padding-left: 8px !important;vertical-align: top; float:left;}
+#captionContent {padding-right: 20px;}
+</style>
+<div id="most-popular-parsely"><script src="http://s3.reutersmedia.net/resources_v2/js/rcom-main.js" language="javascript"></script><script src="http://s3.reutersmedia.net/resources_v2/js/rcom-parsely.js" language="javascript"></script><div class="moduleHeader"><h3>Trending On Reuters</h3></div><div class="columnLeft"><div id="mostPopularRead"><div id="parselyArticles"><div class="module"><div class="moduleBody"><ul></ul></div><div id="parselyArticlesRemark"></div></div></div></div></div><script type="text/javascript">
+        var video_btn_url = '<img src="http://s3.reutersmedia.net/resources_v2/images/btn_rel_video.gif" border="0" height="11px" width="43px" alt="Video" />';
+        var _raw_json_note = "not in use for this version";
+	var max_json_num = 5;
+	var filter_str = "/news/picture";
+	var filter_arr = [];
+        filter_arr = filter_str.split(",");
+ 
+	var parselyObjects= [{"data":[{"tags":["[Breaking News, World News, Video news, Investing, financial information,  Business News, Rueters, Roiters,Default]"],"_hits":8984,"pub_date":"","link":"http:\/\/www.reuters.com\/assets\/iframeResizer","video_link":"","section":"Landing Assets - Default","url":"http:\/\/www.reuters.com\/assets\/iframeResizer","authors":["Staff"],"author":"Staff","title":"","image_url":"","thumb_url_medium":"","metadata":""},{"tags":["crimea","nuclear war","nuclear","russia","npt"],"_hits":8689,"pub_date":"2015-03-23T05:17:05","link":"http:\/\/blogs.reuters.com\/great-debate\/2015\/03\/23\/nuclear-midnight-ticks-closer-in-wake-of-russias-crimea-threats\/","video_link":"","section":"General","url":"http:\/\/blogs.reuters.com\/great-debate\/2015\/03\/23\/nuclear-midnight-ticks-closer-in-wake-of-russias-crimea-threats\/","authors":["Sharon Squassoni"],"author":"Sharon Squassoni","title":"","image_url":"http:\/\/blogs.reuters.com\/great-debate\/\/files\/2015\/03\/or_287_RTX4W3S-1.jpg","thumb_url_medium":"http:\/\/c0001566.cdn1.cloudfiles.rackspacecloud.com\/medium_d524b32275b7ed83f3ce13cc266483d28d473385.jpg","metadata":""},{"tags":["Rueters","financial information","Business News","Investing","World News","Breaking News","businessNews","Video news","Roiters"],"_hits":7221,"pub_date":"2015-03-24T02:43:57","link":"http:\/\/www.reuters.com\/article\/2015\/03\/24\/us-markets-oil-idUSKBN0MK07B20150324","video_link":"","section":"Finance - Business News","url":"http:\/\/www.reuters.com\/article\/2015\/03\/24\/us-markets-oil-idUSKBN0MK07B20150324","authors":["Henning Gloystein"],"author":"Henning Gloystein","title":"Oil below $56 as Saudi output near record, China activity slows","image_url":"http:\/\/s1.reutersmedia.net\/resources\/r\/?m=02&d=20150324&t=2&i=1034817222&w=130&fh=&fw=&ll=&pl=&r=LYNXMPEB2N031","thumb_url_medium":"http:\/\/c0001566.cdn1.cloudfiles.rackspacecloud.com\/medium_a5fd9c03f801615340c4bd58854d99fa4f615d6a.jpg","metadata":""},{"tags":["Rueters","financial information","Business News","Investing","ousivMolt","World News","Breaking News","Video news","Roiters"],"_hits":5505,"pub_date":"2015-03-23T01:47:59","link":"http:\/\/www.reuters.com\/article\/2015\/03\/23\/us-markets-oil-idUSKBN0MJ02U20150323","video_link":"http:\/\/www.reuters.com\/article\/video\/idUSKBN0MJ02U20150323?videoId=363600683","section":"Finance - Markets","url":"http:\/\/www.reuters.com\/article\/2015\/03\/23\/us-markets-oil-idUSKBN0MJ02U20150323","authors":["Henning Gloystein"],"author":"Henning Gloystein","title":"Oil rises more than 1 percent, boosted by weaker dollar","image_url":"http:\/\/s3.reutersmedia.net\/resources\/r\/?m=02&d=20150323&t=2&i=1034538015&w=130&fh=&fw=&ll=&pl=&r=LYNXMPEB2M01K","thumb_url_medium":"http:\/\/c0001566.cdn1.cloudfiles.rackspacecloud.com\/medium_2c47f398254682232c45596ec117304b2ad552ad.jpg","metadata":""},{"tags":["Rueters","financial information","Business News","Investing","politicsNews","World News","Breaking News","Video news","Roiters"],"_hits":5451,"pub_date":"2015-03-23T01:51:40","link":"http:\/\/www.reuters.com\/article\/2015\/03\/23\/us-usa-election-cruz-announcement-idUSKBN0MI0G720150323","video_link":"http:\/\/www.reuters.com\/article\/video\/idUSKBN0MI0G720150323?videoId=363599858","section":"News - Politics","url":"http:\/\/www.reuters.com\/article\/2015\/03\/23\/us-usa-election-cruz-announcement-idUSKBN0MI0G720150323","authors":["Steve Holland"],"author":"Steve Holland","title":"Ted Cruz seeks to enlist U.S. Christians for 2016 White House bid","image_url":"http:\/\/s1.reutersmedia.net\/resources\/r\/?m=02&d=20150322&t=2&i=1034431613&w=130&fh=&fw=&ll=&pl=&r=LYNXMPEB2L07A","thumb_url_medium":"http:\/\/c0001566.cdn1.cloudfiles.rackspacecloud.com\/medium_6f0fb0548e6ba67fb1914a38ffa036817377a058.jpg","metadata":""},{"tags":["[energy, commodities news, oil prices, crude oil, natural gas,Commodities]"],"_hits":4994,"pub_date":"","link":"http:\/\/www.reuters.com\/finance\/commodities","video_link":"","section":"Landing Finance - Commodities","url":"http:\/\/www.reuters.com\/finance\/commodities","authors":["Staff"],"author":"Staff","title":"","image_url":"","thumb_url_medium":"","metadata":""},{"tags":["Rueters","financial information","lifestyleMolt","Business News","Investing","World News","Breaking News","Video news","Roiters"],"_hits":4099,"pub_date":"2015-03-23T05:30:09","link":"http:\/\/www.reuters.com\/article\/2015\/03\/23\/us-usa-presidents-poll-idUSKBN0MJ0AJ20150323","video_link":"","section":"News - Lifestyle","url":"http:\/\/www.reuters.com\/article\/2015\/03\/23\/us-usa-presidents-poll-idUSKBN0MJ0AJ20150323","authors":["Roberta Rampton"],"author":"Roberta Rampton","title":"Fictional TV presidents more popular than Obama: Reuters-Ipsos poll","image_url":"http:\/\/s3.reutersmedia.net\/resources\/r\/?m=02&d=20150323&t=2&i=1034571873&w=130&fh=&fw=&ll=&pl=&r=LYNXMPEB2M06K","thumb_url_medium":"http:\/\/c0001566.cdn1.cloudfiles.rackspacecloud.com\/medium_5fec13362730011f78c901091c5728b5bff5bba6.jpg","metadata":""},{"tags":["Rueters","financial information","Business News","Investing","ousivMolt","World News","Breaking News","Video news","Roiters"],"_hits":3805,"pub_date":"2015-03-24T00:22:06","link":"http:\/\/www.reuters.com\/article\/2015\/03\/24\/us-markets-global-idUSKBN0MK01320150324","video_link":"","section":"Finance - Markets","url":"http:\/\/www.reuters.com\/article\/2015\/03\/24\/us-markets-global-idUSKBN0MK01320150324","authors":["Lisa Twaronite"],"author":"Lisa Twaronite","title":"Strong euro zone business data sends euro, shares higher ","image_url":"http:\/\/s3.reutersmedia.net\/resources\/r\/?m=02&d=20150324&t=2&i=1034795321&w=130&fh=&fw=&ll=&pl=&r=LYNXMPEB2N007","thumb_url_medium":"http:\/\/c0001566.cdn1.cloudfiles.rackspacecloud.com\/medium_7000ae3423958827a74df8e10a4b46db31049029.jpg","metadata":""},{"tags":["[N225, Nikkei, BSESN, HSI,Asian Markets]"],"_hits":3151,"pub_date":"","link":"http:\/\/www.reuters.com\/finance\/markets\/asia","video_link":"","section":"Landing Finance - Markets","url":"http:\/\/www.reuters.com\/finance\/markets\/asia","authors":["Staff"],"author":"Staff","title":"","image_url":"","thumb_url_medium":"","metadata":""},{"tags":["Rueters","financial information","domesticNews","Business News","Investing","World News","Breaking News","Video news","Roiters"],"_hits":3035,"pub_date":"2015-03-24T01:43:47","link":"http:\/\/www.reuters.com\/article\/2015\/03\/24\/us-usa-durst-bond-idUSKBN0MJ20E20150324","video_link":"","section":"News - US","url":"http:\/\/www.reuters.com\/article\/2015\/03\/24\/us-usa-durst-bond-idUSKBN0MJ20E20150324","authors":["Jonathan Kaminsky"],"author":"Jonathan Kaminsky","title":"Robert Durst denied bail in New Orleans, linked to Vermont cold case","image_url":"http:\/\/s4.reutersmedia.net\/resources\/r\/?m=02&d=20150324&t=2&i=1034807531&w=130&fh=&fw=&ll=&pl=&r=LYNXMPEB2M0VZ","thumb_url_medium":"http:\/\/c0001566.cdn1.cloudfiles.rackspacecloud.com\/medium_e648534301167cb3d5d74dcaecdd4c11ff04c281.jpg","metadata":""}]}];
+	
+		if (typeof Reuters.parsely.parseParsely == 'function') { Reuters.parsely.parseParsely(parselyObjects); } 
+	</script>
+
+
+
+
+</div><div id="ad-div-mpu"><div class="ad" id="mpu">
+
+		<script language="javascript" type="text/javascript">
+
+			
+		  var adsrc = 'us.reuters/bizfinance/industries/article;' + 'type=mpu;sz=300x250;tile=2;vbc=Fidelity2014;articleID=USL6N0UO0CE20150109;' + '';
+		  adsrc = TR3.createDFPUrl(adsrc); 
+		  if ( typeof(AD_TRACKER) != 'undefined' ) {
+		     adsrc = AD_TRACKER.processAdSrcType(adsrc);
+		  }
+
+		  
+		  if ((typeof (hideAllAds) == 'undefined' || hideAllAds == false) && (typeof (AD_TRACKER) == 'undefined' || AD_TRACKER.isAdHidden('mpu') == false) &&
+		      (typeof (hideAd_17544953) == 'undefined' || hideAd_17544953 == false)) {
+              if (typeof (TR3) !== "undefined") {
+                 TR3.writeDFPURL("http://ad.doubleclick.net/N4735792/adj/" + adsrc);
+              }
+		  }
+
+		  </script>
+
+		<noscript>
+		    <a href="http://ad.doubleclick.net/N4735792/jump/us.reuters/bizfinance/industries/article;type=mpu;sz=300x250;tile=2;vbc=Fidelity2014;articleID=USL6N0UO0CE20150109;ord=5183?" target="_blank">
+		      <img src="http://ad.doubleclick.net/N4735792/ad/us.reuters/bizfinance/industries/article;type=mpu;sz=300x250;tile=2;vbc=Fidelity2014;articleID=USL6N0UO0CE20150109;ord=5183?" width="300" height="250" border="0" alt="">
+		    </a>
+		</noscript>
+
+		<META name="DCSext.VBC" content="Fidelity2014">
+	        </div>
+
+		</div><div id="specialFeature"></div><script type="text/javascript" src="http://s3.reutersmedia.net/resources_v2/js/libraries/highlighter-0.6_sm.js"></script> 
+<div id="searchInterceptResults">
+<div id="searchModule"></div>
+</div>
+<script type='text/javascript'>
+highlighter.highlight();
+Reuters.utils.addLoadEvent(function() { Reuters.utils.replaceContent('searchModule', '/assets/searchIntercept?blob='+highlighter.searchKeywords(), null, null) });
+</script>
+<style type="text/css">
+#searchInterceptResults {display:none;}
+#searchInterceptResults.wResults {display: block;}
+</style>
+
+<!--[if !IE]>Start Most Social<![endif]--><div id="social-links">	<h3>Follow Reuters</h3>		<ul>		<li class="facebook"><a href="http://www.facebook.com/pages/Reuters/114050161948682"><span class="icon"></span>Facebook</a></li>		<li class="twitter"><a href="http://www.twitter.com/reuters"><span class="icon"></span>Twitter</a></li>		<li class="rss"><a href="http://www.reuters.com/tools/rss"><span class="icon"></span>RSS</a></li>		<li class="youtube last"><a href="http://www.youtube.com/reuters"><span class="icon"></span>YouTube</a></li>		</ul>		<div class="linebreak"></div></div><div id="bankrate"><div class="section">
+	<div class="sectionContent">
+<div class="sectionColumns">
+
+<div class="gridPanel grid12">
+<script type="text/javascript">
+	Reuters.namespace("info");
+	Reuters.info.outbrain_env = 'produsx';
+</script>
+<div class="gridPanel grid4"><div id='taboola-right-rail-video'></div>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  _taboola.push({mode:'thumbs-2r-rr', container:'taboola-right-rail-video', placement:'right-rail', target_type:'video'});
+</script></div><div class="linebreak"></div>
+	</div>
+
+</div>
+
+</div>
+</div>
+
+
+</div><div id="bankrate"><iframe valign="middle" width="300" height="285" marginheight=0 marginwidth=0 frameborder=0 vspace=0 hspace=0 scrolling=NO  src="http://www.smartlinks.dianomi.com/smartads.epl?id=1836"></iframe><div class="linebreak"></div>
+	
+
+</div><div id="bankrate"><!--
+		  SHARED MODULE ID: "433888" hidden for channel: true
+		    channel: cyclicalConsumerGoodsSector
+		    include chans: [marketsNews, globalMarketsNews, hotStocksNews, ousivMolt], empty: false
+		    exclude chans: , empty: true
+		-->
+		</div><div id="bankrate"><!--
+		  SHARED MODULE ID: "433892" hidden for channel: true
+		    channel: cyclicalConsumerGoodsSector
+		    include chans: [PersonalFinance, Retirement], empty: false
+		    exclude chans: , empty: true
+		-->
+		</div><div style="margin-topx:18px;margin-bottom:10px">
+<script type="text/javascript">
+   
+      var tester = TR.getURLQueryParameterByName("adstest");
+      if (!!tester) {
+         var dfpzone = TR.extractDartZone () + ";adstest\x3d" + tester
+
+          console.info("Bizdev ad call :  "+"http:\/\/ad.doubleclick.net\/N4735792\/adj\/"+dfpzone+";type=BizDev_Article_RR1;sz=300x1");
+          TR.insertBussUnit ("http:\/\/ad.doubleclick.net\/N4735792\/adj\/"+dfpzone+";type=BizDev_Article_RR1;sz=300x1");
+       }  else {
+           TR.insertBussUnit ("http:\/\/ad.doubleclick.net\/N4735792\/adj\/us.reuters;type=BizDev_Article_RR1;sz=300x1");
+       }
+       
+</script>
+</div>
+<!--[if !IE]>End Most Social<![endif]--><!--
+		  SHARED MODULE ID: "410263" hidden for channel: true
+		    channel: cyclicalConsumerGoodsSector
+		    include chans: [globalMarketsNews, PersonalFinance], empty: false
+		    exclude chans: , empty: true
+		-->
+		<div class="linebreak"></div>
+	<div id="recommendedNewsletters"><!--
+		  SHARED MODULE ID: "304753" hidden for channel: true
+		    channel: cyclicalConsumerGoodsSector
+		    include chans: [GCA-Economy2010], empty: false
+		    exclude chans: , empty: true
+		-->
+		</div><div class="ad" id="mpulow">
+
+		<script language="javascript" type="text/javascript">
+
+			
+		  var adsrc = 'us.reuters/bizfinance/industries/article;' + 'type=mpulow;sz=300x250;tile=3;articleID=USL6N0UO0CE20150109;' + '';
+		  adsrc = TR3.createDFPUrl(adsrc); 
+		  if ( typeof(AD_TRACKER) != 'undefined' ) {
+		     adsrc = AD_TRACKER.processAdSrcType(adsrc);
+		  }
+
+		  
+		  if ((typeof (hideAllAds) == 'undefined' || hideAllAds == false) && (typeof (AD_TRACKER) == 'undefined' || AD_TRACKER.isAdHidden('mpulow') == false) &&
+		      (typeof (hideAd_13520930) == 'undefined' || hideAd_13520930 == false)) {
+              if (typeof (TR3) !== "undefined") {
+                 TR3.writeDFPURL("http://ad.doubleclick.net/N4735792/adj/" + adsrc);
+              }
+		  }
+
+		  </script>
+
+		<noscript>
+		    <a href="http://ad.doubleclick.net/N4735792/jump/us.reuters/bizfinance/industries/article;type=mpulow;sz=300x250;tile=3;articleID=USL6N0UO0CE20150109;ord=1472?" target="_blank">
+		      <img src="http://ad.doubleclick.net/N4735792/ad/us.reuters/bizfinance/industries/article;type=mpulow;sz=300x250;tile=3;articleID=USL6N0UO0CE20150109;ord=1472?" width="300" height="250" border="0" alt="">
+		    </a>
+		</noscript>
+
+		<META name="DCSext.VBC" content="Fidelity2014">
+	        </div>
+
+		<div class="linebreak"></div>
+	
+
+</div>
+
+</div>
+
+<script type="text/javascript" src="https://apis.google.com/js/plusone.js">
+{"parsetags": "explicit"}
+</script>
+<script type="text/javascript">
+gapi.plusone.go("googleTag");
+</script><div class="linebreak"></div>
+	</div>
+</div>
+<div class="section">
+	<div class="sectionContent">
+<div class="sectionColumns">
+
+<div class="column1">
+</div>
+
+<div class="column2">
+</div>
+
+<div class="column3">
+</div>
+
+</div>
+
+<div id="cobrandLoader"> </div><div class="linebreak"></div>
+	<!--[if !IE]>Start Network Footer<![endif]-->
+<!--[if !IE]>End Network Footer<![endif]-->
+<!--[if !IE]> START News Content Page Tags <![endif]-->
+<META name="DCSext.ContentType" content="Text"> <!--[if !IE]> 'Text' | 'Picture' | 'Slideshow' | 'Video' <![endif]-->
+<META name="DCSext.ContentID" content="USL6N0UO0CE20150109"> <!--[if !IE]> ie. articleId <![endif]-->
+<META name="DCSext.ContentChannel" content="cyclicalConsumerGoodsSector">
+<META name="DCSext.ContentID_cyclicalConsumerGoodsSector" content="USL6N0UO0CE20150109"> <!--[if !IE]> ie. articleId <![endif]-->
+<META name="DCSext.ContentHeadline" content="Islamic+State+praise+Paris+attackers+as+%22heroic+jihadists%22"> <!--[if !IE]> ie. headline for article <![endif]-->
+<META name="DCSext.PageNumber"      content="1">
+<META name="DCSext.PageTotal"       content="1"> <!--[if !IE]> ie. headline for article <![endif]-->
+<!--[if !IE]> END News Content Page Tags <![endif]-->
+<script src="http://s2.reutersmedia.net/resources_v2/js/tracker_article.js" type="text/javascript"></script>
+<script type="text/javascript">
+  window._taboola = window._taboola || [];
+  window._taboola.push({flush:true});
+</script><div class="linebreak"></div>
+	</div>
+</div>
+<div class="section bleeding" id="footerHead">
+	<div class="sectionContent">
+<div id="footerHeader"><div class="columnLeft"><div class="logo"><div id="footerLogo"><a href="/">&nbsp;</a></div></div></div><div class="columnLeft">	<div id="editionsFooter" class="panel editions">
+			<ul id="editionSwitchFooter" class="editionSwitch">
+				<li>
+					<div class="currentEditionTitle">Edition:</div>
+					<div class="currentEdition">U.S.</div>
+					<div class="editionArrow"></div>
+					<ul>
+						<li><a href="http://ara.reuters.com">Arabic</a></li>
+						<li><a href="http://ar.reuters.com">Argentina</a></li>
+						<li><a href="http://br.reuters.com">Brazil</a></li>
+						<li><a href="http://ca.reuters.com">Canada</a></li>
+						<li><a href="http://cn.reuters.com">China</a></li>
+						<li><a href="http://fr.reuters.com">France</a></li>
+						<li><a href="http://de.reuters.com">Germany</a></li>
+						<li><a href="http://in.reuters.com">India</a></li>
+						<li><a href="http://it.reuters.com">Italy</a></li>
+						<li><a href="http://jp.reuters.com">Japan</a></li>
+						<li><a href="http://lta.reuters.com">Latin America</a></li>
+						<li><a href="http://mx.reuters.com">Mexico</a></li>
+					    <li><a href="http://ru.reuters.com">Russia</a></li>
+						<li><a href="http://es.reuters.com">Spain</a></li>
+						<li><a href="http://uk.reuters.com">United Kingdom</a></li>
+					</ul>
+				</li>
+			</ul>
+		</div>
+<script type="text/javascript">
+if(Reuters.info.edition == "BETAUS") {
+	$("#editionSwitchFooter .currentEdition").text('U.S.');
+} else {
+	$("#editionSwitchFooter .currentEdition").text(Reuters.info.edition);
+}
+</script></div><div class="columnRight"><div id="topLink"><a href="#top"><p>Back to top</p></a></div></div></div><div class="sectionColumns">
+
+<div class="column1">
+</div>
+
+<div class="column2">
+</div>
+
+<div class="column3">
+</div>
+
+</div>
+
+</div>
+</div>
+<div class="section bleeding" id="footer">
+	<div class="sectionContent">
+<div class="sectionColumns">
+
+<div class="gridPanel grid12">
+<div class="columnLeft"><div class="gridPanel grid12">
+<span class="footerparent">Reuters.com</span>
+<ul>
+	<li class="h-links"><a href="http://www.reuters.com/finance">Business</a></li>
+	<li class="h-links"><a href="http://www.reuters.com/finance/markets">Markets</a></li>
+	<li class="h-links"><a href="http://www.reuters.com/news/world">World</a></li>
+	<li class="h-links"><a href="http://www.reuters.com/news/politics">Politics</a></li>
+	<li class="h-links"><a href="http://www.reuters.com/news/technology">Technology</a></li>
+	<li class="h-links"><a href="http://blogs.reuters.com/us/">Opinion</a></li>
+	<li class="h-links"><a href="http://www.reuters.com/finance/personal-finance">Money</a></li>
+	<li class="h-links"><a href="http://www.reuters.com/news/pictures">Pictures</a></li>
+	<li class="h-links"><a href="http://www.reuters.com/news/video">Videos</a></li>
+	<li class="h-linkend"><a href="http://www.reuters.com/assets/siteindex">Site Index</a></li>
+</ul>
+
+
+
+</div></div><div class="columnLeft"><div class="gridPanel grid12"><span class="footerparent">More from Reuters</span>
+<ul>
+    <li class="h-links"><a href="http://thomsonreuters.com/news-services/">Reuters News Agency</a></li>
+    <li class="h-links"><a href="http://thomsonreuters.com/site/reuters-brand-attribution-guidelines/">Brand Attribution Guidelines</a></li>
+    <li class="h-linkend"><a href="http://thomsonreuters.com/site/delivery-options/">Delivery Options</a></li>
+</ul></div></div><div class="columnLeft"><div class="gridPanel grid12"><span class="footerparent">Support & Contact</span>
+<ul>
+	<li class="h-links"><a href="http://reuters.zendesk.com">Support</a></li>
+	<li class="h-linkend"><a href="http://reuters.zendesk.com/anonymous_requests/new">Corrections</a></li>
+</ul>
+</div></div><div class="columnLeft"><div id="footer-utilities" class="gridPanel grid12"></div></div><div class="columnLeft"><div class="gridPanel grid12">
+<span class="footerparent">Connect with Reuters</span>
+<ul>
+<li id="foot-twitter"><a href="http://www.twitter.com/reuters">Twitter</a>&nbsp;&nbsp;</li>
+<li id="foot-facebook"><a href="http://www.facebook.com/Reuters">Facebook</a>&nbsp;&nbsp;</li>
+<li id="foot-linkedin"><a href="http://www.linkedin.com/today/reuters.com">LinkedIn</a>&nbsp;&nbsp;</li>
+<li id="foot-rssfeed"><a href="http://www.reuters.com/tools/rss">RSS</a>&nbsp;&nbsp;</li>
+<li id="foot-podcasts"><a href="http://www.reuters.com/tools/podcasts">Podcast</a>&nbsp;&nbsp;</li>
+<li id="foot-newsletters"><a href="https://commerce.us.reuters.com/profile/pages/newsletter/begin.do">Newsletters</a>&nbsp;&nbsp;</li>
+<li id="foot-mobile"><a href="http://www.reuters.com/tools/mobile">Mobile</a></li>
+</ul>
+</div></div><div class="columnLeft"><div class="gridPanel grid12"><span class="footerparent">About</span>
+<ul>
+	<li class="h-links"><a href="http://www.reuters.com/privacy-policy">Privacy Policy</a></li>
+	<li class="h-links"><a href="http://www.reuters.com/terms-of-use">Terms of Use</a></li>
+	 <li class="h-links"><a href="http://sales.reuters.com/" target="_blank">Advertise With Us</a></li>
+         <li class="h-links" id="evidon-footer"><a id="_bapw-link" href="#" target="_blank"><img id="_bapw-icon" border="0" src="https://cdn.betrad.com/pub/icon1.png" /><span id="evidon-text">AdChoices</span></a></li>
+	<li class="h-linkend" id="footer-endrow"><a href="http://thomsonreuters.com/copyright/">Copyright</a></li>
+</ul>
+<script>/**/(function(){var g=285,i=1237,a=false,h=document,j=h.getElementById("_bapw-link"),e=(h.location.protocol=="https:"),f=(e?"https":"http")+"://",c=f+(e?"a248.e.akamai.net/betterad.download.akamai.com/91609":"cdn.betrad.com")+"/pub/";function b(k){var d=new Image();d.src=f+"l.betrad.com/pub/p.gif?pid="+g+"&ocid="+i+"&i"+k+"=1&r="+Math.random()}h.getElementById("_bapw-icon").src=c+"icon1.png";j.onmouseover=function(){if(/#$/.test(j.href)){j.href="http://info.evidon.com/pub_info/"+g+"?v=1"}};j.onclick=function(){var k=window._bap_p_overrides;function d(n,q){var o=h.getElementsByTagName("head")[0]||h.documentElement,m=a,l=h.createElement("script");function p(){l.onload=l.onreadystatechange=null;o.removeChild(l);q()}l.src=n;l.onreadystatechange=function(){if(!m&&(this.readyState=="loaded"||this.readyState=="complete")){m=true;p()}};l.onload=p;o.insertBefore(l,o.firstChild)}if(k&&k.hasOwnProperty(g)){if(k[g].new_window){b("c");return true}}this.onclick="return "+a;d(f+"ajax.googleapis.com/ajax/libs/jquery/1.6.4/jquery.min.js",function(){d(c+"pub2.js",function(){BAPW.i(j,{pid:g,ocid:i})})});return a};b("i")}());/**/</script>
+</div></div><div id="tr-intro" class="gridPanel grid12"><div id="tr-description"><img src="http://s4.reutersmedia.net/resources_v2/images/tr-source-txt.gif" border="0" /></div></div><div class="linebreak"></div>
+	<div id="tr-logo" class="gridPanel grid12"><a href="http://www.thomsonreuters.com/"><div id="tr-footer">&nbsp;</div></a></div><div class="linebreak"></div>
+	<div id="tr-info" class="gridPanel grid12"><div class="tr-products">
+<div id="tr-eikon">
+<div class="tr-header1"><a href="http://financial.thomsonreuters.com/en/products/tools-applications/trading-investment-tools/eikon-trading-software.html?utm_campaign=e4&utm_medium=fbanner&utm_source=rcomfooter" onclick="dcsMultiTrack('DCS.dcssip','thomsonreuterseikon.com','DCS.dcsuri','/','WT.ti','Offsite: thomsonreuterseikon.com','WT.dl','24','WT.z_offsite','http://thomsonreuterseikon.com/');"></a></div>
+<div class="tr-descr">Our Flagship financial information platform incorporating Reuters Insider</div>
+</div>
+
+<div id="tr-elektron">
+<div class="tr-header1"><a href="http://financial.thomsonreuters.com/en/products/infrastructure/trading-infrastructure/elektron-financial-applications.html?utm_campaign=elektron&utm_medium=fbanner&utm_source=rcomfooter" onclick="dcsMultiTrack('DCS.dcssip','www.pehub.com','DCS.dcsuri','/','WT.ti','Offsite: www.pehub.com','WT.dl','24','WT.z_offsite','http://www.pehub.com/');"OnClick="dcsMultiTrack('DCS.dcssip','thomsonreuters.com','DCS.dcsuri','/','WT.ti','Offsite: thomsonreuters.com','WT.dl','24','WT.z_offsite','http://thomsonreuters.com/');"></a></div>
+<div class="tr-descr">An ultra-low latency infrastructure for electronic trading and data distribution</div>
+</div>
+
+<div id="tr-accelus">
+<div class="tr-header1"><a href="http://accelus.thomsonreuters.com/?utm_campaign=accelus&utm_medium=fbanner&utm_source=rcomfooter" onclick="dcsMultiTrack('DCS.dcssip','www.accelus.thomsonreuters.com','DCS.dcsuri','/','WT.ti','Offsite: www.accelus.thomsonreuters.com','WT.dl','24','WT.z_offsite','http://www.accelus.thomsonreuters.com/');"></a></div>
+<div class="tr-descr">A connected approach to governance, risk and compliance</div>
+</div>
+
+<div id="tr-westlaw">
+<div class="tr-header3"><a href="http://legalsolutions.thomsonreuters.com/law-products/westlaw-legal-research" onclick="dcsMultiTrack('DCS.dcssip','legalsolutions.thomsonreuters.com','DCS.dcsuri','/law-products/westlaw-legal-research','WT.ti','Offsite:legalsolutions.thomsonreuters.com','WT.dl','24','WT.z_offsite','http://legalsolutions.thomsonreuters.com/law-products/westlaw-legal-research');"></a></div>
+<div class="tr-descr">Our next generation legal research platform</div>
+</div>
+
+<div id="tr-onesource">
+<div class="tr-header1"><a href="http://onesource.thomsonreuters.com/" onclick="dcsMultiTrack('DCS.dcssip','onesource.thomsonreuters.com','DCS.dcsuri','/','WT.ti','Offsite: onesource.thomsonreuters.com','WT.dl','24','WT.z_offsite','http://onesource.thomsonreuters.com/');"></a></div>
+<div class="tr-descr">Our global tax workstation</div>
+</div>
+
+<div id="tr-linklist">
+<ul>
+<li class="tr-descr"><a href="http://thomsonreuters.com/">Thomsonreuters.com</a></li>
+<li class="tr-descr"><a href="http://thomsonreuters.com/about/">About Thomson Reuters</a></li>
+<li class="tr-descr"><a href="http://ir.thomsonreuters.com">Investor Relations</a></li>
+<li class="tr-descr"><a href="http://careers.thomsonreuters.com/">Careers</a></li>
+<li class="tr-descr"><a href="http://thomsonreuters.com/about/contact_us/">Contact Us</a></li>
+</ul>
+</div>
+
+</div></div><div class="linebreak"></div>
+	</div>
+
+</div>
+
+<div id="disclaimer"><p><a href="http://www.thomsonreuters.com">Thomson Reuters</a> is the world's largest international multimedia news agency, providing <a href="http://www.reuters.com/finance/markets/us">investing news</a>, <a href="http://www.reuters.com/news/world">world news</a>, <a href="http://www.reuters.com/finance">business news</a>, <a href="http://www.reuters.com/news/technology">technology news</a>, headline news, <a href="http://www.reuters.com/finance/smallBusiness">small business news</a>, news alerts, <a href="http://www.reuters.com/finance/personal-finance">personal finance</a>, <a href="http://www.reuters.com/finance/stocks">stock market</a>, and <a href="http://funds.us.reuters.com/US/overview.asp">mutual funds information</a> available on Reuters.com, <a href="http://www.reuters.com/news/video">video</a>, <a href="http://www.reuters.com/tools/mobile">mobile</a>, and interactive television platforms. Thomson Reuters journalists are subject to an <a href="http://handbook.reuters.com">Editorial Handbook</a> which requires fair presentation and disclosure of relevant interests.</p>
+
+<p>NYSE and AMEX quotes delayed by at least 20 minutes. Nasdaq delayed by at least 15 minutes. For a complete <a href="http://www.reuters.com/info/disclaimer" target="_blank">list of exchanges and delays, please click here</a>.</p></div><div id="Footer1"></div><img src="http://www.bizographics.com/collect/?fmt=gif&url=reuters.com&pid=501" width="1" height="1" border="0" alt="">
+<div class="linebreak"></div>
+	</div>
+</div>
+
+
+</div>
+<!-- Begin comScore Tag -->
+<noscript>
+    <img src="http://b.scorecardresearch.com/p?c1=2&c2=6035630&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag --><META name="DCSext.rChannel" content="Finance">
+<META name="DCSext.rCountry" content="BETAUS">
+<META name="WT.cg_n" content="Finance - Industries">
+<META name="WT.cg_s" content="cyclicalConsumerGoodsSector">
+<META name="DCSext.DartZone" content="us.reuters/bizfinance/industries/article">
+    <script type="text/javascript">
+var loginCookieValue =  YAHOO.util.Cookie.get("login");
+if(loginCookieValue != null && loginCookieValue != ''){
+
+	loginMeta = document.createElement('META');
+	loginMeta.name = 'WT.z_li';
+
+	var customerId = YAHOO.util.Cookie.get("customerId");
+	var socialLoginProvider = YAHOO.util.Cookie.get("socialLoginProvider");
+	if(customerId != null && customerId != '' && socialLoginProvider != null && socialLoginProvider != ''){
+		socialLoginProvider = socialLoginProvider.toLowerCase();
+		if(socialLoginProvider == 'google'){
+			loginMeta.content = "2";
+		} else if(socialLoginProvider == 'facebook'){
+			loginMeta.content = "3";
+		} else if(socialLoginProvider == 'linkedin'){
+			loginMeta.content = "4";
+		} else if(socialLoginProvider=='aol'){
+			loginMeta.content = "5";
+		} else if(socialLoginProvider=='twitter'){
+			loginMeta.content = "6";
+		} else if(socialLoginProvider=='myspace'){
+			loginMeta.content = "7";
+		} else if(socialLoginProvider=='yahoo'){
+			loginMeta.content = "8";
+		}
+	} else {
+		loginMeta.content = "1";
+	}
+
+	document.getElementsByTagName('head')[0].appendChild(loginMeta);
+   }
+
+var registeredCookieValue =  YAHOO.util.Cookie.get("ruus");
+
+if(registeredCookieValue != null && registeredCookieValue != 'undefined' && registeredCookieValue != ''){
+	registeredMeta = document.createElement('META');
+	registeredMeta.name = "WT.z_registered";
+	registeredMeta.content = encodeURIComponent(registeredCookieValue);
+	document.getElementsByTagName('head')[0].appendChild(registeredMeta);
+}
+
+</script>
+<!-- START OF SmartSource Data Collector TAG -->
+<!-- Copyright (c) 1996-2009 WebTrends Inc.  All rights reserved. -->
+<!-- Version: 8.6.0 -->
+<!-- Tag Builder Version: 2.1.0  -->
+<!-- Created: 2/9/2009 17:21:12 -->
+
+<script src="http://s4.reutersmedia.net/resources_v2/js/webtrends.js" type="text/javascript"></script>
+   <script type="text/javascript">
+var _tag=new WebTrends();
+_tag.dcsGetId();
+</script>
+<script type="text/javascript">
+setModuleImpressionTracking();
+_tag.dcsCollect();
+</script>
+<noscript>
+<div><img alt="DCSIMG" id="DCSIMG" width="1" height="1" src="http://statse.webtrendslive.com/dcsncwimc10000kzgoor3wv9x_3f2v/njs.gif?dcsuri=/nojavascript&amp;WT.js=No&amp;WT.tv=8.6.0"/></div>
+</noscript>
+<!-- END OF SmartSource Data Collector TAG -->
+
+<style>
+
+.data_dive{position:relative;}
+.section.bleeding .sectionContent {
+    width: 970px;
+    margin: 0 auto;
+    float: none;
+    clear: both;
+    overflow: hidden;
+}
+#bannerStrip .sectionContent {
+    width: 970px;
+}
+</style>
+
+
+
+
+
+
+
+
+<div class="linebreak"></div>
+	
+
+</body>
+</html>
+

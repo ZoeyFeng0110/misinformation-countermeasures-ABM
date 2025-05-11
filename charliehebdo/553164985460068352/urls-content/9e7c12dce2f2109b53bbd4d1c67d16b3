@@ -1,0 +1,2667 @@
+HTTP/1.1 301 Moved Permanently
+Vary: Accept, Accept-Encoding
+Content-Type: text/plain; charset=utf-8
+Location: /story/1404236/terror-police-search-forest-in-hunt-for-gunmen
+X-UA-Compatible: IE=edge,chrome=1
+X-Powered-By: 2428-fc59174
+Content-Length: 95
+Date: Tue, 24 Mar 2015 09:45:29 GMT
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+ETag: W/"UhDMBlZhGLxyYxxRmBbHMQ=="
+X-UA-Compatible: IE=edge,chrome=1
+X-Powered-By: 2428-fc59174
+Content-Length: 14266
+Cache-Control: public, max-age=59
+Expires: Tue, 24 Mar 2015 09:46:28 GMT
+Date: Tue, 24 Mar 2015 09:45:29 GMT
+Connection: keep-alive
+
+<!doctype html>
+
+<!--[if lt IE 9]><html id="root" class="no-js lt-ie9 no-touch" lang="en"> <![endif]-->
+<!--[if gte IE 9]><!--> <html id="root" class="no-js no-touch" lang="en"> <!--<![endif]-->
+
+<head>
+	<meta charset="utf-8">
+	<title>Terror Police Search Forest In Hunt For Gunmen</title>
+	<meta name="description" content="Police hunting two brothers wanted over the Paris massacre are carrying out house-to-house searches northeast of the capital.">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+	<link rel="apple-touch-icon" href="/images/f670e1be.sky-news-touch.png"><!-- 60x60 -->
+	<link rel="apple-touch-icon" sizes="76x76" href="/images/1b5f54e3.sky-news-touch-ipad.png"><!-- 76x76 -->
+	<link rel="apple-touch-icon" sizes="120x120" href="/images/74ebaccd.sky-news-touch-retina.png"><!-- 120x120 -->
+	<link rel="apple-touch-icon" sizes="152x152" href="/images/61bf2734.sky-news-touch-retina-ipad.png"><!-- 152x152 -->
+
+	<meta property="fb:app_id" content="744976955573926"/>
+	<meta property="og:site_name" content="Sky News"/>
+	<meta property="og:locale" content="en_GB"/>
+
+	
+<meta property="og:title" content="Terror Police Search Forest In Hunt For Gunmen">
+<meta property="og:description" content="Police hunting two brothers wanted over the Paris massacre are carrying out house-to-house searches northeast of the capital.">
+<meta property="og:url" content="http://news.sky.com/story/1404236/terror-police-search-forest-in-hunt-for-gunmen">
+<meta property="og:type" content="article">
+<meta property="og:image" content="http://media.skynews.com/media/images/generated/2015/1/8/361838/default/v1/composite-image-paris-suspects5-1-1600x900.jpg"/>
+
+
+	
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@skynews" />
+
+
+    <script>
+    var adsEnabled = true,
+    	analyticsEnabled = true;
+
+    (function() {
+		var root = document.getElementById('root');
+		root.className = root.className.replace('no-js', 'js');
+
+		// Chartbeat script needed at beginning of head
+		var _sf_startpt=(new Date()).getTime();
+		window.skynews = {};
+		window.skynews.config = {
+			videoPlayerUrl: "//player.sky.com/ga/dist/jquery.skyplayer",
+			analytics: {
+				site: 'sky/portal/news',
+				account: 'bskybskynews,bskybnetworkglobal',
+				section: '',
+				headline: '',
+				contentType: '',
+				contentId: '',
+				chartbeat: {
+					enabled: true
+				}
+			},
+			ad: {
+				tag: "20346936/skynews/world/content",
+				artId: "1404236"
+			},
+			disableResponsiveImages: false
+		};
+	}());
+	</script>
+
+	<!--[if lt IE 9]>
+	<link rel="stylesheet" href="/styles/b54afa50.lt-ie9.css" >
+	<script src="/scripts/a45bfc9a.ie.js"></script>
+	<![endif]-->
+
+	<!--[if gte IE 9]><!-->
+	<link rel="stylesheet" href="/styles/29868164.main.css">
+	<!--<![endif]-->
+
+	<link rel="stylesheet" href="//player.sky.com/css/skyplayer.min.css" >
+
+	<!-- AUDIENCE SCIENCE AD TAG CODE -->
+	<script type="text/javascript">
+		var rsi_segs = [];
+		var segs_beg=document.cookie.indexOf('rsi_segs=');
+		if(segs_beg>=0){
+		 segs_beg=document.cookie.indexOf('=',segs_beg)+1;
+		 if(segs_beg>0){
+		  var segs_end=document.cookie.indexOf(';',segs_beg);
+		  if(segs_end==-1)segs_end=document.cookie.length;
+		  rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|');
+		}}
+		var segLen=20
+		var segQS="",segArr=new Array()
+		if (rsi_segs.length<segLen){segLen=rsi_segs.length}
+		for (var i=0;i<segLen;i++){
+		    segArr=rsi_segs[i].split("_")
+		    if (segArr.length>1) segQS+=("rsi"+"="+segArr[1]+"+")
+		}
+	</script>
+	<!-- END AUDIENCE SCIENCE AD TAG CODE -->
+</head>
+
+<body data-sn-base-url="http://news.sky.com" class="">
+	<div id="cookie-notice" class="cookie-notice">
+		<div class="cookie-notice__wrapper">
+			<p class="cookie-notice__text">We use <a href="http://help.sky.com/security/privacy/privacy-and-cookies-notice" target="_blank">cookies</a> to give you the best experience. If you do nothing we'll assume that it's ok.</p>
+			<button type="button" id="cookie-notice__close" class="cookie-notice__close" onclick="handleCookieCloseClick()">
+				<span class="cookie-notice__close-text">
+					Close
+				</span>
+				<i class="cookie-notice__close-icon skycon skycon-close"></i>
+			</button>
+			<script>
+				function hideCookieNotice() { document.getElementById('cookie-notice').className='cookie-notice cookie-notice--hidden'; }
+				function handleCookieCloseClick() {
+					document.cookie='eucd=0;path=/;expires='+(new Date(+new Date()+157785e6)).toGMTString();
+					hideCookieNotice();
+				}
+				if (document.cookie.search('eucd=0') !== -1) {
+					hideCookieNotice();
+				}
+			</script>
+		</div>
+	</div>
+	<div class="viewport">
+		
+<div class="header" role="banner">
+	<div class="header__content">
+
+		<div class="header__logo">
+			<a href="/" class="header__link"><img src="/images/33af33c7.sky-news-logo.png" alt="Sky News" class="header__image"></a>
+		</div>
+
+		<span class="edition edition--desktop js-edition">
+			<a href="/us" class="js-edition__link edition__link">Switch to US Edition</a>
+		</span>
+
+		<div class="search search--desktop">
+			<form action="/search" method="get" role="search">
+	<span class="search__icon skycon-search"></span>
+	<input type="search" name="term" class="search__input" placeholder="Search Sky News" value="">
+	<input type="hidden" name="filter" value="">
+
+	<button class="search__clear-button skycon-close js-button-close skycon" type="button">
+		<span class="button__a11y">Clear search</span>
+	</button>
+
+	<button type="submit" class="search__button skycon-search"><span class="search__button-text">Search</span></button>
+</form>
+		</div>
+
+		<div class="navigation" data-append="navigation">
+			
+
+<nav class="js-append" role="navigation">
+	<ul class="navigation__list">
+		<li class="navigation__item navigation__item--first"><a href="/" class="navigation__link">Home</a></li>
+		<li class="navigation__item navigation__item--even"><a href="/uk" class="navigation__link">UK</a></li>
+		<li class="navigation__item"><a href="/world" class="navigation__link navigation__link--active">World</a></li>
+		<li class="navigation__item navigation__item--even"><a href="/usnews" class="navigation__link">US</a></li>
+		<li class="navigation__item"><a href="/business" class="navigation__link">Business</a></li>
+		<li class="navigation__item navigation__item--even"><a href="/politics" class="navigation__link">Politics</a></li>
+		<li class="navigation__item"><a href="/technology" class="navigation__link">Technology</a></li>
+		<li class="navigation__item navigation__item--even"><a href="/entertainment" class="navigation__link">Entertainment</a></li>
+		<li class="navigation__item navigation__item--9"><a href="/strangenews" class="navigation__link">Strange News</a></li>
+		<li class="navigation__item navigation__item--even navigation__item--10"><a href="/weather" class="navigation__link">Weather</a></li>
+
+		<li class="navigation__item navigation__item--more navigation__item--last">
+			<button class="button button--more js-button js-button-more" aria-hidden="true">More
+				<span class="chevron__container">
+					<img class="chevron__image" src="/images/12403835.chevron.png" alt="" />
+				</span>
+			</button>
+
+			
+	<div class="panel panel--small js-panel js-panel--small">
+
+		
+
+		<div class="panel__section">
+			<ul class="social__list">
+	<li class="social__item">
+		<a class="social__link" href="https://twitter.com/SkyNews">
+			<i aria-hidden="true" class="skycon skycon-twitter social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Twitter</span>
+		</a>
+	</li>
+
+	<li class="social__item">
+		<a class="social__link" href="https://www.facebook.com/skynews">
+			<i aria-hidden="true" class="skycon skycon-facebook social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Facebook</span>
+		</a>
+	</li>
+
+	<li class="social__item social__item--last">
+		<a class="social__link" href="https://plus.google.com/+SkyNews">
+			<i aria-hidden="true" class="skycon skycon-google-plus social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Google+</span>
+		</a>
+	</li>
+</ul>
+
+
+			<a href="/watch-live" class="button button--watch-live button--watch-live-panel-small">Watch Live</a>
+		</div>
+
+		
+
+	</div>
+
+		</li>
+	</ul>
+</nav>
+
+
+		</div>
+
+	 	<a href="/watch-live" class="button button--watch-live button--watch-live-desktop">Watch Live</a>
+
+		<span class="header__header-gradient">
+			<button class="button button--burger js-button js-button-burger" aria-hidden="true">
+				<i class="burger"><span class="button__a11y">Menu</span></i>
+			</button>
+		</span>
+
+		
+	<div class="panel panel--large js-panel js-panel--large">
+
+		
+		<div class="search search--mobile">
+			<form action="/search" method="get" role="search">
+	<span class="search__icon skycon-search"></span>
+	<input type="search" name="term" class="search__input" placeholder="Search Sky News" value="">
+	<input type="hidden" name="filter" value="">
+
+	<button class="search__clear-button skycon-close js-button-close skycon" type="button">
+		<span class="button__a11y">Clear search</span>
+	</button>
+
+	<button type="submit" class="search__button skycon-search"><span class="search__button-text">Search</span></button>
+</form>
+		</div>
+
+		<div class="navigation--panel" data-append="navigation"></div>
+		
+
+		<div class="panel__section">
+			<ul class="social__list">
+	<li class="social__item">
+		<a class="social__link" href="https://twitter.com/SkyNews">
+			<i aria-hidden="true" class="skycon skycon-twitter social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Twitter</span>
+		</a>
+	</li>
+
+	<li class="social__item">
+		<a class="social__link" href="https://www.facebook.com/skynews">
+			<i aria-hidden="true" class="skycon skycon-facebook social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Facebook</span>
+		</a>
+	</li>
+
+	<li class="social__item social__item--last">
+		<a class="social__link" href="https://plus.google.com/+SkyNews">
+			<i aria-hidden="true" class="skycon skycon-google-plus social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Google+</span>
+		</a>
+	</li>
+</ul>
+
+
+			<a href="/watch-live" class="button button--watch-live button--watch-live-panel-large">Watch Live</a>
+		</div>
+
+		
+		<span class="edition edition--panel-large js-edition">
+			<a href="/us" class="js-edition__link edition__link">Switch to US Edition</a>
+		</span>
+		
+
+	</div>
+
+	</div>
+</div>
+
+
+		
+			
+			
+
+	<div class="ad ad--leaderboard" data-id="ad-leaderboard" role="complementary" aria-label="Advertisement"></div>
+
+
+			
+		
+
+		
+
+
+		
+<script>
+	window.skynews.config.analytics.section = 'world/Terror Police Search Forest In Hunt For Gunmen';
+	window.skynews.config.analytics.headline = 'Terror Police Search Forest In Hunt For Gunmen';
+	window.skynews.config.analytics.contentType = 'story';
+	window.skynews.config.analytics.contentId = '1404236';
+</script>
+
+
+<div role="main" class="main">
+
+	<article class="story">
+		
+		<header class="story__header">
+			<h1 class="story__headline story__headline--normal" aria-label="Terror Police Search Forest In Hunt For Gunmen">
+				<span aria-hidden="true">Terror Police Search Forest In Hunt For Gunmen</span>
+			</h1>
+			<p class="story__standfirst">Police hunting two brothers wanted over the Paris massacre are carrying out house-to-house searches northeast of the capital.</p>
+			<div class="last-updated">
+				<p class="last-updated__text">
+					<span class="last-updated__time">01:02, UK, </span>
+					<span class="last-updated__day">Friday 09</span>
+					<span class="last-updated__month-year">January 2015</span>
+				</p>
+			</div>
+		</header>
+
+		<!-- "normal" wrapper. Post-story content floated alongside primary and content -->
+		<div class="story__content-outer-wrapper">
+			<div class="story__media">
+				
+					
+						
+					
+					<div class="module module--primary">
+						
+
+	
+		
+
+	<div class="module video" data-format-low="http://video.news.sky.com/video/h264/vod/374/2015/01/DIGI164233THV2PARISLONGPONTSEARCHES1420735669130374.mp4" data-format-high="http://video.news.sky.com/video/h264/vod/700/2015/01/DIGI164233THV2PARISLONGPONTSEARCHES1420735669130700.mp4">
+		<div class="video__placeholder-wrapper js-video">
+
+			
+
+	
+	
+	
+	
+	
+		
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--16x9">
+			<img src="http://media.skynews.com/media/images/generated/2015/1/8/361826/default/v1/cegrab-20150108-162149-319-1-144x81.jpg" class="image__item video__teaser-image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/8/361826/default/v1/cegrab-20150108-162149-319-1-{width}x{height}.jpg" data-sizes="144x81 362x204 762x428 942x530" data-sizes-wide="" data-breakpoint="" alt="" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+			<button class="video__play--icon">
+				<span class="video__play-a11y">Play video "Armed Police Swarm Countryside"</span>
+			</button>
+		</div>
+
+		<!--html5 video player: don't add 'display: none' or 'visibility: hidden' to this-->
+		<div class="video__wrapper">
+	        <video class="video__item" data-autoload="true" data-guid="news-1420735669130" data-autoplay="false" data-fwsitesectionid="sky.portal.news:world:story" preload="metadata">
+				<source src="http://video.news.sky.com/video/h264/vod/374/2015/01/DIGI164233THV2PARISLONGPONTSEARCHES1420735669130374.mp4" type="video/mp4" data-resolution="small" />
+				<source src="http://video.news.sky.com/video/h264/vod/700/2015/01/DIGI164233THV2PARISLONGPONTSEARCHES1420735669130700.mp4" type="video/mp4" data-resolution="medium" />
+	        </video>
+    	</div>
+
+        
+		<span  class="video__caption" aria-hidden="true">
+			<span class="video__type">Video:</span>
+			<span class="video__teaser">Armed Police Swarm Countryside</span>
+		</span>
+		
+
+	</div>
+
+	
+
+
+					</div>
+				
+			</div>
+
+			<!-- "wide primary" wrapper. Post-story content floated alongside content only -->
+			<div class="story__content-wrapper">
+
+				
+	
+
+	<div class="share ">
+		<ul class="share__list" data-tracking-module="social">
+			<li class="share__item">
+				<a target="_blank" class="share__link js-share" href="https://twitter.com/intent/tweet?text=Terror%20Police%20Search%20Forest%20In%20Hunt%20For%20Gunmen&amp;url=http%3A%2F%2Fnews.sky.com%2Fstory%2F1404236%2Fterror-police-search-forest-in-hunt-for-gunmen" data-tracking-label="Twitter">
+					<i aria-hidden="true" class="skycon skycon-twitter share--icon"></i>
+					<span class="a11y">Share on Twitter</span>
+				</a>
+			</li>
+
+			<li class="share__item">
+				<a target="_blank" class="share__link js-share" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnews.sky.com%2Fstory%2F1404236%2Fterror-police-search-forest-in-hunt-for-gunmen&amp;t=Shared%20from%20Sky%20News%3A%20Terror%20Police%20Search%20Forest%20In%20Hunt%20For%20Gunmen" data-tracking-label="Facebook">
+					<i aria-hidden="true" class="skycon skycon-facebook share--icon"></i>
+					<span class="a11y">Share on Facebook</span>
+				</a>
+			</li>
+
+			<li class="share__item">
+				<a target="_blank" class="share__link js-share" href="https://plus.google.com/share?url=http%3A%2F%2Fnews.sky.com%2Fstory%2F1404236%2Fterror-police-search-forest-in-hunt-for-gunmen" data-tracking-label="GooglePlus">
+					<i aria-hidden="true" class="skycon skycon-google-plus share--icon"></i>
+					<span class="a11y">Share on Google+</span>
+				</a>
+			</li>
+
+
+			<li class="share__item share__item-whatsapp">
+				<a target="_blank" class="share__link js-share" href="whatsapp://send?text=Shared%20from%20Sky%20News%3A%20Terror%20Police%20Search%20Forest%20In%20Hunt%20For%20Gunmen%20http%3A%2F%2Fnews.sky.com%2Fstory%2F1404236%2Fterror-police-search-forest-in-hunt-for-gunmen" data-tracking-label="WhatsApp">
+					<i aria-hidden="true" class="skycon skycon-whatsapp share--icon"></i>
+					<span class="a11y">Share on Whatsapp</span>
+				</a>
+			</li>
+
+
+			<li class="share__item share__item--last">
+				<a class="share__link" href="mailto:?to=&amp;subject=Shared%20from%20Sky%20News%3A%20Terror%20Police%20Search%20Forest%20In%20Hunt%20For%20Gunmen&amp;body=Shared%20from%20Sky%20News%3A%20Terror%20Police%20Search%20Forest%20In%20Hunt%20For%20Gunmen%20http%3A%2F%2Fnews.sky.com%2Fstory%2F1404236%2Fterror-police-search-forest-in-hunt-for-gunmen"  data-tracking-label="Email">
+					<i aria-hidden="true" class="skycon skycon-mail share--icon"></i>
+					<span class="a11y">Share by email</span>
+				</a>
+			</li>
+		</ul>
+	</div>
+
+	<script>
+		if( /Android|iPhone/i.test(navigator.userAgent) ) {
+			var shareBlocks = document.querySelectorAll('.share__item-whatsapp');
+			for (var i in shareBlocks) {
+				shareBlocks[i].style.display = 'block';
+			}
+		}
+	</script>
+
+
+				
+
+				<div class="story__content">
+					
+
+						
+
+						
+						<p class="story__intro">Anti-terror police are searching dense woodland northeast of Paris after two gunmen suspected of killing 12 people in the Charlie Hebdo magazine attack were sighted.</p>
+						
+
+						
+							
+							
+
+	<div class="ad ad--mpu ad--mpu-story" data-id="ad-mpu-inline" role="complementary" aria-label="Advertisement"></div>
+
+
+						 	
+							
+								
+									
+										<p>Two men reportedly fitting the descriptions of brothers Said and Cherif Kouachi stole fuel and food from a petrol station near Villers-Cotterets, in the northern Aisne region, 43 miles (70km) from Paris, on Thursday morning.</p>
+									
+								
+							
+								
+									
+										<p>Heavily-armed police have finished searching the village of Crepy-en-Valois, 10 miles (16km) from the petrol station.</p>
+									
+								
+							
+								
+									
+										
+
+	
+		
+
+	
+	
+	
+	
+	
+		
+	
+	
+	 
+
+	<div class="image image--inline">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="http://media.skynews.com/media/images/generated/2015/1/8/361785/default/v1/cegrab-20150108-125917-186-1-91x68.jpg" class="image__item  js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/8/361785/default/v1/cegrab-20150108-125917-186-1-{width}x{height}.jpg" data-sizes="91x68 300x225 480x360" data-sizes-wide="" data-breakpoint="700" alt="Villers-Cotterets" />
+
+			
+		</div>
+
+		
+
+		
+		<p class="image__caption" aria-hidden="true">The brothers were spotted in Villers-Cotterets</p>
+		
+	</div>
+
+	
+
+
+									
+								
+							
+								
+									
+										<p>They are now focusing on a stretch of countryside spanning from Soissons, through Abbaye de Longpont, right up to Villers-Cotteret.</p>
+									
+								
+							
+								
+									
+										<p>Sky's Joey Jones, at the scene, said officers were going house-to-house "scrutinising each resident".</p>
+									
+								
+							
+								
+									
+										
+
+	
+		
+
+	
+
+		
+
+		
+		<div class="module gallery gallery--4x3 module--inline gallery--teaser-view" data-breakpoint="700" tabindex="0">
+		
+
+			<div class="gallery__position" aria-hidden="true"><span class="js-gallery-current">1</span>/<span class="js-gallery-total">4</span></div>
+
+			<div class="gallery__container">
+				<ol class="gallery__list" aria-labelledby="gallery__teaser--1404593">
+					
+					<li class="gallery__item gallery__item--first">
+						
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="http://media.skynews.com/media/images/generated/2015/1/7/361404/default/v1/2015-01-07t123747z-1993379711-pm1eb1711rn01-rtrmadp-3-france-shooting-2-300x225.jpg" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/7/361404/default/v1/2015-01-07t123747z-1993379711-pm1eb1711rn01-rtrmadp-3-france-shooting-2-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="File photo of French cartoonist Charb, publishing director of French satirical weekly Charlie Hebdo, posing for photographs at their offices in Paris" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+							<div class="gallery__text">
+								<p class="gallery__teaser" id="gallery__teaser--1404593"><span class="gallery__module-type">Gallery:</span> First Picture Inside Charlie Hebdo Office</p>
+								
+									<p class="gallery__caption">WARNING: GALLERY CONTAINS A GRAPHIC IMAGE FROM INSIDE CHARLIE HEBDO OFFICE. Charlie Hebdo magazine&#39;s headquarters in central Paris before the attack</p>
+								
+							</div>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/8/361853/default/v1/charlie-hebdo-office-24-hours-use-only-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="EXCLUSIVE Scenes Inside Charlie Hebdo" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">The blood spattered scene inside the office showing the aftermath of the attack, with papers strewn across the rooms.</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/7/361400/default/v0/2015-01-07t114052z-1492137188-pm1eb170ynz01-rtrmadp-3-france-shooting-2-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="File photo of French cartoonist Charb, publishing director of French satirical weekly Charlie Hebdo, posing for photographs at their offices in Paris" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">A file photo of French cartoonist Charb, publishing director of the magazine, posing for photographs inside the office.</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item gallery__item--last">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/7/361402/default/v1/152344782-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="FRANCE-ISLAM-RELIGION-WEEKLY-CHARLIE-HEBDO Police outside office 2011" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">French police stand guard outside the premises following the attack on Wednesday</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+				</ol>
+			</div>
+
+			<div class="gallery__control-container" aria-hidden="true">
+				<div class="gallery__area gallery__area--left" data-direction="left">
+					<button class="gallery__control gallery__control--left skycon-chevron-left" data-direction="left" tabindex="-1"></button>
+				</div>
+
+				<div class="gallery__area gallery__area--right" data-direction="right">
+					<button class="gallery__control gallery__control--right skycon-chevron" data-direction="right" tabindex="-1"></button>
+				</div>
+			</div>
+
+			
+		</div>
+
+	
+
+	
+
+
+									
+								
+							
+								
+									
+										<p>Witness Benoit Verdun told Sky News he believes the suspects are in a very large forest near Longpont, which he said is "bigger than Paris" - measuring some 13,000 hectares, or 50 square miles.</p>
+									
+								
+							
+								
+									
+										<p>Crepy-en-Valois' mayor Bruno Fortier said he could not confirm reports the men were holed up in a house in the area.</p>
+									
+								
+							
+								
+									
+										<p>"It's an incessant waltz of police cars and trucks," he told Reuters.</p>
+									
+								
+							
+								
+									
+										<p>Jones said the picture is one of "utter confusion" and there are many rumours flying around. </p>
+									
+								
+							
+								
+									
+										<p>Earlier the men, wearing balaclavas, were spotted travelling on the N2 road in the direction of Paris in a Renault Clio which had weapons on its back seat and its number plates covered.</p>
+									
+								
+							
+								
+									
+										<p>AFP said the pair had Kalashnikovs and what appeared to be a rocket-launcher.</p>
+									
+								
+							
+								
+									
+										
+
+	
+		
+
+	<div class="module module--inline  video" data-format-low="http://video.news.sky.com/video/h264/vod/374/2015/01/DIGI201314THPARISJEANETTEBOUGRABSLAB1420748884123374.mp4" data-format-high="http://video.news.sky.com/video/h264/vod/700/2015/01/DIGI201314THPARISJEANETTEBOUGRABSLAB1420748884123700.mp4">
+		<div class="video__placeholder-wrapper js-video">
+
+			
+
+	
+	
+	
+	
+	
+		
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--16x9">
+			<img src="http://media.skynews.com/media/images/generated/2015/1/8/361848/default/v1/cegrab-20150108-201610-380-1-144x81.jpg" class="image__item video__teaser-image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/8/361848/default/v1/cegrab-20150108-201610-380-1-{width}x{height}.jpg" data-sizes="144x81 362x204 762x428 942x530" data-sizes-wide="" data-breakpoint="" alt="" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+			<button class="video__play--icon">
+				<span class="video__play-a11y">Play video "Paris Editor&#39;s Partner Speaks Out"</span>
+			</button>
+		</div>
+
+		<!--html5 video player: don't add 'display: none' or 'visibility: hidden' to this-->
+		<div class="video__wrapper">
+	        <video class="video__item" data-autoload="true" data-guid="news-1420748884123" data-autoplay="false" data-fwsitesectionid="sky.portal.news:world:story" preload="metadata">
+				<source src="http://video.news.sky.com/video/h264/vod/374/2015/01/DIGI201314THPARISJEANETTEBOUGRABSLAB1420748884123374.mp4" type="video/mp4" data-resolution="small" />
+				<source src="http://video.news.sky.com/video/h264/vod/700/2015/01/DIGI201314THPARISJEANETTEBOUGRABSLAB1420748884123700.mp4" type="video/mp4" data-resolution="medium" />
+	        </video>
+    	</div>
+
+        
+		<span  class="video__caption" aria-hidden="true">
+			<span class="video__type">Video:</span>
+			<span class="video__teaser">Paris Editor&#39;s Partner Speaks Out</span>
+		</span>
+		
+
+	</div>
+
+	
+
+
+									
+								
+							
+								
+									
+										<p>RAID, the French anti-terrorist unit, and GIGN, a paramilitary special operations unit, have been deployed in the region.</p>
+									
+								
+							
+								
+									
+										<p>But Jones said it would appear the suspects are "a step or two ahead" of authorities at the moment.</p>
+									
+								
+							
+								
+									
+										<p>Officials said the French nationals, both in their 30s and the sons of Algerian-born parents, are linked to a Yemeni terror network.</p>
+									
+								
+							
+								
+									
+										<p>The pair are on a US no-fly list, but American officials would not give further details, including whether they fought in the Middle East with extremist groups.</p>
+									
+								
+							
+								
+									
+										<p>Islamic State radio praised the killers as "heroes" and said they had avenged the Prophet Mohammed.</p>
+									
+								
+							
+								
+									
+										<p>On Wednesday night, police raided an apartment in the city of Reims in the search for the killers. Seven people were arrested.</p>
+									
+								
+							
+								
+									
+										
+
+	
+		
+
+	
+
+		
+
+		
+		<div class="module gallery gallery--4x3 module--inline gallery--teaser-view" data-breakpoint="700" tabindex="0">
+		
+
+			<div class="gallery__position" aria-hidden="true"><span class="js-gallery-current">1</span>/<span class="js-gallery-total">14</span></div>
+
+			<div class="gallery__container">
+				<ol class="gallery__list" aria-labelledby="gallery__teaser--1403863">
+					
+					<li class="gallery__item gallery__item--first">
+						
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="http://media.skynews.com/media/images/generated/2015/1/7/361433/default/v2/131286808-2-300x225.jpg" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/7/361433/default/v2/131286808-2-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Charlie Hebdo cartoonists" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+							<div class="gallery__text">
+								<p class="gallery__teaser" id="gallery__teaser--1403863"><span class="gallery__module-type">Gallery:</span> Faces Of French Terror Victims</p>
+								
+									<p class="gallery__caption">Charlie Hebdo editor Stephane Charbonnier, 47, had received death threats in the past and was living under police protection. Known as Charb, He and his nine colleagues, along with the two policemen were killed at the Charlie Hebdo offices in Paris</p>
+								
+							</div>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/7/361437/default/v1/rexfeatures-4351290d-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="&#39;Ce soir, ou jamais!&#39; TV programme, Paris, France - 07 Nov 2014" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Bernard Maris, 68, was an economist and contributor to Charlie Hebdo. He also held shares in the magazine</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/7/361434/default/v3/131286813-2-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Charlie Hebdo cartoonists" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Jean Cabut, known by his pen name Cabu, was famous for a number of his characters - particularly Mon Beauf - a caricature of an ignorant, racist, sexist Frenchman. His cartoons were first published in Paris newspapers in 1954. Cabu was 76</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/8/361825/default/v0/461120550-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="FRANCE-CINEMA-CANNES-FILM-FESTIVAL" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Bernard Velhac, 58, was a cartoonist at Charlie Hebdo. Known as Tignous (little pest) he was a member of the group Cartoonists for Peace</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/7/361435/default/v3/131286812-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Charlie Hebdo cartoonists" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Georges Wolinski began his career as a political cartoonist in 1960</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/362080/default/v1/proxy-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Elsa Cayat was a columnist for Charlie Hebdo killed on January 7" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Elsa Cayat was a columnist at Charlie Hebdo and was the only woman killed in the attack</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/362092/default/v1/b6xuqlriiaecytt-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Philippe Honore, killed at Charlie Hebdo massacre January 7" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Philippe Honore was the author of the final cartoon to be tweeted from Charlie Hebdo&#39;s Twitter account - mocking the Islamic State leader Abu Bakr al-Baghdadi. The 73-year-old was first published at the age of 16 and had worked at Charlie Hebdo since 1992</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/10/362244/default/v1/461225576-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Michel Renaud" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Michel Renaud was visiting the offices of Charlie Hebdo to discuss a project he was working on with his friend and fellow cartoonist Cabu</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/10/362257/default/v1/ourrad-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Mustapha Ourrad" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Copy editor Mustapha Ourad, who had come to France from Algeria aged 20</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/362099/default/v4/glass-hd-background-mstr-still-bgd-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="The Twelve victims of the Charlie Hebdo shooting are seen here in the French Embassy in London" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Also killed was maintenance worker Frederic Boisseau, a 42-year-old father of two, (top left) and Franck Brinsolaro, who was Charb&#39;s bodyguard (bottom right)</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/8/361844/default/v1/ahmed-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Muslim police officer Ahmed Merabet" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Muslim police officer Ahmed Merabet was killed outside Charlie Hebdo&#39;s offices. Video of the attack showed him lying on the ground and being shot by one of the gunmen</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/362073/default/v1/clarissa-jean-philippe-from-facebook-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Police officer Clarissa Jean-Philippe who was killed in the second Paris shooting. Pic: Facebook tribute page" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Clarissa Jean-Philippe, 27, was killed after responding to reports of a traffic accident as a municipal police officer in the suburb of Montrouge, Paris. She had only just completed her training</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/10/362329/default/v1/yoav-hattab-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Yoav Hattab" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Yoav Hattab, 21, was one of the four hostages killed during a siege at a kosher supermarket in Porte de Vincennes</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item gallery__item--last">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/10/362330/default/v1/yohan-cohen-1-{width}x{height}.png" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Yohan Cohen" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Yohan Cohen, 22, also died in the attack, which was orchestrated by jihadist gunman Amedy Coulibaly</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+				</ol>
+			</div>
+
+			<div class="gallery__control-container" aria-hidden="true">
+				<div class="gallery__area gallery__area--left" data-direction="left">
+					<button class="gallery__control gallery__control--left skycon-chevron-left" data-direction="left" tabindex="-1"></button>
+				</div>
+
+				<div class="gallery__area gallery__area--right" data-direction="right">
+					<button class="gallery__control gallery__control--right skycon-chevron" data-direction="right" tabindex="-1"></button>
+				</div>
+			</div>
+
+			
+		</div>
+
+	
+
+	
+
+
+									
+								
+							
+								
+									
+										<p>Another suspect handed himself in to police after he was named on social media as 18-year-old Hamyd Mourad.</p>
+									
+								
+							
+								
+									
+										<p>Sky sources say the teenager, who has been arrested, is the brother-in-law of the suspects.</p>
+									
+								
+							
+								
+									
+										<p>French Interior Minister Bernard Cazeneuve said a total of nine people are now in custody and more than 90 witnesses have been interviewed.</p>
+									
+								
+							
+								
+									
+										<p>Tensions remain high in the country after a <strong><a href="http://news.sky.com/story/1404109/cop-killed-in-second-paris-terror-attack">female police officer was shot dead</a></strong> in southern Paris on Thursday morning.</p>
+									
+								
+							
+								
+									
+										<p>A "criminal" blast was also reported at a kebab shop near a mosque in the eastern French town of Villefranche-sur-Saone. No one was injured.</p>
+									
+								
+							
+								
+									
+										<p>Officials have not said if either incident is linked to the Paris terror attack.</p>
+									
+								
+							
+								
+									
+										
+
+	
+		
+
+	
+
+		
+
+		
+		<div class="module gallery gallery--4x3 module--inline gallery--teaser-view" data-breakpoint="700" tabindex="0">
+		
+
+			<div class="gallery__position" aria-hidden="true"><span class="js-gallery-current">1</span>/<span class="js-gallery-total">6</span></div>
+
+			<div class="gallery__container">
+				<ol class="gallery__list" aria-labelledby="gallery__teaser--1404339">
+					
+					<li class="gallery__item gallery__item--first">
+						
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="http://media.skynews.com/media/images/generated/2015/1/8/361813/default/v1/facebook-john-photography-credit-1-300x225.jpg" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/8/361813/default/v1/facebook-john-photography-credit-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Crepy-en-Valois" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+							<div class="gallery__text">
+								<p class="gallery__teaser" id="gallery__teaser--1404339"><span class="gallery__module-type">Gallery:</span> French Villages Filled With Terror Police</p>
+								
+									<p class="gallery__caption">Police have swarmed the small village of Crepy-en-Valois</p>
+								
+							</div>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/8/361748/default/v1/composite-image-paris-suspects-2-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="The petrol station where the two suspects in the Charlie Hebdo shooting were reportedly spotted. Pic: Gautier Lecardonnel, Courrier picard" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Two men matching the descriptions of brothers Said and Cherif Kouachi were reportedly spotted by a petrol station manager</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/8/361807/default/v1/cegrab-20150108-141231-380-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="French military Puma helicopters above Crepy-en-Valois" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Helicopters have been seen flying over the French countryside</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/8/361751/default/v3/sophie-2-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="The two suspects in the Charlie Hebdo magazine attack have fired shots while robbing a petrol station in northern France, according to French media." />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Shots are said to have been fired during a robbery at the station near Villers-Cotteret in the northern Aisne region, east of Paris</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/8/361750/default/v3/joey-jones-1-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="The two suspects in the Charlie Hebdo magazine attack have fired shots while robbing a petrol station in northern France, according to French media." />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Le Parisien said men wearing balaclavas were travelling on the N2 road in the direction of Paris in a Renault Clio which had weapons on its back seat</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item gallery__item--last">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/8/361752/default/v3/sophie-1-1-{width}x{height}.png" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="The two suspects in the Charlie Hebdo magazine attack have fired shots while robbing a petrol station in northern France, according to French media." />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Sky&#39;s Joey Jones, who is at the scene, said it would appear the pair are &quot;a step or two ahead&quot; of the authorities</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+				</ol>
+			</div>
+
+			<div class="gallery__control-container" aria-hidden="true">
+				<div class="gallery__area gallery__area--left" data-direction="left">
+					<button class="gallery__control gallery__control--left skycon-chevron-left" data-direction="left" tabindex="-1"></button>
+				</div>
+
+				<div class="gallery__area gallery__area--right" data-direction="right">
+					<button class="gallery__control gallery__control--right skycon-chevron" data-direction="right" tabindex="-1"></button>
+				</div>
+			</div>
+
+			
+		</div>
+
+	
+
+	
+
+
+									
+								
+							
+								
+									
+										<p>French investigators found a dozen Molotov cocktails and two jihadist flags in the black Citroen getaway car abandoned shortly after Wednesday's massacre.</p>
+									
+								
+							
+								
+									
+										<p>Tributes to the victims have been left near Charlie Hebdo's offices and a<a href="http://news.sky.com/story/1404016/france-falls-silent-for-paris-terror-victims" target="_blank"><strong> minute's silence</strong></a> was held in the French capital.</p>
+									
+								
+							
+								
+									
+										<p>Meanwhile, one of the first people to arrive at the bloodbath gave an emotional account of what happened.</p>
+									
+								
+							
+								
+									
+										<p>Patrick Pelloux, a columnist who is also trained as a doctor, said: "It was horrible. Many were already gone because they were shot down execution-style.</p>
+									
+								
+							
+								
+									
+										<p>"We managed to save the others who this morning are doing well."</p>
+									
+								
+							
+								
+									
+										<p>Next week's issue will be published despite the murders, he said, meaning his colleagues "have not died in vain".</p>
+									
+								
+							
+								
+									
+										
+
+	
+		
+
+	
+
+		
+
+		
+		<div class="module gallery gallery--4x3 module--inline gallery--teaser-view" data-breakpoint="700" tabindex="0">
+		
+
+			<div class="gallery__position" aria-hidden="true"><span class="js-gallery-current">1</span>/<span class="js-gallery-total">3</span></div>
+
+			<div class="gallery__container">
+				<ol class="gallery__list" aria-labelledby="gallery__teaser--1404375">
+					
+					<li class="gallery__item gallery__item--first">
+						
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="http://media.skynews.com/media/images/generated/2015/1/8/361812/default/v1/cegrab-20150108-142548-619-1-300x225.jpg" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/8/361812/default/v1/cegrab-20150108-142548-619-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Sky News special report." />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+							<div class="gallery__text">
+								<p class="gallery__teaser" id="gallery__teaser--1404375"><span class="gallery__module-type">Gallery:</span> Paris Attack Suspects&#39; ID Cards</p>
+								
+							</div>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/8/361799/default/v2/cegrab-20150108-131518-0-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Cherif Kouachi&#39;s identity card" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Cherif Kouachi and his brother Said are suspected of carrying out the attack at Charlie Hebdo&#39;s offices in Paris. This is Cherif&#39;s ID card</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item gallery__item--last">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+		
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/8/361798/default/v2/cegrab-20150108-131514-0-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Said Kouachi&#39;s identity card" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">This copy of Said&#39;s ID card has also been released</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+				</ol>
+			</div>
+
+			<div class="gallery__control-container" aria-hidden="true">
+				<div class="gallery__area gallery__area--left" data-direction="left">
+					<button class="gallery__control gallery__control--left skycon-chevron-left" data-direction="left" tabindex="-1"></button>
+				</div>
+
+				<div class="gallery__area gallery__area--right" data-direction="right">
+					<button class="gallery__control gallery__control--right skycon-chevron" data-direction="right" tabindex="-1"></button>
+				</div>
+			</div>
+
+			
+		</div>
+
+	
+
+	
+
+
+									
+								
+							
+								
+									
+										<p>Staff hope to print one million copies - instead of its usual run of 60,000.</p>
+									
+								
+							
+								
+									
+										<p>Downing Street said security has been <a href="http://news.sky.com/story/1404327/britains-borders-tightened-after-paris-attack" target="_blank"><strong>increased at UK ports</strong></a> following the terror attack.</p>
+									
+								
+							
+						
+					
+				</div>
+
+				
+
+	<section class="partner-links partner-links--story" data-external="9" data-internal="3" data-widgetid="APP_2">
+
+		<script type="text/template" class="outbrain__template--external">
+			<li class="partner-links__item partner-links__item--{counter} partner-links__item--{parity}">
+				<a href="{href}" class="partner-links__link">
+					<div class="image">
+						<div class="image__wrapper image__wrapper--4x3">
+							<img src="{image}" alt="" />
+							
+						</div>
+					</div>
+					<span class="headline">{headline}</span>
+					<span class="partner-links__source">{source}</span>
+				</a>
+			</li>
+		</script>
+
+		<script type="text/template" class="outbrain__template--internal">
+			<li class="partner-links__item partner-links__item--{counter} partner-links__item--{parity}">
+				<a href="{href}" class="partner-links__link">
+					<div class="image">
+						<div class="image__wrapper image__wrapper--4x3">
+							<img src="{image}" alt="" />
+							
+						</div>
+					</div>
+					<span class="headline">{headline}</span>
+				</a>
+			</li>
+		</script>
+
+		<div class="partner-links__external">
+			<h2 class="partner-links__title">Promoted Stories</h2>
+
+			<ul class="partner-links__list js-partner-links"></ul>
+		</div>
+
+		<div class="partner-links__internal">
+			<h2 class="partner-links__title">From Sky News</h2>
+
+			<ul class="partner-links__list partner-links__list--internal js-partner-links-internal"></ul>
+		</div>
+
+		<span class="partner-links__recommended js-show-recommended">
+			<a href="http://www.outbrain.com/what-is/default/en" class="partner-links__link partner-links__link--desktop" target="_blank">Recommended by <span class="partner-links__name">Outbrain</span></a>
+			<a href="http://blog.outbrain.com/whatismobilepage" class="partner-links__link partner-links__link--mobile" target="_blank">Recommended by <span class="partner-links__name">Outbrain</span></a>
+		</span>
+	</section>
+
+
+
+				<div class="story__other" data-append="story__other"></div>
+			</div>
+
+			
+				
+	<p class="comment__nb">By posting a comment you are agreeing to abide by our <a href="http://www.sky.com/helpcentre/account-and-billing/terms-and-conditions/index.html">Terms &amp; Conditions</a>. See our <a href="/info/comments-faq">House Rules and FAQs</a>.</p>
+	
+	<div class="livecomments" id="livecomments-1404236"></div>
+
+	<script type="text/javascript" src="https://cdn.livefyre.com/Livefyre.js"></script>
+
+	<script type="text/javascript">
+		'use strict';
+
+		var getCookie = function (sKey) {
+				return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
+			},
+
+			SSO_token = getCookie('skyCFsidlf01'),
+			
+			networkConfig = {
+				network: 'bskyb.fyre.co'
+			},
+			
+			convConfig = {
+				siteId: '360818',
+				articleId: '1404236',
+				el: 'livecomments-1404236',
+				collectionMeta: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwOi8vbmV3cy5za3kuY29tL3N0b3J5LzE0MDQyMzYiLCJ0YWdzIjoiIiwidGl0bGUiOiJUZXJyb3IgUG9saWNlIFNlYXJjaCBGb3Jlc3QgSW4gSHVudCBGb3IgR3VubWVuIiwiYXJ0aWNsZUlkIjoxNDA0MjM2LCJ0eXBlIjoibGl2ZWNvbW1lbnRzIn0.s2Au1WJGW817Qxy7bHOZbq6ah8LuQWMAxrkVuPeJMyg'
+			};
+
+		Livefyre.require(['fyre.conv#3', 'auth'], function(Conv, auth) {
+			new Conv(networkConfig, [convConfig]);
+
+			auth.delegate({
+				login: function() {
+					window.location.assign('https://skyid.sky.com/signin/news?successUrl=' + window.location.href);
+				},
+
+				logout: function(errback) {
+					errback(null); // Notifies Livefyre that logout was successful
+
+					window.location.assign('https://skyid.sky.com/signout/news?successUrl=' + window.location.href);
+				},
+
+				viewProfile: function() {
+					return false;
+				}
+			});
+
+			auth.authenticate({ livefyre: SSO_token });
+		});
+
+	</script>
+
+
+			
+
+			<!-- end "wide primary" wrapper -->
+		</div>
+		<!-- end "normal" wrapper -->
+
+		
+
+<section class="story__post-content">
+	
+	
+	
+
+	<div class="ad ad--mpu" data-id="ad-mpu" role="complementary" aria-label="Advertisement"></div>
+
+
+	
+
+	
+	
+	
+	
+	
+		
+		<div class="top-stories top-stories--story">
+			
+				<h2 id="top-stories__title" class="top-stories__title">Top Stories</h2>
+			
+		    <ol class="top-stories__list" aria-labelledby="top-stories__title">
+		
+				
+				
+				<li class="top-stories__item top-stories__item--1 top-stories__item--odd">
+					
+
+	<a class="top-stories__link" href="/story/1451283/jolie-has-ovaries-removed-after-cancer-scare">
+
+		
+
+		 
+
+			
+
+	
+	
+	
+	
+	
+		
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="http://media.skynews.com/media/images/generated/2015/3/24/379505/default/v1/awards-1-91x68.jpg" class="image__item top-stories__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/3/24/379505/default/v1/awards-1-{width}x{height}.jpg" data-sizes="91x68 300x225 480x360" data-sizes-wide="144x81 362x204 762x428 942x530 1600x900" data-breakpoint="210" alt="" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+			
+		
+
+		
+		
+	<span class="headline headline--normal headline--top-stories">Jolie Has Ovaries Removed After Cancer Scare</span>
+
+				
+	</a>
+
+
+					
+				</li>
+		
+	
+		
+				
+				
+				<li class="top-stories__item top-stories__item--2 top-stories__item--even">
+					
+
+	<a class="top-stories__link" href="/story/1451141/nhs-paid-3258-for-one-doctors-a-and-e-shift">
+
+		
+
+		 
+
+			
+
+	
+	
+	
+	
+	
+		
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="http://media.skynews.com/media/images/generated/2015/1/6/361186/default/v3/trolley-1-91x68.jpg" class="image__item top-stories__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/6/361186/default/v3/trolley-1-{width}x{height}.jpg" data-sizes="91x68 300x225 480x360" data-sizes-wide="144x81 362x204 762x428 942x530 1600x900" data-breakpoint="210" alt="" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+			
+		
+
+		
+		
+	<span class="headline headline--normal headline--top-stories">NHS Paid £3,258 For One Doctor&#39;s A&amp;E Shift</span>
+
+				
+	</a>
+
+
+					
+				</li>
+		
+	
+		
+				
+				
+				<li class="top-stories__item top-stories__item--3 top-stories__item--odd">
+					
+
+	<a class="top-stories__link" href="/story/1451062/pm-branded-arrogant-as-third-term-ruled-out">
+
+		
+
+		 
+
+			
+
+	
+	
+	
+	
+	
+		
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="http://media.skynews.com/media/images/generated/2015/3/23/379426/default/v1/cameron-1-91x68.jpg" class="image__item top-stories__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/3/23/379426/default/v1/cameron-1-{width}x{height}.jpg" data-sizes="91x68 300x225 480x360" data-sizes-wide="144x81 362x204 762x428 942x530 1600x900" data-breakpoint="210" alt="" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+			
+		
+
+		
+		
+	<span class="headline headline--normal headline--top-stories">PM Branded &#39;Arrogant&#39; As Third Term Ruled Out</span>
+
+				
+	</a>
+
+
+					
+				</li>
+		
+	
+		
+				
+				
+				<li class="top-stories__item top-stories__item--4 top-stories__item--even">
+					
+
+	<a class="top-stories__link" href="/story/1451109/uk-must-rebuild-military-capability-mps-warn">
+
+		
+
+		 
+
+			
+
+	
+	
+	
+	
+	
+		
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="http://media.skynews.com/media/images/generated/2013/6/18/243483/default/v1/firing-line-army-generic-br-1-91x68.jpg" class="image__item top-stories__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2013/6/18/243483/default/v1/firing-line-army-generic-br-1-{width}x{height}.jpg" data-sizes="91x68 300x225 480x360" data-sizes-wide="144x81 362x204 762x428 942x530 1600x900" data-breakpoint="210" alt="" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+			
+		
+
+		
+		
+	<span class="headline headline--normal headline--top-stories">UK Must Rebuild Military Capability, MPs Warn</span>
+
+				
+	</a>
+
+
+					
+				</li>
+		
+	
+		
+				
+				
+				<li class="top-stories__item top-stories__item--5 top-stories__item--odd top-stories__item--last">
+					
+
+	<a class="top-stories__link" href="/story/1451353/bare-chested-man-found-burnt-in-london-street">
+
+		
+
+		 
+
+			
+
+	
+	
+	
+	
+	
+		
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+			<img src="http://media.skynews.com/media/images/generated/2015/3/24/379472/default/v1/woodberry-grove-near-seven-sisters-road-london-google-1-1-91x68.jpg" class="image__item top-stories__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/3/24/379472/default/v1/woodberry-grove-near-seven-sisters-road-london-google-1-1-{width}x{height}.jpg" data-sizes="91x68 300x225 480x360" data-sizes-wide="144x81 362x204 762x428 942x530 1600x900" data-breakpoint="210" alt="" />
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+			
+		
+
+		
+		
+	<span class="headline headline--normal headline--top-stories">Mystery Bare-Chested Man Found Burnt In Street</span>
+
+				
+	</a>
+
+
+					
+				</li>
+		
+			</ol>
+		</div>
+		
+	
+
+
+	
+<div class="promo-watchlive js-promo-watchlive" data-src="/images/de8279f1.promo-watchlive-600x1000.jpg" data-alt="Sky promo watch live"></div>
+
+</section>
+
+	</article>
+
+	<div class="other" data-append="story__other"></div>
+
+</div>
+
+
+
+		<footer class="js-footer footer" role="contentinfo">
+
+	<div class="footer__columns">
+
+		<div class="js-footer__section footer__section footer__section--first">
+			<h2 class="footer__heading"><span class="footer__heading-text">About Sky News</span><i class="skycon-chevron-down footer__heading--icon" aria-hidden="true"></i></h2>
+			<div class="footer__list-wrapper">
+				<ul class="footer__list">
+					<li class="footer__item"><a class="footer__link" href="https://corporate.sky.com/media-centre/news-page?categoriesPiD=aa00d2f4b45441d9b2fbd0d369d5380a">About Us</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.skynewsinternational.com">Sky News International</a></li>
+					<li class="footer__item"><a class="footer__link" href="/info/library-sales">Sky News Library Sales</a></li>
+					<li class="footer__item"><a class="footer__link" href="/info/sitemap">Site Map</a></li>
+					<li class="footer__item"><a class="footer__link" href="/docs/sky_news_editorial_guidelines.pdf">Editorial Guidelines</a></li>
+					<li class="footer__item footer__item--last"><a class="footer__link" href="/supreme-court-live">Supreme Court Live</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="js-footer__section footer__section">
+			<h2 class="footer__heading"><span class="footer__heading-text">Sky News Services</span><i class="skycon-chevron-down footer__heading--icon" aria-hidden="true"></i></h2>
+			<div class="footer__list-wrapper">
+				<ul class="footer__list">
+					<li class="footer__item"><a class="footer__link" href="http://devices.news.sky.com/">Sky News for iPad</a></li>
+					<li class="footer__item"><a class="footer__link" href="/info/rss">Sky News RSS</a></li>
+					<li class="footer__item"><a class="footer__link" href="/info/smartphones">Sky News for Smartphones</a></li>
+					<li class="footer__item footer__item--last"><a class="footer__link" href="/info/radio">Sky News Radio</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="js-footer__section footer__section">
+			<h2 class="footer__heading"><span class="footer__heading-text">Sky Channels</span><i class="skycon-chevron-down footer__heading--icon" aria-hidden="true"></i></h2>
+			<div class="footer__list-wrapper">
+				<ul class="footer__list">
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com/tv/channel/sky1">Sky 1</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com/tv/channel/skyliving">Sky Living</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com/tv/channel/skyatlantic">Sky Atlantic</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com/tv/channel/skyarts">Sky Arts</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://skymovies.sky.com">Sky Movies</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com/tv/channel/sky3d">Sky 3D</a></li>
+					<li class="footer__item footer__item--last"><a class="footer__link" href="http://www.skysports.com">Sky Sports</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="js-footer__section footer__section footer__section--last">
+			<h2 class="footer__heading"><span class="footer__heading-text">More Sky Sites</span><i class="skycon-chevron-down footer__heading--icon" aria-hidden="true"></i></h2>
+			<div class="footer__list-wrapper">
+				<ul class="footer__list">
+					<li class="footer__item"><a class="footer__link" href="http://www.nowtv.com">NOW TV</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com/academy">Sky Academy</a></li>				
+					<li class="footer__item"><a class="footer__link" href="http://corporate.sky.com/the_bigger_picture">Bigger Picture</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.goskyride.com">Sky Ride</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://corporate.sky.com/">Sky Corporate</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.skybet.com">Sky Bet</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com">Sky.com</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.skynewsarabia.com">Sky News Arabia</a></li>
+					<li class="footer__item footer__item--last"><a class="footer__link" href="http://www.skymedia.co.uk/?utm_source=Sky%20News&amp;utm_medium=Web%20page&amp;utm_content=Sky%20News%20web%20page&amp;utm_campaign=Sky%20News%20web%20page">Advertise With Us</a></li>
+				</ul>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="sub-footer">
+		<ul class="sub-footer__list">
+			<li class="sub-footer__item sub-footer__item--first"><a href="http://help.sky.com/my-account/terms-and-conditions/skycom-terms-and-conditions/" class="sub-footer__link">Terms &amp; Conditions</a></li>
+			<li class="sub-footer__item"><a href="http://help.sky.com/security/privacy/privacy-and-cookies-notice" class="sub-footer__link">Privacy &amp; Cookies Notice</a></li>
+			<li class="sub-footer__item"><a href="http://accessibility.sky.com/" class="sub-footer__link">Accessibility Information</a></li>
+			<li class="sub-footer__item sub-footer__item--last"><a href="/info/contact-us" class="sub-footer__link">Contact Us</a></li>
+		</ul>
+
+		<p class="footer__copyright"><i class="footer__sky-logo skycon skycon-sky"></i> &copy; 2015 BSkyB</p>
+	</div>
+</footer>
+
+	</div>
+
+	<script data-main="/scripts/693b6095.optimized" src="/scripts/10d86eb6.require.min.js"></script>
+
+	
+
+	<script type="text/javascript">
+		var _sf_async_config={},
+			_comscore = _comscore || [];
+  
+		_comscore.push({ c1: "2", c2: "6035677" });
+		
+		_sf_async_config.uid = "34974";
+		_sf_async_config.domain = "news.sky.com"; /** CHANGE THIS **/
+		_sf_async_config.useCanonical = true;
+		
+		(function(){
+			function loadChartbeat() {
+				window._sf_endpt=(new Date()).getTime();
+				var e = document.createElement("script");
+				e.setAttribute("language", "javascript");
+					e.setAttribute("type", "text/javascript");
+				e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+				document.body.appendChild(e);
+			}
+
+			function loadComscore() {
+				var s = document.createElement("script"),
+					el = document.getElementsByTagName("script")[0];
+
+				s.async = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			}
+
+			function loadScripts() {
+				if (window.skynews.config.analytics.chartbeat.enabled) loadChartbeat();
+				loadComscore();
+			}
+
+			var oldonload = window.onload;
+			window.onload = (typeof window.onload != "function") ? loadScripts : function() { oldonload(); loadScripts(); };
+		})();
+	</script>
+
+	<noscript>
+		<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035677&amp;cv=2.0&amp;cj=1" alt=""/>
+	</noscript>
+
+	
+</body>
+</html>

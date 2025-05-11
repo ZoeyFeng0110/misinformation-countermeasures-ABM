@@ -1,0 +1,265 @@
+HTTP/1.1 200 OK
+Cache-Control: private
+Content-Length: 3259
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Server: Microsoft-IIS/8.0
+Set-Cookie: ASP.NET_SessionId=4vfkrmmidrn45mbawiui0kli; path=/; HttpOnly
+X-AspNetMvc-Version: 5.0
+X-AspNet-Version: 4.0.30319
+X-Powered-By: ASP.NET
+Set-Cookie: ARRAffinity=75a1448a0869d19f3e6f2d862d4a05e6505a85b2c3cf1227c68e99ba995b0605;Path=/;Domain=lifegallery.co.uk
+Date: Tue, 24 Mar 2015 09:37:05 GMT
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>life gallery - twitter pictures as they happen</title>
+    <meta name="description" content=" Life Gallery collects and collates the very best of twitter pics from around the world building a comprehensive collection of photos from the twitter community showing the wealth of imagery" />
+
+    <link href="/css" rel="stylesheet"/>
+
+    <link href="/Content/css?v=RHxCv10MIyDFQEj-HDC7Xc2HuQumZNw6rkjSwJmCSiA1" rel="stylesheet"/>
+
+    <script src="/bundles/modernizr?v=wBEWDufH_8Md-Pbioxomt90vm6tJN2Pyy9u9zHtWsPo1"></script>
+
+    <script src="/bundles/jquery?v=FVs3ACwOLIVInrAl5sdzR2jrCDmVOWFbZMY6g6Q0ulE1"></script>
+
+    <script src="/bundles/bootstrap?v=2Fz3B0iizV2NnnamQFrx-NbYJNTFeBJ2GM05SilbtQU1"></script>
+
+    <link rel="icon" href="/Content/images/favicon.ico" />
+
+</head>
+<body>
+
+    <div class="modal fade" id="basicModal" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
+        <div class="modal-dialog">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                    <h4 class="modal-title" id="myModalLabel"></h4>
+                </div>
+                <div class="modal-body">
+                    <p> <a class="tweet-link" href=""><img class="tweet-image" style="max-width:500px" src="" /></a></p>
+
+                    <p class="tweet-text"></p>
+
+                    <p class="img-date"></p>
+
+
+
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="header-container navbar-fixed-top">
+
+        <ul class="navbar navbar-inverse ">
+            <div class="container">
+                <div class="navbar-header">
+
+
+
+                    <button type="button" class="navbar-toggle " data-toggle="collapse" data-target=".navbar-collapse" style="border: 1px #fff solid; padding: 6px;">
+                        <span class="icon-bar" style="color:#fff;height:4px;"></span>
+                        <span class="icon-bar" style="color:#fff;height:4px;"></span>
+                        <span class="icon-bar" style="color:#fff;height:4px;"></span>
+                    </button>
+
+                    <a class="navbar-brand" href="/">life gallery</a>
+                </div>
+
+                <div class="navbar-collapse collapse">
+                    <form name="filterform" id="filterform" method="get" action="/" role="form">
+
+                        <ul class="nav navbar-nav">
+                            <li><a href="/">Home</a></li>
+                            <li><a href="/latest/">Latest</a></li>
+                            <li><a href="/trending/">Trending</a></li>
+                            <li><a href="/likes/">Liked</a></li>
+                            <li><a href="/funny/">Funny</a></li>
+
+                            <li><a href="/about/">About</a></li>
+                            
+
+                            
+                            
+
+                        </ul>
+                        
+                    </form>
+                </div>
+
+            </div>
+        </ul>
+
+    </div>
+
+    <div class="container body-content">
+        
+
+
+
+<div class=" container hidden-xs ">
+    <div class=" hidden-sm hidden-xs hidden-md  " style="float:left; width:109px; margin-left:15px;">
+        <img src="/images/carousel-logo.gif" style="border:1px solid #5EA9DD; height:152px;" />
+        <ol class="carousel-indicators">
+            <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+            <li data-target="#myCarousel" data-slide-to="1"></li>
+            <li data-target="#myCarousel" data-slide-to="2"></li>
+            <li data-target="#myCarousel" data-slide-to="3"></li>
+        </ol>
+    </div>
+    <div class="carousel-container" >
+        <div id="myCarousel" class="carousel slide" data-interval="3000" data-ride="carousel">
+
+
+            <!-- Carousel items -->
+            <div class="carousel-inner">
+                <div class="active item">
+                    <div class="carousel-text">social media <br />image <a href="/likes"><button type="button" class="btn btn-info carousel">gallery</button></a></div>
+                    <img src="/images/carousel-start-bird.png" style="float:right;height:150px;" />
+
+                </div>
+                <div class="item">
+                    <div class="carousel-text">pictures as <br />they <a href="/latest"><button type="button" class="btn btn-info carousel">happen</button></a></div>
+                    <img src="/images/carousel-latest-bird.png" style="float:right; height:150px; " />
+                </div>
+                <div class="item">
+
+                    <div class="carousel-text">check out<br />our <a href="/likes"><button type="button" class="btn btn-info carousel">favourites</button></a></div>
+                    <img src="/images/carousel-like-bird.png" style="float:right; margin:15px 25px 0px 0px;" />
+                    
+                </div>
+                <div class="item">
+                    <div class="carousel-text">keep track<br /> of the <a href="/likes"><button type="button" class="btn btn-info carousel">trends</button></a></div>
+                    <img src="/images/carousel-start-bird.png" style="float:right;height:150px;" />
+
+                </div>
+
+            </div>
+            <!-- Carousel nav
+            <a class="carousel-control left" href="#myCarousel" data-slide="prev">
+                <span class="glyphicon glyphicon-chevron-left"></span>
+            </a>
+            <a class="carousel-control right" href="#myCarousel" data-slide="next">
+                <span class="glyphicon glyphicon-chevron-right"></span>
+            </a>
+                -->
+        </div>
+    </div>
+</div>
+<br />
+<!-- Example row of columns -->
+<div class="row container" style="margin-bottom:100px;">
+
+    <div class="col-lg-4 ">
+        <div class="box">
+            <div class="feed-header"><a href="/latest" style="color:white;">Latest</a> <a href="/latest" style="float:right; color:white;"><span class="glyphicon glyphicon-flash"></span></a></div>
+            <div class="latest-tweets"></div>
+
+            <div class="feed-footer">
+                <a href="/latest">View more...</a>
+            </div>
+        </div>
+    </div>
+    <div class="col-lg-4 ">
+        <div class="box">
+            <div class="feed-header"><a href="/trending" style="color:white;">Trending</a> <a href="/trending" style="float:right; color:white;"><span class="glyphicon glyphicon-bullhorn"></span></a></div>
+            <div class="trend-tweets"></div>
+
+            <div class="feed-footer"><a href="/trending">View more...</a></div>
+        </div>
+    </div>
+    <div class="col-lg-4 ">
+        <div class=" box">
+            <div class="feed-header"><a href="/likes" style="color:white;">Most likes</a> <a href="/likes" style="float:right; color:white;"><span class="glyphicon glyphicon-thumbs-up"></span></a></div>
+            <div class="liked-tweets"></div>
+
+            <div class="feed-footer">
+                <a href="/likes">View more...</a>
+            </div>
+        </div>
+    </div>
+
+
+</div>
+        <footer class="navbar-fixed-bottom destop-footer">
+    <div>
+        <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+        <!-- Footer - Desktop -->
+        <ins class="adsbygoogle"
+             style="display:inline-block;width:970px;height:90px"
+             data-ad-client="ca-pub-9311222458530618"
+             data-ad-slot="7156155485"></ins>
+        <script>
+            (adsbygoogle = window.adsbygoogle || []).push({});
+        </script>
+    </div>
+</footer>
+    </div>
+
+
+
+<div class="modal fade" id="basicModal" tabindex="-1" role="dialog" aria-labelledby="basicModal" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <button type="button" class="close" data-dismiss="modal" aria-hidden="true"></button>
+                <h4 class="modal-title" id="myModalLabel"></h4>
+             
+            </div>
+            <div class="modal-body">
+                <p> <a class="tweet-link" href=""><img class="tweet-image" src="" /></a></p>
+
+                <p class="tweet-text"></p>
+
+                <p class="img-date"></p>
+
+
+
+           
+            </div>
+            <div class="modal-footer">
+                <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+    
+    <script type="text/javascript" src="/js/Main.js"></script>
+    <script>
+        (function (i, s, o, g, r, a, m) {
+            i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function () {
+                (i[r].q = i[r].q || []).push(arguments)
+            }, i[r].l = 1 * new Date(); a = s.createElement(o),
+            m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+        })(window, document, 'script', '//www.google-analytics.com/analytics.js', 'ga');
+
+        ga('create', 'UA-50763923-1', 'lifegallery.co.uk');
+        ga('send', 'pageview');
+
+    </script>
+    <div id="fb-root"></div>
+    <script>
+        (function (d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = "//connect.facebook.net/en_GB/sdk.js#xfbml=1&appId=1478128905798455&version=v2.0";
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+
+</body>
+
+</html>

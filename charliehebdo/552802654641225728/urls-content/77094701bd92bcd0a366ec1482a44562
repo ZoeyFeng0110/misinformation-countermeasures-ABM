@@ -1,0 +1,117 @@
+HTTP/1.1 503 Service Unavailable
+Server: Varnish
+Retry-After: 0
+Content-Length: 6712
+Accept-Ranges: bytes
+Date: Mon, 15 Jun 2015 12:56:43 GMT
+Via: 1.1 varnish
+Connection: close
+X-Served-By: cache-lhr6326-LHR
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1434373003.438518,VS0,VE11
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<link href='http://fonts.googleapis.com/css?family=Roboto+Slab:400,300' rel='stylesheet' type='text/css'><!-- twitter -->
+	<meta content="16973333">
+	<meta charset="utf-8">
+	<link href="http://www.independent.co.uk/independent.co.uk/assets/css/overwrite_redesign.css" rel="stylesheet" type="text/css">
+	<link href="http://www.independent.co.uk/independent.co.uk/assets/css/config.css" rel="stylesheet" type="text/css">
+	<link href="http://www.independent.co.uk/skins/ind/css/defaults.css" rel="stylesheet" type="text/css">
+	<link href="http://www.independent.co.uk/skins/ind/css/layout.css" rel="stylesheet" type="text/css">
+	<link href="http://www.independent.co.uk/skins/ind/css/main.css" rel="stylesheet" type="text/css">
+	<link href="http://www.independent.co.uk/skins/ind/css/colors.css" rel="stylesheet" type="text/css">
+	<link href="http://www.independent.co.uk/skins/ind/css/print.css" rel="stylesheet" type="text/css">
+	<link href="http://www.independent.co.uk/favicon.ico" rel="shortcut icon" type="image/x-icon">
+	<title></title>
+</head>
+<body>
+	<div id="viewport">
+		<div class="x940-config" id="page">
+			<div id="header">
+				  <script type="text/javascript"> 
+					var _gaq = _gaq || []; 
+					_gaq.push('_setAccount', 'UA-27212627-1'); 
+					_gaq.push('_setDomainName', '.independent.co.uk'); 
+					_gaq.push(['_trackPageview', '503 page=' + document.location.pathname + document.location.search + '&from=' + document.referrer]);
+					(function()
+					{ var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true; ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js'; //var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s); var s = document.getElementsByTagName('head')[0]; s.appendChild(ga); }
+					)(); 
+				  </script>
+				  	<script type="text/javascript" src="http://www.independent.co.uk/independent.co.uk/assets/js/omniture/catalyst.js"></script>
+					<script type="text/javascript"><!--
+					s.pageName="503 Server Error";
+					s.server="www.independent.co.uk";
+					s.prop24=window.location.href.replace("http://","");
+					/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+					var s_code=s.t();if(s_code)document.write(s_code)
+					//--></script>
+					<noscript><a href="http://www.omniture.com" title="Web Analytics"><img
+					src="http://sc.standard.co.uk/b/ss/indepdev/1/H.22.1--NS/0?############LinkHash-1############&cdp=3&AQE"
+					height="1" width="1" border="0" alt="" /></a></noscript>
+				<div class="x940 linksDateWeather column-1">
+					<div class="widget dateline default widget-editable viziwyg-section-1023 inpage-widget-5054699 topDateTime">
+						<ul>
+							<li class="current first"></li>
+						</ul>
+					</div>
+					<div class="widget menu horizontal widget-editable viziwyg-section-1023 inpage-widget-5054700 topExternalLinks">
+						<ul>
+							<li><a href="http://www.independent.co.uk/marketing/apps/"><span>Apps</span></a></li>
+							<li><a href="http://www.independent.co.uk/ebooks/"><span>eBooks</span></a></li>
+							<li><a href="http://ijobs.independent.co.uk/"><span>i Jobs</span></a></li>
+							<li><a href="http://dating.independent.co.uk/"><span>Dating</span></a></li>
+							<li><a href="http://www.independentoffers.co.uk/"><span>Shop</span></a></li>
+							<li><a href="http://www.independent.co.uk/competitions"><span>Offers</span></a></li>
+						</ul>
+					</div>
+				</div>
+				<div class="widget menu vertical widget-editable viziwyg-section-1023 inpage-widget-5054718 navPrimary newNav" id="navigation">
+					<ul class="main-level">
+						<li class="black-nav"><a href="http://www.independent.co.uk/news/">News</a></li>
+						<li class="black-nav"><a href="http://www.independent.co.uk/news/pictures/">Images</a></li>
+						<li class="orange-voices-nav"><a href="http://www.independent.co.uk/voices/">Voices</a></li>
+						<li class="green-nav"><a href="http://www.independent.co.uk/sport/">Sport</a></li>
+						<li class="lavender-nav"><a href="http://www.independent.co.uk/life-style/gadgets-and-tech/">Tech</a></li>
+						<li class="lavender-nav"><a href="http://www.independent.co.uk/life-style/">Life</a></li>
+						<li class="lavender-nav"><a href="http://www.independent.co.uk/property/">Property</a></li>
+						<li class="dark-grey-nav"><a href="http://www.independent.co.uk/arts-entertainment/"><span class="ArtsText">Arts</span> <span class="+Text">+</span> <span class="EntsText">Ents</span></a></li>
+						<li class="orange-nav"><a href="http://www.independent.co.uk/travel/">Travel</a></li>
+						<li class="turqoise-nav"><a href="http://www.independent.co.uk/money/">Money</a></li>
+						<li class="dark-blue-nav"><a href="http://www.independent.co.uk/extras/indybest/">IndyBest</a></li>
+						<li class="eggplant-nav"><a href="http://www.independent.co.uk/student/">Student</a></li>
+					</ul>
+				</div>
+				<div id="content">
+					<div id="areas">
+						<div id="top"></div>
+						<div class="widget code html widget-editable viziwyg-section-507 inpage-widget-9591619" id="main">
+							<style>
+								.wrap-404 {position:relative;width:690px;margin:0px auto;padding-top:20px;}
+								.wrap-404 h1 {font-size:16px;}
+								.wrap-404 p {font-size: 13px;color: #6F6F6F;line-height: 25px;}
+								.appLink {display:block;text-align:center;margin-top:50px;}
+							</style>
+							<div class="wrap-404">
+								<img src="http://www.independent.co.uk/independent.co.uk/assets/images/error-images/error-503.jpg?12" width="690" height="277" alt="Error 503 - Service Unavailable"/>
+								<h1>Sorry but we haven't been able to serve the page you requested - please try again in a few minutes.</h1>
+								<p>If you typed in a URL, please make sure you have typed it correctly.<br>
+								In particular, make sure that the URL you typed is all in lower case.<br>
+								If you think this article may be missing, please contact <a href="mailto:newsite@independent.co.uk">newsite@independent.co.uk</a> stating the URL of this page.<br>
+								If you require further assistance, please contact our help staff at the following address: <a href="mailto:userhelp@independent.co.uk">userhelp@independent.co.uk</a></p>
+								<a href="http://www.independent.co.uk/marketing/apps/?icn=ipad-404page" title="Have you tried the new Digital Edition iPad App?" class="appLink">
+									<img src="http://www.independent.co.uk/independent.co.uk/assets/images/ipad-app-380x150.jpg?ver1" alt="Have you tried the new Digital Edition iPad App?"/>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</body>
+</html>
+   

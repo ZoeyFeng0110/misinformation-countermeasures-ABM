@@ -1,0 +1,856 @@
+HTTP/1.1 200 OK
+Cache-Control: public, max-age=181
+Content-Encoding: gzip
+Content-Type: text/html
+Expires: Mon, 15 Jun 2015 12:59:27 GMT
+Server: Microsoft-IIS/8.0
+Access-Control-Allow-Origin: http://live.aljazeera.com
+Publisher: Al Jazeera - OA
+X-Method: GET
+X-Powered-By: VSH-O-1
+Date: Mon, 15 Jun 2015 12:56:26 GMT
+X-WR-DIAG: Type:TCP_MISS
+Transfer-Encoding: chunked
+Connection: keep-alive
+
+﻿
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head><meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0 maximum-scale=1.0, minimal-ui" />
+   
+    
+
+<div style="scroll:no;"></div>
+
+<!-- header tags -->
+<meta name="guid" content="201517111836139681"><title>Deadly attack on satirical magazine in Paris - Al Jazeera English</title><meta name="title" content="Deadly attack on satirical magazine in Paris"><meta name="channel" content=""><meta name="author" content=""><meta name="description" content="At least 12 people, including four cartoonists and two policemen, killed by three gunmen at Charlie Hebdo magazine."><meta property="og:title" content="Deadly attack on satirical magazine in Paris"><meta property="og:description" content="At least 12 people, including four cartoonists and two policemen, killed by three gunmen at Charlie Hebdo magazine."><meta property="og:url" content="http://www.aljazeera.com/news/europe/2015/01/french-newspaper-attacked-paris-gunmen-201517111836139681.html"><meta name="url" content="http://www.aljazeera.com/news/europe/2015/01/french-newspaper-attacked-paris-gunmen-201517111836139681.html"><meta property="og:internalurl" content="http://www.aljazeera.com/news/europe/2015/01/french-newspaper-attacked-paris-gunmen-201517111836139681.html"><meta name="ShortURL" content="http://aje.io/jpgm"><meta property="og:image" content="http://www.aljazeera.com/mritems/images/2015/1/7//201517124920324734_20.jpg"><meta name="image" content="http://www.aljazeera.com/mritems/images/2015/1/7//201517124920324734_20.jpg"><meta property="twitter:title" content="Deadly attack on satirical magazine in Paris"><meta property="twitter:description" content="At least 12 people, including four cartoonists and two policemen, killed by three gunmen at Charlie Hebdo magazine."><meta http-equiv="Last-Modified" name="LastModifiedDate" content="Wed, 07 January 2015 22:14:20 GMT"> <script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+
+<!-- The content included from Index header file --> <!-- Always force latest IE rendering engine (even in intranet)-->
+ <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+ <meta http-equiv="X-UA-Compatible" content="chrome=1" />
+ <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+ <meta property="og:twitter" content="@AJENews" />
+ <meta property="twitter:account_id" content="4970411" />
+ <meta name="twitter:site" content="@AJENews" />
+<meta name="google-play-app" content="app-id=net.aljazeera.english">
+ <link rel="alternate" type="application/rss+xml" title="Al Jazeera English" href="/xml/rss/all.xml" />
+<link rel="apple-touch-icon" href="/mritems/assets/images/touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/mritems/assets/images/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/mritems/assets/images/touch-icon-iphone-retina.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/mritems/assets/images/touch-icon-ipad-retina.png">
+<!--Site Scripts: To have all js functions required for website -->
+  <script src="/assets/scripts/jquery-1.11.1.min.js?i=1"></script>
+  <script src="/assets/scripts/common.js?i=1"></script>
+  <script src="http://f1.eu.readspeaker.com/script/5707/ReadSpeaker.js?pids=embhl,custom&amp;skin=ReadSpeakerFloatingSkin" type="text/javascript"></script>
+ <script src="http://admin.brightcove.com/js/BrightcoveExperiences.js" type="text/javascript"></script>
+ <script src="http://admin.brightcove.com/js/APIModules_all.js"> </script><!--Youtube-->
+ <script src="/AJEPlayer/v5_7/jwplayer.js" type="text/javascript"></script>
+ <script src="/AJEPlayer/v5_7/swfobject.js?a=1" type="text/javascript"></script><!--GridSet-->
+ <link href="/Assets/Styles/Plugins/colorbox.css" rel="stylesheet" />
+ <script src="/Assets/Scripts/Plugins/jquery.colorbox.js"></script>
+
+ <script src="/assets/scripts/SiteScripts.js?i=3" type="text/javascript"></script>
+ <script src="/assets/scripts/Brightcove.js?c=5" type="text/javascript"></script>
+
+ <script src="/assets/scripts/JsonFeed.js"></script>
+
+ <script src="/assets/scripts/ticker-plugin-script.js?i=1" type="text/javascript"></script>
+ <script src="/assets/scripts/ticker-helper-script.js?i=1" type="text/javascript"></script>
+
+ <link href="/assets/styles/GridSet_Style.css?i=1" rel="stylesheet" />
+ <link href="/assets/styles/Markbolton_Style.css?p=5" rel="stylesheet" />
+ <link href="/assets/styles/AJE_Custom_Styles.css?g=5" rel="stylesheet" />
+ <link href="/assets/styles/CustomMasterHead.css?i=2" rel="stylesheet" />
+ <link href="/assets/styles/Template_Boxes.css?i=2" rel="stylesheet" />
+ <link href="/assets/styles/ticker-plugin-style.css?b=7" rel="stylesheet" />
+<link  href="/assets/styles/android-banner.css" rel="stylesheet" >
+
+<script type="text/javascript" src="http://cdn.gigya.com/js/gigya.js?apikey=3_6G4aGVfJdVoChfuB5nfPCBHvzYFfWvvhwmQz1-hHZo-mUDJ29NmDtcfEHx3L8ZjY">
+{"URL": $("meta[property='og:internalurl']").attr('content').toString() ,"enabledProviders":"*"}</script>
+<script type="text/javascript"  src='http://connect.facebook.net/en_US/all.js'></script>
+
+ <script src="/Assets/scripts/SocialPlugin.js?c=3" type="text/javascript"></script>
+ <link href="/Assets/styles/ArticleSocialMediaTopBar.css?i=1" rel="stylesheet" type="text/css" />
+
+<script type='text/javascript'>
+if ( /(iPad).*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) ) {
+  var headNode = document.getElementsByTagName("head")[0];
+  var sbNode = document.createElement('meta');
+  sbNode.name = 'apple-itunes-app';
+  sbNode.content = 'app-id=433244125';
+  headNode.appendChild(sbNode);
+} 
+else if ( /(iPhone|iPod).*AppleWebKit.*Mobile.*Safari/.test(navigator.userAgent) ) {
+  var headNode = document.getElementsByTagName("head")[0];
+  var sbNode = document.createElement('meta');                    
+  sbNode.name = 'apple-itunes-app';                
+  sbNode.content = 'app-id=504847776';
+  headNode.appendChild(sbNode);
+}
+</script>
+<script type="text/javascript">
+
+window.rsConf = {settings: {hlicon: 'iconoff'}};
+
+</script>
+
+ <script>
+        $(document).ready(function () {
+            genclassicview(100, 'Back to Classic', 'http://www.aljazeera.com/');
+	ShowingNowAndNext();
+
+        var pageURL = 'http://www.aljazeera.com' + window.location.pathname;
+	var rsHTML = ['<div id="xp1" class="rs_preserve rs_skip">'];
+        rsHTML.push('</div>');
+	rsHTML.push('<div id="readspeaker_button1" class="rs_preserve rs_skip">');
+        rsHTML.push('<a accesskey="L" rel="nofollow" href="http://app.eu.readspeaker.com/cgi-bin/rsent?customerid=5707&amp;lang=en_us&amp;readclass=article-body&amp;url=');
+        rsHTML.push(pageURL);
+        rsHTML.push('" onclick="readpage(this.href, \'xp1\'); return false;"><img style="border-style: none" onclick= "sendGAEvent(' + "'Articles tools'" + ',' + "'click'" + ',' + "'Listen'" + ');" src="/assets/images/listen.png" alt="Listen to this page using ReadSpeaker" title="Listen to this page using ReadSpeaker"></a>');
+        rsHTML.push('</div>');
+        $(document).ready(function () {
+            $('#dvListen').append(rsHTML.join(''));
+        });
+        });
+		
+		
+        if (/(iPhone|iPod|iPad)/.test(navigator.userAgent)) 
+	{
+		if(window.localStorage.getItem ("AJE_Safari")==null)
+		{ 				
+			window.localStorage.setItem("AJE_Safari","true");
+			window.location.reload(true)
+		} 
+		else
+		{ 
+			window.localStorage.removeItem ("AJE_Safari");
+		}
+        }
+
+
+ </script>
+ <script type='text/javascript'>
+	var gptadslots=[];
+	(function(){
+     var useSSL = 'https:' == document.location.protocol;
+     var src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+     document.write('<scr' + 'ipt src="' + src + '"></scr' + 'ipt>');
+     })();
+ </script>
+
+ <script src="/assets/scripts/adsscript.js?i=3" type="text/javascript"></script>
+<script src="/assets/scripts/adslong.js?x=1" type="text/javascript"></script>
+    <script>
+        $(document).ready(function () {
+
+	 genShareBar("Article-Top-Toolbar", $("meta[name='guid']").attr('content').toString());	
+         genShareBar("Article-Bottom-Toolbar", $("meta[name='guid']").attr('content').toString());
+
+        });
+ </script>
+</head>
+<body>
+    <form id='French-newspaper-attacked-Paris-gunmen-201517111836139681' name='French-newspaper-attacked-Paris-gunmen-201517111836139681' method='post'>    
+    
+    
+     
+
+<!-- important tag dont remove(used to carry page context) -->
+<input type="hidden" id="oryxcontext" value="B8C906090FB19032EA03A7D3B8D5B5D7E28981ACB9A31E843EFCA92AEE6058B625D501EF2FCE279AF77AF4175B4AF9A69D14EE33AA795825F074D46D08DF03621EC54A54C648EC20D3575D083D0252A7C8F5BB5339B08B6E7700FE1BED33DDED1774822BB3DD77896587EAD2644B6A577E31CCC9C84A9EA09D5E38D413DD6668894CD4DB2B9F2B6028225539B2099117EF00CC6D82C52DAB0134A4CEC6239063AE19053ED7F623F41C00C44BF7DA661A20DE2FBFDBDA9074261B740218E674EAFF6980C96777146F62B2C0743D3BFF737194873DEE8192356B90F844F53564BA62391C64B4F491B90104577A364185C5EFA35E6691621CE86B0AA66767FBC634DD0BE8AAA4D3F988CA577708B42C5BA5EDAEFEE0DBAF1CCE2263CA88F67276E64B668D95EEF5A97CA4C3D7287452AA4F" data-postingguid="201517111836139681">
+<div class="da-showgrid d-showgrid t-showgrid ta-showgrid m-showgrid">
+<header id="site-header">
+<!-- googleoff: index -->
+<div class="wrapper clearfix">
+  <div><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_2125" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="2" allowedit="true"></div></div><div></div></div></div></div><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_2126" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="2" allowedit="true"><div><div runat="server" custom-style="" style=";border-style:none"><div class="socialmediaicons">
+	<ul>
+		<li id="watchnow">
+			<a href="/watch_now/default.html"><img alt="Watch Now" src="/mritems/images/site/WatchNow.png" title="Watch Now"></a></li>
+		<li id="twitter">
+			<a href="http://twitter.com/ajenglish" target="_blank"><img alt="Follow us on Twitter" src="/mritems/images/site/twitter.png" title="Follow us on Twitter"></a></li>
+		<li id="facebook">
+			<a href="http://www.facebook.com/aljazeera" target="_blank"><img alt="Follow us on Facebook" src="/mritems/images/site/facebook.png" title="Follow us on Facebook"></a></li>
+		<li id="googleplus">
+			<a href="http://plus.google.com/+aljazeera" target="_blank"><img alt="Follow us on Goole+" src="/mritems/images/site/googleplus.png" title="Follow us on Goole+"></a></li>
+		<li id="youtube">
+			<a href="http://www.youtube.com/user/aljazeeraenglish" target="_blank"><img alt="Follow us on Youtube" src="/mritems/images/site/youtube.png" title="Follow us on Youtube"></a></li>
+		<li id="instagram">
+			<a href="http://instagram.com/aljazeera" target="_blank"><img alt="Follow us on Instagram" src="/mritems/images/site/instagramn.png" title="Follow us on Instagram"></a></li>
+		<li id="newsletter">
+			<a href="/newsletter/"><img alt="Subscribe to our newsletter" src="/mritems/images/site/newsletter-icon.png" title="Subscribe to our newsletter"></a></li>
+		<li id="contactus">
+			<a href="/contactus/"><img alt="Contact Us" src="/mritems/images/site/contactus-icon.png" title="Contact Us"></a></li>
+		<li id="rss">
+			<a href="/xml/rss/all.xml"><img alt="RSS" src="/mritems/images/site/rss.png" title="RSS"></a></li>
+		<li id="mobile">
+			<a href="/mobile/"><img alt="Mobile Services" src="/mritems/images/site/mobile.png" title="Mobile Services"></a></li>
+	</ul>
+</div>
+</div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+<!-- social media bars shown here -->
+
+<h1 class="ta1 da1" id="site-logo"><a class="current" href="/">al jazeera</a></h1>
+
+<div class="ta2-ta6 d4" id="nav-account-search"><a href="#" id="nav-mobile-menu">menu</a>
+
+<nav class="ta2-ta4 nav-wide" id="nav-account-live">&nbsp;</nav>
+</div>
+
+<div class="nav-group ta2-ta6 da2-da6">
+<div class="mobile-wrap">
+<div class="form-search" id="nav-form-search"><input class="field-search" name="search" id="search" type="text" value=""><button class="button-search" type="button">submit</button></div>
+<!-- <div friendlyname="topmenuheader" id="10" type="regular" zonepath="topmenuheader/pagetype/default" zonetemplate="pagetype"> -->
+
+<div><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_2110" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="2" allowedit="true"><div><div runat="server" custom-style="" showmore="false" smpagesize="0" smtitle="Show More" style=";border-style:none"><nav id="nav-site" class="nav-wide da2-da4 clearfix" xmlns:media="http://search.yahoo.com/mrss/"><ul>
+    <li id="nav-mobile-account"><a href="#" class="nav-account"><img class="img-thumb" src="/img/account.jpg" alt="Account name">Your account
+          </a></li>
+    <li><a class="drop" href="/news/default.html">News</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav><ul class="subnav list nav-menu-width">
+            <li><a href="/topics/categories/arts-and-culture.html">Arts &amp; Culture</a></li>
+            <li><a href="/topics/categories/business.html">Business &amp; Economy</a></li>
+            <li><a href="/topics/categories/environment.html">Environment</a></li>
+            <li><a href="/topics/categories/health.html">Health</a></li>
+            <li><a href="/topics/categories/humanitarian-crises.html">Humanitarian crises</a></li>
+            <li><a href="/topics/categories/media.html">Media</a></li>
+            <li><a href="/topics/categories/poverty-development.html">Poverty &amp; Development</a></li>
+            <li><a href="/topics/categories/politics.html">Politics</a></li>
+            <li><a href="/topics/categories/science-and-technology.html">Science &amp; Technology</a></li>
+            <li><a href="/topics/categories/war-conflict.html">War &amp; Conflict</a></li>
+          </ul></nav><nav><ul class="subnav list nav-menu-width">
+            <li><a href="/news/">All</a></li>
+            <li><a href="/topics/regions/africa.html">Africa</a></li>
+            <li><a href="/topics/regions/asia-pacific.html">Asia Pacific</a></li>
+            <li><a href="/topics/regions/asia.html">Asia</a></li>
+            <li><a href="/topics/regions/europe.html">Europe</a></li>
+            <li><a href="/topics/regions/latin-america.html">Latin America</a></li>
+            <li><a href="/topics/regions/middleeast.html">Middle East</a></li>
+            <li><a href="/topics/regions/us-canada.html">US &amp; Canada</a></li>
+          </ul></nav><nav class="&#xA;          nav-divider&#xA;        "><ul class="subnav list nav-menu-width">
+            <li><a href="/topics/categories/human_rights.html">Human Rights</a></li>
+            <li><a href="/topics/categories/sport.html">Sport</a></li>
+            <li><a href="/indepth/inpictures/">In Pictures</a></li>
+            <li><a href="/indepth/interactive/">Infographics</a></li>
+            <li><a href="/blogs/">Blogs</a></li>
+            <li><a href="/topics/categories/weather.html">Weather</a></li>
+            <li><a href="/topics/spotlight/freeajstaff.html">#FreeAJStaff</a></li>
+            <li><a href="/aboutus/digital-magazine.html">Digital Magazine</a></li>
+          </ul></nav><nav class="nav-sidebar singlecol"><h3 class="heading-section"><a href="#">Featured</a></h3><article class="item blurb"><a href="/news/2015/06/nigeria-tech-sector-unfulfilled-potential-150611122230570.html"><img src="/mritems/imagecache/mbdsmall//mritems/Images/2015/6/14/022eac62ec8243029f08828624ba9d0a_18.jpg" alt="Nigerian tech sector's unfulfilled potential"></a><h1><a href="/news/2015/06/nigeria-tech-sector-unfulfilled-potential-150611122230570.html">Nigerian tech sector's unfulfilled potential</a></h1></article><article class="item blurb"><a href="/indepth/features/2015/06/music-lead-social-harmony-sri-lanka-150614064524342.html"><img src="/mritems/imagecache/mbdsmall//mritems/Images/2015/6/14/972ead8c2cc94a58bc1ec5ede5dcd444_18.jpg" alt="Can music lead to social harmony in Sri Lanka?"></a><h1><a href="/indepth/features/2015/06/music-lead-social-harmony-sri-lanka-150614064524342.html">Can music lead to social harmony in Sri Lanka?</a></h1></article></nav></div>
+    </li>
+    <li><a class="drop" href="/programmes/default.html">Programmes</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav><h3 class="heading-section"><a href="#" style="cursor: default;">Documentaries</a></h3>
+          <ul class="subnav list nav-menu-width">
+            <li><a href="/programmes/witness/">Witness</a></li>
+            <li><a href="/programmes/101east/">101 East</a></li>
+            <li><a href="/programmes/peopleandpower/">People &amp; Power</a></li>
+            <li><a href="/programmes/aljazeeraworld/">Al Jazeera World</a></li>
+            <li><a href="/programmes/faultlines/">Fault Lines</a></li>
+            <li><a href="/programmes/lifelines/">Lifelines</a></li>
+            <li><a href="/programmes/viewfinder/">Viewfinder</a></li>
+            <li><a href="/programmes/aljazeeracorrespondent/">Al Jazeera Correspondent</a></li>
+            <li><a href="/programmes/hardearned/">Hard Earned</a></li>
+            <li><a href="/programmes/africainvestigates/">Africa Investigates</a></li>
+            <li><a href="/programmes/specialseries/">Special Series</a></li>
+          </ul></nav><nav><h3 class="heading-section"><a href="#" style="cursor: default;">Discussions</a></h3>
+          <ul class="subnav list nav-menu-width">
+            <li><a href="/programmes/insidestory/">Inside Story</a></li>
+            <li><a href="http://stream.aljazeera.com" target="_blank">The Stream</a></li>
+            <li><a href="/programmes/empire/">Empire</a></li>
+            <li><a href="/programmes/headtohead/">Head to Head</a></li>
+            <li><a href="/programmes/talktojazeera/">Talk to Al Jazeera</a></li>
+          </ul></nav><nav class="&#xA;          nav-divider&#xA;        "><h3 class="heading-section"><a href="#" style="cursor: default;">Newsmagazine Shows</a></h3>
+          <ul class="subnav list nav-menu-width">
+            <li><a href="/programmes/listeningpost/">The Listening Post</a></li>
+            <li><a href="/programmes/earthrise/">earthrise</a></li>
+            <li><a href="/programmes/thecure/">The CURE</a></li>
+            <li><a href="/programmes/countingthecost/">Counting the Cost</a></li>
+            <li><a href="/programmes/techknow/">TechKnow</a></li>
+            <li><a href="/review/">reVIEW</a></li>
+          </ul></nav><nav class="nav-sidebar singlecol"><h3 class="heading-section"><a href="#">Featured</a></h3><article class="item blurb"><a href="/programmes/specialseries/2014/10/day-israel-attacked-america-20141028144946266462.html"><img src="/mritems/imagecache/mbdsmall//mritems/Images/2015/6/8/81a8cd7e2f09474ebd88ba792f79a4f9_18.jpg" alt="The Day Israel Attacked America"></a><h1><a href="/programmes/specialseries/2014/10/day-israel-attacked-america-20141028144946266462.html">The Day Israel Attacked America</a></h1></article><article class="item blurb"><a href="/programmes/rebelarchitecture/"><img src="/mritems/imagecache/mbdsmall//mritems/Images/2014/11/9/453cbd9793be4ff5affb213a49dfe648_18.jpg" alt="Rebel Architecture"></a><h1><a href="/programmes/rebelarchitecture/">Rebel Architecture</a></h1></article></nav></div>
+    </li>
+    <li><a href="/indepth/opinion/default.html">Opinion</a></li>
+    <li><a href="/investigations/default.html">Investigations</a></li>
+    <li><a class="drop" href="#">About</a><a class="mobile-drop" href="#">More</a><div class="drop-mega"><nav><h3 class="heading-section"><a href="#" style="cursor: default;">Al Jazeera English</a></h3>
+          <ul class="subnav list nav-menu-width">
+            <li><a href="/aboutus/">About Us</a></li>
+            <li><a href="/aboutus/2006/11/2008525185733692771.html">Code of Ethics</a></li>
+            <li><a href="/pressoffice/">Press Office</a></li>
+            <li><a href="/pressoffice/2012/04/2012416161854868952.html">Awards</a></li>
+          </ul></nav><nav><h3 class="heading-section"><a href="#" style="cursor: default;">Connect</a></h3>
+          <ul class="subnav list nav-menu-width">
+            <li><a href="/contactus/">Contact Us</a></li>
+            <li><a href="/mobile" target="_blank">Mobile</a></li>
+            <li><a href="/aboutus/follow-us.html">Social</a></li>
+            <li><a href="/watchaje/">Channel Finder</a></li>
+            <li><a href="/newsletter/">Newsletter</a></li>
+            <li><a href="/watch_now/epgschedule.html">Broadcast Schedule</a></li>
+            <li><a href="/programmes/podcasts.html">Podcasts</a></li>
+            <li><a href="/aboutus/digital-magazine.html">Digital Magazine</a></li>
+          </ul></nav><nav class="&#xA;          nav-divider&#xA;        "><h3 class="heading-section"><a href="#" style="cursor: default;">Our Network</a></h3>
+          <ul class="subnav list nav-menu-width">
+            <li><a href="http://america.aljazeera.com" target="_blank">AJ America</a></li>
+            <li><a href="http://www.aljazeera.net" target="_blank">AJ Arabic</a></li>
+            <li><a href="http://balkans.aljazeera.com" target="_blank">AJ Balkans</a></li>
+            <li><a href="http://www.aljazeera.com.tr" target="_blank">AJ Turk</a></li>
+            <li><a href="http://mubasher.aljazeera.net" target="_blank">AJ Mubasher</a></li>
+            <li><a href="http://doc.aljazeera.net" target="_blank">AJ Documentary</a></li>
+            <li><a href="http://studies.aljazeera.net/en/" target="_blank">AJ Center for Studies</a></li>
+            <li><a href="http://training.aljazeera.net/en/news/" target="_blank">AJ Training Center</a></li>
+          </ul></nav><nav class="nav-sidebar singlecol"><h3 class="heading-section"><a href="#">Featured</a></h3><article class="item blurb"><a href="http://ajplus.net"><img src="/mritems/imagecache/mbdsmall//mritems/Images/site/AJPlusBranding.jpg" alt="AJ+"></a><h1><a href="http://ajplus.net">AJ+</a></h1></article><article class="item blurb"><a href="http://learning.aljazeera.net"><img src="/mritems/imagecache/mbdsmall//mritems/Images/site/AJLearningBranding.jpg" alt="AJ Learning"></a><h1><a href="http://learning.aljazeera.net">AJ Learning</a></h1></article></nav></div>
+    </li>
+    <li><a href="http://video.aljazeera.com/channels/eng" target="_blank"><img src="/mritems/images/site/VideoLogo.png" alt="Video" class="VideoLogo-png"></a></li>
+  </ul></nav></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+<!--menu goes here -->
+
+<div><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_2110" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="2" allowedit="true"><div><div runat="server" custom-style="" showmore="false" smpagesize="0" smtitle="Show More" style=";border-style:none"><nav id="nav-topics" class="nav-wide t-all da-all" xmlns:media="http://search.yahoo.com/mrss/" xmlns:xs="http://www.w3.org/2001/XMLSchema"><ul>
+    <li id="NavTopTopics">Topics:</li>
+    <li><a href="/topics/people/omar-bashir.html">Omar Bashir</a>  </li>
+    <li><a href="/topics/country/sudan.html">Sudan</a>  </li>
+    <li><a href="/topics/country/chad.html">Chad</a>  </li>
+    <li><a href="/topics/country/libya.html">Libya</a>  </li>
+    <li><a href="/topics/organisations/al-qaeda.html">Al-Qaeda</a></li>
+  </ul></nav></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+<div id="weatherwidget" class="m-hide weather-widget"> </div>
+</div>
+</div>
+</div>
+
+<div><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_2131" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="2" allowedit="true" cellcount="2" layoutid="2" rows="1" columns="1" showmore="false" smpagesize="0" smtitle="Show More"><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_211" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="2" allowedit="true"><div><div runat="server" custom-style="" showmore="false" smpagesize="0" smtitle="Show More" style=";border-style:none"><div id="site-header-links" xmlns:media="http://search.yahoo.com/mrss/">
+  <div class="wrapper"><a href="http://lifeonhold.aljazeera.com/"><article id="boxCallout" class="m-hide t1 da1-da2 first quote"><img class="t-hide" src="/mritems/imagecache/mbdsmall/mritems/Images/2015/4/30/a4ecfc845c934d10a853089542e68d3d_18.jpg" alt="Life on Hold"><h1>Life on Hold</h1>
+        <p class="HeaderP">Explore the personal stories of Syrian refugees in Lebanon </p></article></a><article class="m-hide t2 t-pad da3 da-pad on-now"><h3 id="watch-now-row" class="heading-section"><a href="/watch_now/"><img src="/mritems/images/site/watchnowiconl.png" alt="Watch Now"></a><a id="watch-now-link" href="/watch_now/" style="padding: 3px;" target="_self">Watch Now</a></h3>
+      <h1><a id="showing-on-now"></a></h1></article><article class="m-hide t-hide da4 da-pad on-next"><h3 class="heading-section"><span id="time-left"></span></h3>
+      <h1><a id="showing-on-next"></a></h1></article><a id="lnkQOTD" href="http://interactive.aljazeera.com/aje/PalestineRemix/"><article id="boxQOTD" class="t3-t4 t-pad da5-da6 da-pad site-feature"><h1 class="da5 t3" style="width: 60%; display:none;">
+        </h1>
+        <p class="da5 t3" style="width: 60%;">Winner of the OMAs Technical Innovation Award 2015 </p><img class="breakout" src="/mritems/imagecache/mbdsmall/mritems/Images/2015/6/12/043a52d5f2b14830896f9c958cee0faa_14.jpg" alt="Winner of the OMAs Technical Innovation Award 2015 "></article></a></div>
+</div></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div>
+<!-- googleon: index -->
+</header>
+
+
+</div>
+
+<div id="site-content">
+<!-- news ticker -->
+<div id="header_container" style="display: none;">
+   <ul id="js-news" class="js-hidden">
+   </ul>
+</div>
+
+<div id="Container_Zone_1" handle="header" type="regular"></div>
+
+<div id="placeholder1" type="content"><!-- comments goes here -->
+	<div><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_1" class="layout_col_break_points" name="layout_col_break_points" value="" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="1" allowedit="true" cellcount="2" layoutid="2" rows="1" columns="1" showmore="false" smpagesize="0" smtitle="Show More"><div id="main" class="wrapper clearfix" type="renderzoneblock"><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_211" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="2" allowedit="true" cellcount="4" layoutid="3" rows="2" columns="1" showmore="false" smpagesize="0" smtitle="Show More"><div class="page-section box clearfix da-all da-pad ta-all ta-pad" type="renderzoneblock"><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_322" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="3" allowedit="true" cellcount="8" layoutid="2" rows="1" columns="1" showmore="false" smpagesize="0" smtitle="Show More"><div id="main-content" class="clearfix box da-pad ta-pad box-section-news da1-da4 ta1-ta4 db-showgrid " type="renderzoneblock"><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_414" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="4" allowedit="true"><div><div runat="server" custom-style="" showmore="false" smpagesize="0" smtitle="Show More" style=";border-style:none"><div xmlns:media="http://search.yahoo.com/mrss/" xmlns:dt="urn:schemas-microsoft-com:datatypes" xmlns:systemclass="Oryx"><article id="main-story" class="item"><header id="header-story" class="clearfix da-all da-pad ta-all ta-pad"><h3 class="heading-section"><a href="/topics/categories/media.html">Media</a></h3><hgroup><h1 class="heading-story">Deadly attack on satirical magazine in Paris</h1>
+        <div>
+          <h2 class="standfirst">At least 12 people, including four cartoonists and two policemen, killed by three gunmen at Charlie Hebdo magazine.</h2>
+          <p class="meta"><time datetime="07 Jan 2015 22:14 GMT">07 Jan 2015 22:14 GMT</time> | <span id="article-topics"><a href="/topics/categories/media.html" data-topic-name="Media">Media</a>, <a href="/topics/categories/politics.html" data-topic-name="Politics">Politics</a>, <a href="/topics/regions/europe.html" data-topic-name="Europe">Europe</a>, <a href="/topics/subjects/journalism-fire.html" data-topic-name="Journalism under fire">Journalism under fire</a>, <a href="/topics/country/france.html" data-topic-name="France">France</a></span></p>
+        </div></hgroup></header><div id="Article-Top-Toolbar" class="ArticleTopToolbar"></div>
+    <div id="vdoContainer" class="video-container"></div><script type="text/javascript">RenderPagesVideo('3975760439001', 0, '100%', 473, 'vdoContainer');</script><div id="article-body" class="article-body"><p><span>Three heavily armed men have attacked a French satirical </span><span>magazine based in Paris, killing at least 12 people, including four cartoonists and two policemen, officials have said.</span></p>
+<p>The lawyer of the magazine confirmed that four cartoonists working with the publication, including the editor Stephane Charbonnier, known as 'Charb', were among the dead. Police said 11 people were wounded in the incident, adding that four were in a critical condition.</p>
+<p>The cartoonists known as Cabu, Tignous and Wolinski were also killed in the attack, AFP news agency quoted a judicial source as saying.</p>
+<div>
+<table class="in-article-item video" border="0">
+<tbody>
+<tr>
+<td>
+<div class="mceVideoBox">
+<div id="bcvid_3975613111001"><!-- Video --></div>
+<script type="text/javascript">// <![CDATA[
+RenderGeneralBCVideo("3975613111001", 1659202291001, 'AQ~~,AAAAmtVJIFk~,TVGOQ5ZTwJaOnnPgAFUa3RPnyd849QP8', 330, 186, "bcvid_3975613111001");                            brightcove.createExperiences();
+// ]]]] >
+</script>
+</div>
+</td>
+</tr>
+<tr>
+<td class="caption">Anne Giudicelli, the Founder of Terrorisc, a Consultancy on Security Risk, talks to Al Jazeera from Paris on the incident</td>
+</tr>
+</tbody>
+</table>
+<!-- PAGELOADEDSUCCESSFULLY--></div>
+<p><em>Charlie Hebdo </em>has drawn repeated threats for publishing caricatures of the Prophet Muhammad, among other controversial sketches.</p>
+<p>French Interior Minister Bernard Cazeneuve said the assault was carried out by three attackers.</p>
+<p>According to witnesses, one was a driver and the other two were attackers in terms of their role in the incident, police said. </p>
+<p><span>In amateur camera footage shared on the internet, the attackers are heard shouting: "We have avenged the Prophet Mohammad." </span></p>
+<p><span>The gunmen fled eastwards towards the suburbs, dumping their car in a residential area, police said. They then hijacked two other cars, wounded their drivers and ran over a pedestrian.</span></p>
+<p>Al Jazeera's Jacky Rowland, reporting from Paris, said journalists and cartoonists reported several masked men dressed in black entering the building who then began to fire with automatic weapons.</p>
+<p>"Some journalists took refuge on the roof," Rowland said.</p>
+<p><span><span>"<em>Charlie Hebdo</em> has pushed boundaries in the past, and continues to challenge the idea of censorship."<br><br>President Francois Hollande, speaking outside the office of the magazine, described the attack as having been carried out by barbaric people.<br><br>"This is an attack on free speech." he told reporters. "No one can harm the spirit of this country which is this newspaper".</span></span></p>
+<div>
+<table class="in-article-item video" border="0">
+<tbody>
+<tr>
+<td>
+<div class="mceVideoBox">
+<div id="bcvid_3975977784001"><!-- Video --></div>
+<script type="text/javascript">// <![CDATA[
+RenderGeneralBCVideo("3975977784001", 1659202291001, 'AQ~~,AAAAmtVJIFk~,TVGOQ5ZTwJaOnnPgAFUa3RPnyd849QP8', 330, 186, "bcvid_3975977784001");                            brightcove.createExperiences();
+// ]]]] >
+</script>
+</div>
+</td>
+</tr>
+<tr>
+<td class="caption">The magazine Charlie Hebdo has drawn repeated threats for publishing caricatures of the Prophet Mohammed, among other controversial sketches</td>
+</tr>
+</tbody>
+</table>
+<!-- PAGELOADEDSUCCESSFULLY--></div>
+<p><!-- PAGELOADEDSUCCESSFULLY--></p>
+<p>The magazine had tweeted a <a href="https://twitter.com/Charlie_Hebdo_/status/552773881283764224/photo/1" target="_parent"><span class="internallink">cartoon of Abu Bakr al-Baghdadi</span></a>, the leader of the Islamic State in Iraq and the Levant (ISIL) group, minutes before the attack.Rowland said that a terrorism alert has been raised to its highest level in the wake of the attack.</p>
+<p>France's Muslim leadership sharply condemned the shooting as a "barbaric" attack and an assault on press freedom and democracy.</p>
+<p>"This extremely grave barbaric action is also an attack against democracy and the freedom of the press," the French Muslim Council (CFCM) said in a statement.</p>
+<p>The body represents France's Muslim community, which is Europe's biggest and estimated to number between 3.5 million and five million people.</p>
+<p><span>Hollande held a cabinet meeting at the Elysee Palace over the incident on Wednesday.</span></p>
+<p>Huge crowds gathered in Paris and other major cities in France in a show of support for the staff of Charlie Hebdo.</p>
+<p>Demonstrators in Paris were seen holding up banners in support of free speech, including one written, "Je suis Charlie (I am Charlie)", a slogan that has gone viral on social media.</p>
+<p>French authorities said that school trips and all school outdoor activities have been cancelled until further notice while the gunmen are at large.</p>
+<p>US President Barack Obama's spokesman said the US "condemns [the attack] in the strongest terms".</p>
+<p>Josh Earnest said US officials have been in close contact to assist the French in the wake of the incident.</p>
+<p>Earnest said the French have been "stalwart allies" in the US fight against the ISIL, adding: "We know they are not going to be cowed by this terrible act."</p>
+<p>Various countries, including Russia, Qatar, Kuwait, Britain, Germany, Turkey, Saudi Arabia, Iran and Canada, have also condemned the attack.  </p>
+<hr>
+<p><em>In a 2012 interview, Charlie Hebdo editor Stephane Charbonnier told Al Jazeera why the magazine is a target.</em></p>
+<div class="mceVideoBox" style="width: 680; height: 450; float: None;">
+<div id="bc_1849812862001" style="width: 680; height: 450;"><!-- --></div>
+<script type="text/javascript">// <![CDATA[
+RenderGeneralBCVideo(1849812862001,1659202292001,'AQ~~,AAAAmtVJIFk~,TVGOQ5ZTwJbsT0Mq3k9H8GCa4jV3vL4M',680,450, "bc_1849812862001");brightcove.createExperiences();
+// ]]]] >
+</script>
+</div><p style="margin-top: 3em;"><span style="color: #8e8e8e !important;">Source:</span> <span style="color: #212121 !important;">Al Jazeera and agencies</span></p>
+    </div>
+    <div id="Article-Bottom-Toolbar" class="ArticleBottomToolbar"></div></article></div></div></div></div></div><div></div></div></div></div><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_415" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="4" allowedit="true"><div><div runat="server" custom-style="" showmore="false" smpagesize="0" smtitle="Show More" style=";border-style:none"><!-- googleoff: index --><section id="more" class="page-section-full da-all" xmlns:media="http://search.yahoo.com/mrss/"><h1 class="heading-section">Related</h1><article class="item blurb da1-da2 ta1-ta2"><a href="http://www.aljazeera.com/watch_now/"><img src="/mritems/imagecache/mbdresplarge/mritems/Images/2015/1/7/201517114428980734_20.jpg" alt="LIVE STREAM: Latest updates" title="LIVE STREAM: Latest updates"></a><h1><a href="http://www.aljazeera.com/watch_now/">LIVE STREAM: Latest updates</a></h1>
+    <p>Watch live television coverage on the latest developments on deadly attack on satirical magazine in Paris.</p>
+    <p class="meta"></article><article class="item blurb da3-da4 ta3-ta4"><a href="/news/europe/2015/01/cartoonists-react-charlie-hebdo-attack-201517171624156381.html"><img src="/mritems/imagecache/mbdresplarge/mritems/Images/2015/1/7/201517172151839734_20.jpg" alt="Cartoonists react to Charlie Hebdo attack" title="Cartoonists react to Charlie Hebdo attack"></a><h1><a href="/news/europe/2015/01/cartoonists-react-charlie-hebdo-attack-201517171624156381.html">Cartoonists react to Charlie Hebdo attack</a></h1>
+    <p>Cartoonists across the world react to the killing of their peers in Paris by turning to their trade.</p>
+    <p class="meta"><a href="/topics/regions/europe.html">Europe</a></p></article></section><!-- googleon: index --></div></div></div></div><div></div></div></div></div><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_416" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="4" allowedit="true"><div><div runat="server" custom-style="" showmore="false" smpagesize="0" smtitle="Show More" style=";border-style:none"><section class="page-section-full da-all" xmlns:media="http://search.yahoo.com/mrss/"><div id="CommentsBlock"><!-- The content included from Comments file -->
+<div id="CommentsPolicy" style="display: block;">
+     <p style="opacity: .6; font-size: 13px; padding-bottom: 15px;">
+            Content on this website is for general information purposes only. Your comments
+            are provided by your own free will and you take sole responsibility for any direct
+            or indirect liability. You hereby provide us with an irrevocable, unlimited, and
+            global license for no consideration to use, reuse, delete or publish comments, in
+            accordance with <a href="http://www.aljazeera.com/aboutus/2011/01/201111681520872288.html"
+                class="InternalLink">Community Rules&nbsp;&amp; Guidelines</a>&nbsp;and&nbsp;<a href="http://www.aljazeera.com/aboutus/2011/01/20111168582648190.html"
+                    class="InternalLink">Terms and Conditions</a>.
+     </p>
+</div>
+<script src="/assets/scripts/GigyaComments.js" type="text/javascript"></script>
+<link href="/assets/styles/Comments.css?x=1" rel="stylesheet" type="text/css" />
+<div id="commentsDiv"></div>
+
+<script>
+        $(document).ready(function () {
+        GenCommentsPlugin('aje', $("meta[name='guid']").attr('content').toString(), 'commentsDiv', document.title);
+        });
+</script></div></section></div></div></div></div><div></div></div></div></div><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_417" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="4" allowedit="true" cellcount="9" layoutid="2" rows="1" columns="1" showmore="false" smpagesize="0" smtitle="Show More"><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_518" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="5" allowedit="true" guid="" path="GlobalFeaturedContentBlock" inherited="a1" applyzone="GlobalFeaturedContentBlock" applyzonechannel="General" applyzonekeepinhritance="true" isconnected="true" connectedto="Applied form General , Zone Name : GlobalFeaturedContentBlock" connectedtotype="1"><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_4115" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="4" allowedit="true"><div><div runat="server" custom-style="" showmore="false" smpagesize="0" smtitle="Show More" style="border-style:none;"><!-- googleoff: all --><section id="shows-catchup" class="page-section-full" xmlns:media="http://search.yahoo.com/mrss/"><h1 class="heading-section" cn="PageTitle">Featured</h1><article class="item blurb d1 t1-t2"><a onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/indepth/features/2015/06/magna-carta-challenging-800-years-liberty-150615071159752.html"><img src="/mritems/imagecache/mbdshows/mritems/Images/2015/6/15/b04bb4a69b6a4e95ad7ba14952349f9b_18.jpg" alt="Magna Carta: Challenging 800 years of 'liberty'" title="Magna Carta: Challenging 800 years of 'liberty'"></a><div>
+      <h4><a class="normalize-text" onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/indepth/features/2015/06/magna-carta-challenging-800-years-liberty-150615071159752.html">Magna Carta: Challenging 800 years of 'liberty'</a></h4>
+      <p>As heads of state mark the celebrated document's birthday, UK critics protest police crackdown on an eco-occupation.</p>
+      <p class="meta"><a href="/topics/categories/human_rights.html">Human Rights</a>, <a href="/topics/categories/environment.html">Environment</a>, <a href="/topics/subjects/history.html">History</a></p>
+    </div></article><article class="item blurb d2 t3-t4"><a onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/indepth/features/2015/06/music-lead-social-harmony-sri-lanka-150614064524342.html"><img src="/mritems/imagecache/mbdshows/mritems/Images/2015/6/14/972ead8c2cc94a58bc1ec5ede5dcd444_18.jpg" alt="Can music lead to social harmony in Sri Lanka?" title="Can music lead to social harmony in Sri Lanka?"></a><div>
+      <h4><a class="normalize-text" onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/indepth/features/2015/06/music-lead-social-harmony-sri-lanka-150614064524342.html">Can music lead to social harmony in Sri Lanka?</a></h4>
+      <p>After a long civil war, a children's orchestra aims to bridge gaps between Sinhalese and Tamil ethnic groups.</p>
+      <p class="meta"><a href="/topics/subjects/reconciliation.html">Reconciliation</a>, <a href="/topics/categories/war-conflict.html">War &amp; Conflict</a>, <a href="/topics/country/sri-lanka.html">Sri Lanka</a></p>
+    </div></article><article class="item blurb d3 t1-t2"><a onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/indepth/features/2015/06/australia-fight-decriminalise-prostitution-150614062103562.html"><img src="/mritems/imagecache/mbdshows/mritems/Images/2015/6/14/f32a87cbda1c426a9ecfb7a0cfbe2716_18.jpg" alt="Australia: The fight to decriminalise prostitution" title="Australia: The fight to decriminalise prostitution"></a><div>
+      <h4><a class="normalize-text" onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/indepth/features/2015/06/australia-fight-decriminalise-prostitution-150614062103562.html">Australia: The fight to decriminalise prostitution</a></h4>
+      <p>While other states have legalised sex work, South Australia still has some of the most repressive laws on the books.</p>
+      <p class="meta"><a href="/topics/subjects/prostitution.html">Prostitution</a>, <a href="/topics/categories/human_rights.html">Human Rights</a>, <a href="/topics/categories/business.html">Business &amp; Economy</a></p>
+    </div></article><article class="item blurb d4 t3-t4"><a onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/indepth/features/2015/06/millions-children-hard-work-india-150611082101330.html"><img src="/mritems/imagecache/mbdshows/mritems/Images/2015/6/11/63a9b774ffb54426b859dbb37bdd9127_18.jpg" alt="Millions of children hard at work in India" title="Millions of children hard at work in India"></a><div>
+      <h4><a class="normalize-text" onclick="sendGAEvent('Bottom Content','click','Featured Article');" href="/indepth/features/2015/06/millions-children-hard-work-india-150611082101330.html">Millions of children hard at work in India</a></h4>
+      <p>International Child Labour Day turns harsh spotlight on India, with the highest number of working children in the world.</p>
+      <p class="meta"><a href="/topics/subjects/child-labour.html">Child labour</a>, <a href="/topics/categories/human_rights.html">Human Rights</a>, <a href="/topics/country/india.html">India</a></p>
+    </div></article></section><!-- googleon: all --></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></div><div><div style="width:100%"><div cid="3" allowedit="true" cellcount="19" layoutid="2" rows="1" columns="1" showmore="false" smpagesize="0" smtitle="Show More"><div id="main-content-sidebar" class="da5-da6 ta5-ta6 da-pad ta-pad box db-showgrid " type="renderzoneblock"><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_4110" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="4" allowedit="true" cellcount="12" layoutid="2" rows="1" columns="1" showmore="false" smpagesize="0" smtitle="Show More"><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_5111" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="5" allowedit="true" guid="" path="AlJazeeraAdsBox" inherited="a1" applyzone="AlJazeeraAdsBox" applyzonechannel="General" applyzonekeepinhritance="true" isconnected="true" connectedto="Applied form General , Zone Name : AlJazeeraAdsBox" connectedtotype="1"><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_4110" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="4" allowedit="true" cellcount="2" layoutid="2" rows="1" columns="1" showmore="false" smpagesize="0" smtitle="Show More"><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_211" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="2" allowedit="true"><section class="divgptad" style="text-align: center;" type="renderzoneblock"><div><div runat="server" custom-style="" showmore="false" smpagesize="0" smtitle="Show More" style=";border-style:none"><!-- googleoff: index --><div id="div-gpt-ad-809429194207278781-1" xmlns:media="http://search.yahoo.com/mrss/">  
+      
+        <script type="text/javascript">
+            // <![CDATA[
+          try
+          {
+            googletag.display('div-gpt-ad-809429194207278781-1');
+          }
+          catch(ex)
+          {
+          console.log(ex);
+          }
+            // ]]>
+        </script>
+      
+      </div><!-- googleon: index --></div></div></section><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_4113" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="4" allowedit="true"><div><div runat="server" custom-style="" showmore="false" smpagesize="0" smtitle="Show More" style=";border-style:none"><!-- googleoff: index --><section class="page-section box-section-news da-all da-pad ta-all ta-pad m-hide" xmlns:media="http://search.yahoo.com/mrss/" xmlns:xs="http://www.w3.org/2001/XMLSchema"><h1 class="heading-section">Related</h1><article class="blurb-wide clearfix"><a href="http://www.aljazeera.com/watch_now/"><img width="100%" class="db1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2015/1/7/201517114428980734_20.jpg" alt="LIVE STREAM: Latest updates" title="LIVE STREAM: Latest updates"></a><div class="db2-db3">
+      <h1 class="cntype-2008224155317686770"><a href="http://www.aljazeera.com/watch_now/">LIVE STREAM: Latest updates</a></h1>
+      <p>Watch live television coverage on the latest developments on deadly attack on satirical magazine in Paris.</p>
+      <p class="meta da-clear">
+    </div></article><article class="blurb-wide clearfix"><a href="/news/europe/2015/01/cartoonists-react-charlie-hebdo-attack-201517171624156381.html"><img width="100%" class="db1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2015/1/7/201517172151839734_20.jpg" alt="Cartoonists react to Charlie Hebdo attack" title="Cartoonists react to Charlie Hebdo attack"></a><div class="db2-db3">
+      <h1 class="cntype-200771816342556199"><a href="/news/europe/2015/01/cartoonists-react-charlie-hebdo-attack-201517171624156381.html">Cartoonists react to Charlie Hebdo attack</a></h1>
+      <p>Cartoonists across the world react to the killing of their peers in Paris by turning to their trade.</p>
+      <p class="meta da-clear"><a href="/topics/regions/europe.html">Europe</a></p>
+    </div></article><ul class="list da-clear">
+    <li><a href="/blogs/europe/2012/09/37941.html">Charlie Hebdo making the headlines</a></li>
+  </ul></section><!-- googleon: index --></div></div></div></div><div></div></div></div></div><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_4114" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="4" allowedit="true"></div></div><div></div></div></div></div><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_4115" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="4" allowedit="true" cellcount="17" layoutid="2" rows="1" columns="1" showmore="false" smpagesize="0" smtitle="Show More"><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_5116" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="5" allowedit="true" guid="" path="LatestNewsContent" inherited="a1" applyzone="LatestNewsContent" applyzonechannel="General" applyzonekeepinhritance="true" isconnected="true" connectedto="Applied form General , Zone Name : LatestNewsContent" connectedtotype="1"><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_4110" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="4" allowedit="true" cellcount="3" layoutid="3" rows="2" columns="1" showmore="false" smpagesize="0" smtitle="Show More"><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_221" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="2" allowedit="true"></div></div><div></div></div><div><div style="width:100%"><div cid="2" allowedit="true"><div><div runat="server" custom-style="" showmore="false" smpagesize="0" smtitle="Show More" style=";border-style:none"><!-- googleoff: index --><section class="page-section box-section-news da-all da-pad ta-all ta-pad" xmlns:media="http://search.yahoo.com/mrss/" xmlns:xs="http://www.w3.org/2001/XMLSchema"><h1 class="heading-section TS_MainTitle" cn="MainTitle">Latest News</h1><article class="blurb-wide clearfix"><a href="/news/2015/06/africa-court-rule-arrest-sudan-bashir-150615065923527.html"><img width="100%" class="db1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2015/6/15/88892da26c154be982ae585c56d77c36_18.jpg" alt="Sudanese President Omar al-Bashir came to South Africa for the AU Summit in Sandton, Johannesburg [AP]" title="Sudan's Bashir leaves South Africa despite court order"></a><div class="db2-db3">
+      <h1 class="cntype-200771816342556199"><a href="/news/2015/06/africa-court-rule-arrest-sudan-bashir-150615065923527.html">Sudan's Bashir leaves South Africa despite court order</a></h1>
+      <p>President's plane leaves South Africa as court continues to hear case on whether he should be arrested on ICC warrant.</p>
+      <p class="meta da-clear"><a href="/topics/categories/politics.html">Politics</a>, <a href="/topics/country/south-africa.html">South Africa</a>, <a href="/topics/country/sudan.html">Sudan</a>, <a href="/topics/regions/africa.html">Africa</a></p>
+    </div></article><article class="blurb-wide clearfix"><a href="/news/2015/06/sponsored-yemen-peace-talks-open-geneva-150615062928919.html"><img width="100%" class="db1" src="/mritems/imagecache/mbdresplarge/mritems/Images/2015/6/15/7a5b71a10a1b4e37a993abeb53e289e2_18.jpg" alt="" title="UN-sponsored Yemen talks open in Geneva"></a><div class="db2-db3">
+      <h1 class="cntype-200771816342556199"><a href="/news/2015/06/sponsored-yemen-peace-talks-open-geneva-150615062928919.html">UN-sponsored Yemen talks open in Geneva</a></h1>
+      <p>Fresh air strikes reported in Yemen ahead of talks, expected to be attended by exiled government and Houthis.</p>
+      <p class="meta da-clear"><a href="/topics/categories/war-conflict.html">War &amp; Conflict</a>, <a href="/topics/regions/middleeast.html">Middle East</a>, <a href="/topics/country/yemen.html">Yemen</a>, <a href="/topics/country/saudi-arabia.html">Saudi Arabia</a>, <a href="/topics/country/iran.html">Iran</a></p>
+    </div></article></section><!-- googleon: index --></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_4118" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="4" allowedit="true" cellcount="20" layoutid="2" rows="1" columns="1" showmore="false" smpagesize="0" smtitle="Show More"><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_5119" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="5" allowedit="true" guid="" path="MostViewedToday" inherited="a1" applyzone="MostViewedToday" applyzonechannel="General" applyzonekeepinhritance="true" isconnected="true" connectedto="Applied form General , Zone Name : MostViewedToday" connectedtotype="1"><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_5117" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="5" allowedit="true" cellcount="3" layoutid="3" rows="2" columns="1" showmore="false" smpagesize="0" smtitle="Show More"><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_221" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="2" allowedit="true"></div></div><div></div></div><div><div style="width:100%"><div cid="2" allowedit="true"><div><div runat="server" custom-style="" showmore="false" smpagesize="0" smtitle="Show More" style=";border-style:none"><!-- googleoff: index --><section class="page-section box-section ta-all ta-pad da-pad da-all" xmlns:media="http://search.yahoo.com/mrss/"><h1 class="heading-section">Most viewed</h1>
+  <ol class="list">
+    <li><a onclick="sendGAEvent('Right Lane','click','Most Emailed Articles');" href="/news/2015/06/africa-court-rule-arrest-sudan-bashir-150615065923527.html" target="">Sudan's Bashir leaves South Africa despite court order</a></li>
+    <li><a onclick="sendGAEvent('Right Lane','click','Most Emailed Articles');" href="/news/2015/06/zoo-animals-loose-georgia-deadly-floods-150614082152171.html" target="">Zoo animals on the loose in Georgia amid deadly floods</a></li>
+    <li><a onclick="sendGAEvent('Right Lane','click','Most Emailed Articles');" href="/news/2015/06/suicide-bombers-attack-police-hq-chad-capital-150615095910055.html" target="">Suicide bombers attack police HQ in Chad's capital</a></li>
+    <li><a onclick="sendGAEvent('Right Lane','click','Most Emailed Articles');" href="/news/2015/06/neurosurgeon-attempt-world-head-transplant-150613072123910.html" target="">Neurosurgeon to attempt world's first head transplant</a></li>
+    <li><a onclick="sendGAEvent('Right Lane','click','Most Emailed Articles');" href="/indepth/opinion/2014/10/bashir-calculated-diplomatic-d-2014102951436428243.html" target="">Bashir's calculated diplomatic dance</a></li>
+    <li><a onclick="sendGAEvent('Right Lane','click','Most Emailed Articles');" href="/news/2015/06/turkey-chp-leader-urges-opposition-form-coalition-150615090318730.html" target="">Turkey's Erdogan urged to act in line with constitution</a></li>
+    <li><a onclick="sendGAEvent('Right Lane','click','Most Emailed Articles');" href="/programmes/insidestory/2015/06/african-union-150614172414531.html" target="">African Union in name only?</a></li>
+    <li><a onclick="sendGAEvent('Right Lane','click','Most Emailed Articles');" href="/news/2015/06/sponsored-yemen-peace-talks-open-geneva-150615062928919.html" target="">UN-sponsored Yemen talks open in Geneva</a></li>
+    <li><a onclick="sendGAEvent('Right Lane','click','Most Emailed Articles');" href="/indepth/features/2015/06/magna-carta-challenging-800-years-liberty-150615071159752.html" target="">Magna Carta: Challenging 800 years of 'liberty'</a></li>
+    <li><a onclick="sendGAEvent('Right Lane','click','Most Emailed Articles');" href="/indepth/opinion/2015/06/setback-kurdish-rule-pkk-ocalan-erdogan-150614072310318.html" target="">A setback for Kurdish self-rule?</a></li>
+  </ol></section><!-- googleon: index --></div></div></div></div><div></div></div></div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div></div></div></div><div></div></div></div></div></div>
+</div>
+
+<div id="Container_Zone_3" handle="footer" type="regular"></div>
+
+<div>
+<div><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_4113" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="4" allowedit="true"><section class="dark oryx-custom-clear" type="renderzoneblock"><div><div runat="server" custom-style="" showmore="false" smpagesize="0" smtitle="Show More" style=";border-style:none"><?xml version="1.0" encoding="utf-16"?><!-- googleoff: index --><div class="wrapper" xmlns:media="http://search.yahoo.com/mrss/" xmlns:msxsl="urn:schemas-microsoft-com:xslt" xmlns:systemclass="Oryx"><h1 class="heading-section">Programme Highlights</h1><article class=" item blurb  t1 d1"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/hardearned/">Hard Earned</a></h4><a href="/programmes/hardearned/2015/06/hard-earned-everyday-struggles-150610080046884.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img src="/mritems/imagecache/mbdresplarge/mritems/Images/2015/6/10/7a445505a7a346c1988f9006c0502605_18.jpg" alt="The American Dream" title="The American Dream"></a><h4><a href="/programmes/hardearned/2015/06/hard-earned-everyday-struggles-150610080046884.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">The American Dream</a></h4><p>We follow three American families as they fight to keep up with their financial demands while pursuing their dreams.</p><p class="meta"><a href="/topics/categories/poverty-development.html">Poverty &amp; Development</a>, <a href="/topics/regions/us-canada.html">US &amp; Canada</a>, <a href="/topics/subjects/recession.html">Recession</a></p></article><article class=" item blurb  t2 d2"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/talktojazeera/">Talk to Al Jazeera</a></h4><a href="/programmes/talktojazeera/2014/11/ali-karti-bashir-only-person-trusted-201411894748432142.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img src="/mritems/imagecache/mbdresplarge/mritems/Images/2014/11/8/201411811542571580_20.jpg" alt="Ali Karti: Bashir 'the only person trusted'" title="Ali Karti: Bashir 'the only person trusted'"></a><h4><a href="/programmes/talktojazeera/2014/11/ali-karti-bashir-only-person-trusted-201411894748432142.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Ali Karti: Bashir 'the only person trusted'</a></h4><p>Sudan's foreign minister on the state of his country and whether Omar al-Bashir will stand for re-election next year.</p><p class="meta"><a href="/topics/categories/human_rights.html">Human Rights</a>, <a href="/topics/categories/politics.html">Politics</a>, <a href="/topics/country/sudan.html">Sudan</a></p></article><article class=" item blurb  t3 d3"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/witness/">Witness</a></h4><a href="/programmes/witness/2015/06/guantanamo-child-omar-khadr-150531111517474.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img src="/mritems/imagecache/mbdresplarge/mritems/Images/2015/6/1/512272f28a78464585888ac46805b405_18.jpg" alt="Guantanamo's Child - Omar Khadr" title="Guantanamo's Child - Omar Khadr"></a><h4><a href="/programmes/witness/2015/06/guantanamo-child-omar-khadr-150531111517474.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Guantanamo's Child - Omar Khadr</a></h4><p>Unprecedented access and an exclusive interview with Omar Khadr during his first days of freedom.</p><p class="meta"><a href="/topics/categories/human_rights.html">Human Rights</a>, <a href="/topics/subjects/guantanamo-bay.html">Guantanamo Bay </a>, <a href="/topics/categories/war-conflict.html">War &amp; Conflict</a></p></article><article class=" item blurb  t4 d4"><h4 class="heading-section" style="padding-bottom:0px"><a class="showStrandName" href="/programmes/peopleandpower/">People & Power</a></h4><a href="/programmes/peopleandpower/2015/06/canada-lost-women-150610131159600.html" onclick="sendGAEvent('Bottom Content','click','Program Highlights');" class="play"><img src="/mritems/imagecache/mbdresplarge/mritems/Images/2015/6/10/9dc37afabfc449af948493d3e3b5b48e_18.jpg" alt="Canada's Lost Women" title="Canada's Lost Women"></a><h4><a href="/programmes/peopleandpower/2015/06/canada-lost-women-150610131159600.html" style="text-transform: none;" onclick="sendGAEvent('Bottom Content','click','Program Highlights');">Canada's Lost Women</a></h4><p>An investigation into the abuse and exploitation of aboriginal women in Canada and the authorities' failure to stop it.</p><p class="meta"><a href="/topics/categories/human_rights.html">Human Rights</a>, <a href="/topics/subjects/women.html">Women</a>, <a href="/topics/country/canada.html">Canada</a></p></article></div><!-- googleon: index --></div></div></section><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+</div>
+
+<div>
+<!-- googleoff: index -->
+<div><div><div style="display: block;"><input class="layout_column_count" name="layout_column_count" value="1" type="hidden"> <input id="layout_col_break_points_4112" class="layout_col_break_points" name="layout_col_break_points" value="100" type="hidden"><input class="layout_locked" name="layout_locked" value="0" type="hidden"></div><div><div><div style="width:100%"><div cid="4" allowedit="true"><div><div runat="server" custom-style="" style=";border-style:none"><footer id="site-footer">
+	<nav class="nav-social wrapper clearfix" id="footer-nav">
+		<a href="#"><!--[if (!IE) | (gt IE 8)]><!--></a><img alt="Al Jazeera" class="t1 da1" id="footer-logo" onerror="this.onerror=null; this.src='/mritems/images/site/logo-footer.png'" src="/mritems/images/site/aje-logo-white.svg"> <!--<![endif]--><!--[if lte IE 8]><img class="t1 da1" id="footer-logo" src="img/logo-footer.png" alt="Al Jazeera" /><![endif]-->
+		<ul class="ta1-t4 da2-da4" id="footer-nav-main">
+			<li>
+				<a href="/news/">News</a></li>
+			<li>
+				<a href="/programmes/">Programmes</a></li>
+			<li>
+				<a href="/indepth/opinion/">Opinion</a></li>
+			<li>
+				<a href="/aboutus/">About</a></li>
+			<li>
+				<a href="/investigations/default.html">Investigations</a></li>
+			<li class="last">
+				<a href="http://video.aljazeera.com/channels/eng" target="_blank">Video</a></li>
+		</ul>
+		<ul class="ta5-ta6" id="footer-nav-social">
+			<li>
+				<a class="icon-facebook" href="http://www.facebook.com/aljazeera" target="_blank">Facebook</a></li>
+			<li>
+				<a class="icon-twitter" href="http://twitter.com/ajenglish" target="_blank">Twitter</a></li>
+			<li>
+				<a class="icon-google" href="http://plus.google.com/+aljazeera" target="_blank">Google+</a></li>
+			<li>
+				<a class="icon-rss" href="/xml/rss/all.xml" target="_blank">RSS</a></li>
+			<li>
+				<a class="icon-pod" href="/programmes/Podcasts.html" target="_blank">Podcast</a></li>
+			<li>
+				<a class="icon-youtube" href="http://www.youtube.com/user/aljazeeraenglish" target="_blank">YouTube</a></li>
+		</ul>
+	</nav>
+	<div class="wrapper clearfix">
+		<div class="ta1-ta2">
+			<nav class="m1 da1 da-clear">
+				<h1 class="heading-list">
+					About</h1>
+				<ul class="list">
+					<li>
+						<a href="/aboutus/">About Us</a></li>
+					<li>
+						<a href="/pressoffice/">Press Office</a></li>
+					<li>
+						<a href="/pressoffice/2012/04/2012416161854868952.html">Awards</a></li>
+					<li>
+						<a href="/aboutus/2006/11/2008525185733692771.html">Code of Ethics</a></li>
+					<li>
+						<a href="/aboutus/2011/01/20111168582648190.html">Terms and Conditions</a></li>
+					<li>
+						<a href="/aboutus/2011/01/201111681520872288.html">Community Guidelines</a></li>
+				</ul>
+			</nav>
+			<nav class="m2 da2">
+				<h1 class="heading-list">
+					Connect</h1>
+				<ul class="list">
+					<li>
+						<a href="/contactus/">Contact Us</a></li>
+					<li>
+						<a href="/mobile/">Mobile</a></li>
+					<li>
+						<a href="/aboutus/follow-us.html">Social</a></li>
+					<li>
+						<a href="/watchaje">Channel Finder</a></li>
+					<li>
+						<a href="/watch_now/epgschedule.html">Broadcast Schedule</a></li>
+					<li>
+						<a href="/programmes/Podcasts.html">Podcasts</a></li>
+					<li>
+						<a href="/newsletter">Newsletter</a></li>
+					<li>
+						<a href="/aboutus/digital-magazine.html">Digital Magazine</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="ta3-ta4">
+			<nav class="m1 da3">
+				<h1 class="heading-list">
+					Our Channels</h1>
+				<ul class="list">
+					<li>
+						<a href="http://america.aljazeera.com/" target="_blank">AJ America</a></li>
+					<li>
+						<a href="http://ajplus.net" target="_blank">AJ +</a></li>
+					<li>
+						<a href="http://aljazeera.net" target="_blank">AJ Arabic</a></li>
+					<li>
+						<a href="http://balkans.aljazeera.net" target="_blank">AJ Balkans</a></li>
+					<li>
+						<a href="http://www.aljazeera.com.tr" target="_blank">AJ Turk</a></li>
+					<li>
+						<a href="http://mubasher.aljazeera.net" target="_blank">AJ Mubasher</a></li>
+					<li>
+						<a href="http://doc.aljazeera.net" target="_blank">AJ Documentary</a></li>
+				</ul>
+			</nav>
+			<nav class="m2 da4">
+				<h1 class="heading-list">
+					Our Network</h1>
+				<ul class="list">
+					<li>
+						<a href="http://studies.aljazeera.net/en/" target="_blank">AJ Center for Studies</a></li>
+					<li>
+						<a href="http://forum.aljazeera.net" target="_blank">AJ Forum</a></li>
+					<li>
+						<a href="http://training.aljazeera.net" target="_blank">AJ Training Center</a></li>
+					<li>
+						<a href="http://festival.aljazeera.net" target="_blank">AJ Film Festival</a></li>
+					<li>
+						<a href="http://learning.aljazeera.net" target="_blank">AJ Learning</a></li>
+					<li>
+						<a href="http://partners.aljazeera.net" target="_blank">AJ Hotel Partners</a></li>
+				</ul>
+			</nav>
+		</div>
+		<div class="ta5-ta6">
+			<nav class="m1 da5">
+				<h1 class="heading-list">
+					&nbsp;</h1>
+				<ul class="list">
+				</ul>
+			</nav>
+			<nav class="m2 da6">
+				<p class="copyright">
+					© 2015 Al Jazeera Media Network</p>
+			</nav>
+		</div>
+	</div>
+</footer>
+<div class="classicviewt">
+	&nbsp;</div>
+</div></div><!--PageLoadedSucessfully--></div></div><div></div></div></div></div></div>
+<!-- googleon: index -->
+</div>
+</div>
+
+<!-- footer tags -->
+<!-- Article Footer -->
+
+<!-- BEGIN EFFECTIVE MEASURE CODE -->
+<script type="text/javascript">
+  (function() {
+    var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+    em.src = ('https:' == document.location.protocol ? 'https://me-ssl' : 'http://me-cdn') + '.effectivemeasure.net/em.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+  })();
+</script>
+<noscript>
+<img src="//me.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+</noscript>
+<!-- END EFFECTIVE MEASURE CODE -->
+
+<script src="/assets/scripts/android-smartbanner.js?x=1"></script>
+<script type="text/javascript">
+        $(function () { $.smartbanner({ title:'Al Jazeera English',author:'Al Jazeera English', icon:'/assets/images/aljazeera-logo.png'}) });
+    </script>
+<script src="//platform.twitter.com/widgets.js" type="text/javascript"></script>
+<!-- Chartbeat Analytics -->
+<script type='text/javascript'>
+    var _sf_async_config={};
+    /** CONFIGURATION START **/
+
+    var _author = "";
+    var _sections = "";
+    var _url = "";
+    var _channel = "";
+
+    try {
+        _author = getMetaContentByName("author");
+        if (!_author)
+            _author = "Al Jazeera";
+    }
+    catch (Error) {
+        console.log(Error);
+    }
+
+    try {
+        _url = getMetaContentByName("url");
+	_url = _url.replace("http://www.aljazeera.com","");
+        if (!_url)
+            _url = window.location;
+    }
+    catch (Error) {
+        console.log(Error);
+    }
+
+    try {
+        _channel = getMetaContentByName("channel");
+        _section = getArticleTopics();
+
+        if (_channel) {
+            if (_section) {
+                _section = _channel + ', ' + _section;
+            }
+            else {
+                _section = _channel;
+            }
+        }
+    }
+    catch (Error) {
+        console.log(Error);
+    }
+
+    _sf_async_config.uid = 3291;
+    _sf_async_config.domain = 'aljazeera.com';
+    _sf_async_config.useCanonical = true;
+    _sf_async_config.sections = _section;
+    _sf_async_config.authors = _author;
+    _sf_async_config.title = getMetaContentByName("title");
+    _sf_async_config.path = _url;
+
+    /** CONFIGURATION END **/
+    (function(){
+      function loadChartbeat() {
+        window._sf_endpt=(new Date()).getTime();
+        var e = document.createElement('script');
+        e.setAttribute('language', 'javascript');
+        e.setAttribute('type', 'text/javascript');
+        e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+        document.body.appendChild(e);
+      }
+      var oldonload = window.onload;
+      window.onload = (typeof window.onload != 'function') ?
+         loadChartbeat : function() { oldonload(); loadChartbeat(); };
+    })();
+</script>
+<!-- End Chartbeat Analytics -->
+<!-- Start MouseFlow analytics -->
+<script type="text/javascript">
+   var _mfq = _mfq || [];
+   (function() {
+       var mf = document.createElement("script"); mf.type = "text/javascript"; mf.async = true;
+       mf.src = "//cdn.mouseflow.com/projects/f9672d00-7a4d-4e54-8581-ee611286a05d.js";
+       document.getElementsByTagName("head")[0].appendChild(mf);
+   })();
+</script>
+<!-- End MouseFlow analytics -->
+ <!-- Google Analytics -->
+<script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-1615344-7', 'auto');
+ga('send', 'pageview');
+</script>
+<!-- End Google Analytics -->
+<!-- Start QCRI -->
+<script type="text/javascript">
+var owa_sampleRate = 1.0;
+var owa_baseUrl = 'http://track.qcri.org/';
+var owa_cmds = owa_cmds || [];
+owa_cmds.push(['setSiteId', 'www.aljazeera.com']);
+owa_cmds.push(['setCustomVar', 1, 'sampleRate', owa_sampleRate, 'page']);
+owa_cmds.push(['trackPageView']);
+ 
+(function() {
+	function load_owa() {	
+		var s = document.createElement('script');
+		s.type = 'text/javascript'; s.async = true;
+		s.src = owa_baseUrl + 'v2-track-min.js';
+		var x = document.getElementsByTagName('script')[0];
+		x.parentNode.insertBefore(s, x);
+		
+	}
+	var pageURL = 'http://www.aljazeera.com' + window.location.pathname;
+
+		if( owa_sampleRate == 1.0 || Math.random() > (1.0 - owa_sampleRate) ) {
+			if (window.attachEvent) {
+		    	window.attachEvent('onload', load_owa);
+			} else {
+		    	window.addEventListener('load', load_owa, false);
+			}
+		}
+	
+}());
+</script>
+<!-- End QCRI -->
+
+<!-- Quantcast Tag -->
+<script type="text/javascript">
+var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-DAMBunjxFvwVp"
+});
+</script>
+
+<noscript>
+<div style="display:none;">
+<img src="//pixel.quantserve.com/pixel/p-DAMBunjxFvwVp.gif" border="0" height="1" width="1" alt="Quantcast"/>
+</div>
+</noscript>
+<!-- End Quantcast tag --><!-- Start -->
+<script> 
+(function(a,b,c,d,e){function f(){var a=b.createElement("script");a.async=!0;
+a.src="//radar.cedexis.com/1/15249/radar.js";b.body.appendChild(a)}/\bMSIE 6/i
+.test(a.navigator.userAgent)||(a[c]?a[c](e,f,!1):a[d]&&a[d]("on"+e,f))})
+(window,document,"addEventListener","attachEvent","load");
+</script>  
+<!-- End -->
+<script type="text/javascript">
+$('#showing-on-now').on('click', function() {
+  ga('send', 'event', 'EPG', 'click', 'Show Now Link - Masthead');
+});
+$('#watch-now-link').on('click', function() {
+  ga('send', 'event', 'Watch Live', 'click', 'Watch Now Link - Masthead');
+});
+$('#watchnow').on('click', function() {
+  ga('send', 'event', 'Watch Live', 'click', 'Watch Now Icon - Top - Mobile');
+});
+$('#showing-on-next').on('click', function() {
+  ga('send', 'event', 'EPG', 'click', 'Show Next Link - Masthead');
+});
+$('#nav-topics').on('click', function() {
+  ga('send', 'event', 'Topics', 'click', 'Top Topics Bar - Masthead');
+});
+$('#boxQOTD').on('click', function() {
+  ga('send', 'event', 'QOTD', 'click', 'Quote of the Day Block- Masthead');
+});
+$('#boxCallout').on('click', function() {
+  ga('send', 'event', 'Callout', 'click', 'Left Callout Block - Masthead');
+});
+$('#weatherwidget').on('click', function() {
+  ga('send', 'event', 'Weather', 'click', 'Weather Widget - Masthead');
+});
+
+
+</script>
+
+
+     <!--PageLoadedSucessfully-->
+    </form>
+</body>
+</html>

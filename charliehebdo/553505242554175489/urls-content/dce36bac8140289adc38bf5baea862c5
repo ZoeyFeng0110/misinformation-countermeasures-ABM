@@ -1,0 +1,1778 @@
+HTTP/1.1 303 See Other
+Server: Varnish
+x-r: 0
+Location: http://www.nytimes.com/glogin?URI=http%3A%2F%2Fnews.blogs.nytimes.com%2F2015%2F01%2F09%2Fupdates-on-the-manhunt-for-the-charlie-hebdo-suspects%2F%3Fsmid%3Dtw-nytimes%26_r%3D0
+Accept-Ranges: bytes
+Date: Mon, 15 Jun 2015 12:56:14 GMT
+X-Varnish: 1055956335
+Age: 0
+Via: 1.1 varnish
+X-Cache: MISS
+X-API-Version: 5-5b
+X-PageType: blog
+Connection: close
+X-Frame-Options: DENY
+Set-Cookie: RMID=007f01011111557ecb6e0002;Path=/; Domain=.nytimes.com;Expires=Tue, 14 Jun 2016 12:56:14 UTC
+
+HTTP/1.1 302 Found
+Date: Mon, 15 Jun 2015 12:56:14 GMT
+Server: Apache
+Set-Cookie: NYT-S=0MVuadhUGQG9DDXrmvxADeHDofDlyA2GTydeFz9JchiAIUFL2BEX5FWcV.Ynx4rkFI; expires=Wed, 15-Jul-2015 12:56:14 GMT; path=/; domain=.nytimes.com
+Location: http://news.blogs.nytimes.com/2015/01/09/updates-on-the-manhunt-for-the-charlie-hebdo-suspects/?smid=tw-nytimes&_r=0
+Content-Length: 0
+nnCoection: close
+Content-Type: text/html; charset=UTF-8
+
+HTTP/1.1 200 OK
+Server: Apache
+Link: <http://nyti.ms/1KrNrVn>; rel=shortlink
+Link: <http://news.blogs.nytimes.com/json>; rel="https://github.com/WP-API/WP-API"
+Cache-Control: no-cache
+Content-Type: text/html; charset=UTF-8
+Cteonnt-Length: 177512
+Accept-Ranges: bytes
+Date: Mon, 15 Jun 2015 12:56:16 GMT
+X-Varnish: 1000273571
+Age: 0
+Via: 1.1 varnish
+X-Cache: MISS
+X-API-Version: 5-5b
+X-PageType: blog
+Connection: close
+Content-Encoding: gzip
+Transfer-Encoding: chunked
+
+<!DOCTYPE html>
+<!--[if (gt IE 9)|!(IE)]> <!--> <html lang="en" class="no-js has-comments blog-news section-"  itemscope xmlns:og="http://opengraphprotocol.org/schema/"> <!--<![endif]-->
+<!--[if IE 9]> <html lang="en" class="no-js ie9 lt-ie10 has-comments blog-news section-" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if IE 8]> <html lang="en" class="no-js ie8 lt-ie10 lt-ie9 has-comments blog-news section-" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<!--[if (lt IE 8)]> <html lang="en" class="no-js lt-ie10 lt-ie9 lt-ie8 has-comments blog-news section-" xmlns:og="http://opengraphprotocol.org/schema/"> <![endif]-->
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" /><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o?o:n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({QJf3ax:[function(e,n){function t(e){function n(n,t,a){e&&e(n,t,a),a||(a={});for(var u=c(n),f=u.length,s=i(a,o,r),p=0;f>p;p++)u[p].apply(s,t);return s}function a(e,n){f[e]=c(e).concat(n)}function c(e){return f[e]||[]}function u(){return t(n)}var f={};return{on:a,emit:n,create:u,listeners:c,_events:f}}function r(){return{}}var o="nr@context",i=e("gos");n.exports=t()},{gos:"7eSDFh"}],ee:[function(e,n){n.exports=e("QJf3ax")},{}],3:[function(e,n){function t(e){return function(){r(e,[(new Date).getTime()].concat(i(arguments)))}}var r=e("handle"),o=e(1),i=e(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(e,n){window.NREUM[n]=t("api-"+n)}),n.exports=window.NREUM},{1:12,2:13,handle:"D5DuLP"}],"7eSDFh":[function(e,n){function t(e,n,t){if(r.call(e,n))return e[n];var o=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return e[n]=o,o}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],gos:[function(e,n){n.exports=e("7eSDFh")},{}],handle:[function(e,n){n.exports=e("D5DuLP")},{}],D5DuLP:[function(e,n){function t(e,n,t){return r.listeners(e).length?r.emit(e,n,t):(o[e]||(o[e]=[]),void o[e].push(n))}var r=e("ee").create(),o={};n.exports=t,t.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(e,n){n.exports=e("XL7HBI")},{}],XL7HBI:[function(e,n){function t(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:i(e,o,function(){return r++})}var r=1,o="nr@id",i=e("gos");n.exports=t},{gos:"7eSDFh"}],G9z0Bl:[function(e,n){function t(){var e=d.info=NREUM.info,n=f.getElementsByTagName("script")[0];if(e&&e.licenseKey&&e.applicationID&&n){c(p,function(n,t){n in e||(e[n]=t)});var t="https"===s.split(":")[0]||e.sslForHttp;d.proto=t?"https://":"http://",a("mark",["onload",i()]);var r=f.createElement("script");r.src=d.proto+e.agent,n.parentNode.insertBefore(r,n)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=e("handle"),c=e(1),u=(e(2),window),f=u.document,s=(""+location).split("?")[0],p={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-632.min.js"},d=n.exports={offset:i(),origin:s,features:{}};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),u.addEventListener("load",t,!1)):(f.attachEvent("onreadystatechange",r),u.attachEvent("onload",t)),a("mark",["firstbyte",i()])},{1:12,2:3,handle:"D5DuLP"}],loader:[function(e,n){n.exports=e("G9z0Bl")},{}],12:[function(e,n){function t(e,n){var t=[],o="",i=0;for(o in e)r.call(e,o)&&(t[i]=n(o,e[o]),i+=1);return t}var r=Object.prototype.hasOwnProperty;n.exports=t},{}],13:[function(e,n){function t(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(0>o?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=t},{}]},{},["G9z0Bl"]);</script>
+		<meta name="communityAssetLabels" content="NYT_Blogs" />
+<meta name="communityAssetTaxonomy" content="blogs/news/Paris Attack Updates, Day 3: Two Hostage Situations ( 20150109 )" />
+<meta name="communityAssetURL" content="http://news.blogs.nytimes.com/2015/01/09/updates-on-the-manhunt-for-the-charlie-hebdo-suspects/" />
+<meta name="live_updates_json" content="http://static01.nyt.com/live-coverage/news/updates-on-the-manhunt-for-the-charlie-hebdo-suspects.json" /><meta name="PT" content="Blogs" />
+<meta name="PST" content="Blog Post" />
+<meta name="sourceApp" content="blogs" />
+<meta name="author" content="Mike Mcphate and Robert Mackey" />
+<meta name="CLMST" content="By Mike Mcphate and Robert Mackey" />
+<meta name="byl" content="By Mike Mcphate and Robert Mackey" />
+<meta name="GBLC" content="Europe">
+<meta name="PUV" content="normal" />
+<meta property="article:published_time" itemprop="datePublished" content="2015-01-09" />
+<meta name="PUD" content="20150109" />
+<meta name="pdate" content="20150109" />
+<meta name="ptime" content="20150109051711" />
+<meta name="utime" content="20150110133305" />
+<meta property="article:modified_time" itemprop="dateModified" content="2015-01-10T13:33:05+00:00" />
+<meta name="DISPLAYDATE" content="January 9, 2015" />
+<meta name="dat" content="January 9, 2015" />
+<meta itemprop="articleSection" property="article:section" content="" />
+<meta name="CG" content="" />
+<meta name="SCG" content="news" />
+<meta name="BN" content="news" />
+<meta name="org" content="Charlie Hebdo;Paris (France);Terrorism">
+<meta property="article:tag" content="Charlie Hebdo" />
+<meta property="article:tag" content="Paris (France)" />
+<meta property="article:tag" content="Terrorism" />
+<meta property="article:tag" content="Europe" />
+<meta property="article:tag" content="blockinterstitial" />
+<meta name="keywords" content="Charlie Hebdo,Paris (France),Terrorism,Europe,blockinterstitial" />
+<meta name="news_keywords" content="Charlie Hebdo" />
+<meta name="description" content="A major police operation was underway northeast of Paris in the search for the suspects in Wednesday&#8217;s shooting at the offices of the satirical newspaper Charlie Hebdo in Paris. Times reporters and editors are providing live updates from the manhunt." />
+<meta name="hdl" content="Paris Attack Updates, Day 3: Two Hostage Situations" />
+<meta property="og:title" content="Paris Attack Updates, Day 3: Two Hostage Situations" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://news.blogs.nytimes.com/2015/01/09/updates-on-the-manhunt-for-the-charlie-hebdo-suspects/" />
+<meta property="og:site_name" content="" />
+<meta property="og:description" content="A major police operation was underway northeast of Paris in the search for the suspects in Wednesday&#8217;s shooting at the offices of the satirical newspaper Charlie Hebdo in Paris. Times reporters and editors are providing live updates from the manhunt." />
+<meta property="og:image" content="http://graphics8.nytimes.com/images/2015/01/09/world/09Paris01/09Paris01-facebookJumbo.jpg"/>
+<meta name="thumbnail_150" content="http://graphics8.nytimes.com/images/2015/01/09/world/09Paris01/09Paris01-thumbLarge.jpg"/>
+<meta name="twitter:card" value="summary"><meta name="twitter:title" content="Paris Attack Updates, Day 3: Two Hostage Situations" />
+<meta name="twitter:url" content="http://news.blogs.nytimes.com/2015/01/09/updates-on-the-manhunt-for-the-charlie-hebdo-suspects/" />
+<meta name="twitter:description" content="A major police operation was underway northeast of Paris in the search for the suspects in Wednesday&#8217;s shooting at the offices of the satirical newspaper Charlie Hebdo in Paris. Times reporters and editors are providing live updates from the manhunt." />
+<meta name="twitter:image" content="http://graphics8.nytimes.com/images/2015/01/09/world/09Paris01/09Paris01-thumbLarge.jpg"/>
+<meta itemprop="thumbnailUrl" content="http://graphics8.nytimes.com/images/2015/01/09/world/09Paris01/09Paris01-thumbLarge.jpg" name="thumbnail" />
+<link rel="alternate" type="application/rss+xml" title="News &raquo; Paris Attack Updates, Day 3: Two Hostage Situations Comments Feed" href="http://news.blogs.nytimes.com/2015/01/09/updates-on-the-manhunt-for-the-charlie-hebdo-suspects/feed/" />
+<link rel='prev' title='Updates on the 2nd Day of Search for Suspects in Charlie Hebdo Shooting' href='http://news.blogs.nytimes.com/2015/01/08/updates-on-charlie-hebdo-shooting/' />
+<link rel='next' title='What We’re Reading' href='http://news.blogs.nytimes.com/2015/01/09/what-were-reading-20/' />
+<link rel='canonical' href='http://news.blogs.nytimes.com/2015/01/09/updates-on-the-manhunt-for-the-charlie-hebdo-suspects/' />
+<link rel='shortlink' href='http://nyti.ms/1KrNrVn' />
+<link rel='https://github.com/WP-API/WP-API' href='http://news.blogs.nytimes.com/json' />
+<meta name="adxPage" content="blog.nytimes.com/news/post" />
+<meta name="ad_sensitivity" content="tragedy" />
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://news.blogs.nytimes.com/feed/" />
+<meta property="article:collection" content="http://json8.nytimes.com/services/json/sectionfronts/index.jsonp" />
+<link rel="alternate" href="http://mobile.nytimes.com/blogs/news/2015/01/09/updates-on-the-manhunt-for-the-charlie-hebdo-suspects/" />
+<link rel="alternate" type="application/rss+xml" title="News &raquo; Paris Attack Updates, Day 3: Two Hostage Situations Live Updates Feed" href="http://news.blogs.nytimes.com/2015/01/09/updates-on-the-manhunt-for-the-charlie-hebdo-suspects/live-updates/" />
+			<title>Paris Attack Updates, Day 3: Two Hostage Situations - NYTimes.com</title>
+            <!--[if (gt IE 9)|!(IE)]> <!-->
+    <link rel="stylesheet" type="text/css" media="screen" href="http://a1.nyt.com/assets/blogs/20150611-152624/css/blogs/styles.css" />
+<!--<![endif]-->
+<!--[if lte IE 9]>
+    <link rel="stylesheet" type="text/css" media="screen" href="http://a1.nyt.com/assets/blogs/20150611-152624/css/blogs/styles-ie.css" />
+<![endif]-->
+<link rel="stylesheet" type="text/css" media="screen" href="http://a1.nyt.com/assets/blogs/20150611-152624/css/blogs/news.css" />
+<link rel="stylesheet" type="text/css" media="print" href="http://a1.nyt.com/assets/blogs/20150611-152624/css/blogs/styles-print.css" />
+<script>
+var NYT = NYT || {}, NYTD = NYTD || {};
+</script>
+                        			<script src="http://a1.nyt.com/assets/blogs/20150611-152624/js/blogs/ad-loader.js"></script>
+				<script>window.NYTADX.buildAdx(["Charlie Hebdo,Paris (France),Terrorism","Europe","blockinterstitial"], 'tragedy', true)</script>
+	<script>
+var require = {
+    baseUrl: 'http://a1.nyt.com/assets/',
+    waitSeconds: 20,
+    paths: {
+        'foundation': 'blogs/20150611-152624/js/foundation',
+        'shared': 'blogs/20150611-152624/js/shared',
+        'blogs': 'blogs/20150611-152624/js/blogs',
+        'auth/mtr': 'http://graphics8.nytimes.com/js/mtr',
+        'auth/growl': 'http://graphics8.nytimes.com/js/auth/growl/default',
+        'vhs': 'http://graphics8.nytimes.com/video/vhs/build/vhs-2.x.min'
+    }
+};
+</script>
+<!--[if (gte IE 9)|!(IE)]> <!-->
+<script data-main="foundation/main" src="http://a1.nyt.com/assets/blogs/20150611-152624/js/foundation/lib/framework.js"></script>
+<!--<![endif]-->
+<!--[if lt IE 9]>
+<script>
+require.map = { '*': { 'foundation/main': 'foundation/legacy_main' } };
+</script>
+<script data-main="foundation/legacy_main" src="http://a1.nyt.com/assets/blogs/20150611-152624/js/foundation/lib/framework.js"></script>
+<![endif]-->
+<script>
+require(['foundation/main'], function () {
+    require(['auth/mtr']);
+});
+</script>
+<script>
+window.magnum.processFlags(["limitFabrikSave","facebookOauthButton"]);
+</script>
+    	</head><body class="single single-post postid-1696 blog-universal nyt-blog-news live-blogging-desktop full-width-headline" id="" data-env="production" data-region="ewr1">
+	<div id="shell" class="shell">
+			<header id="masthead" class="masthead masthead-theme-standard" role="banner">
+    <div class="container">
+        <div class="quick-navigation button-group">
+            <button class="button sections-button"><i class="icon sprite-icon"></i><span class="button-text">Sections</span></button>
+            <button class="button home-button" data-href="http://www.nytimes.com/" title="Go to the home page to see the latest top stories."><i class="icon sprite-icon"></i>
+                <span class="button-text">Home</span>
+            </button>
+            <button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button>
+            <a class="button skip-button skip-to-content visually-hidden focusable" href="#main">Skip to content</a>
+                                </div><!-- close button-group -->
+        <div class="branding">
+            <h2 class="branding-heading">
+                <a href="http://www.nytimes.com/">
+                    <script>window.magnum.writeLogo('small', 'http://a1.nyt.com/assets/blogs/20150611-152624/images/foundation/logos/', '', 'masthead-theme-standard', 'standard');</script>
+                </a>
+            </h2>
+        </div><!-- close branding -->
+        <div class="story-meta">
+    <h6 class="kicker">
+        <span class="kicker-label">
+			            <a href="http://news.blogs.nytimes.com">
+                News            </a>
+			        </span>
+
+                <span class="pipe">|</span>
+        Paris Attack Updates, Day 3: Two Hostage Situations        
+    </h6>
+</div><!-- close story-meta -->
+
+
+        <div id="TopNavAd" class="ad top-nav-ad nocontent robots-nocontent">
+    <div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div></div>
+        <div class="user-tools">
+            <div id="sharetools-masthead" class="sharetools theme-classic"
+	 data-shares="email,facebook,twitter,show-all|More"
+	 data-url="http://news.blogs.nytimes.com/2015/01/09/updates-on-the-manhunt-for-the-charlie-hebdo-suspects/"
+	 data-title="Paris Attack Updates, Day 3: Two Hostage Situations"
+	 data-description="&lt;span class=&quot;excerpt-inner&quot;&gt;A major police operation was underway northeast of Paris in the search for the suspects in Wednesday&#039;s shooting at the offices of the satirical newspaper Charlie Hebdo in Paris. Times reporters and editors are providing live updates from the manhunt.&lt;/span&gt;&lt;a href=&quot;http://news.blogs.nytimes.com/2015/01/09/updates-on-the-manhunt-for-the-charlie-hebdo-suspects/&quot; class=&quot;more-link&quot;&gt;Read&nbsp;more...&lt;/a&gt;"
+	data-publish-date="January 9, 2015 5:17 am">
+<div class="ad sharetools-inline-article-ad hidden"></div>
+</div><!-- close shareTools -->
+            <button class="button search-button"><i class="icon sprite-icon"></i><span class="button-text">Search</span></button>
+            <div id="Bar1" class="ad bar1-ad nocontent robots-nocontent"></div>            <div class="user-tools-button-group button-group">
+                <button class="button login-button login-modal-trigger hidden">Log In</button>
+                <button class="button comments-button  button-masthead" data-skip-to-para-id="">
+</button>                                <button class="button notifications-button hidden"><i class="icon sprite-icon"></i><span class="button-text">0</span></button>
+                <button class="button user-settings-button"><i class="icon sprite-icon"></i><span class="button-text">Settings</span></button>
+            </div><!-- close user-tools-button-group -->
+        </div><!-- close user-tools -->
+    </div><!-- close container -->
+    <div class="search-flyout-panel flyout-panel">
+    <div class="ad">
+        <small class="ad-sponsor">search sponsored by</small>
+        <div id="SponsorAd" class="sponsor-ad"></div>
+    </div>
+    <nav class="search-form-control form-control layout-horizontal">
+    <form class="search-form" role="search">
+        <div class="control">
+            <div class="label-container visually-hidden">
+                                <label for="search-input">Search NYTimes.com</label>
+                            </div>
+            <div class="field-container">
+                                <input id="search-input" name="search-input" type="text" class="search-input text" autocomplete="off" placeholder="Search NYTimes.com" />
+                
+                <button type="button" class="button clear-button" tabindex="-1" aria-describedby="clear-search-input"><i class="icon"></i><span id="clear-search-input" class="visually-hidden">Clear this text input</span></button>
+                <div class="auto-suggest" style="display: none;">
+                    <ol></ol>
+                </div>
+                <button class="button submit-button" type="submit">Go</button>
+            </div>
+        </div><!-- close control -->
+    </form>
+</nav>
+
+
+</div><!-- close flyout-panel -->
+    <div id="notification-modals" class="notification-modals"></div>
+</header>
+					<nav id="ribbon" class="ribbon ribbon-start nocontent robots-nocontent" aria-hidden="true">
+    <div class="nocontent robots-nocontent">
+        <ol class="ribbon-menu">
+            <li class="collection ribbon-loader">
+                <div class="loader "><span class="visually-hidden">Loading...</span></div>
+            </li>
+        </ol>
+        <div class="ribbon-navigation-container">
+            <nav class="ribbon-navigation next">
+                <span class="visually-hidden">See next articles</span>
+                <div class="arrow arrow-right">
+                    <div class="arrow-conceal"></div>
+                </div>
+            </nav>
+            <nav class="ribbon-navigation previous">
+                <span class="visually-hidden">See previous articles</span>
+                <div class="arrow arrow-left">
+                    <div class="arrow-conceal"></div>
+                </div>
+            </nav>
+        </div>
+    </div><!-- close nocontent -->
+</nav>
+<div class="ribbon-fixed"></div>
+						<nav id="navigation" class="navigation" role="navigation">
+</nav> <!-- close navigation -->
+
+<nav id="mobile-navigation" class="mobile-navigation hidden">
+</nav>
+
+    <div id="navigation-edge" class="navigation-edge"></div>
+				<main id="main" class="main" role="main">
+				<div id="TopAd" class="ad top-ad"></div>
+		<div id="mobilebanner" class="ad mobilebanner"></div>
+						<div id="story" class="story theme-main">
+		<script src="//s3.amazonaws.com/s3.documentcloud.org/viewer/loader.js"></script>
+<div id="news" class="spanAC blog">
+				<div class="postHeader story-header">
+	<div class="story-meta">
+		<button class="button comments-button  theme-kicker" data-skip-to-para-id="">
+</button>		<h3 class="kicker"><span class="kicker-label kicker-europe"><a href="http://www.nytimes.com/pages/world/europe/index.html">Europe</a></span></h3>		<h1 class="entry-title story-heading">Paris Attack Updates, Day 3: Two Hostage Situations</h1>
+		<div class="story-meta-footer">
+			<p class="byline-dateline">
+				<span class="byline" itemprop="author creator" itemtype="http://schema.org/Person">
+					By <span itemprop="name">Mike Mcphate</span> and <span itemprop="name">Robert Mackey</span>				</span>
+				<!-- date published --><time class="dateline " datetime="2015-01-09T10:17:11+00:00">January 9, 2015</time>
+			<!-- date updated --><span class="visually-hidden updated">January 9, 2015</span>			</p>
+			<div class="inside-story"></div><!-- Although this is empty, it is required for layout parity with NYT5 -->
+		</div>
+	</div>
+</div>
+<div class="a-column" id="a-col">
+	<div id="content" class="hfeed">
+			<article class="post-1696 post type-post status-publish hentry category-europe tag-blockinterstitial tag-charlie-hebdo tag-paris-france tag-terrorism" id="post-1696">
+                        <div class="visually-hidden">
+                <span itemprop="headline" class="entry-title">Paris Attack Updates, Day 3: Two Hostage Situations</span>
+                <span class="byline author vcard" itemprop="author creator" itemtype="http://schema.org/Person">
+                    By <a href="http://news.blogs.nytimes.com/author/mike-mcphate/" class="url fn" title="More Posts by Mike Mcphate" rel="author"><span itemprop="name">Mike Mcphate</span></a> <span>and</span> <a href="http://news.blogs.nytimes.com/author/robert-mackey/" class="url fn" title="More Posts by Robert Mackey" rel="author"><span itemprop="name">Robert Mackey</span></a>                </span>
+                <!-- date published --><time class="dateline " datetime="2015-01-09T10:17:11+00:00">January 9, 2015 5:17 am</time>
+			<!-- date updated --><span class="visually-hidden updated">January 9, 2015 5:17 am</span>            </div>
+			<div class="entry-content">
+			<div id="sharetools-story" class="sharetools theme-classic sharetools-story" data-shares="email|Email,facebook|Share,twitter|Tweet,save|Save,show-all|More,ad" data-url="http://news.blogs.nytimes.com/2015/01/09/updates-on-the-manhunt-for-the-charlie-hebdo-suspects/" data-title="Paris Attack Updates, Day 3: Two Hostage Situations" data-description="A major police operation was underway northeast of Paris in the search for the suspects in Wednesday&#039;s shooting at the offices of the satirical newspaper Charlie Hebdo in Paris. Times reporters and editors are providing live updates from the manhunt.">
+				<div class="ad sharetools-inline-article-ad"></div>
+				<div id="MiddleLeft" class="ad middle-left-ad nocontent robots-nocontent"></div>
+				</div><div class="w480"><figure class="promo media video blog-video "
+    data-videoid="100000003440575" data-media-action="modal" data-autoplay="" data-embedded="false" aria-label="media" role="group">
+        <span class="visually-hidden">Video</span>
+
+        <div class="image">
+                <img src="http://static01.nyt.com/images/2015/01/09/multimedia/bfmtv-suspects-phoner/bfmtv-suspects-phoner-videoSixteenByNine600.jpg" />
+                <div class="media-action-overlay">
+            <i class="icon"></i>
+            <div class="media-meta">
+                <h5 class="kicker"><span class="kicker-label">Play Video</span><span class="pipe">|</span><span class="counter">1:06</span></h5>
+                <h4 class="headline">Before Dying, French Suspects Speak</h4>
+            </div>
+        </div><!-- close media-action-overlay -->
+    </div>
+    
+    <figcaption class="caption">
+        <h4 class="headline">Before Dying, French Suspects Speak</h4>
+        <div class="summary-credit">
+            <p class="summary">Shortly before being killed in police shootouts, Chérif Kouachi and a man believed to have killed a police officer spoke on the phone with a French television station.</p>
+            <span class="credit video-credit" itemprop="copyrightHolder">
+                By BFMTV on                                                    <span class="visually-hidden">Publish Date </span>January 9, 2015.
+                            </span>
+            <span class="credit photo-credit" itemprop="copyrightHolder">
+                                    Photo by Getty Images.
+                                </span>
+        </div>
+    </figcaption>
+</figure>
+</div>
+<p class="story-body-text" itemprop="articleBody">French security forces launched simultaneous raids on two locations where suspected killers were holding hostages on Friday evening. These two major police operations underway around Paris appeared to be the culmination of the search for the suspects in Wednesday&#8217;s attack at the offices of the satirical newspaper <a href="http://www.nytimes.com/2015/01/10/world/europe/charlie-hebdo-paris-shooting.html">Charlie Hebdo in Paris</a>. </p>
+<p class="story-body-text" itemprop="articleBody"><strong>What We Know</strong><br />
+• The suspects in the deadly attack on the offices of Charlie Hebdo were killed during a police raid of Friday in Dammartin-en-Goële, northeast of Paris.<br />
+• A gunman who took hostages at a kosher supermarket in Paris was also killed by the police.<br />
+• The authorities said the Charlie Hebdo suspects were linked to the gunman in Paris.<br />
+• Before they were killed, gunmen in both locations claimed responsibility for the attacks in telephone interviews with a French television channel, BFMTV.<br />
+• Hayat Boumeddiene, described as the companion of the gunman at the market, remains at large.</p>
+<p class="story-body-text" itemprop="articleBody"><em>Follow updates on the latest developments from New York Times reporters below. <a href="http://news.blogs.nytimes.com/2015/01/08/updates-on-charlie-hebdo-shooting/">Catch up on Thursday’s developments</a>.</em></p>
+<p class="story-body-text" itemprop="articleBody"><em>To receive breaking news alerts on your mobile device, download the NYTimes app for <a href="https://play.google.com/store/apps/details?id=com.nytimes.android&#038;hl=en">Android</a>, <a href="https://65008.api-03.com/serve?action=click&#038;publisher_id=65008&#038;site_id=50290&#038;my_campaign=Breaking_010915">iPhone</a><br />
+or <a href="https://65010.api-03.com/serve?action=click&#038;publisher_id=65010&#038;site_id=50288&#038;my_campaign=Breaking_010915">iPad</a>.</em></p>
+<style>body.live-blogging-desktop .w480 iframe { height: 270px; width: 480px; }</style>
+<p class="story-body-text" itemprop="articleBody"><span id="more-1696"></span>
+<div id="liveUpdatesModule" class="liveUpdatesModule">
+<div class="type-live-update update">
+<div id="a-writer-reflects-on-the-dangers-of-moral-clarity" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#a-writer-reflects-on-the-dangers-of-moral-clarity">7:14 P.M.</a></span> <strong>A Writer Reflects on the Dangers of &#8216;Moral Clarity&#8217;</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<blockquote class="twitter-tweet tw-hide-thread">
+<p class="story-body-text" itemprop="articleBody">This is the best visualization I&#8217;ve yet seen of Europe&#8217;s &#8220;Muslim tide&#8221; hysteria http://t.co/a681LGp4yR</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/DougSaunders">Doug Saunders (@DougSaunders)</a> <a href="https://twitter.com/DougSaunders/status/553379701520363520" data-datetime="2015-01-09T02:36:16+00:00">9 Jan 15</a><script async src="//platform.twitter.com/widgets.js"
+			id="platform_twitter_js" charset="utf-8"></script></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">Adam Shatz, an American journalist with deep experience of the Middle East, <a href="http://www.lrb.co.uk/blog/2015/01/09/adam-shatz/moral-clarity/">writes in the London Review of Books</a> that the instinctive response of some Europeans and Americans to the deadly attack on Charlie Hebdo reminds him of the period after the Sept. 11 attacks.</p>
+<blockquote><p class="story-body-text" itemprop="articleBody">
+We are in what the New Yorker critic George Trow called the &#8220;context of no context,&#8221; where jihadi atrocities can be safely laid at the door of an evil ideology, and any talk of pre-emptive war, torture and racism amounts to apologia for atrocities.</p>
+<p class="story-body-text" itemprop="articleBody">We have been here before: the 11 September attacks led many liberal intellectuals to become laptop bombardiers, and to smear those, such as Susan Sontag, who reminded readers that American policies in the Middle East had not won us many friends. The slogan &#8220;je suis Charlie Hebdo&#8221; expresses a peculiar nostalgia for Sept. 11, for the moment before the wars in Afghanistan and Iraq, before Abu Ghraib and extraordinary rendition, before all the things that did so much to tarnish America’s image and to muddy the battles lines. In saying &#8220;je suis Charlie Hebdo,&#8221; we can feel innocent again. Thanks to the massacre in Paris, we can forget the Senate torture report, and rally in defence of the West in good conscience. </p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">In the same essay, Mr. Shatz argues that it is essential to try to understand the motives of the attackers and rejects the proposition that it is possible to do so by thinking only of their ideology and not the historical context in which they grew up.</p>
+<blockquote><p class="story-body-text" itemprop="articleBody">Modern liberalism has always insisted that ideology can go only so far in explaining behaviour. Social causes matter. The Kouachi brothers were products of the West – and of the traumatic collision between Western power and an Islamic world that has been torn apart by both internal conflict and Western military intervention. They were, above all, beurs, French citizens from the banlieue: Parisians of North African descent. It’s unlikely they could have recited more than the few hadith they learned from the ex-janitor-turned-imam who presided over their indoctrination. They came from a broken family and started out as petty criminals, much like Mohamed Merah, who murdered a group of Jewish schoolchildren in Montauban and Toulouse in 2012. Their main preoccupations, before their conversion to Islamism, seem to have been football, chasing girls, listening to hip hop and smoking weed. Radical Islam gave them the sense of purpose that they couldn’t otherwise find in France. It allowed them to translate their sense of powerlessness into total power, their aimlessness into heroism on the stage of history. They were no longer criminals but holy warriors.
+</p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">He concludes:</p>
+<blockquote><p class="story-body-text" itemprop="articleBody"> If France continues to treat French men of North African origin as if they were a threat to &#8220;our&#8221; civilisation, more of them are likely to declare themselves a threat, and follow the example of the Kouachi brothers. This would be a gift both to Marine Le Pen and the jihadists, who operate from the same premise: that there is an apocalyptic war between Europe and Islam. We are far from that war, but the events of 7 January have brought us a little closer.</p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>ROBERT MACKEY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="an-american-cartoonist-on-the-nature-of-satire" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#an-american-cartoonist-on-the-nature-of-satire">6:39 P.M.</a></span> <strong>An American Cartoonist on the Nature of Satire</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Joe Sacco, a journalist who has <a href="http://www.fantagraphics.com/index.php?option=com_content&#038;task=view&#038;id=267&#038;Itemid=82">reported on the Middle East</a> in cartoon form <a href="http://www.nytimes.com/packages/pdf/world/UndergroundWarGaza_Sacco.pdf">for The New York Times Magazine</a> and other publications, published a reflection &#8220;<a href="http://www.theguardian.com/world/ng-interactive/2015/jan/09/joe-sacco-on-satire-a-response-to-the-attacks?CMP=share_btn_tw">On Satire</a>,&#8221; in The Guardian on Friday in response to the deadly attack on Charlie Hebdo.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Quite STUNNING Joe Sacco cartoon on Charlie Hebdo. Please look http://t.co/QPmd7JrPcz</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/KathViner">Katharine Viner (@KathViner)</a> <a href="https://twitter.com/KathViner/status/553615751446138881" data-datetime="2015-01-09T18:14:15+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>ROBERT MACKEY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="al-qaedas-yemen-affiliate-reportedly-claims-attack" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#al-qaedas-yemen-affiliate-reportedly-claims-attack">6:19 P.M.</a></span> <strong>Al Qaeda&#8217;s Yemen Affiliate Reportedly Claims Attack</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Before he was killed on Friday, Chérif Kouachi, one of the chief suspects in the deadly attack on the offices of Charlie Hebdo, the satirical French newspaper that published cartoons of the Prophet Muhammad, <a href="http://www.nytimes.com/video/world/europe/100000003440575/before-dying-french-suspects-speak-out.html">told BFMTV</a> in France that the operation had been carried out on behalf of Al Qaeda’s affiliate in Yemen, also known as Al Qaeda in the Arabian Peninsula.</p>
+<p class="story-body-text" itemprop="articleBody">Later on Friday, <a href="https://firstlook.org/theintercept/2015/01/09/alwaki-paris/">Jeremy Scahill reported</a> that an unnamed &#8220;source within Al Qaeda in the Arabian Peninsula&#8221; had &#8220;provided The Intercept with a full statement claiming responsibility for the attack against the offices of Charlie Hebdo in Paris.&#8221;</p>
+<p class="story-body-text" itemprop="articleBody">That statement said, in part:</p>
+<blockquote><p class="story-body-text" itemprop="articleBody">The leadership of #AQAP directed the operation, and they have chosen their target carefully as a revenge for the honor of Prophet (pbuh)</p>
+<p class="story-body-text" itemprop="articleBody">The target was in France in particular because of its obvious role in the war on Islam and oppressed nations.</p>
+<p class="story-body-text" itemprop="articleBody">The operation was the result of the threat of Sheikh Usama (RA). He warned the West about the consequences of the persistence in the blasphemy against Muslims’ sanctities.</p>
+<p class="story-body-text" itemprop="articleBody">Sheikh Usama (RA) said in his message to the West: If there is no check on the freedom of your words, then let your hearts be open to the freedom of our actions.</p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">The same source told Mr. Scahill that the attack was hinted at by an illustration in the latest issue of the group&#8217;s online magazine, which included <a href="https://prod01-cdn03.cdn.firstlook.org/wp-uploads/sites/1/2015/01/inspire-13-full.png">an image of a French passport</a>.</p>
+<p class="story-body-text" itemprop="articleBody">The statement obtained by The Intercept seemed to echo <a href="http://jihadology.net/2015/01/09/al-mala%E1%B8%A5im-media-presents-a-new-video-message-from-al-qaidah-in-the-arabian-peninsulas-harith-bin-ghazi-al-na%E1%BA%93ari-mu%E1%B8%A5ammad-al-mirshadi-about-the-blessed/">a new video message</a> attributed to an official from the group in which he praised &#8220;the Blessed Raid in Paris.&#8221;</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">New video from AQAP’s Hārith bin Ghāzī al-Naẓārī: &#8220;About the Blessed Raid in Paris” http://t.co/RfdcV7duSh #jihadology #stillkingoffeeds</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/azelin">Aaron Y. Zelin (@azelin)</a> <a href="https://twitter.com/azelin/status/553665903108583424" data-datetime="2015-01-09T21:33:32+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">One note of confusion is that some time after Chérif Kouachi told BFMTV that the attack on Charlie Hebdo was carried out on behalf of Al Qaeda in Yemen, the gunman who attacked the kosher market in Paris, Amedy Coulibaly, called the same channel to say that he was associated with the Islamic State movement. The two groups are usually considered rivals.</p>
+<p class="story-body-text" itemprop="articleBody">As <a href="http://www.vox.com/2015/1/9/7522015/cherif-kouachi-terrorist-charlie-hebdo">Vox reports</a>, near the end of <a href="http://youtu.be/87q7WmvpcYA">a BFMTV report on the phone calls</a>, the journalist Sarah-Lou Cohen-Bacri said Mr. Coulibaly had claimed to be acting &#8220;to defend oppressed Muslims, he said, notably in Palestine.&#8221;</p>
+<p class="story-body-text" itemprop="articleBody">&#8220;And finally,&#8221; she added, &#8220;he explained his target &#8212; why this kosher store &#8212; because he was targeting Jews.&#8221;</p>
+<div class="w480 youtube-video-container">
+<div class="youtube-video" data-youtube-id="87q7WmvpcYA" data-start="">
+<div class="thumb"><img src="//img.youtube.com/vi/87q7WmvpcYA/0.jpg" />
+<div class="playButton">
+<div class="arrow"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="caption">A BFMTV report on phone interviews with two suspected militants.</div>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>ROBERT MACKEY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="video-appears-to-show-paris-gunman-rushing-at-police" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#video-appears-to-show-paris-gunman-rushing-at-police">5:32 P.M.</a></span> <strong>Video Appears to Show Paris Gunman Rushing at Police</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Video recorded by a witness to the police raid on a market in Paris to free hostages on Friday evening appears to show Amedy Coulibaly, the suspected hostage-taker, being shot and killed by officers. </p>
+<div class="w480"><iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x2edu5n" allowfullscreen></iframe><br /><span class="caption">Video obtained by France 2, a state television channel, appears to show the gunman in Paris being shot and killed by police on Friday.</span></div>
+<p class="story-body-text" itemprop="articleBody">The images were obtained and <a href="http://www.francetvinfo.fr/faits-divers/attaque-au-siege-de-charlie-hebdo/exclusif-france-2-les-images-du-face-a-face-entre-le-raid-et-amedy-coulibaly-lors-de-l-assaut-porte-de-vincennes_793119.html">broadcast by France 2</a>, part of the state television network.</p>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>ROBERT MACKEY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="images-of-missing-suspect-with-crossbow-in-hand" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#images-of-missing-suspect-with-crossbow-in-hand">5:20 P.M.</a></span> <strong>Images of Missing Suspect With Crossbow in Hand</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Le Monde has obtained what it described as <a href="http://www.lemonde.fr/societe/portfolio/2015/01/09/les-selfies-de-coulibaly-et-de-sa-compagne-arbalete-a-la-main_4552904_3224.html">six personal photographs</a> of Amedy Coulibaly, the suspected hostage-taker killed on Friday evening in Paris, and his companion, Hayat Boumeddiene, who is wanted in connection with the killing of a police officer on Thursday in Montrouge and is still at large.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Amedy Coulibaly, de l&#8217;espoir de l&#8217;insertion professionnelle au terrorisme fondamentaliste<br />
+ http://t.co/iqqcHHYX1D http://t.co/xckdlxphmi</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/lemondefr">Le Monde (@lemondefr)</a> <a href="https://twitter.com/lemondefr/status/553614282085392385" data-datetime="2015-01-09T18:08:25+00:00">9 Jan 15</a></p>
+</blockquote>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Les selfies de Coulibaly et de sa compagne, arbalète à la main<br />
+http://t.co/USqEhJmIr9 http://t.co/rCgmKESaQA</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/lemondefr">Le Monde (@lemondefr)</a> <a href="https://twitter.com/lemondefr/status/553627655141359616" data-datetime="2015-01-09T19:01:33+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">The photographs are said to have been taken in 2010, as the couple practiced shooting a crossbow while visiting the Cantal, a rural part of central France, with <a href="http://www.nytimes.com/2001/10/03/world/a-nation-challenged-suspects-claim-of-plot-against-embassy-in-paris.html">Djamel Beghal</a>, a jihadist who spent time in jail for plotting to attack the United States embassy in Paris in 2001. </p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">French police are attempting to locate Hayat Boumeddiene. Visit @PrefPolice for details. #CharlieHebdo http://t.co/FaOcMTKVLy</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/FBI">FBI (@FBI)</a> <a href="https://twitter.com/FBI/status/553604525953536000" data-datetime="2015-01-09T17:29:39+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">As <a href="http://www.ft.com/cms/s/0/8c2d49ba-9800-11e4-84d4-00144feabdc0.html#axzz3OMfSwggP">The Financial Times reports</a>, Mr. Beghal apparently met Chérif Kouachi in prison.</p>
+<p class="story-body-text" itemprop="articleBody">After his prison sentence was up, Mr. Beghal lived in the Cantal. In 2010, the French police discovered that Mr. Coulibaly was &#8220;making regular trips to Cantal to see the convicted terrorist,&#8221; according to The Financial Times.</p>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>ROBERT MACKEY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="explaining-the-attack-to-young-readers" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#explaining-the-attack-to-young-readers">3:43 P.M.</a></span> <strong>Explaining the Attack to Young Readers</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Choosing words and photographs can be a challenge for the news media when attempting to describe such brutal events as the <a href="http://www.nytimes.com/2015/01/08/world/europe/charlie-hebdo-paris-shooting.html">attack</a> on a satirical weekly in Paris this week, which left 12 people dead. But what do you print when your readership is as young as 7? In fact, should you cover this kind of news at all?</p>
+<p class="story-body-text" itemprop="articleBody">François Dufour has no hesitation. “There is no doubt that the story should be covered,” he said.</p>
+<div class="w190 right"><figure class="media photo promo" itemprop="" itemscope="" itemid="http://graphics8.nytimes.com/images/2015/01/10/world/europe/10paris-monquotidien/10paris-monquotidien-articleInline.jpg" itemtype="http://schema.org/ImageObject" role="group"><span class="visually-hidden">Photo</span><div class="image"><img itemprop="url" itemid="http://graphics8.nytimes.com/images/2015/01/10/world/europe/10paris-monquotidien/10paris-monquotidien-articleInline.jpg" src="http://graphics8.nytimes.com/images/2015/01/10/world/europe/10paris-monquotidien/10paris-monquotidien-articleInline.jpg" id="100000003440145" width="190" height="277" alt="The January 9 issue of the Petit Quotidien, a French daily newspaper for children ages 6-10."   /><meta itemprop="height" content="277"><meta itemprop="width" content="190"></div><figcaption class="caption" itemprop="description"><span class="caption-text">The January 9 issue of the Petit Quotidien, a French daily newspaper for children ages 6-10.</span><span class="credit" itemprop="copyrightHolder"><span class="visually-hidden">Credit</span> </span></figcaption></figure></div>
+<p class="story-body-text" itemprop="articleBody">The founder and editor of three French dailies for children and teenagers, Le Petit Quotidien, <a href="http://www.monquotidien.fr">Mon Quotidien</a> and l’Actu, Mr. Dufour feels as strongly as ever that his job is to explain and make sure children understand. “We must not be afraid to shock our readers when reality is shocking,” he said.</p>
+<p class="story-body-text" itemprop="articleBody">The cover of the issue for the youngest audience dated Jan. 9 shows four of the newspaper’s familiar cartoon characters holding hands, in tears, with the headline &#8220;Journalists Were Killed by Terrorists in Paris.&#8221; The two-page spread inside briefly describes the events with short paragraphs, a small photograph and a presentation of the issue “when freedom of the press is not respected.”  </p>
+<p class="story-body-text" itemprop="articleBody">Mon Quotidien, aimed at a slightly older group, features a bleaker headline on an all-black background, reading &#8220;Charb, the Creator of Quotillon, Has Been Assassinated.&#8221; Stéphane Charbonnier, known as Charb, was the daily’s first cartoonist from 1994-99. He later became the editor-in-chief of Charlie Hebdo and was killed in Wednesday&#8217;s attack. His character Quotillon, the mascot of the children’s daily, is still featured within the Q of the title, smiling brightly. </p>
+<p class="story-body-text" itemprop="articleBody">To reach out in the best way to its young readership, the publication typically takes great care in its choice of words and style. Sentences are kept short, sometimes with as few as 12 words, in what Mr. Dufour calls &#8220;parler simple&#8221; – simple talking.  “The challenge is that you cannot explain things without using complex notions and these need to be explained in simple words,” Mr. Dufour said.  Difficult words are highlighted in yellow, and their meanings are listed in a small box at the bottom of the page. On Friday, the box included &#8220;attack,&#8221; &#8220;terrorist,&#8221; &#8220;caricature,&#8221; &#8220;dictatorship&#8221; and &#8220;democratic.&#8221;</p>
+<p class="story-body-text" itemprop="articleBody">The three dailies will have special editions this weekend about the attack. Although the regular publications are subscription-based and have a joint circulation of 121,000, the special editions will be offered for free on the paper’s website in homage to the victims of the attack and as an offer to help parents explain the violence to their children. </p>
+<p class="story-body-text" itemprop="articleBody"><em>Correction: An earlier version of this post misstated the name of one of the daily newspapers for children. It is Le Petit Quotidien, not Mon Petit Quotidien.</em></p>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>DAPHNE ANGLES</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="video-of-police-raid-on-kosher-market-in-paris" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#video-of-police-raid-on-kosher-market-in-paris">3:28 P.M.</a></span> <strong>Video of Police Raid on Kosher Market in Paris</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">The French television channel TF1 has posted <a href="http://lci.tf1.fr/france/faits-divers/images-et-recit-d-un-assaut-spectaculaire-au-supermarche-de-vincennes-8544942.html">dramatic video</a> on its website offering clear images of the start of the raid on the kosher market near Porte de Vincennes in Paris. </p>
+<div class="w480"><iframe src="//www.wat.tv/embedframe/266575chuPP3r12060927" frameborder="0" style="width: 480px; height: 270px;"></iframe><span class="caption">Video from the French television channel TF1 of a police raid on a kosher market in Paris on Friday where hostages were held by an Islamist gunman.</span></div>
+<p class="story-body-text" itemprop="articleBody">According to the channel, the raid began shortly after 5 p.m. local time and was undertaken by the special forces unit known as the GIGN, as the &#8220;Groupe d&#8217;Intervention de la Gendarmerie Nationale&#8221; is known. </p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Good GIGN infographic by @afpfr #CharlieHebdo #Dammartin: Le GIGN, groupe d&#8217;intervention de la gendarmerie nationale http://t.co/KRJJ5rOhZY</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/CCWJournalism">Charles C. Williams (@CCWJournalism)</a> <a href="https://twitter.com/CCWJournalism/status/553617169750441984" data-datetime="2015-01-09T18:19:53+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>ROBERT MACKEY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="salute-to-charlie-hebdo-on-arc-de-triomphe" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#salute-to-charlie-hebdo-on-arc-de-triomphe">2:57 P.M.</a></span> <strong>Salute to Charlie Hebdo on Arc de Triomphe</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Anne Hidalgo, the mayor of Paris, shared a photograph on Twitter late Friday showing the Arc de Triomphe emblazoned with the message &#8220;Paris Est Charlie,&#8221; or &#8220;Paris Is Charlie.&#8221;</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">L&#8217;Arc de Triomphe affiche notre profonde tristesse &amp; notre solidarité avec toutes les victimes #ParisEstCharlie http://t.co/tkx23ZbOOm</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/Anne_Hidalgo">Anne Hidalgo (@Anne_Hidalgo)</a> <a href="https://twitter.com/Anne_Hidalgo/status/553615409044537344" data-datetime="2015-01-09T18:12:53+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">The message, the mayor said, expressed the French capital&#8217;s &#8220;deep sadness and our solidarity with the victims&#8221; of Wednesday&#8217;s attack on the offices of Charlie Hebdo, the irreverent weekly newspaper.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Ce soir #ParisEstCharlie sur l&#8217;Arc de Triomphe. http://t.co/Kpi2VvPFJW</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/MaximeGueny">Maxime Guény (@MaximeGueny)</a> <a href="https://twitter.com/MaximeGueny/status/553614195301031936" data-datetime="2015-01-09T18:08:04+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>ROBERT MACKEY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="hollande-calls-killings-an-appalling-anti-semitic-act" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#hollande-calls-killings-an-appalling-anti-semitic-act">2:46 P.M.</a></span> <strong>Hollande Calls Killings an &#8216;Appalling Anti-Semitic Act&#8217;</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<div class="w480 youtube-video-container">
+<div class="youtube-video" data-youtube-id="qj8txsrK4AM" data-start="">
+<div class="thumb"><img src="//img.youtube.com/vi/qj8txsrK4AM/0.jpg" />
+<div class="playButton">
+<div class="arrow"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="caption">President François Hollande addressed France on Friday night.</div>
+<p class="story-body-text" itemprop="articleBody">In <a href="http://www.elysee.fr/video/x2ednce">a brief address</a> to the French people on Friday night, President François Hollande called the killing of four people in a kosher market in Paris &#8220;an appalling anti-Semitic act&#8221; and called for unity against “fanatics.”</p>
+<p class="story-body-text" itemprop="articleBody">Here is a partial translation of his remarks:</p>
+<blockquote><p class="story-body-text" itemprop="articleBody">
+I would like to pay tribute to the courage, the bravery and the efficiency of the police forces and all those who took part in the operations. I am proud of them because once they were given the order to assault, they executed it in a single action with the same result and they did so to save human lives and neutralize the terrorists, those who murdered.</p>
+<p class="story-body-text" itemprop="articleBody">But even if France knows that it can cope, it is not done with the threats it faces. I therefore call for vigilance. We must be vigilant.</p>
+<p class="story-body-text" itemprop="articleBody">I also call for unity, it is our best weapon. We must show our determination to fight against anything that can divide us, and be relentless against racism and anti-Semitism. Because today&#8217;s attack on the kosher supermarket was indeed an appalling anti-Semitic act.</p>
+<p class="story-body-text" itemprop="articleBody">Not letting anything divide us also means avoiding generalizations. These fanatics have nothing to do with Islam. </p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>HANNAH OLIVENNES AND ROBERT MACKEY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="attackers-spoke-to-french-television-before-raids" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#attackers-spoke-to-french-television-before-raids">1:56 P.M.</a></span> <strong>Suspects Spoke to French Television Before Raids</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">The French television channel <a href="http://www.bfmtv.com/societe/bfmtv-a-ete-en-contact-avec-les-terroristes-856576.html">BFMTV reports</a> that both Chérif Kouachi and Amedy Coulibaly took responsibility for the attacks before they were killed in simultaneous police raids on Friday.</p>
+<div class="w480 youtube-video-container">
+<div class="youtube-video" data-youtube-id="87q7WmvpcYA" data-start="">
+<div class="thumb"><img src="//img.youtube.com/vi/87q7WmvpcYA/0.jpg" />
+<div class="playButton">
+<div class="arrow"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="caption">Audio of interviews with two of the suspects from BFMTV.</div>
+<p class="story-body-text" itemprop="articleBody">According to the channel, Mr. Kouachi <a href="http://youtu.be/87q7WmvpcYA">told its correspondent</a> Igor Sahiri on <a href="https://twitter.com/IgorSahiri/status/553619483928297472">at 9:45 on Friday morning</a> that the deadly attack on the Paris offices of Charlie Hebdo, the satirical weekly that had published cartoons of the Prophet Muhammad, was commissioned by Al Qaeda&#8217;s Yemen affiliate. </p>
+<p class="story-body-text" itemprop="articleBody">“We are the defenders of the prophet,” he said.</p>
+<p class="story-body-text" itemprop="articleBody">He also claimed to have traveled to Yemen and met Anwar al-Awlaki, the <a href="http://www.theguardian.com/world/2011/sep/30/anwar-al-awlaki-video-blogs">influential</a> American-born cleric who <a href="http://www.nytimes.com/2011/10/01/world/middleeast/anwar-al-awlaki-is-killed-in-yemen.html">was killed in a United States drone strike</a> in late 2011.</p>
+<p class="story-body-text" itemprop="articleBody">&#8220;I, Chérif Kouachi, was sent by Al Qaeda of Yemen, and I went there, and Awlaki financed me,&#8221; he said. Asked when the contact with the cleric took place, the militant replied, &#8220;a long time ago, before he was killed.&#8221;</p>
+<p class="story-body-text" itemprop="articleBody">The gunmen shouted after the attack on Charlie Hebdo on Wednesday, “Tell the media that it is Al Qaeda in Yemen,&#8221; but it remains unclear if just one or both of the Kouachi brothers had traveled there for training.</p>
+<p class="story-body-text" itemprop="articleBody">A senior American official said Thursday that Saïd Kouachi had traveled to Yemen in 2011 and received terrorist training from Al Qaeda’s affiliate there in small arms combat before returning to France.</p>
+<p class="story-body-text" itemprop="articleBody">Mr. Coulibaly, who took hostages at the kosher supermarket in Paris on Friday and is suspected in the killing of a female police officer in Montrouge, a suburb south of Paris, on Thursday, said that his actions were coordinated with the Charlie Hebdo attack. “Them Charlie Hebdo, me the policemen,” he told the channel.  He claimed to be affiliated with the Islamic State movement, which is usually considered a rival of Al Qaeda.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">INFO BFMTV &#8211; Coulibaly, le terroriste de la porte de Vincennes et de Montrouge, a affirmé à BFMTV appartenir à Daesh. http://t.co/4nEUtUTXwn</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/BFMTV">BFMTV (@BFMTV)</a> <a href="https://twitter.com/BFMTV/status/553618856233951232" data-datetime="2015-01-09T18:26:35+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>ROBERT MACKEY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="european-leaders-line-up-to-attend-unity-rally-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#european-leaders-line-up-to-attend-unity-rally-2">1:34 P.M.</a></span> <strong>European Leaders Line Up to Attend Unity Rally</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Leaders in Europe have been announcing their plans to attend a &#8220;unity rally&#8221; planned in Paris for Sunday to show national resolve after this week’s bloodshed. </p>
+<div class="w190 right"><figure class="media photo promo" itemprop="" itemscope="" itemid="http://graphics8.nytimes.com/images/2014/11/17/world/17cameron-watching/17cameron-watching-articleInline.jpg" itemtype="http://schema.org/ImageObject" role="group"><span class="visually-hidden">Photo</span><div class="image"><img itemprop="url" itemid="http://graphics8.nytimes.com/images/2014/11/17/world/17cameron-watching/17cameron-watching-articleInline.jpg" src="http://graphics8.nytimes.com/images/2014/11/17/world/17cameron-watching/17cameron-watching-articleInline.jpg" id="100000003238989" width="190" height="131" alt="Prime Minister David Cameron of Britain"   /><meta itemprop="height" content="131"><meta itemprop="width" content="190"></div><figcaption class="caption" itemprop="description"><span class="caption-text">Prime Minister David Cameron of Britain</span><span class="credit" itemprop="copyrightHolder"><span class="visually-hidden">Credit</span> William West/Agence France-Presse — Getty Images</span></figcaption></figure></div>
+<p class="story-body-text" itemprop="articleBody">The list now includes Prime Minister David Cameron of Britain, Chancellor Angela Merkel of Germany,  Prime Minister Mariano Rajoy of Spain, Prime Minister Matteo Renzi of Italy and the European Union president, Donald Tusk.</p>
+<p class="story-body-text" itemprop="articleBody">No word has yet emerged on whether any American officials would attend, though <a href="http://blogs.wsj.com/washwire/2015/01/08/attorney-general-eric-holder-to-travel-to-paris-for-talks-on-terrorism/">Attorney General Eric H. Holder Jr. was planning to be in Paris</a> on Sunday for terrorism-related talks.</p>
+<p class="story-body-text" itemprop="articleBody">The rally has been a source of tension in domestic political circles, with disagreement over whether the far-right National Front should be invited. Marine Le Pen, the group’s leader, called the event “a pathetic political maneuver.”</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">I&#8217;ve accepted President Hollande&#8217;s invitation to join the Unity Rally in Paris this Sunday &#8211; celebrating the values behind #CharlieHebdo.</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/David_Cameron">David Cameron (@David_Cameron)</a> <a href="https://twitter.com/David_Cameron/status/553605908887244801" data-datetime="2015-01-09T17:35:08+00:00">9 Jan 15</a></p>
+</blockquote>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Estaré en París este domingo apoyando al pueblo francés. España con Francia contra el terrorismo y por la libertad. MR</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/marianorajoy">Mariano Rajoy Brey (@marianorajoy)</a> <a href="https://twitter.com/marianorajoy/status/553578892079165440" data-datetime="2015-01-09T15:47:47+00:00">9 Jan 15</a></p>
+</blockquote>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Dimanche je serais avec @fhollande a Paris #JeSuisCharlie<br />
+Non permetteremo alla paura di cambiarci #Europa</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/matteorenzi">Matteo Renzi (@matteorenzi)</a> <a href="https://twitter.com/matteorenzi/status/553609509076467712" data-datetime="2015-01-09T17:49:27+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>MIKE MCPHATE</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="more-video-of-police-raid-in-dammartin-en-go%c3%able" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#more-video-of-police-raid-in-dammartin-en-go%c3%able">1:26 P.M.</a></span> <strong>More Video of Police Raid in Dammartin-en-Goële</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">The Associated Press has more <a href="http://youtu.be/Sq6uDXGQBDg">video of the police raid</a> on the building in Dammartin-en-Goële where the Kouachi brothers, suspected of killing 12 people on Wednesday, were killed.</p>
+<div class="w480 youtube-video-container">
+<div class="youtube-video" data-youtube-id="Sq6uDXGQBDg" data-start="">
+<div class="thumb"><img src="//img.youtube.com/vi/Sq6uDXGQBDg/0.jpg" />
+<div class="playButton">
+<div class="arrow"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="caption">Associated Press video of the police raid on Friday Dammartin-en-Goële, outside Paris.</div>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>ROBERT MACKEY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="report-kouachi-brothers-were-unaware-of-hostage" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#report-kouachi-brothers-were-unaware-of-hostage">12:49 P.M.</a></span> <strong>Report Kouachi Brothers Were Unaware of &#8216;Hostage&#8217;</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<div class="w480 youtube-video-container">
+<div class="youtube-video" data-youtube-id="G5oJ-eJWtOA" data-start="">
+<div class="thumb"><img src="//img.youtube.com/vi/G5oJ-eJWtOA/0.jpg" />
+<div class="playButton">
+<div class="arrow"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="caption">BFM-TV video of the police raid in Dammartin-en-Goële, northeast of Paris, on Friday.</div>
+<p class="story-body-text" itemprop="articleBody">While civilians freed in both raids in France on Friday were described as hostages, the French newspaper Le Figaro reports <a href="http://www.lefigaro.fr/actualite-france/2015/01/08/01016-20150108LIVWWW00308-en-direct-Charlie-Hebdo-traque-freres-kouachi-attentat.php">on its live blog</a> that the Kouachi brothers holed up in an industrial building in Dammartin-en-Goële, northeast of Paris, might not have been aware of the fact that someone else was trapped in the building with them.</p>
+<p class="story-body-text" itemprop="articleBody">According to <a href="https://twitter.com/edemareschal">Édouard de Mareschal</a>, the Figaro correspondent in Dammartin, at the end of the operation a 27-year-old graphic designer named Lilian sent a text message to his family saying that he had been hiding on the first floor of the building. &#8220;I think they have killed everyone,&#8221; he wrote, asking his family to alert the police.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Dammartin hostage was reportedly hiding in cardboard box, informing security forces. Kouachi brothers didn&#8217;t know he was there #CharlieHebdo</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/aurorecloe">aurore cloé dupuis (@aurorecloe)</a> <a href="https://twitter.com/aurorecloe/status/553605654339153920" data-datetime="2015-01-09T17:34:08+00:00">9 Jan 15</a></p>
+</blockquote>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Police launch assault where #CharlieHebdo suspects holed up. Photo Joel Saget #AFP http://t.co/KTPZIFhUiA</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/AFPphoto">AFP Photo Department (@AFPphoto)</a> <a href="https://twitter.com/AFPphoto/status/553584118836244480" data-datetime="2015-01-09T16:08:33+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>ROBERT MACKEY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="hollande-to-speak" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#hollande-to-speak">12:28 P.M.</a></span> <strong>Hollande to Speak </strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<div class="w190 right"><figure class="media photo promo" itemprop="" itemscope="" itemid="http://graphics8.nytimes.com/images/2015/01/07/multimedia/hollande-paris-attack/hollande-paris-attack-articleInline.jpg" itemtype="http://schema.org/ImageObject" role="group"><span class="visually-hidden">Photo</span><div class="image"><img itemprop="url" itemid="http://graphics8.nytimes.com/images/2015/01/07/multimedia/hollande-paris-attack/hollande-paris-attack-articleInline.jpg" src="http://graphics8.nytimes.com/images/2015/01/07/multimedia/hollande-paris-attack/hollande-paris-attack-articleInline.jpg" id="100000003435769" width="190" height="127" alt="President François Hollande"   /><meta itemprop="height" content="127"><meta itemprop="width" content="190"></div><figcaption class="caption" itemprop="description"><span class="caption-text">President François Hollande</span><span class="credit" itemprop="copyrightHolder"><span class="visually-hidden">Credit</span> Pool photo by Philippe Wojazer</span></figcaption></figure></div>
+<p class="story-body-text" itemprop="articleBody">President François Hollande was expected to deliver remarks shortly before 8 p.m. Paris time (2 p.m. Eastern time) after simultaneous raids ended two hostage standoffs. </p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Correctif : Le président @fhollande s&#8217;adressera à la Nation avant 20h. À suivre en direct sur http://t.co/kV7QU1yWTi</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/Elysee">Élysée (@Elysee)</a> <a href="https://twitter.com/Elysee/status/553601112050520064" data-datetime="2015-01-09T17:16:05+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">France 24, an English-language news broadcaster, was planning to carry the address.</p>
+<div class="w480 youtube-video-container">
+<div class="youtube-video" data-youtube-id="BFwedk4dBCc" data-start="">
+<div class="thumb"><img src="//img.youtube.com/vi/BFwedk4dBCc/0.jpg" />
+<div class="playButton">
+<div class="arrow"></div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+<div class="type-live-update update">
+<div id="at-least-4-said-to-die-in-paris-standoff-a-p-says-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#at-least-4-said-to-die-in-paris-standoff-a-p-says-2">12:22 P.M.</a></span> <strong>At Least 4 Said to Die in Paris Standoff, A.P. Reports</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<blockquote class="twitter-tweet tw-hide-thread">
+<p class="story-body-text" itemprop="articleBody">BREAKING: Police officials: At least 4 dead, including gunman, in Paris kosher grocery hostage crisis.</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/AP">The Associated Press (@AP)</a> <a href="https://twitter.com/AP/status/553601630445535233" data-datetime="2015-01-09T17:18:08+00:00">9 Jan 15</a></p>
+</blockquote>
+</div></div>
+<div class="type-live-update update">
+<div id="video-of-the-police-assault-on-kosher-market-in-paris" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#video-of-the-police-assault-on-kosher-market-in-paris">12:16 P.M.</a></span> <strong>Video of the Police Assault on Kosher Market in Paris</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Video showing the police assault on the kosher market near Porte de Vincennes in Paris has been <a href="http://youtu.be/Y8MJzS5Sxqw">posted on YouTube</a> by BFM-TV, a French television channel.</p>
+<div class="w480 youtube-video-container">
+<div class="youtube-video" data-youtube-id="Y8MJzS5Sxqw" data-start="">
+<div class="thumb"><img src="//img.youtube.com/vi/Y8MJzS5Sxqw/0.jpg" />
+<div class="playButton">
+<div class="arrow"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="caption">Video of the police assault on a kosher supermarket in Paris where hostages were freed on Friday evening.</div>
+<p class="story-body-text" itemprop="articleBody">Two French news outlets, Agence France-Presse and RTL, reported that officers were wounded in the assault.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Special forces attend to a colleague after they launched the assault at a kosher grocery store in Paris #AFP http://t.co/SsehlbEJeR</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/AFPphoto">AFP Photo Department (@AFPphoto)</a> <a href="https://twitter.com/AFPphoto/status/553596495598219264" data-datetime="2015-01-09T16:57:44+00:00">9 Jan 15</a></p>
+</blockquote>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">&#8220;les services de sécurité ont évacué plusieurs membres des forces de l&#8217;ordre, blessés ou tués&#8221; #Vincennes Edition Spéciale @RTLFrance</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/RTL_presse">RTL Service Presse (@RTL_presse)</a> <a href="https://twitter.com/RTL_presse/status/553593746865274880" data-datetime="2015-01-09T16:46:49+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">According to RTL, five hostages and a baby took advantage of the assault to flee to safety during the operation. </p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">&#8220;5 personnes avec un bébé ont profité de l&#8217;assaut pour fuir&#8221; #Vincennes @domtenz @RTLFrance</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/RTL_presse">RTL Service Presse (@RTL_presse)</a> <a href="https://twitter.com/RTL_presse/status/553593543676403712" data-datetime="2015-01-09T16:46:00+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>ROBERT MACKEY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="attacker-at-grocer-in-eastern-paris-said-to-be-killed-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#attacker-at-grocer-in-eastern-paris-said-to-be-killed-2">11:50 A.M.</a></span> <strong>Attacker at Grocery in Eastern Paris Said to Be Killed</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Several news outlets were reporting that police sources said the suspect in the attack at a kosher supermarket on the eastern edge of Paris had been killed. </p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">#BREAKING Paris supermarket hostage-taker killed in assault: security source</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/AFP">Agence France-Presse (@AFP)</a> <a href="https://twitter.com/AFP/status/553594084435427329" data-datetime="2015-01-09T16:48:09+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">According to <a href="http://www.lemonde.fr/societe/live/2015/01/07/en-direct-des-coups-de-feu-au-siege-de-charlie-hebdo_4550635_3224.html">Le Monde&#8217;s live blog</a>, unnamed sources confirmed that the hostage-taker in Vincennes, Amedy Coulibaly, was killed.</p>
+<p class="story-body-text" itemprop="articleBody">Tamer Fakahany of The Associated Press, citing a police source, also reported that the hostage-taker was dead.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Police union representative has said it appeared that the gunman who took hostages at kosher market also died in a nearly simultaneous raid</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/TamerFakahany">Tamer Fakahany (@TamerFakahany)</a> <a href="https://twitter.com/TamerFakahany/status/553596126973394945" data-datetime="2015-01-09T16:56:16+00:00">9 Jan 15</a></p>
+</blockquote>
+</div></div>
+<div class="type-live-update update">
+<div id="kouachi-brothers-killed-as-police-storm-2-sites-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#kouachi-brothers-killed-as-police-storm-2-sites-2">11:38 A.M.</a></span> <strong>Kouachi Brothers Killed as Police Storm 2 Sites</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<blockquote class="twitter-tweet tw-hide-thread">
+<p class="story-body-text" itemprop="articleBody">Breaking News: French Police Storm Two Sites, Killing Pair Sought in Massacre</p>
+<p class="story-body-text" itemprop="articleBody">http://t.co/U8BE162qls</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/nytimes">The New York Times (@nytimes)</a> <a href="https://twitter.com/nytimes/status/553591786757980161" data-datetime="2015-01-09T16:39:01+00:00">9 Jan 15</a></p>
+</blockquote>
+</div></div>
+<div class="type-live-update update">
+<div id="police-move-to-end-both-sieges" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#police-move-to-end-both-sieges">11:36 A.M.</a></span> <strong>Police Move to End Both Sieges</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">French security forces launched simultaneous raids on the two locations where suspected killers were holding hostages. Explosions and gunfire were heard at a printing plant outside of Paris where the gunmen suspected of killing 12 people at a satirical newspaper in Paris were holding a single hostage. </p>
+<p class="story-body-text" itemprop="articleBody">At the same moment, gunfire erupted at a kosher supermarket on the eastern end of Paris where an alleged associate of the gunmen was holding an unknown number of hostages. </p>
+<p class="story-body-text" itemprop="articleBody">A live video stream from Agence France-Presse showed officers swarming the entrance to a kosher market near Porte de Vincennes in Paris.</p>
+<div class="w480"><figure class="media photo promo" itemprop="" itemscope="" itemid="http://graphics8.nytimes.com/images/2015/01/09/world/europe/09lede_hyper/09lede_hyper-blog480.png" itemtype="http://schema.org/ImageObject" role="group"><span class="visually-hidden">Photo</span><div class="image"><img itemprop="url" itemid="http://graphics8.nytimes.com/images/2015/01/09/world/europe/09lede_hyper/09lede_hyper-blog480.png" src="http://graphics8.nytimes.com/images/2015/01/09/world/europe/09lede_hyper/09lede_hyper-blog480.png" id="100000003439594" width="480" height="269" alt="A screenshot of live video of French police officers swarming a kosher market near Porte de Vincennes in Paris as the hostage crisis came to an end."   /><meta itemprop="height" content="269"><meta itemprop="width" content="480"></div><figcaption class="caption" itemprop="description"><span class="caption-text">A screenshot of live video of French police officers swarming a kosher market near Porte de Vincennes in Paris as the hostage crisis came to an end.</span><span class="credit" itemprop="copyrightHolder"><span class="visually-hidden">Credit</span> Agence France-Presse, via YouTube</span></figcaption></figure></div>
+<p class="story-body-text" itemprop="articleBody">The same news agency showed officers leading freed hostages from the market.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Several hostages freed at Jewish supermarket in Paris. Photo Thomas Samson #AFP http://t.co/C9ltgMT0Wl</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/AFPphoto">AFP Photo Department (@AFPphoto)</a> <a href="https://twitter.com/AFPphoto/status/553590459688570880" data-datetime="2015-01-09T16:33:45+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">The Associated Press reports that both suspects in the deadly attack on the satirical weekly Charlie Hebdo were killed.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">PARIS (AP) _ Police official: Suspects in Charlie Hebdo massacre killed, hostage freed.</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/Philip_Elliott">Phil Elliott (@Philip_Elliott)</a> <a href="https://twitter.com/Philip_Elliott/status/553588673498071040" data-datetime="2015-01-09T16:26:39+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">Emilie Baujard of RTL reported that the hostage the brothers were holding is safe and has been freed.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">La prise d&#8217;otage aura duré 7 heures ici à Dammartin-en-Goëlle. Les frères Kouachi sont morts, l&#8217;otage est sain et sauf</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/emilie_baujard">emilie_baujard (@emilie_baujard)</a> <a href="https://twitter.com/emilie_baujard/status/553593356958593025" data-datetime="2015-01-09T16:45:16+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>ROBERT MACKEY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="gunfire-is-reported-in-paris-standoff-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#gunfire-is-reported-in-paris-standoff-2">11:19 A.M.</a></span> <strong>Gunfire Is Reported in Paris Standoff</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">French law enforcement were reported to have stormed the kosher supermarket on the eastern edge of Paris, where a gunman was <a href="http://www.nytimes.com/2015/01/10/world/europe/charlie-hebdo-paris-shooting.html">said to have taken at least five hostages and two people were said to have been killed</a>.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">BREAKING: Police forces storm Paris kosher grocery where gunman holds 5 hostages; woman seen leaving.</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/AP">The Associated Press (@AP)</a> <a href="https://twitter.com/AP/status/553586940856242178" data-datetime="2015-01-09T16:19:46+00:00">9 Jan 15</a></p>
+</blockquote>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">BREAKING Several hostages freed at Jewish supermarket in Paris: AFP</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/AFP">Agence France-Presse (@AFP)</a> <a href="https://twitter.com/AFP/status/553586868135428096" data-datetime="2015-01-09T16:19:29+00:00">9 Jan 15</a></p>
+</blockquote>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">#BREAKING Gunfire, people running away from Paris kosher supermarket: AFP</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/AFP">Agence France-Presse (@AFP)</a> <a href="https://twitter.com/AFP/status/553586059100315648" data-datetime="2015-01-09T16:16:16+00:00">9 Jan 15</a></p>
+</blockquote>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Breaking ; three blasts near kosher supermarket now #cbc</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/NahlahAyed">Nahlah Ayed (@NahlahAyed)</a> <a href="https://twitter.com/NahlahAyed/status/553585369724100609" data-datetime="2015-01-09T16:13:31+00:00">9 Jan 15</a></p>
+</blockquote>
+</div></div>
+<div class="type-live-update update">
+<div id="hezbollah-chief-condemns-extremists-a-p-reports-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#hezbollah-chief-condemns-extremists-a-p-reports-2">11:10 A.M.</a></span> <strong>Hezbollah Chief Condemns Extremists, A.P. Reports</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<div class="w480"><figure class="media photo promo" itemprop="" itemscope="" itemid="http://graphics8.nytimes.com/images/2015/01/09/world/9-Nasrallah-watching/9-Nasrallah-watching-blog480.jpg" itemtype="http://schema.org/ImageObject" role="group"><span class="visually-hidden">Photo</span><div class="image"><img itemprop="url" itemid="http://graphics8.nytimes.com/images/2015/01/09/world/9-Nasrallah-watching/9-Nasrallah-watching-blog480.jpg" src="http://graphics8.nytimes.com/images/2015/01/09/world/9-Nasrallah-watching/9-Nasrallah-watching-blog480.jpg" id="100000003439531" width="480" height="335" alt="Hassan Nasrallah, the Hezbollah leader, speaking to supporters on Friday in southern Beirut."   /><meta itemprop="height" content="335"><meta itemprop="width" content="480"></div><figcaption class="caption" itemprop="description"><span class="caption-text">Hassan Nasrallah, the Hezbollah leader, speaking to supporters on Friday in southern Beirut.</span><span class="credit" itemprop="copyrightHolder"><span class="visually-hidden">Credit</span> Hussein Malla/Associated Press</span></figcaption></figure></div>
+<p class="story-body-text" itemprop="articleBody">Hassan Nasrallah, the Hezbollah leader, said on Friday that Islamic extremists have insulted Islam and the Prophet Muhammad more than those who published satirical cartoons mocking the religion, <a href="http://bigstory.ap.org/article/dc2d5f2be90840999a72a696b02f9b86/hezbollah-chief-extremists-harm-islam-more-cartoons">The Associated Press reported</a>.</p>
+<p class="story-body-text" itemprop="articleBody">Speaking to supporters in southern Beirut, Mr. Nasrallah did not specifically cite the Paris attack, the news agency said, but he said that Islamic extremists who behead and slaughter people had harmed the religion more than anyone else in history.</p>
+</div></div>
+<div class="type-live-update update">
+<div id="live-video-from-dammartin-en-go%c3%able-siege" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#live-video-from-dammartin-en-go%c3%able-siege">11:07 A.M.</a></span> <strong>Live Video of Two Sieges</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Agence France-Presse is <a href="http://youtu.be/LeIy0zH77MM">streaming live video</a> from Dammartin-en-Goële, where the Kouachi brothers are reportedly holed up, surrounded by the police, and near Porte de Vincennes on the eastern edge of Paris.</p>
+<div class="w480 youtube-video-container">
+<div class="youtube-video" data-youtube-id="LeIy0zH77MM" data-start="">
+<div class="thumb"><img src="//img.youtube.com/vi/LeIy0zH77MM/0.jpg" />
+<div class="playButton">
+<div class="arrow"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="caption">Live video of the sieges  near the Porte de Vincennes in Paris and in Dammartin-en-Goele from AFP.</div>
+<p class="story-body-text" itemprop="articleBody">Several journalists on the scene, including our colleague David Jolly, reported hearing explosions and gun shots there a short time ago and a helicopter hovered low overhead.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Explosion at building where #CharlieHebdou suspects are located http://t.co/nkULfu3Kzv</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/karlrileylondon">Karl Riley (@karlrileylondon)</a> <a href="https://twitter.com/karlrileylondon/status/553583054254792704" data-datetime="2015-01-09T16:04:19+00:00">9 Jan 15</a></p>
+</blockquote>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Latest from printworks where #CharlieHebdo suspects had taken one hostage. #ParisAttacks http://t.co/64ZQoajDw9 http://t.co/LBwxBZMXmM</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/SkyNews">Sky News (@SkyNews)</a> <a href="https://twitter.com/SkyNews/status/553581897792913408" data-datetime="2015-01-09T15:59:44+00:00">9 Jan 15</a></p>
+</blockquote>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">After gunfire and explosions, silence in Dammartin. #charliehebdo</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/davjolly">David Jolly (@davjolly)</a> <a href="https://twitter.com/davjolly/status/553583585463382017" data-datetime="2015-01-09T16:06:26+00:00">9 Jan 15</a></p>
+</blockquote>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">#BREAKING Explosions at site where Charlie Hebdo suspects holed up: AFP</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/AFP">Agence France-Presse (@AFP)</a> <a href="https://twitter.com/AFP/status/553581958455123968" data-datetime="2015-01-09T15:59:58+00:00">9 Jan 15</a></p>
+</blockquote>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Sustained shooting and booms coming from direction of hostage standoff in Dammartin en Goele. #CharlieHebdo</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/MarquardtA">Alexander Marquardt (@MarquardtA)</a> <a href="https://twitter.com/MarquardtA/status/553581072848809984" data-datetime="2015-01-09T15:56:27+00:00">9 Jan 15</a></p>
+</blockquote>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">EDITION SPECIALE | Des coups de feu à Dammartin-en-Goele selon notre reporter sur place http://t.co/BxmG8J3jUZ</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/franceinfo">France Info (@franceinfo)</a> <a href="https://twitter.com/franceinfo/status/553581150799945728" data-datetime="2015-01-09T15:56:46+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>ROBERT MACKEY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="gunfire-reported-in-standoff-north-of-paris-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#gunfire-reported-in-standoff-north-of-paris-2">11:01 A.M.</a></span> <strong>Gunfire Reported in Standoff North of Paris </strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<blockquote class="twitter-tweet tw-hide-thread">
+<p class="story-body-text" itemprop="articleBody">Shooting has been reported at a site where suspects in the Charlie Hebdo massacre are holding a hostage north of Paris http://t.co/rR3q9UQlUn</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/BBCBreaking">BBC Breaking News (@BBCBreaking)</a> <a href="https://twitter.com/BBCBreaking/status/553582301003931648" data-datetime="2015-01-09T16:01:20+00:00">9 Jan 15</a></p>
+</blockquote>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">#BREAKING The police launch an assault where Charlie Hebdo suspects are holed up: official source</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/AFP">Agence France-Presse (@AFP)</a> <a href="https://twitter.com/AFP/status/553582251616010240" data-datetime="2015-01-09T16:01:08+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">An Agence France-Presse image showed smoke rising from the building where the Kouachi brothers were said to be holed up.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Assaut lancé à Dammartin où sont retranchés les frères Kouachi #AFP http://t.co/bUMWj0LvXR</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/afpfr">Agence France-Presse (@afpfr)</a> <a href="https://twitter.com/afpfr/status/553583186442457088" data-datetime="2015-01-09T16:04:51+00:00">9 Jan 15</a></p>
+</blockquote>
+</div></div>
+<div class="type-live-update update">
+<div id="kouachi-said-to-have-fought-for-al-qaeda-a-p-says-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#kouachi-said-to-have-fought-for-al-qaeda-a-p-says-2">10:33 A.M.</a></span> <strong>Kouachi Said to Have Fought for Al Qaeda, A.P. Says</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">A Yemeni security official said that Saïd Kouachi, one of the brothers suspected in the assault on Charlie Hebdo, is suspected of having fought for Al Qaeda in Yemen, <a href="http://bigstory.ap.org/article/d91038227f634d0cb3ee49947e13a0c1/yemeni-official-suspect-paris-attack-fought-al-qaida">The Associated Press reported</a>.</p>
+<p class="story-body-text" itemprop="articleBody">Another senior security official told the news agency that Mr. Kouachi was in Yemen as recently as 2012. </p>
+<p class="story-body-text" itemprop="articleBody"><a href="http://www.nytimes.com/2015/01/09/world/europe/paris-terror-attack-suspects.html">A senior American official said on Thursday</a> that Mr. Kouachi traveled to Yemen in 2011 and received terrorist training from Al Qaeda’s affiliate there before returning to France.</p>
+</div></div>
+<div class="type-live-update update">
+<div id="paris-gunman-said-to-demand-release-of-kouachi-brothers-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#paris-gunman-said-to-demand-release-of-kouachi-brothers-2">10:32 A.M.</a></span> <strong>Paris Gunman Said to Demand Release of Kouachi Brothers</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Christophe Tirante, a police official who has been following the negotiations with Amedy Coulibaly, the suspect in the hostage-taking on the eastern edge of Paris, said that Mr. Coulibaly&#8217;s first demand was for the release of the Kouachi brothers, who are suspected of killing 12 people on Wednesday.  </p>
+<p class="story-body-text" itemprop="articleBody">Mr. Coulibaly said that he would release his remaining hostages if the brothers, Saïd and Chérif Kouachi, were let go. </p>
+<p class="story-body-text" itemprop="articleBody">“This shows that the these suspects know each other and are linked,” Mr. Tirante said.</p>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>DAN BILEFSKY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="shops-closed-in-parisian-jewish-district-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#shops-closed-in-parisian-jewish-district-2">10:24 A.M.</a></span> <strong>Shops Closed in Parisian Jewish District</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Police arrived between 2:15 and 2:30 p.m. to order businesses to close along the rue des Rosiers, the heart of Jewish culture in the Marais neighborhood in Paris&#8217;s 4th Arrondissement, one shopkeeper in the area said.</p>
+<p class="story-body-text" itemprop="articleBody">&#8220;My reflex was to make sure my staff and my clients stay safe,&#8221; said Florence Kahn, the owner of a Jewish deli on rue des Rosiers who closed her shop immediately, by telephone. </p>
+<p class="story-body-text" itemprop="articleBody">She said that the mayor of the 4th Arrondissement later came to order some of the businesses who resisted the police order to close for the rest of the day. </p>
+<p class="story-body-text" itemprop="articleBody">Posts on Twitter indicated that the trendy boutiques, falafel stands and other shops on the cobblestone street have been shut since the police responded to a shooting and hostage situation at a kosher supermarket near Porte de Vincennes several miles away.</p>
+<p class="story-body-text" itemprop="articleBody">In 1982, <a href="http://www.nytimes.com/1982/08/10/world/6-killed-in-attack-on-jews-in-paris.html">six people were killed</a>, and 22 were injured, at Chez Jo Goldenberg, commonly known as Goldenberg&#8217;s deli, when it was attacked by two men with a grenade and machine guns. The attackers were later linked to a Middle Eastern terrorist organization. The attack is commemorated in a plaque outside the shop, which remains a local landmark, though it is now an upscale clothing shop. </p>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>HANNAH OLIVENNES AND MARY ANN GIORDANO</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="schools-in-parts-of-paris-in-lockdown-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#schools-in-parts-of-paris-in-lockdown-2">10:13 A.M.</a></span> <strong>Schools in Parts of Paris in Lockdown </strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">As the school day neared its end on Friday, students in the area of Porte de Vincennes on the eastern edge of Paris, as well as the suburb of Montrouge, were in lockdown, according to the education minister.</p>
+<p class="story-body-text" itemprop="articleBody">For the moment, officials said, no schools have been evacuated.</p>
+<p class="story-body-text" itemprop="articleBody">&#8220;Students of schools located around the Porte de Vincennes are for the moment inside the schools and in safety,&#8221; school officials said in a statement. </p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">RT &#8211; IMPORTANT ET À PARTAGER concernant les établissements parisiens #PortedeVincennes #Montrouge #Paris @prefpolice http://t.co/12GIiRhWP0</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/Academie_Paris">Académie de Paris (@Academie_Paris)</a> <a href="https://twitter.com/Academie_Paris/status/553558377641811968" data-datetime="2015-01-09T14:26:16+00:00">9 Jan 15</a></p>
+</blockquote>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">#AlerteAttentat liste des écoles confinées sur #Paris Voir la pièce jointe de ce tweet. http://t.co/ee5ikeIDoQ</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/prefpolice">Préfecture de police (@prefpolice)</a> <a href="https://twitter.com/prefpolice/status/553568332063178752" data-datetime="2015-01-09T15:05:49+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>NICOLA CLARK</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="live-video-of-hostage-crisis-near-porte-de-vincennes-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#live-video-of-hostage-crisis-near-porte-de-vincennes-2">10:11 A.M.</a></span> <strong>Video of Hostage Crisis Near Porte de Vincennes</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Agence France-Presse has <a href="http://youtu.be/JRCaNhVX228">video</a> from outside a kosher market near Porte de Vincennes, on the eastern edge of Paris, where a militant has taken hostages. According to <a href="http://www.lefigaro.fr/actualite-france/2015/01/08/01016-20150108LIVWWW00308-en-direct-Charlie-Hebdo-traque-freres-kouachi-attentat.php">the live blog of Le Figaro</a>, the French daily, at least five hostages are being held by a man armed with a Kalashnikov. (An earlier live stream from the agency has been disabled.)</p>
+<div class="w480 youtube-video-container">
+<div class="youtube-video" data-youtube-id="JRCaNhVX228" data-start="">
+<div class="thumb"><img src="//img.youtube.com/vi/JRCaNhVX228/0.jpg" />
+<div class="playButton">
+<div class="arrow"></div>
+</div>
+</div>
+</div>
+</div>
+<div class="caption">Video from the scene of a hostage crisis at a kosher market near the Porte de Vincennes in eastern Paris.</div>
+<p class="story-body-text" itemprop="articleBody">The authorities identified the suspected hostage-taker at the market, known as Hyper Cacher, as Amedy Coulibaly, 32, who they said was also thought to be responsible for the killing of a female police offer in Montrouge, a suburb south of Paris, on Thursday morning. He was also described as an associate of the Kouachi brothers, suspected of killing 12 people on Wednesday in an attack on the satirical weekly Charlie Hebdo.</p>
+<p class="story-body-text" itemprop="articleBody">The Associated Press reports that the gunman told the police he would kill his hostages if their colleagues storm the location where the Kouachi brothers are holed up.</p>
+<p class="story-body-text" itemprop="articleBody">Le Monde reports that a second suspect in the Montrouge attack, Hayat Boumeddiene, was the companion of Amedy Coulibaly.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Hayat Boumeddiene, dont le nom apparaît pour la première fois dans cette affaire, est la compagne d&#8217;Amedy Coulibaly  http://t.co/gkKm9x3Y1i</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/lemondelive">Le Monde Live (@lemondelive)</a> <a href="https://twitter.com/lemondelive/status/553548972267425792" data-datetime="2015-01-09T13:48:54+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">The arrest of a man who left the market with his hands in the air at an earlier stage of the siege was <a href="http://www.europe1.fr/faits-divers/video-exclusive-les-images-de-l-arrestation-porte-de-vincennes-2339643">caught of video</a> by the manager of a nearby service station who provided the images to Europe 1, a French television channel.</p>
+<div class="w480"><iframe frameborder="0" width="480" height="270" src="//www.dailymotion.com/embed/video/x2ect9a" allowfullscreen></iframe><br /><span class="caption">Video of French police officers arresting a man outside a kosher market near the Porte de Vincennes.</span></div>
+<p class="story-body-text" itemprop="articleBody">As David Clinch of the news agency Storyful notes, journalists in France have uncovered <a href="http://www.leparisien.fr/grigny-91350/amedi-27-ans-rencontre-sarkozy-cet-apres-midi-15-07-2009-580211.php">a newspaper report</a> indicating that Mr. Coulibaly met Nicolas Sarkozy, then president of France, in 2009. The young man was taking part in a job-training scheme at the time and employed temporarily at a Coca-Cola plant in the Paris exurb of Grigny, Le Parisien reported.</p>
+<p class="story-body-text" itemprop="articleBody">He told the newspaper he was glad to meet Mr. Sarkozy, even if the conservative leader was not very popular in his area, and hoped &#8220;the president can help me get hired.&#8221;</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Journalists in France pointing to this article from 2009, indicating suspect met Sarkozy: http://t.co/qbePelu5aA http://t.co/OoEYe6HBHO</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/DavidClinchNews">David Clinch (@DavidClinchNews)</a> <a href="https://twitter.com/DavidClinchNews/status/553570266719064064" data-datetime="2015-01-09T15:13:31+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>ROBERT MACKEY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="photo-hollande-in-crisis-meeting-on-hostage-situations-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#photo-hollande-in-crisis-meeting-on-hostage-situations-2">10:01 A.M.</a></span> <strong>Photo: Hollande in Crisis Meeting on Hostage Situations</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">The official presidential Twitter account in France posted an image of President François Hollande in discussions after a second hostage situation erupted on the eastern edge of Paris.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Prise d&#8217;otages à Vincennes : une réunion de crise est en cours en ce moment autour du président @fhollande http://t.co/WEU3xTjCmf</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/Elysee">Élysée (@Elysee)</a> <a href="https://twitter.com/Elysee/status/553561715808690176" data-datetime="2015-01-09T14:39:32+00:00">9 Jan 15</a></p>
+</blockquote>
+</div></div>
+<div class="type-live-update update">
+<div id="shops-ordered-shut-in-jewish-area-of-paris-a-p-says-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#shops-ordered-shut-in-jewish-area-of-paris-a-p-says-2">9:46 A.M.</a></span> <strong>Shops Ordered Shut in Jewish Area of Paris, A.P. Says</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<blockquote class="twitter-tweet tw-hide-thread">
+<p class="story-body-text" itemprop="articleBody">BREAKING: Police order all shops closed in famed Jewish neighborhood in central Paris far from attacks.</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/AP">The Associated Press (@AP)</a> <a href="https://twitter.com/AP/status/553561170637238272" data-datetime="2015-01-09T14:37:22+00:00">9 Jan 15</a></p>
+</blockquote>
+</div></div>
+<div class="type-live-update update">
+<div id="anxiety-for-parents-amid-standoff-in-dammartin-en-go%c3%able-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#anxiety-for-parents-amid-standoff-in-dammartin-en-go%c3%able-2">9:30 A.M.</a></span> <strong>Anxiety for Parents Amid Standoff in Dammartin-en-Goële</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Valérie Désayeux, 48, was waiting anxiously outside a junior high school near the center of Dammartin-en-Goële for news of her 13-year-old son, who was a student there.</p>
+<p class="story-body-text" itemprop="articleBody">She said she had heard the news of the <a href="http://www.nytimes.com/2015/01/10/world/europe/charlie-hebdo-paris-shooting.html">hostage situation</a> while she was at work in the Paris suburb of Auteuil early Friday and raced back to Dammartin, only to discover that police had cordoned off the area and parents were not being allowed near the school. She said she was told that the students were being escorted to a gymnasium in the nearby village of Mitry-Mory.</p>
+<p class="story-body-text" itemprop="articleBody">&#8220;I&#8217;m so anxious and stressed,&#8221; Ms. Désayeux said. She said she had been following the news closely since the initial attack on the Charlie Hebdo newspaper on Wednesday, &#8220;but no one could imagine this would happen here.&#8221;</p>
+<p class="story-body-text" itemprop="articleBody">&#8220;Nothing like this has ever happened before,&#8221; she said. &#8220;Our town is always calm and peaceful.&#8221;</p>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>DAVID JOLLY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="%e2%80%98sure%e2%80%99-link-between-suspects-official-says-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#%e2%80%98sure%e2%80%99-link-between-suspects-official-says-2">9:13 A.M.</a></span> <strong>‘Sure’ Link Between Suspects, Official Says</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Amedy Coulibaly, a suspect in Friday’s attack near Porte de Vincennes on the eastern edge of Paris, is linked to the Kouachi brothers, the suspects in the attack on Charlie Hebdo, said Christophe Tirante, a senior police official.</p>
+<p class="story-body-text" itemprop="articleBody">“We are sure that Coulibaly was in connection with the Kouachi brothers,” Mr. Tirante said. “They knew each other and met several times. They are from the same generation.”</p>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>MAïA DE LA BAUME</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="2-dead-in-paris-hostage-incident-official-says" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#2-dead-in-paris-hostage-incident-official-says">8:59 A.M.</a></span> <strong>2 Dead in Paris Hostage Incident, Official Says</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Christophe Tirante, a senior police official, said an armed man had taken five people hostage, including women and children, at a kosher supermarket near Porte de Vincennes, on the eastern edge of Paris, and had killed two people. </p>
+<p class="story-body-text" itemprop="articleBody">The police said that the attacker at the Hyper Cacher supermarket was armed with an AK-47 and had told the police: “You know who I am.”</p>
+<div class="w190 right"><figure class="media photo promo" itemprop="" itemscope="" itemid="http://graphics8.nytimes.com/images/2015/01/09/world/9suspect-watching2/9suspect-watching2-articleInline.jpg" itemtype="http://schema.org/ImageObject" role="group"><span class="visually-hidden">Photo</span><div class="image"><img itemprop="url" itemid="http://graphics8.nytimes.com/images/2015/01/09/world/9suspect-watching2/9suspect-watching2-articleInline.jpg" src="http://graphics8.nytimes.com/images/2015/01/09/world/9suspect-watching2/9suspect-watching2-articleInline.jpg" id="100000003439352" width="190" height="147" alt="Amedy Coulibaly"   /><meta itemprop="height" content="147"><meta itemprop="width" content="190"></div><figcaption class="caption" itemprop="description"><span class="caption-text">Amedy Coulibaly</span><span class="credit" itemprop="copyrightHolder"><span class="visually-hidden">Credit</span> French Police/Agence France-Presse — Getty Images</span></figcaption></figure></div>
+<p class="story-body-text" itemprop="articleBody">Mr. Tirante identified the attacker as Amedy Coulibaly. He said he was the same man suspected of killing a police officer in Montrouge, south of Paris, on Thursday. Police and news reports said the Montrouge suspect was believed to have joined the same jihadist group as the Kouachi brothers, who in 2005 had tried to recruit jihadists to fight in Iraq, and had conducted amateur training in a Paris park.</p>
+<p class="story-body-text" itemprop="articleBody">Prosecutors said that at around 1 p.m. Paris time, gunshots had been fired at Porte de Vincennes. Police released a photograph of Mr. Coulibaly and appealed for witnesses to come forward. </p>
+<div class="w190 right"><figure class="media photo promo" itemprop="" itemscope="" itemid="http://graphics8.nytimes.com/images/2015/01/09/world/9suspect-watching/9suspect-watching-articleInline.jpg" itemtype="http://schema.org/ImageObject" role="group"><span class="visually-hidden">Photo</span><div class="image"><img itemprop="url" itemid="http://graphics8.nytimes.com/images/2015/01/09/world/9suspect-watching/9suspect-watching-articleInline.jpg" src="http://graphics8.nytimes.com/images/2015/01/09/world/9suspect-watching/9suspect-watching-articleInline.jpg" id="100000003439350" width="190" height="219" alt="Hayat Boumeddiene"   /><meta itemprop="height" content="219"><meta itemprop="width" content="190"></div><figcaption class="caption" itemprop="description"><span class="caption-text">Hayat Boumeddiene</span><span class="credit" itemprop="copyrightHolder"><span class="visually-hidden">Credit</span> French Police/Agence France-Presse — Getty Images</span></figcaption></figure></div>
+<p class="story-body-text" itemprop="articleBody">They also published a photograph of a woman, Hayat Boumeddiene, whom they said was also implicated in the Montrouge attack. Both suspects were armed and dangerous, the police said.</p>
+<p class="story-body-text" itemprop="articleBody">The police have arrested two people in connection with the Montrouge attack and are questioning them.</p>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>DAN BILEFSKY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="distraught-but-back-to-work-at-charlie-hebdo-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#distraught-but-back-to-work-at-charlie-hebdo-2">8:53 A.M.</a></span> <strong>Distraught, but Back to Work at Charlie Hebdo</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Looking shaken and distraught, some sobbing in each other&#8217;s arms, about 25 journalists from the satirical weekly newspaper Charlie Hebdo arrived Friday morning at the Paris headquarters of the left-wing French daily Libération, taking the first step toward putting out their next issue.</p>
+<p class="story-body-text" itemprop="articleBody">Libération is hosting the Charlie Hebdo journalists, as it did after the weekly&#8217;s offices were firebombed in 2011. That attack came after Charlie Hebdo published a special issue called &#8220;Charia Hebdo,” a play on the word in French for Shariah, the legal code of Islam, that included provocative cartoons lampooning Islam and the Prophet Muhammad.</p>
+<p class="story-body-text" itemprop="articleBody">In a hastily organized and chaotic news conference in Libération&#8217;s entrance hall, Richard Malka, a lawyer for Charlie Hebdo, thanked the reporters and supporters who had turned up to cover the staff&#8217;s return. He said they appreciated the show of solidarity but that the newspaper&#8217;s surviving staff members wanted to work in peace.</p>
+<p class="story-body-text" itemprop="articleBody">&#8220;We know your presence is your support,&#8221; he said. &#8220;You need to let us work with<br />
+privacy.&#8221; </p>
+<p class="story-body-text" itemprop="articleBody">&#8220;We&#8217;ll say what we want to say in eight pages on Wednesday,&#8221; he added.  Charlie Hebdo, which has a circulation of about 30,000, plans to print one million copies.</p>
+<p class="story-body-text" itemprop="articleBody">At around 12:45 p.m., Prime Minister Manuel Valls and Fleur Pellerin, France&#8217;s minister of culture and communication, arrived to meet with the Charlie Hebdo journalists. Afterward, Mr. Valls told reporters that the ministers had wanted to &#8220;offer solidarity&#8221; and &#8220;share this emotion,&#8221; while also urging them to get back<br />
+to work. </p>
+<p class="story-body-text" itemprop="articleBody">&#8220;The strongest response is to say, &#8216;let&#8217;s continue,&#8217;&#8221; Mr. Valls said.</p>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>RACHEL DONADIO</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="police-warn-people-to-avoid-porte-de-vincennes-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#police-warn-people-to-avoid-porte-de-vincennes-2">8:41 A.M.</a></span> <strong>Police Warn People to Avoid Porte de Vincennes</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">The Paris police posted a tweet advising people to avoid the Porte de Vincennes area on the eastern edge of Paris following a possible hostage incident at a kosher supermarket.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Évitez le secteur de la porte de #Vincennes Merci #AlerteAttentat</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/prefpolice">Préfecture de police (@prefpolice)</a> <a href="https://twitter.com/prefpolice/status/553541975690199041" data-datetime="2015-01-09T13:21:05+00:00">9 Jan 15</a></p>
+</blockquote>
+</div></div>
+<div class="type-live-update update">
+<div id="police-post-images-of-suspect-in-thursday-shooting-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#police-post-images-of-suspect-in-thursday-shooting-2">8:33 A.M.</a></span> <strong>Police Post Images of Suspects in Thursday Shooting</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">The Paris police headquarters posted images of the suspects in yesterday&#8217;s shooting in Montrouge, a suburb south of Paris.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">SECOND Appel à témoins #Fusillade #Montrouge Contacter le 0805 02 17 17.<br />
+En savoir plus &gt;&gt;&gt; http://t.co/8c2UJGQQJy http://t.co/n5h5e6Yb1b</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/prefpolice">Préfecture de police (@prefpolice)</a> <a href="https://twitter.com/prefpolice/status/553541095012196353" data-datetime="2015-01-09T13:17:36+00:00">9 Jan 15</a></p>
+</blockquote>
+</div></div>
+<div class="type-live-update update">
+<div id="condemnation-in-the-middle-east-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#condemnation-in-the-middle-east-2">8:27 A.M.</a></span> <strong>Condemnation in the Middle East</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Prime Minister Benjamin Netanyahu of Israel, who like other world leaders had already condemned the Paris attack in the harshest terms, on Friday expounded further, comparing the suspects to Israel&#8217;s enemies, and the massacre to the firing of rockets this summer from the Gaza Strip into Israel.</p>
+<p class="story-body-text" itemprop="articleBody">&#8220;They might have different names &#8212; ISIS, Boko Haram, Hamas, Shabab, Al Qaeda, Hezbollah &#8212; but all of them are driven by the same hatred and blood-thirsty fanaticism,&#8221; Mr. Netanyahu said before meeting with the French ambassador to Israel. &#8220;And all of them seek to destroy our freedoms and to impose on all of us a violent, medieval tyranny.&#8221;</p>
+<p class="story-body-text" itemprop="articleBody">The sentiments were not new, but the statement was unusually lengthy, as Mr. Netanyahu sought repeatedly to tie the Paris attack &#8212; and the attendant world outrage &#8212; to the challenges facing his own country.</p>
+<p class="story-body-text" itemprop="articleBody">His emphasis on the bonds between France and Israel, and a call for unity in the face of terrorism and what he called &#8220;radical Islam,&#8221; came less than two weeks after France voted for a United Nations Security Council resolution that would have set a firm deadline to end Israel&#8217;s occupation of Palestinian territory.</p>
+<p class="story-body-text" itemprop="articleBody">President Mahmoud Abbas of the Palestinian Authority on Wednesday sent a telegram to President François Hollande of France denouncing &#8220;these heinous crimes, condemned by morality and religion,&#8221; according to a statement from the Palestine Liberation Organization. </p>
+<p class="story-body-text" itemprop="articleBody">Another Palestinian leader, Mustafa Barghouti, said the attack &#8220;does not represent Islam or Muslim culture but rather represents oppressive brutality to silence the voices of free thought across the world.&#8221;</p>
+<p class="story-body-text" itemprop="articleBody">Citing a Palestinian cartoonist, Naji Al-Ali, who was killed in 1987, Mr. Barghouti said the voices of the Charlie Hebdo journalists &#8220;shall never be silenced.&#8221;</p>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>JODI RUDOREN</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="officials-head-to-scene-of-paris-incident-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#officials-head-to-scene-of-paris-incident-2">8:17 A.M.</a></span> <strong>Officials Head to Scene of Paris Incident</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">The interior minister of France and the mayor of Paris said they were headed to the scene of a shooting and possible hostage-taking at a kosher supermarket near Porte de Vincennes on the eastern edge of Paris.</p>
+<p class="story-body-text" itemprop="articleBody">&#8220;#Vincennes: @BCazeneuve is on his way to the scene of the shooting,&#8221; was posted to the Twitter feed of the Interior Ministry.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">#Vincennes : @BCazeneuve se rend sur les lieux de la fusillade</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/Place_Beauvau">Ministère Intérieur (@Place_Beauvau)</a> <a href="https://twitter.com/Place_Beauvau/status/553536139169378304" data-datetime="2015-01-09T12:57:54+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">&#8220;I learned with horror that a hostage taking had started at the Porte de Vincennes, and immediately went to the scene,&#8221; wrote Anne Hidalgo, the mayor of Paris.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">J’ai appris avec horreur qu’une prise d’otage avait débuté, Porte de Vincennes, et me suis immédiatement rendue sur place.</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/Anne_Hidalgo">Anne Hidalgo (@Anne_Hidalgo)</a> <a href="https://twitter.com/Anne_Hidalgo/status/553538529004093440" data-datetime="2015-01-09T13:07:24+00:00">9 Jan 15</a></p>
+</blockquote>
+</div></div>
+<div class="type-live-update update">
+<div id="progress-in-investgation-of-shooting-south-of-paris-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#progress-in-investgation-of-shooting-south-of-paris-2">8:10 A.M.</a></span> <strong>&#8216;Progress&#8217; in Investigation of Shooting South of Paris</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Bernard Cazeneuve, the French interior minister, told reporters on Friday that investigators were making progress into the fatal shooting of a police officer south of Paris on Thursday, adding that law enforcement had retrieved “important elements.”</p>
+<p class="story-body-text" itemprop="articleBody">The Interior Ministry said it could not confirm news reports of a connection between the suspect in the shooting and the men who attacked Charlie Hebdo a day earlier.</p>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>AURELIEN BREEDEN</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="massive-response-by-police-to-incident-in-paris" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#massive-response-by-police-to-incident-in-paris">8:01 A.M.</a></span> <strong>Massive Response by Police to Incident in Paris</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">French television stations are showing images of a massive response by police to an incident at the edge of Paris near Vincennes.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Porte de Vincennes in Paris Hostage situation in a grocery store live on french France 2 http://t.co/dpMCxbnXFv</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/GillesKLEIN">Gilles Klein (@GillesKLEIN)</a> <a href="https://twitter.com/GillesKLEIN/status/553534121696583680" data-datetime="2015-01-09T12:49:53+00:00">9 Jan 15</a></p>
+</blockquote>
+</div></div>
+<div class="type-live-update update">
+<div id="incident-involving-gunman-in-paris-reports-say-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#incident-involving-gunman-in-paris-reports-say-2">7:50 A.M.</a></span> <strong>Incident Involving Gunman in Paris, Reports Say</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">French officials and news outlets were reporting an incident involving a gunman at a kosher grocery near Vincennes, on the eastern edge of Paris. Details remained sketchy.  </p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">opération de police en cours Porte de Vincennes http://t.co/HCCUTPBpi5</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/alexiscorbiere">Corbiere Alexis (@alexiscorbiere)</a> <a href="https://twitter.com/alexiscorbiere/status/553527443324428288" data-datetime="2015-01-09T12:23:21+00:00">9 Jan 15</a></p>
+</blockquote>
+</div></div>
+<div class="type-live-update update">
+<div id="suspects-want-to-die-as-martyrs-police-say-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#suspects-want-to-die-as-martyrs-police-say-2">7:30 A.M.</a></span> <strong>Suspects Want to &#8216;Die as Martyrs,&#8217; Police Say</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">The police in the area of Dammartin-en-Goële said that negotiations were underway. Mohamed Douhane, a senior police officer following the negotiations, said that after the police established communication with the two suspects in the Charlie Hebdo massacre, the gunmen told negotiators they were seeking to &#8220;die as martyrs.&#8221;</p>
+<p class="story-body-text" itemprop="articleBody">&#8220;They are behaving like two determined terrorists who are certainly physically exhausted, but who want to escape with one last big show of force and heroic resistance,&#8221; Mr. Douhane said. &#8220;They feel trapped and know that their last hours have come.” </p>
+<p class="story-body-text" itemprop="articleBody">He added that at least one hostage had been taken, and that the hostage was likely a woman.  </p>
+<p class="story-body-text" itemprop="articleBody">Mr. Douhane said the police are working with three possible scenarios: the first and unlikely one is that the two men surrender; the second is that the hostage is killed; and the third is that the brothers commit suicide.</p>
+<p class="story-body-text" itemprop="articleBody">Christophe Crepin, the spokesman of the Unsa police union, said that an operation was underway in Dammartin-en-Goële with the ultimate priority of keeping the hostages from harm. “The situation is extremely serious,” he said.</p>
+<p class="story-body-text" itemprop="articleBody">The police said that the Kouachi brothers had been located at the printing warehouse by helicopters equipped with heat-seeking equipment. Shortly after they were detected, local residents saw security forces drop down from ropes on helicopters hovering over the area.</p>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>DAN BILEFSKY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="runways-reopen-at-charles-de-gaulle-airport" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#runways-reopen-at-charles-de-gaulle-airport">7:25 A.M.</a></span> <strong>Runways Reopen at Charles de Gaulle Airport</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<blockquote class="twitter-tweet tw-hide-thread">
+<p class="story-body-text" itemprop="articleBody">Paris airport operator says planes are now being allowed to resume landings on northern runways of CDG airport as of 12h10</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/_nicolaclark">Nicola Clark (@_nicolaclark)</a> <a href="https://twitter.com/_nicolaclark/status/553521715981348864" data-datetime="2015-01-09T12:00:35+00:00">9 Jan 15</a></p>
+</blockquote>
+</div></div>
+<div class="type-live-update update">
+<div id="hollande-meets-with-officials-in-situation-room-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#hollande-meets-with-officials-in-situation-room-2">7:02 A.M.</a></span> <strong>Hollande Meets With Officials in Situation Room</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">As the operation unfolded, the French daily Le Monde reported that President François Hollande was at the Interior Ministry with Bernard Cazeneuve, the interior minister, and Manuel Valls, the prime minister, and with two other key advisers.  </p>
+<p class="story-body-text" itemprop="articleBody">The president&#8217;s office, the Élysée Palace, tweeted a photograph of the president meeting with officials in a situation room at the ministry.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">Le président @fhollande supervise les opérations dans la &#8220;situation room&#8221; du ministère de l&#8217;Intérieur, @Place_Beauvau http://t.co/QTYYJPcBNM</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/Elysee">Élysée (@Elysee)</a> <a href="https://twitter.com/Elysee/status/553520533770633216" data-datetime="2015-01-09T11:55:53+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>DAN BILEFSKY</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="police-see-connection-in-two-french-attacks" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#police-see-connection-in-two-french-attacks">6:54 A.M.</a></span> <strong>Police See Connection in Two French Attacks</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">French media are reporting that an unidentified assailant who shot to death a police officer in Montrouge south of Paris on Thursday was an associate of the Kouachi brothers. </p>
+<p class="story-body-text" itemprop="articleBody">A police source told Agence France-Presse that initial investigations had revealed a &#8220;connection&#8221; between the suspects in the attack outside of Paris and the deadly assault on the offices of Charlie Hebdo.</p>
+<p class="story-body-text" itemprop="articleBody">The police had previously declined to say whether the Montrouge killing was linked to the attack a day earlier.</p>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>ALAN COWELL</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="phone-contact-made-with-suspects-official-tells-a-p-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#phone-contact-made-with-suspects-official-tells-a-p-2">6:48 A.M.</a></span> <strong>Phone Contact Made With Suspects, Official Tells A.P.</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">The two suspects said to be holed up in Dammartin-en-Goële <a href="http://hosted.ap.org/dynamic/stories/E/EU_FRANCE_NEWSPAPER_ATTACK?SITE=AP&#038;SECTION=HOME&#038;TEMPLATE=DEFAULT&#038;CTIME=2015-01-07-07-29-04">have been reached by phone</a>, a French official told The Associated Press. The news agency reported that a lawmaker inside the French command post said the men &#8220;want to die as martyrs.&#8221;</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">BREAKING: French official: Phone contact made with terror suspects holding hostage northeast of Paris.</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/AP">The Associated Press (@AP)</a> <a href="https://twitter.com/AP/status/553515477423882241" data-datetime="2015-01-09T11:35:48+00:00">9 Jan 15</a></p>
+</blockquote>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">BREAKING: Lawmaker inside French command post says terror suspects say they want to die as martyrs.</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/AP">The Associated Press (@AP)</a> <a href="https://twitter.com/AP/status/553516108905730048" data-datetime="2015-01-09T11:38:18+00:00">9 Jan 15</a></p>
+</blockquote>
+</div></div>
+<div class="type-live-update update">
+<div id="location-of-dammartin-en-go%c3%able-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#location-of-dammartin-en-go%c3%able-2">6:49 A.M.</a></span> <strong>Location of Dammartin-en-Goële</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">The town where the suspects appear to be barricaded is northeast of Paris, just a few miles from the region&#8217;s largest airport, Charles de Gaulle. </p>
+<div class="w480"><figure class="media photo promo" itemprop="" itemscope="" itemid="http://graphics8.nytimes.com/images/2015/01/09/world/europe/paris-smallmap-09-1420802894571/paris-smallmap-09-1420802894571-blog480.png" itemtype="http://schema.org/ImageObject" role="group"><span class="visually-hidden">Photo</span><div class="image"><img itemprop="url" itemid="http://graphics8.nytimes.com/images/2015/01/09/world/europe/paris-smallmap-09-1420802894571/paris-smallmap-09-1420802894571-blog480.png" src="http://graphics8.nytimes.com/images/2015/01/09/world/europe/paris-smallmap-09-1420802894571/paris-smallmap-09-1420802894571-blog480.png" id="100000003439205" width="480" height="338" alt=""   /><meta itemprop="height" content="338"><meta itemprop="width" content="480"></div><figcaption class="caption" itemprop="description"><span class="caption-text"></span><span class="credit" itemprop="copyrightHolder"><span class="visually-hidden">Credit</span> </span></figcaption></figure></div>
+</div></div>
+<div class="type-live-update update">
+<div id="some-schools-in-dammartin-being-evacuated-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#some-schools-in-dammartin-being-evacuated-2">6:34 A.M.</a></span> <strong>Some Schools in Dammartin Being Evacuated</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">The town government <a href="http://www.mairie-dammartin-en-goele.fr/">website</a> in Dammartin-en-Goële, France, where the police operation is underway, reports that some schools are being evacuated.</p>
+<p class="story-body-text" itemprop="articleBody">&#8220;The students of some schools in Dammartin-en-Goële nearest the zone of operations are currently being evacuated by the police and being brought to another school where they will be reunited with their parents.&#8221;</p>
+</div></div>
+<div class="type-live-update update">
+<div id="fearing-violence-danish-newspaper-backs-down-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#fearing-violence-danish-newspaper-backs-down-2">6:21 A.M.</a></span> <strong>Fearing Violence, Danish Newspaper Backs Down</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Ten years ago, the Danish newspaper Jyllands-Posten outraged Muslims by publishing cartoons of the Prophet Muhammad. Now, in response to the attack on the offices of Charlie Hebdo, the newspaper is bowing to the threat of violence by becoming the only major Danish newspaper not to republish Charlie Hebdo&#8217;s cartoons, Reuters reported. </p>
+<p class="story-body-text" itemprop="articleBody">&#8220;It shows that violence works,’’ the newspaper said in an editorial published on Friday.</p>
+<p class="story-body-text" itemprop="articleBody">Denmark’s other major newspapers, along with others across Europe, have published cartoons from the satirical French newspaper as part of their coverage, and as a show of solidarity and protest.  </p>
+<p class="story-body-text" itemprop="articleBody">Jyllands-Posten published several cartoons by various artists in September 2005 that depicted the Prophet Muhammad, a decision that provoked protests across the Muslim world and led to at least 50 deaths, Reuters reported. </p>
+<p class="story-body-text" itemprop="articleBody">&#8220;We have lived with the fear of a terrorist attack for nine years, and yes, that is the explanation why we do not reprint the cartoons, whether it be our own or Charlie Hebdo’s,’’ Jyllands-Posten said. ‘‘We are also aware that we therefore bow to violence and intimidation.’’</p>
+</div></div>
+<div class="type-live-update update">
+<div id="scene-at-a-school-in-dammartin-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#scene-at-a-school-in-dammartin-2">6:09 A.M.</a></span> <strong>Scene at a School in Dammartin</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">The principal of Vergers de la Thuilerie elementary school in Dammartin-en-Goële said around 300 students grades 1 to 5 had been confined in the building since around 9:30 a.m. this morning, about an hour after classes started. </p>
+<p class="story-body-text" itemprop="articleBody">Séverine Gibert said she had seen police helicopters flying overhead earlier in the morning but that now &#8220;everything is calm.&#8221; Contacted shortly before midday, she said the students, between the ages of 6 and 11 years old, were preparing to eat ad-hoc picnic lunches that the staff were preparing from the food available in the school&#8217;s kitchens.</p>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>NICOLA CLARK</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="live-video-of-french-town-surrounded-by-police-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#live-video-of-french-town-surrounded-by-police-2">6:10 A.M.</a></span> <strong>Live Video of French Town Surrounded by Police</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<div class="w480 youtube-video-container">
+<div class="youtube-video" data-youtube-id="BFwedk4dBCc" data-start="">
+<div class="thumb"><img src="//img.youtube.com/vi/BFwedk4dBCc/0.jpg" />
+<div class="playButton">
+<div class="arrow"></div>
+</div>
+</div>
+</div>
+</div>
+<p class="story-body-text" itemprop="articleBody">France 24, an English-language news broadcaster based in Paris, is providing analysis and live images from the area of Dammartin-en-Goële, northeast of Paris, where a major police operation is underway.</p>
+</div></div>
+<div class="type-live-update update">
+<div id="across-the-street-everyone-was-afraid-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#across-the-street-everyone-was-afraid-2">6:13 A.M.</a></span> <strong>Across the Street, &#8216;Everyone was Afraid&#8217;</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">The suspects in the Paris attack were holed up Friday inside Création Tendance Découverte, a printing house, apparently with one hostage, The Associated Press reported.</p>
+<p class="story-body-text" itemprop="articleBody">Christelle Alleume, who works across the street from the printing house, said she heard gunfire during her coffee break.</p>
+<p class="story-body-text" itemprop="articleBody">&#8220;We heard shots and we returned very fast because everyone was afraid,&#8221; she told the broadcaster i-Tele, The A.P. reported.  &#8220;We had orders to turn off the lights and not approach the windows.&#8221;</p>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>ALAN COWELL</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="hollande-appeals-for-unity-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#hollande-appeals-for-unity-2">5:50 A.M.</a></span> <strong>Hollande Appeals for Unity</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">President François Hollande on Friday appealed for national unity. Alluding to the attack at Charlie Hebdo, he said that France, its state and its values, were a bulwark, and that the country had shown its great capacity to come together and unite.  </p>
+<p class="story-body-text" itemprop="articleBody">&#8220;France has been struck directly in the heart of its capital, in a place where the spirit of liberty — and therefore resistance — freely breathed,&#8221; he said. Mr. Hollande said it was imperative to ensure that the French lived together in security. </p>
+<p class="story-body-text" itemprop="articleBody">Mr. Hollande was speaking at the Interior Ministry in Paris at a meeting of French regional representatives. He said that &#8220;France is going through a trying time,&#8221; calling this week&#8217;s attack &#8220;the worst of the past 50 years.&#8221;</p>
+<p class="story-body-text" itemprop="articleBody">&#8220;France is also shocked, considering that the perpetrators of these acts have not yet been arrested, and I am speaking before you as operations are ongoing,&#8221; he said.</p>
+<p class="story-body-text" itemprop="articleBody">&#8220;We have known for several months that there were attempts,&#8221; he said, noting that France had &#8220;thwarted&#8221; several such attempts. &#8220;Several times there were attacks that were not carried out.&#8221;</p>
+<p class="story-body-text" itemprop="articleBody">&#8220;We must do everything to guarantee the protection of our fellow citizens,&#8221; he said. &#8220;To reassure the population is to tell people that we live under the rule of law, with the will to live together, to refuse exaggerations, stigmatizing and caricatures.&#8221;</p>
+<p class="story-body-text" itemprop="articleBody">&#8220;We must guarantee the security of demonstrations that are going to take place,&#8221; he said, alluding to planned demonstrations around France this weekend in the wake of the Charlie Hebdo attacks. </p>
+<p class="story-body-text" itemprop="articleBody">&#8220;We must act at the European level,&#8221; he said. Mr. Hollande confirmed there would be a meeting of European interior ministers in Paris on Sunday, with cooperation from other countries, most notably the United States. </p>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>DAN BILEFSKY AND AURELIEN BREEDEN</em></p>
+</div></div>
+<div class="type-live-update update">
+<div id="some-delays-reported-at-paris-airport-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#some-delays-reported-at-paris-airport-2">5:57 A.M.</a></span> <strong>Some Delays Reported at Paris Airport</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<blockquote class="twitter-tweet tw-hide-thread">
+<p class="story-body-text" itemprop="articleBody">Airport police tell me departures from CDG are now starting to experience delays of around 20 mins due to this morning&#8217;s runway closures.</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/_nicolaclark">Nicola Clark (@_nicolaclark)</a> <a href="https://twitter.com/_nicolaclark/status/553500138816421888" data-datetime="2015-01-09T10:34:51+00:00">9 Jan 15</a></p>
+</blockquote>
+</div></div>
+<div class="type-live-update update">
+<div id="french-police-appeal-to-twitter-users-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#french-police-appeal-to-twitter-users-2">5:42 A.M.</a></span> <strong>French Police Appeal to Twitter Users</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">The French national police took to Twitter on Friday morning to urge people in the area of the police action near Dammartin-en-Goële to respect the security perimeter they&#8217;ve established and to refrain from spreading unconfirmed information on social media.</p>
+<p class="story-body-text" itemprop="articleBody">&#8220;Please respect the safety perimeter put into place by the police forces. Forbidden Access,&#8221; read one of the tweets.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">[#CharlieHebdo] #Dammartin Merci de respecter le périmètre de sécurité mis en place par #police et @Gendarmerie  Accès interdit</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/PNationale">Police Nationale (@PNationale)</a> <a href="https://twitter.com/PNationale/status/553493190507233280" data-datetime="2015-01-09T10:07:14+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">&#8220;Do not disrupt the SWAT team&#8217;s work by relaying nonofficial information,&#8221; said another.</p>
+<blockquote class="twitter-tweet tw-hide-thread"><p class="story-body-text" itemprop="articleBody">[#CharlieHebdo] #Dammartin Ne perturbez pas le travail du #RAID #GIGN en relayant des infos non officielles</p>
+<p class="story-body-text" itemprop="articleBody">— <a href="http://www.twitter.com/PNationale">Police Nationale (@PNationale)</a> <a href="https://twitter.com/PNationale/status/553493480497246210" data-datetime="2015-01-09T10:08:23+00:00">9 Jan 15</a></p>
+</blockquote>
+<p class="story-body-text" itemprop="articleBody">On Thursday, the police had issued an earlier call to <a href="http://news.blogs.nytimes.com/2015/01/08/updates-on-charlie-hebdo-shooting/#french-police-urge-restraint-on-spreading-rumors">refrain from spreading unconfirmed information</a>.</p>
+</div></div>
+<div class="type-live-update update">
+<div id="the-scene-outside-dammartin-2" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#the-scene-outside-dammartin-2">5:26 A.M.</a></span> <strong>The Scene Outside Dammartin</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">Our colleague David Jolly is near the scene of the police action in Dammartin-en-Goële, northeast of Paris. Members of the news media were gathered at a roadblock there. He writes:</p>
+<blockquote class="pullquote"><p class="story-body-text" itemprop="articleBody">I&#8217;m at the roadblock about 3 or 4 km outside Dammartin. Sirens, no gunshots audible. There is a miserable January drizzle, foggy and quite limited visibility. There&#8217;s been a wreck at the roadblock, possibly serious, probably someone going too fast and not paying attention.</p>
+</blockquote>
+<div class="w480"><figure class="media photo promo" itemprop="" itemscope="" itemid="http://graphics8.nytimes.com/images/2015/01/10/world/europe/10parisliveblog/10parisliveblog-blog480.jpg" itemtype="http://schema.org/ImageObject" role="group"><span class="visually-hidden">Photo</span><div class="image"><img itemprop="url" itemid="http://graphics8.nytimes.com/images/2015/01/10/world/europe/10parisliveblog/10parisliveblog-blog480.jpg" src="http://graphics8.nytimes.com/images/2015/01/10/world/europe/10parisliveblog/10parisliveblog-blog480.jpg" id="100000003439156" width="480" height="359" alt="Members of the news media stood in the drizzle near Dammartin-en-Goële, France, on Friday."   /><meta itemprop="height" content="359"><meta itemprop="width" content="480"></div><figcaption class="caption" itemprop="description"><span class="caption-text">Members of the news media stood in the drizzle near Dammartin-en-Goële, France, on Friday.</span><span class="credit" itemprop="copyrightHolder"><span class="visually-hidden">Credit</span> David Jolly/The New York Times</span></figcaption></figure></div>
+</div></div>
+<div class="type-live-update update">
+<div id="aircraft-warned-to-avoid-some-runways-at-paris-airport" class="updated-entry">
+<h5 class="updated-marker highlight"><span class="time"><a href="#aircraft-warned-to-avoid-some-runways-at-paris-airport">5:05 A.M.</a></span> <strong>Aircraft Warned to Avoid Some Runways at Paris Airport</strong></h5>
+</p></div>
+<div class="updated-entry-content">
+<p class="story-body-text" itemprop="articleBody">A spokesman for the police chief at Charles de Gaulle Airport said that aircraft have been advised to avoid certain runways as a precaution. </p>
+<p class="story-body-text" itemprop="articleBody">Dammartin-en-Goële, where the police are involved in a major operation in the manhunt for the attack suspects, lies approximately 8 miles northeast of the airport, Europe&#8217;s second-largest in terms of passengers.</p>
+<p class="story-body-text" itemprop="articleBody">Christophe Blondel, the spokesman, said that since Wednesday afternoon the airport has stationed two armored vehicles on its main access road and two additional patrol cars around the airport.</p>
+<p class="story-body-text" itemprop="articleBody">At the moment, no additional measures are being taken to block traffic or search cars approaching the airport. Flights are continuing to operate normally.</p>
+<p class="story-body-text" itemprop="articleBody">&#8212; <em>NICOLA CLARK</em></p>
+</div></div>
+</div>
+</div>
+			<footer class="entry-footer">
+								<button class="button comments-button  theme-speech-bubble"></button>
+				
+				<div id="sharetools-post-footer" class="sharetools theme-classic"
+					data-shares="show-all|Share"
+					data-url="http://news.blogs.nytimes.com/2015/01/09/updates-on-the-manhunt-for-the-charlie-hebdo-suspects/"
+					data-title="Paris Attack Updates, Day 3: Two Hostage Situations"
+					data-description="&lt;span class=&quot;excerpt-inner&quot;&gt;A major police operation was underway northeast of Paris in the search for the suspects in Wednesday&#039;s shooting at the offices of the satirical newspaper Charlie Hebdo in Paris. Times reporters and editors are providing live updates from the manhunt.&lt;/span&gt;&lt;a href=&quot;http://news.blogs.nytimes.com/2015/01/09/updates-on-the-manhunt-for-the-charlie-hebdo-suspects/&quot; class=&quot;more-link&quot;&gt;Read&nbsp;more...&lt;/a&gt;"
+					>
+					<div class="ad sharetools-inline-article-ad hidden"></div>
+				</div>
+				<div class="footer-tags">
+					<span class="categories"><a href="http://news.blogs.nytimes.com/category/europe/" rel="category tag">Europe</a>, </span>
+					<span class="tags"><a href="http://news.blogs.nytimes.com/tag/blockinterstitial/" rel="tag">blockinterstitial</a>, <a href="http://news.blogs.nytimes.com/tag/charlie-hebdo/" rel="tag">Charlie Hebdo</a>, <a href="http://news.blogs.nytimes.com/tag/paris-france/" rel="tag">Paris (France)</a>, <a href="http://news.blogs.nytimes.com/tag/terrorism/" rel="tag">Terrorism</a> </span>
+				</div>
+			</footer>
+		</article>
+		<section id="whats-next" class="whats-next nocontent robots-nocontent">
+    <div class="nocontent robots-nocontent">
+        <div class="loader-container">
+            <div class="loader loader-t-logo-32x32-ecedeb-ffffff"><span class="visually-hidden">Loading...</span></div>
+        </div>
+    </div><!-- close nocontent -->
+</section>
+
+		</div> <!-- end content -->
+</div><!-- end .a-column -->
+<div class="cColumn nocontent robots-nocontent">
+	<aside>
+				<div class="module ad" id="XXL"></div>
+				<div class="module ad" id="MiddleRight"></div>
+        	</aside>
+</div>		<div class="clear"></div>
+	</div><!-- end blog wrap -->
+	<div class="hideContent"></div>
+
+	
+<!-- Google Analytics start -->
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o), m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-4406282-154',  { 'alwaysSendReferrer': true } );
+ga('send', 'pageview');
+</script>
+<!-- Google Analytics end -->
+		<div id="mobilebanner2" class="ad mobilebanner2"></div>
+		<div class="accessibility-ad-header visually-hidden">
+    <p>Advertisement</p>
+</div><div id="SponLink" class="text-ad bottom-left-ad nocontent robots-nocontent"></div>
+		<div id="Top5" class="ad top5-ad hidden nocontent robots-nocontent"></div>
+
+					</div>
+			<div class="search-overlay"></div>
+		</main><!-- close main -->
+		<section id="site-index" class="site-index">
+    <header class="section-header">
+        <p class="user-action"><a href="http://www.nytimes.com/">Go to Home Page &raquo;</a></p>
+        <h2 class="section-heading">
+            <span class="visually-hidden">Site Index</span>
+            <a href="http://www.nytimes.com/">
+                <script>window.magnum.writeLogo('small', 'http://a1.nyt.com/assets/blogs/20150611-152624/images/foundation/logos/', '', '', 'standard');</script>
+         </a>
+        </h2>
+    </header>
+
+    <nav id="site-index-navigation" class="site-index-navigation" role="navigation">
+
+        <div class="split-6-layout layout">
+
+                                                                                    
+                    <div class="column">
+                        <h3 class="menu-heading">News</h3>
+                        <ul class="menu">
+
+                                                                                                                                                                                                                                                
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/world/index.html">World</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/national/index.html">U.S.</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/politics/index.html">Politics</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/nyregion/index.html">New York</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/business/index.html">Business</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/technology/index.html">Technology</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/science/index.html">Science</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/sports/index.html">Sports</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/education/index.html">Education</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/obituaries/index.html">Obituaries</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/todayspaper/index.html">Today's Paper</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/corrections/index.html">Corrections</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Opinion</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html">Today's Opinion</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#columnists">Op-Ed Columnists</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#editorials">Editorials</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#contributing">Contributing Writers</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#op-ed">Op-Ed Contributors</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#opinionator">Opinionator</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#letters">Letters</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#sundayreview">Sunday Review</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/opinion/index.html#takingNote">Taking Note</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/roomfordebate/">Room for Debate</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://topics.nytimes.com/top/opinion/thepubliceditor/index.html">Public Editor</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/video/opinion/">Video: Opinion</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Arts</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/index.html">Today's Arts</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/design/index.html">Art & Design</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://artsbeat.blogs.nytimes.com/">ArtsBeat</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/books/index.html">Books</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/dance/index.html">Dance</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/movies/index.html">Movies</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/music/index.html">Music</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/television/index.html">Television</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/theater/index.html">Theater</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/arts/video-games/index.html">Video Games</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/video/arts/">Video: Arts</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Living</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/automobiles/index.html">Automobiles</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/crosswords/">Crossword</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/dining/index.html">Food</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/education/index.html">Education</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/fashion/index.html">Fashion & Style</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/health/index.html">Health</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/garden/index.html">Home & Garden</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://jobmarket.nytimes.com/pages/jobs/index.html">Jobs</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/magazine/index.html">Magazine</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/realestate/index.html">Real Estate</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/t-magazine/index.html">T Magazine</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/travel/index.html">Travel</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/fashion/weddings/index.html">Weddings & Celebrations</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                                            
+                    <div class="column">
+                        <h3 class="menu-heading">Listings & More</h3>
+                        <ul class="menu">
+
+                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/ref/classifieds/">Classifieds</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/marketing/tools-and-services/">Tools & Services</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/topics/">Times Topics</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://topics.nytimes.com/top/opinion/thepubliceditor/index.html">Public Editor</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/events/">N.Y.C. Events Guide</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://tvlistings.nytimes.com/tvlistings/ZCGrid.do?aid=nyt">TV Listings</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/interactive/blogs/directory.html">Blogs</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://wordplay.blogs.nytimes.com/cartoons/">Cartoons</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/pages/multimedia/index.html">Multimedia</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://lens.blogs.nytimes.com/">Photography</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/video/">Video</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="https://www.nytimes.com/store/?&t=qry542&utm_source=nytimes&utm_medium=HPB&utm_content=hp_browsetree&utm_campaign=NYT-HP&module=SectionsNav&action=click&region=TopBar&version=BrowseTree&contentCollection=NYT%20Store&contentPlacement=2&pgtype=Homepage">NYT Store</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/times-journeys/?utm_source=nytimes&utm_medium=HPLink&utm_content=hp_browsetree&utm_campaign=NYT-HP">Times Journeys</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/seeallnav">Subscribe</a>
+                                    </li>
+
+                                                                                            
+                                    <li>
+                                        <a href="http://www.nytimes.com/membercenter">Manage My Account</a>
+                                    </li>
+
+                                                            
+                        </ul>
+                    </div><!-- close column -->
+
+                            
+            <div class="column last-column">
+                
+<h3 class="menu-heading">Subscribe</h3>
+
+<ul class="menu primary-menu">
+    <li class="menu-label">Subscribe</li>
+    <li class="times-premier">
+        <i class="icon sprite-icon"></i>
+        <a href="http://www.nytimes.com/tpnav">Times Premier</a>
+    </li>
+
+    <li class="home-delivery">
+        <i class="icon sprite-icon"></i>
+                    <a href="http://www.nytimes.com/hdleftnav">Home Delivery</a>
+            </li>
+    <li class="digital-subscriptions">
+        <i class="icon sprite-icon"></i>
+                    <a href="http://www.nytimes.com/digitalleftnav">Digital Subscriptions</a>
+            </li>
+    <li class="nyt-opinion">
+        <i class="icon sprite-icon"></i>
+        <a href="http://www.nytimes.com/opinionindex">NYT Opinion</a>
+    </li>
+    <li class="nyt-crossword last-item">
+        <i class="icon sprite-icon"></i>
+        <a id="nyt-crossword" href="http://www.nytimes.com/crosswords/index.html">Crossword</a>
+    </li>
+
+</ul>
+
+<ul class="menu secondary-menu">
+
+    <li>
+        <a href="http://www.nytimes.com/marketing/newsletters">Email Newsletters</a>
+    </li>
+    <li>
+        <a href="https://myaccount.nytimes.com/mem/tnt.html">Alerts</a>
+    </li>
+    <li>
+                    <a href="http://www.nytimes.com/giftleftnav">Gift Subscriptions</a>
+            </li>
+    <li>
+                    <a href="http://www.nytimes.com/corporateleftnav">Corporate Subscriptions</a>
+            </li>
+    <li>
+                    <a href="http://www.nytimes.com/educationleftnav">Education Rate</a>
+            </li>
+
+</ul>
+<ul class="menu secondary-menu">
+    <li>
+        <a href="http://www.nytimes.com/services/mobile/index.html">Mobile Applications</a>
+    </li>
+    <li>
+                    <a href="http://eedition.nytimes.com/cgi-bin/signup.cgi?cc=37FYY">Replica Edition</a>
+            </li>
+                <li>
+            <a href="http://subscribe.inyt.com">International New York Times</a>
+        </li>
+    
+</ul>
+
+            </div><!-- close column -->
+
+        </div><!-- close split-6-layout -->
+
+    </nav><!-- close nav -->
+
+</section><!-- close site-index -->
+				<footer id="page-footer" class="page-footer" role="contentinfo">
+    <nav>
+         <ul>
+             <li>
+                <a href="http://www.nytco.com" itemprop="copyrightNotice">
+                    &copy; <span itemprop="copyrightYear">2015</span>
+					<span itemprop="copyrightHolder provider sourceOrganization" itemscope
+						itemtype="http://schema.org/Organization"
+						itemid="http://www.nytimes.com">
+						<span itemprop="name"> The New York Times Company</span>
+						<meta itemprop="tickerSymbol" content="NYSE NYT"/>
+					</span>
+                </a>
+            </li>
+            <li><a href="http://www.nytimes.com/ref/membercenter/help/infoservdirectory.html">Contact Us</a></li>
+            <li><a href="http://www.nytco.com/careers">Work With Us</a></li>
+            <li><a href="http://www.nytimes.whsites.net/mediakit">Advertise</a></li>
+            <li><a href="http://www.nytimes.com/content/help/rights/privacy/policy/privacy-policy.html#pp">Your Ad Choices</a></li>
+            <li><a href="http://www.nytimes.com/privacy">Privacy</a></li>
+            <li><a href="http://www.nytimes.com/ref/membercenter/help/agree.html" itemprop="usageTerms">Terms of Service</a></li>
+            <li class="last-item"><a href="http://www.nytimes.com/content/help/rights/sale/terms-of-sale.html">Terms of Sale</a></li>
+         </ul>
+    </nav>
+    <nav class="last-nav">
+        <ul>
+            <li><a href="http://spiderbites.nytimes.com">Site Map</a></li>
+            <li><a href="http://www.nytimes.com/membercenter/sitehelp.html">Help</a></li>
+            <li><a href="https://myaccount.nytimes.com/membercenter/feedback.html">Site Feedback</a></li>
+            <li class="last-item"><a href="http://www.nytimes.com/subscriptions/Multiproduct/lp5558.html?campaignId=37WXW">Subscriptions</a></li>
+        </ul>
+    </nav>
+</footer>		</div><!-- close shell -->
+	<script>
+require(['foundation/main'], function () {
+    require(['blogs/main']);
+    require(['jquery/nyt', 'foundation/views/page-manager'], function ($, pageManager) {
+        if (window.location.search.indexOf('disable_tagx') > 0) {
+            return;
+        }
+        $(document).ready(function () {
+            require(['http://graphics8.nytimes.com/bi/js/tagx/tagx.js'], function () {
+                pageManager.trackingFireEventQueue();
+            });
+        });
+    });
+});
+</script>
+
+	<div id="Inv1" class="ad inv1-ad hidden"></div>
+<div id="Inv2" class="ad inv2-ad hidden"></div>
+<div id="Inv3" class="ad inv3-ad hidden"></div>
+<div id="ab1" class="ad ab1-ad hidden"></div>
+<div id="ab2" class="ad ab2-ad hidden"></div>
+<div id="ab3" class="ad ab3-ad hidden"></div>
+<div id="prop1" class="ad prop1-ad hidden"></div>
+<div id="prop2" class="ad prop2-ad hidden"></div>
+<div id="Anchor" class="ad anchor-ad hidden"></div>
+		<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"b5bcf2eba4","applicationID":"5164608","transactionName":"YwFXZhRYVhAEVUZcX1pLYEAPFlkTFRtQWV9TFxtCDkk=","queueTime":0,"applicationTime":482,"ttGuid":"","agentToken":"","userAttributes":"","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-632.min.js"}</script></body>
+</html>

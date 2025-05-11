@@ -1,0 +1,14 @@
+HTTP/1.1 200 OK
+Cache-Control: no-cache
+Pragma: no-cache
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Expires: -1
+Vary: Accept-Encoding
+X-Server: web521
+P3P: CP="IDC COR PSA DEV ADM OUR IND ONL"
+Date: Tue, 24 Mar 2015 09:28:54 GMT
+Connection: close
+Content-Length: 189
+
+<noscript><META http-equiv="refresh" content="0;URL=http://i100.independent.co.uk:80/article/charlie-hebdo-shooting-what-we-do-and-do-not-know--gkJvt54_ce"></noscript><script>location.replace("http://i100.independent.co.uk:80/article/charlie-hebdo-shooting-what-we-do-and-do-not-know--gkJvt54_ce")</script>

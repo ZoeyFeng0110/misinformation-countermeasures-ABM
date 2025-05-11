@@ -1,0 +1,42 @@
+HTTP/1.1 200 OK
+X-Powered-By: Express
+Accept-Ranges: bytes
+Date: Tue, 24 Mar 2015 11:18:49 GMT
+Cache-Control: public, max-age=0
+Last-Modified: Thu, 19 Feb 2015 18:03:33 GMT
+ETag: W/"as02PMErJQWU5nwnZeFSlQ=="
+Content-Type: text/html; charset=UTF-8
+Content-Encoding: gzip
+X-Varnish: 2569563
+Age: 0
+Via: 1.1 varnish-v4
+Content-Length: 583
+Accept-Ranges: bytes
+
+<!DOCTYPE html>
+<html lang="en-CA">
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" type="text/css" href="/styles/main.css" />
+  <script src="/scripts/app.min.js"></script>
+  <title>Emergent</title>
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <script src="//use.typekit.net/mxw7exw.js"></script>
+  <script>try{Typekit.load();}catch(e){}</script>
+</head>
+<body class="site">
+  <main id="react"></main>
+
+  <script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-55156414-1', 'auto');
+    ga('send', 'pageview');
+  </script>
+</body>
+</html>

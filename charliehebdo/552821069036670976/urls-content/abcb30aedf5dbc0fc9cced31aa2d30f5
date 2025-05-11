@@ -1,0 +1,709 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 24 Mar 2015 09:16:10 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 312
+Connection: close
+Location: http://twohits.ru/437100/8652252/
+Expires: Tue, 24 Mar 2015 09:21:10 GMT
+Cache-Control: max-age=300
+
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 24 Mar 2015 09:16:11 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 310
+Connection: close
+Location: http://anpat.ru/437100/8652252/
+Expires: Tue, 24 Mar 2015 09:21:11 GMT
+Cache-Control: max-age=300
+
+HTTP/1.1 302 Found
+Date: Tue, 24 Mar 2015 09:16:11 GMT
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.3.3
+Location: http://www-domain.ru/go.php?rid=437100
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+HTTP/1.1 302 Found
+Date: Tue, 24 Mar 2015 09:16:11 GMT
+Server: Apache/2.2.15 (CentOS)
+X-Powered-By: PHP/5.3.3
+Location: http://moneytrk.com/go/3870/180/s
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=WINDOWS-1251
+
+HTTP/1.1 302
+Server: nginx
+Date: Tue, 24 Mar 2015 09:16:11 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+Content-Encoding: identity
+Location: http://4600usd.com/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&offer_url=http%3A%2F%2Finternetdengi.net%2Fenter%2F%3Fpartner_key%3Djol8qb34%26subid%3DBFURK1tXne9POAlKUk6Z%26group%3D3870%26url%3Dusers%2Fsignup%2F%253Fafter_signup%3Dreel%26from%3Dpreland&url=wfinances.php
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Last-Modified: Tue, 24 Mar 2015 09:16:11 GMT
+Cache-Control: no-store, no-cache, must-revalidate, proxy-revalidate, max-age=0
+Pragma: no-cache
+Set-Cookie: click_3870_180=BFURK1tXne9POAlKUk6Z; expires=Wed, 25-Mar-2015 09:16:11 GMT; path=/; httponly
+
+HTTP/1.1 301 Moved Permanently
+Server: nginx/1.6.2
+Date: Tue, 24 Mar 2015 09:16:11 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.36-1~dotdeb.0
+Set-Cookie: PHPSESSID=oiqt5cnu4ve5e9cp4l59imkav7; path=/
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Set-Cookie: SS_partner_key=jol8qb34; expires=Thu, 23-Apr-2015 09:16:11 GMT; path=/
+Set-Cookie: SS_subid=BFURK1tXne9POAlKUk6Z; expires=Thu, 23-Apr-2015 09:16:11 GMT; path=/
+Set-Cookie: SS_group=3870; expires=Thu, 23-Apr-2015 09:16:11 GMT; path=/
+Set-Cookie: SS_offer_url=http%3A%2F%2Finternetdengi.net%2Fenter%2F%3Fpartner_key%3Djol8qb34%26subid%3DBFURK1tXne9POAlKUk6Z%26group%3D3870%26url%3Dusers%2Fsignup%2F%253Fafter_signup%3Dreel%26from%3Dpreland; expires=Thu, 23-Apr-2015 09:16:11 GMT; path=/
+Set-Cookie: SS_url=wfinances.php; expires=Thu, 23-Apr-2015 09:16:11 GMT; path=/
+Pragma: no-cache
+Location: /wfinances.php
+
+HTTP/1.1 200 OK
+Server: nginx/1.6.2
+Date: Tue, 24 Mar 2015 09:16:11 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+Connection: keep-alive
+X-Powered-By: PHP/5.4.36-1~dotdeb.0
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Cache-Control: no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Pragma: no-cache
+Content-Encoding: gzip
+
+<!doctype html>
+<html>
+<head>
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+<script src="/assets/js/booster.js"></script>
+<script src="assets/js/hermes.min.js"></script>  <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <title>Финансы | Из безработной домохозяйки в успешную бизнес-леди.</title>
+  <link rel="stylesheet" type="text/css" href="/assets/wfinances/css/style.css" tppabs="css/style.css" media="all" />
+	<link rel="shortcut icon" href="/assets/wfinances/favicon.ico?2" type="image/x-icon">
+	<link rel="icon" href="/assets/wfinances/favicon.ico?2" type="image/x-icon">
+</head>
+
+<body>
+
+
+
+<script>
+  $(function(){
+    $('a.btn-offer').click(function(event){
+      var params = {};
+      var id = $(this).attr('id');
+      if (id) {
+        params.btn_id = id;
+      }
+            return true;
+    });
+
+    $('[data-fullsize]').click(function(event){
+          });
+  });
+</script>
+
+<script>
+	var data = {
+		group: '3870',
+		partner_key: 'jol8qb34',
+		subid: 'BFURK1tXne9POAlKUk6Z',
+		source: 'wfinances.php'
+	};
+
+	//(function(){
+		var domain = 'internetdengi.net';
+		Hermes.Pixel.track(domain, data);
+	//})();
+
+	//$(function(){
+		var params = data;
+		var paramsArray = [];
+		for(var p in params){
+			paramsArray.push(p + '=' + params[p]);
+		}
+		var url = 'http://internetdengi.net/enter/?url=exit-sale/&' + paramsArray.join('&');
+
+					exitPopup.init({
+				alertMessage: "Нажмите \"Отмена\" или \"Остаться на этой странице\"\n и воспользуйтесь нашим БЕСПЛАТНЫМ предложением!",
+        				confirmMessage: 'Нажмите \"Отмена\" или \"Остаться на этой странице\"\n и воспользуйтесь нашим БЕСПЛАТНЫМ предложением!',
+				url: url
+			});
+			//});
+</script>
+
+<div class="header" style="overflow: hidden">
+	<div style="font-size:50px; font-family: Tahoma, Arial, san-serif; font-weight: bold; padding-left:10px; float:left"><img src="/assets/wfinances/img/logo.jpg?1"> РТЦ</div>
+	<div style="float:right; margin-top:10px; margin-right:10px"><a href="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"><img src="/assets/wfinances/img/search.png" border="0"></a></div>
+	<div style="float:right; margin-right:200px"><img src="/assets/wfinances/img/weather.jpg" border="0"> Уорик</div>
+</div>
+
+<div class="NAV1">
+	<table width="980">
+		<tbody>
+		<tr valign="middle" align="center">
+			<td height="26" width=""><a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font color="#ffffff">Главная</font></a></td>
+			<td bgcolor="#1C786A" height="26" width="79" style="font-weight: bold; padding: 0 2px"><a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font color="#ffffff">Финансы</font></a></td>
+			<td height="26" width=""><a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font color="#ffffff">В стране</font></a></td>
+			<td height="26" width=""><a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font color="#ffffff">В мире</font></a></td>
+			<td height="26" width=""><a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font color="#ffffff">Политика </font></a></td>
+			<td height="26" width=""><a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font color="#ffffff">Развлечения</font></a></td>
+			<td height="26" width=""><a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font color="#ffffff">Общество</font></a></td>
+			<td height="26" width=""><a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font color="#ffffff">Здоровье</font></a></td>
+			<td height="26" width=""><a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font color="#ffffff">Наука</font></a></td>
+		</tr>
+		</tbody>
+	</table>
+</div>
+
+<!-- EXCHANGERATES.ORG.UK LIVE FOREX RATES TICKER START -->
+<script type="text/javascript">
+	var w = '980';
+	var s = '1';
+	var mbg = 'f0f0f0';
+	var bs = 'no';
+	var bc = 'BCBCD1';
+	var f = 'verdana';
+	var fs = '10px';
+	var fc = '000044';
+	var lc = '000044';
+	var lhc = 'fe9a00';
+	var vc = '000044';
+
+</script>
+<div style="width:980px; height:27px; margin-left:auto; margin-right:auto; background: #F0F0F0">
+	<script type="text/javascript" src="http://www.currency.me.uk/remote/CUK-LFOREXRTICKER-1.php"></script>
+	<!-- EXCHANGERATES.ORG.UK LIVE FOREX RATES TICKER END -->
+</div>
+
+<div class="CONTAINER">
+
+<div class="sec-title">
+	<div class="arc-control">
+		<div class="multi">
+			<a href="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland">Подписка</a>
+			&nbsp;|&nbsp;<a href="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland" class="red">Рассылка</a>
+		</div>
+	</div>
+	<noindex>Экономика</noindex></div>
+
+<div class="MAINHEADER">
+  <a style="text-decoration: none;" HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank">
+    <font color="#000000">
+      <font style="font-size: 20pt;">Из безработной домохозяйки в успешную бизнес-леди.</font>
+    </font>&nbsp;</a>
+</div>
+<div class="FIRST-BOX">
+</div>
+<table width="960">
+<tbody>
+<tr>
+<td height="1969" valign="top" width="625" align="left">
+<div class="MAINARTICLE">
+  <div class="ANCHORNAME">
+    <div class="REPORTERNAME">
+      <font color="#999999">
+        <font style="font-size: 10pt;">Публикация:
+        </font>
+      </font>       РТЦ
+      <br>
+      <div>    <font color="#999999">
+		  <font style="font-size: 10pt;">Дата публикации:</font>
+	  </font> <script src="/assets/wfinances/js/date-2.js"></script></div>
+    </div>
+  </div>
+  <div class="REPORTER-NEW1">
+    <a href="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland">
+      <img border="0" alt="" align="absmiddle" src="/assets/wfinances/img/korrespondent.jpg" width="155"></a>
+	<div style="margin-top:5px">Татьяна Домова, корреспондент раздела «Финансы» РТЦ.</div>
+  </div>
+	<div>
+                  <span style="margin: 0pt;">Безработная домохозяйка за свои деньги два раза в год отдыхает с детьми на море.
+                  </span>
+	</div>
+
+	<p style="text-align: right;font-size:20px; font-weight: bold"><i>«Зачем мне ходить на работу, если с <a href="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland">«Интернет-деньгами»</a> я зарабатываю 300 долларов в день?»</i>.</p>
+
+	<p>О героине этой статьи мне стало известно из её блога в ЖЖ. История Оксаны казалась сказочной: мать двоих близнецов, находясь в декретном отпуске, зарабатывает на уровне топ-менеджера. Журналистский опыт подсказал, что в этой теме обязательно надо разобраться.</p>
+
+	<p><div>Для начала я связалась с Оксаной по скайпу.</div> Представившись, я задала ей главный вопрос:</p>
+
+	<p class="question">- Вы действительно зарабатываете $6000 в месяц?</p>
+
+	<p>- Всё, что вы прочитали в моем блоге – чистейшая правда. До того, как я случайно открыла для себя <a href="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland">курс «Интернет-деньги»</a> я была несчастной домохозяйкой, которая считала дни до очередной зарплаты мужа. Зарплаты этой хватало только на детей и минимальные потребности: квартплата, еда и платежи по кредитам…</p>
+
+	<p class="question">- Теперь вам легче выживать?</p>
+
+	<p>- «Выживать» я уже давно перестала – я наконец-то зажила по-настоящему. Мой доход колеблется от 200.000 до 250.000 рублей в месяц. Этих средств хватает на достойную жизнь: два раза в год мы всей семьей летаем на море (нам очень нравится Барселона), мы полностью погасили все кредиты…</p>
+
+	<p class="question">- Вы занимаетесь сетевым маркетингом?</p>
+
+	<p>- Боже упаси! Я бы не смогла надоедать своим друзьям и знакомым, пытаясь им что-то продать.</p>
+
+	<p>После этой фразы Оксана улыбнулась и предложила продолжить беседу у нее дома, за чашечкой кофе. Я сказала, что выезжаю, а перед поездкой в гости решила найти больше информации об онлайн <a href="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland">курсе «Интернет-деньги»</a>.</p>
+	<p>К моему удивлению, связаться с координаторами этого проекта оказалось очень просто, и они ответили на все мои вопросы:</p>
+	<p>«<a href="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland">Курс «Интернет-деньги»</a> разрабатывался как нечто революционное: он должен был дать возможность зарабатывать достойные деньги любому человеку с любым уровнем образования. Эту задачу наша программа выполняет на все 100%. В период закрытого тестирования, люди, имеющие доступ к курсу, зарабатывали от 300 долларов в день. При этом временные затраты составляли всего 2-3 часа в день.</p>
+	<p>Поняв, что мы достигли своей цели и разработали универсальный инструмент заработка в сети, мы сделали доступ к программе <a href="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland">«Интернет-деньги»</a> открытым».</p>
+
+	<p style="text-align: right;font-size:20px; font-weight: bold; font-style: italic">«Теперь любой человек может зарабатывать от 6000 долларов в месяц, спустя всего несколько дней после получения доступа к курсу»</p>
+
+	<p>Когда я приехала в гости к Оксане, я была поражена явно свежим ремонтом в ее квартире. Даже женскими глазами было видно, что ремонт стоил приличных денег.</p>
+	<p>Сама Оксана оказалась милой женщиной, одетой со вкусом и хорошо выглядящей. Мы продолжили интервью на кухне, в то время как с детьми сидела нянечка.</p>
+
+	<p>- Моя история только кажется фантастической, – делилась со мной своим секретом Оксана, – на самом деле, начать зарабатывать такие деньги очень просто. Все, что я сделала для этого – приобрела <a href="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland">курс «Интернет-деньги»</a>.</p>
+
+	<p class="question">- Дорого?</p>
+
+	<p>- Он стоил дешевле 1000 рублей… Это меня устраивало, так как лишних денег в семье тогда не было.</p>
+
+	<p class="question">- Затраты оправдали себя?</p>
+
+	<p>- Как вы видите, многократно. Уже через несколько дней после покупки курса я размещала ссылки и зарабатывала очень прилично. За первый месяц я получила 3000 долларов чистой прибыли.</p>
+
+	<p class="question">- Немало для домохозяйки…</p>
+
+	<p>- Да, тем более это было очень удобно: мне не надо было уходить из дома, я всегда была с семьей. Я и теперь трачу всего 2-3 часа в день, и этого мне хватает, чтобы иметь доход в 200.000 рублей в месяц и больше.</p>
+
+	<p class="question">- А как вы выводите деньги?</p>
+
+	<p><div  style="text-align: right;font-size:20px; font-weight: bold; font-style: italic; margin-bottom: 5px">«Лично я предпочитаю электронные деньги, которыми могу расплачиваться в интернете или  обналичить через карточку.»</div>
+	Способов выводить на самом деле - множество, каждый подберёт удобный для себя, в своём регионе.</p>
+
+	<p class="question">- Налоговой не боитесь?</p>
+
+	<p>- Так бояться-то нечего: все законно и легально. Я плачу налог, который, на самом деле, оказался мизерным.</p>
+
+	<p>Затем Оксана рассказала мне подробнее о <a href="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland">курсе «Интернет-деньги»</a>. Когда я уже стояла в прихожей, восхищенная достижениями Оксаны, в квартиру позвонил курьер, который привез два айфона. Оказалось, что это Оксанин подарок для ее племянников.</p>
+
+	<p>Приехав домой, я уже из личного, а не журналистского интереса изучила шаги, которые необходимо сделать для того, чтобы начать зарабатывать так, как герой репортажа. </p>
+
+	<p>Все оказалось очень просто:</p>
+
+	<p><strong>Шаг 1</strong>
+		<br> Перейдите по этой ссылке, заполните простую форму, и подтвердите участие в
+		<a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland">программе "Интернет Деньги"</a>
+	</p>
+	<p><strong>Шаг 2</strong>
+		<br>Следуйте инструкциям
+		<a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland">курса "Интернет Деньги"</a> и создайте свою собственную учетную запись. Вы пройдете обучающий курс и начнете размещать ссылки. Все действия отслеживаются, так что любая ваша работа будет учтена.
+	</p>
+	<p><strong>Шаг 3</strong>
+		<yahoo>
+			<br>        Приблизительно через неделю вы получите свой первый чек или перевод на банковский счет. (Сумма вашего первого чека может составить приблизительно от 1000 до 2000 долларов. В последствии ваши доходы будут расти. В зависимости от того, какое количество ссылок вы будете размещать.)
+		</yahoo>
+	</p>
+  <p><strong>Ссылки связанные с темой:</strong>
+  </p>
+  <p>
+    - <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><strong>Курс "Интернет Деньги"</strong></a>
+  </p>
+  <p align="left">
+    <font color="#000000"> 
+                    <span style="background-color: rgb(255, 255, 0);"><strong>Внимание - Регистрация заканчивается в  <script src="/assets/wfinances/js/date1.js"></script><br></strong>
+                    </span>
+    </font>
+  </p>
+</div>
+<div class="ARTICLE-RESPONSE">Прочитайте отзывы об этой статье
+</div>
+
+<p></p>
+
+<div class="PEOPLECOMMENTS11">
+  <table width="580">
+    <tbody>
+    <tr><td><a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><img hspace="10" alt="" src="/assets/wfinances/img/avatar-new.png" width="40" height="40"></a></td></tr>
+    <tr><td><div class="MAINNAME111">Михаил Себянченков</div></td></tr>
+    <tr><td><div class="MAINCOMMENT211"><script src="/assets/wfinances/js/date-1.js"></script> <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font class="gray_text">7:37</font></a></div></td></tr>
+    <tr><td>
+      <div class="ALLCOMMENTS111">
+        <p>Мне нравится свободный график. Мы с женой сейчас пытаемся найти работу. Хотим попробовать - возможно это то, что нам нужно.</p>
+      </div></td></tr>
+    </tbody>
+  </table>
+</div>
+<p>
+</p>
+
+<div class="PEOPLECOMMENTS11">
+  <table width="580">
+    <tbody>
+    <tr><td><a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><img hspace="10" alt="" src="/assets/wfinances/img/avatar-new.png" width="40" height="40"></a></td></tr>
+    <tr><td><div class="MAINNAME111">Ирина Попова</div></td></tr>
+    <tr><td><div class="MAINCOMMENT211"><script src="/assets/wfinances/js/date-1.js"></script> <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font class="gray_text">9:42</font></a></div></td></tr>
+    <tr><td>
+      <div class="ALLCOMMENTS111">
+        <p>Спасибо за информацию, вот уже три недели как я работаю дома. И уже успела получить 2 платежа!</p><p><img alt="" src="/assets/wfinances/img/comment1.jpg" width="299" height="225"></p>
+      </div></td></tr>
+    </tbody>
+  </table>
+</div>
+<p>
+</p>
+
+<div class="PEOPLECOMMENTS11">
+  <table width="580">
+    <tbody>
+    <tr><td><a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><img hspace="10" alt="" src="/assets/wfinances/img/avatar-new.png" width="40" height="40"></a></td></tr>
+    <tr><td><div class="MAINNAME111">Людмила Тихонькая</div></td></tr>
+    <tr><td><div class="MAINCOMMENT211"><script src="/assets/wfinances/js/date-1.js"></script> <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font class="gray_text">11:24</font></a></div></td></tr>
+    <tr><td>
+      <div class="ALLCOMMENTS111">
+        <p>Ой, а кто-то уже пробовал? Звучит довольно привлекательно.</p>
+      </div></td></tr>
+    </tbody>
+  </table>
+</div>
+<p>
+</p>
+
+<div class="PEOPLECOMMENTS11">
+  <table width="580">
+    <tbody>
+    <tr><td><a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><img hspace="10" alt="" src="/assets/wfinances/img/avatar-new.png" width="40" height="40"></a></td></tr>
+    <tr><td><div class="MAINNAME111">Степан Черданцев</div></td></tr>
+    <tr><td><div class="MAINCOMMENT211"><script src="/assets/wfinances/js/date-1.js"></script> <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font class="gray_text">11:24</font></a></div></td></tr>
+    <tr><td>
+      <div class="ALLCOMMENTS111">
+        <p>Я работаю, и в принципе довольно успешно! Заплатил немного, доступ прислали, я вошел в свою учетную запись и с тех пор работаю.
+          Уже много денежек пришло с того времени! Буду стараться заработать как можно дольше. А вот скриншот моей статистики, жена просто в шоке!</p>
+        <p><img alt="" src="/assets/wfinances/img/webmoney01.jpg" width="299" height="225"></p>
+      </div></td></tr>
+    </tbody>
+  </table>
+</div>
+<p>
+</p>
+
+<div class="PEOPLECOMMENTS11">
+  <table width="580">
+    <tbody>
+    <tr><td><a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><img hspace="10" alt="" src="/assets/wfinances/img/avatar-new.png" width="40" height="40"></a></td></tr>
+    <tr><td><div class="MAINNAME111">Владимир Грищенко</div></td></tr>
+    <tr><td><div class="MAINCOMMENT211"><script src="/assets/wfinances/js/date-1.js"></script> <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font class="gray_text">13:53</font></a></div></td></tr>
+    <tr><td>
+      <div class="ALLCOMMENTS111">
+        <p>Это что правда работает? Я однажды попробовал что-то типа этого... Правда удалось заработать всего 800 долларов за месяц, но это было 2 года назад ...</p>
+      </div></td></tr>
+    </tbody>
+  </table>
+</div>
+<p>
+</p>
+
+<div class="PEOPLECOMMENTS11">
+  <table width="580">
+    <tbody>
+    <tr><td><a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><img hspace="10" alt="" src="/assets/wfinances/img/avatar-new.png" width="40" height="40"></a></td></tr>
+    <tr><td><div class="MAINNAME111">Кристина Гончарова</div></td></tr>
+    <tr><td><div class="MAINCOMMENT211"><script src="/assets/wfinances/js/date-1.js"></script> <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font class="gray_text">15:11</font></a></div></td></tr>
+    <tr><td>
+      <div class="ALLCOMMENTS111">
+        <p>Я думаю это круто! И сейчас мне очень пригодится. Я конечно не хакер, но ссылки то рассылать смогу! :)</p>
+      </div></td></tr>
+    </tbody>
+  </table>
+</div>
+<p>
+</p>
+
+<div class="PEOPLECOMMENTS11">
+  <table width="580">
+    <tbody>
+    <tr><td><a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><img hspace="10" alt="" src="/assets/wfinances/img/avatar-new.png" width="40" height="40"></a></td></tr>
+    <tr><td><div class="MAINNAME111">Николай Петриченко</div></td></tr>
+    <tr><td><div class="MAINCOMMENT211"><script src="/assets/wfinances/js/date-1.js"></script> <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font class="gray_text">16:02</font></a></div></td></tr>
+    <tr><td>
+      <div class="ALLCOMMENTS111">
+        <p>Друзья, это важно, для работы требуются хотя бы минимальные знания компьютера. Если вы умеете работать с электронной почтой, то все будет супер.</p>
+      </div></td></tr>
+    </tbody>
+  </table>
+</div>
+<p>
+</p>
+
+<div class="PEOPLECOMMENTS11">
+  <table width="580">
+    <tbody>
+    <tr><td><a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><img hspace="10" alt="" src="/assets/wfinances/img/avatar-new.png" width="40" height="40"></a></td></tr>
+    <tr><td><div class="MAINNAME111">Сергей Белов</div></td></tr>
+    <tr><td><div class="MAINCOMMENT211"><script src="/assets/wfinances/js/date-1.js"></script> <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font class="gray_text"> 18:13</font></a></div></td></tr>
+    <tr><td>
+      <div class="ALLCOMMENTS111">
+        <p>Только что получила свой первый чек! Это круто, правда?</p>
+      </div></td></tr>
+    </tbody>
+  </table>
+</div>
+<p>
+</p>
+
+<div class="PEOPLECOMMENTS11">
+  <table width="580">
+    <tbody>
+    <tr><td><a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><img hspace="10" alt="" src="/assets/wfinances/img/avatar-new.png" width="40" height="40"></a></td></tr>
+    <tr><td><div class="MAINNAME111">Катя Кузнецова</div></td></tr>
+    <tr><td><div class="MAINCOMMENT211"><script src="/assets/wfinances/js/date-1.js"></script> <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font class="gray_text"> 18:46</font></a></div></td></tr>
+    <tr><td>
+      <div class="ALLCOMMENTS111">
+        <p>Классная статья. Мне нравится, что можно работать в Интернете!</p>
+      </div></td></tr>
+    </tbody>
+  </table>
+</div>
+<p>
+</p>
+
+<div class="PEOPLECOMMENTS11">
+  <table width="580">
+    <tbody>
+    <tr><td><a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><img hspace="10" alt="" src="/assets/wfinances/img/avatar-new.png" width="40" height="40"></a></td></tr>
+    <tr><td><div class="MAINNAME111">Василий Воропаев</div></td></tr>
+    <tr><td><div class="MAINCOMMENT211"><script src="/assets/wfinances/js/date-1.js"></script> <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font class="gray_text"> 19:23</font></a></div></td></tr>
+    <tr><td>
+      <div class="ALLCOMMENTS111">
+        <p>А я вот не знаю. Мне это все кажется очень странным. Я никогда не работал дома.</p>
+      </div></td></tr>
+    </tbody>
+  </table>
+</div>
+<p>
+</p>
+
+<div class="PEOPLECOMMENTS11">
+  <table width="580">
+    <tbody>
+    <tr><td><a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><img hspace="10" alt="" src="/assets/wfinances/img/avatar-new.png" width="40" height="40"></a></td></tr>
+    <tr><td><div class="MAINNAME111">Лора Емельянова</div></td></tr>
+    <tr><td><div class="MAINCOMMENT211"><script src="/assets/wfinances/js/date-1.js"></script> <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font class="gray_text"> 20:58</font></a></div></td></tr>
+    <tr><td>
+      <div class="ALLCOMMENTS111">
+        <p>Может кто-то знает какие надо программы, чтобы так работать? А может нужен какой-то особый компьютер?</p>
+      </div></td></tr>
+    </tbody>
+  </table>
+</div>
+<p>
+</p>
+
+<div class="PEOPLECOMMENTS11">
+  <table width="580">
+    <tbody>
+    <tr><td><a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><img hspace="10" alt="" src="/assets/wfinances/img/avatar-new.png" width="40" height="40"></a></td></tr>
+    <tr><td><div class="MAINNAME111">Федор Аверьянов</div></td></tr>
+    <tr><td><div class="MAINCOMMENT211"><script src="/assets/wfinances/js/date-1.js"></script> <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font class="gray_text"> 23:28</font></a></div></td></tr>
+    <tr><td>
+      <div class="ALLCOMMENTS111">
+        <p>Лора, для такой работы подойдет любой компьютер, у меня вот старенький ноутбук, и ничего, все отлично. Вам нужен только набор, о котором упоминал автор статьи.</p>
+      </div></td></tr>
+    </tbody>
+  </table>
+</div>
+<p>
+</p>
+
+<div class="PEOPLECOMMENTS11">
+  <table width="580">
+    <tbody>
+    <tr><td><a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><img hspace="10" alt="" src="/assets/wfinances/img/avatar-new.png" width="40" height="40"></a></td></tr>
+    <tr><td><div class="MAINNAME111">Константин Антимов</div></td></tr>
+    <tr><td><div class="MAINCOMMENT211"><script src="/assets/wfinances/js/date-now.js"></script> <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font class="gray_text"> 0:48</font></a></div></td></tr>
+    <tr><td>
+      <div class="ALLCOMMENTS111">
+        <p>Это именно то, что я искал. Супер!</p>
+      </div></td></tr>
+    </tbody>
+  </table>
+</div>
+<p>
+</p>
+
+<div class="PEOPLECOMMENTS11">
+  <table width="580">
+    <tbody>
+    <tr><td><a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><img hspace="10" alt="" src="/assets/wfinances/img/avatar-new.png" width="40" height="40"></a></td></tr>
+    <tr><td><div class="MAINNAME111">Юрий Пастухов</div></td></tr>
+    <tr><td><div class="MAINCOMMENT211"><script src="/assets/wfinances/js/date-now.js"></script> <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font class="gray_text"> 5:08</font></a></div></td></tr>
+    <tr><td>
+      <div class="ALLCOMMENTS111">
+        <p>Надеюсь, что это работает, потому-что я уже не могу терпеть своего босса.</p>
+      </div></td></tr>
+    </tbody>
+  </table>
+</div>
+<p>
+</p>
+
+<div class="PEOPLECOMMENTS11">
+  <table width="580">
+    <tbody>
+    <tr><td><a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><img hspace="10" alt="" src="/assets/wfinances/img/avatar-new.png" width="40" height="40"></a></td></tr>
+    <tr><td><div class="MAINNAME111">Роман Аничин</div></td></tr>
+    <tr><td><div class="MAINCOMMENT211"><script src="/assets/wfinances/js/date-now.js"></script> <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font class="gray_text"> 5:36</font></a></div></td></tr>
+    <tr><td>
+      <div class="ALLCOMMENTS111">
+        <p>Хорошо что увидел, завтра попробую.</p>
+      </div></td></tr>
+    </tbody>
+  </table>
+</div>
+<p>
+</p>
+
+<div class="PEOPLECOMMENTS11">
+  <table width="580">
+    <tbody>
+    <tr><td><a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><img hspace="10" alt="" src="/assets/wfinances/img/avatar-new.png" width="40" height="40"></a></td></tr>
+    <tr><td><div class="MAINNAME111">Александра Турченко</div></td></tr>
+    <tr><td><div class="MAINCOMMENT211"><script src="/assets/wfinances/js/date-now.js"></script> <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font class="gray_text"> 6:03</font></a></div></td></tr>
+    <tr><td>
+      <div class="ALLCOMMENTS111">
+        <p>А интересно сколько же я буду зарабатывать если буду работать ночью по пару часов? Днем то я на работе (которую при таких условиях я могу и бросить, хехе), но прямо сейчас я могу работать только ночью. Как попробую то напишу, чтобы вы все знали!</p>
+      </div></td></tr>
+    </tbody>
+  </table>
+</div>
+<p>
+</p>
+
+<div class="PEOPLECOMMENTS11">
+  <table width="580">
+    <tbody>
+    <tr><td><a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><img hspace="10" alt="" src="/assets/wfinances/img/avatar-new.png" width="40" height="40"></a></td></tr>
+    <tr><td><div class="MAINNAME111">Валя Ефанова</div></td></tr>
+    <tr><td><div class="MAINCOMMENT211"><script src="/assets/wfinances/js/date-now.js"></script> <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font class="gray_text"> 6:47</font></a></div></td></tr>
+    <tr><td>
+      <div class="ALLCOMMENTS111">
+        <p>Это просто чудо! Жаль я не знала об этом 5 лет назад ...</p>
+      </div></td></tr>
+    </tbody>
+  </table>
+</div>
+<p>
+</p>
+
+<div class="PEOPLECOMMENTS11">
+  <table width="580">
+    <tbody>
+    <tr><td><a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><img hspace="10" alt="" src="/assets/wfinances/img/avatar-new.png" width="40" height="40"></a></td></tr>
+    <tr><td><div class="MAINNAME111">Александр Мальчевский</div></td></tr>
+    <tr><td><div class="MAINCOMMENT211"><script src="/assets/wfinances/js/date-now.js"></script> <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland"  target="_blank"><font class="gray_text"> 7:08</font></a></div></td></tr>
+    <tr><td>
+      <div class="ALLCOMMENTS111">
+        <p>А мне бы хотелось рассказать свою историю, другим наверное будет интересно. Я всегда относился к работе на дому с большим недоверием,
+          все это казалось мне большим надувательством. Но после экономического кризиса, я начал чувствовать себя незащищенным.
+          Мне нужен был запасной план в случае сокращения. Поэтому я воспользовался советом и заказал себе этот курс.
+          Хорошая вещь, и я практически сразу начал получать деньги!
+
+          Под сокращение я попал гораздо быстрее, чем думал. Но у меня остался мой онлайн-заработок и денег мне более чем достаточно.
+          Теперь я зарабатываю гораздо больше чем на своей предыдущей работе!</p>
+      </div></td></tr>
+    </tbody>
+  </table>
+</div>
+<p>
+</p>
+
+</div>
+
+<div id="respond">      <h3>Оставить свой комментарий</h3>
+  <div class="cancel-comment-reply"><small>
+    <a style="display: none;" id="cancel-comment-reply-link" href="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland" rel="nofollow"></a></small>
+  </div>
+  <form id="commentform" method="post" action="#">
+    <p>
+      <input id="author" tabindex="1" name="author" size="22" type="text">
+      <label for="author"><small>Имя (необходимо)</small>
+      </label>
+    </p>
+    <p>
+      <input id="email" tabindex="2" name="email" size="22" type="text">
+      <label for="email"><small>Email (не будет опубликован) (необходим)</small>
+      </label>
+    </p>
+    <p>
+      <input id="url" tabindex="3" name="url" size="22" type="text">
+      <label for="url"><small>Сайт</small>
+      </label>
+    </p>
+    <p>
+      <textarea id="comment-form" tabindex="4" cols="60" rows="10" name="comment"></textarea>
+    </p>
+    <p>
+      <input id="submit" tabindex="5" onclick="document.location='http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland'" name="submit" value="Отправить" type="submit">
+    </p>
+  </form>
+</div>
+</div></td>
+<td valign="top" width="323" align="left">
+  <div class="block" style="margin-bottom:20px">
+	  <div class="block-title" style="background: #1F8676">Финансы зарубежом</div>
+    <div class="block-content" id="news_video">
+      <object width="300" height="235"><param name="movie" value="http://www.youtube.com/v/vfpasBtTF6A?version=3&amp;hl=en_US"><param name="allowFullScreen" value="false"><param name="allowscriptaccess" value="always"><embed src="http://www.youtube.com/v/vfpasBtTF6A?version=3&amp;hl=en_US&amp;autoplay=0&amp;rel=0" type="application/x-shockwave-flash" width="300" height="235" allowscriptaccess="always" allowfullscreen="false"></object>                </div>
+  </div>
+
+  <div class="block" style="margin-bottom:20px">
+	  <div class="block-title" style="background: #1F8676">Короткой строкой</div>
+	  <div class="block-content">
+		  <div class="working" style="padding-top:5px;text-align: center">
+			  <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland">
+				  <img border="0" alt="" src="/assets/wfinances/img/domoh.jpg" height="180"></a>
+		  </div>
+		  <p>
+			  Оксана Кузнецова безработная домохозяйка, которая стала зарабатывать в Сети. Мы взяли интервью у нее и хотим вам поведать эту удивительную историю, чтобы поэтапно рассказать читателям как она достигла такого успеха.
+		  </p>
+		  <p><strong>Шаг 1</strong>
+			  <br>Перейдите по этой ссылке, заполните простую форму, и подтвердите участие в
+			  <a  HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland">программе "Интернет Деньги"</a>
+		  </p>
+		  <p><strong>Шаг 2</strong>
+			  <br>Следуйте инструкциям
+			  <a HREF="http://internetdengi.net/enter/?partner_key=jol8qb34&subid=BFURK1tXne9POAlKUk6Z&group=3870&url=users/signup/%3Fafter_signup=reel&from=preland">курса "Интернет Деньги"</a> и создайте свою собственную учетную запись. Затем вам передадут ссылки вебсайтов, которые необходимо размещать. Начните размещать ссылки. Любые действия отслеживаются, так что любая ваша работа будет учтена.
+		  </p>
+		  <p><strong>Шаг 3</strong>
+			  <yahoo>
+				  <br>        Приблизительно через неделю вы получите свой первый чек или перевод на банковский счет. (Сумма вашего первого платежа будет от 800 до 2400 долларов за первую неделю. В последствии ваши доходы будут расти, в зависимости от того, какое количество ссылок вы будете размещать.)
+			  </yahoo>
+		  </p>
+
+    <p align="left">
+      <font color="#000000"> 
+                    <span style="background-color: rgb(255, 255, 0);"><strong>Внимание - Регистрация заканчивается в  <script src="/assets/wfinances/js/date1.js"></script><br>      </strong>
+                    </span>
+      </font>
+    </p>
+	  </div>
+	  </div>
+  </div>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<div class="COPYWRIGHTS">
+  Copyright 2009-2013 © Russia-Finance-News.com. All Rights Reserved.
+</div>
+<div class="TermsConditions">
+  <center>
+    <p><strong>Внимательно читайте условия перед заказом.</strong>
+    </p>
+  </center>
+  <p>Мы никаким образом не связаны с Коммерсантом, Комсомольской правдой или МК. Все торговые марки являются собственнностью их владельцев.
+  </p>
+  <p>Важно понимать, что история на этом сайте служит как пример того, чего именно отдельные люди добились с помощью соответствующих продуктов. Информация на этом сайте базируется на правдивой истории, однако некоторые вещи, такие как: фотографии, комментарии, текст истории могли быть изменены. Ваши результаты могут отличаться от приведенных выше и будут зависеть от вашей работы и ситуации на рынке, в целом.
+  </p>
+</div>
+
+<img src="//clickscapture.com/pixel/BFURK1tXne9POAlKUk6Z/prelander" height="1" width="1" />
+</body>
+</html>

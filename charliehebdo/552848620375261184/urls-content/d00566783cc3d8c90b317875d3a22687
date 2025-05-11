@@ -1,0 +1,5019 @@
+HTTP/1.1 301 Moved Permanently
+Server: nginx
+Date: Tue, 24 Mar 2015 10:22:34 GMT
+Content-Type: text/html; charset=utf-8
+Content-Length: 115
+Connection: keep-alive
+Cache-Control: private, max-age=90
+Location: http://slate.trib.al/nmjO206
+Mime-Version: 1.0
+Set-Cookie: _bit=55113aea-0039e-05069-291cf10a;domain=.slate.me;expires=Sun Sep 20 10:22:34 2015;path=/; HttpOnly
+
+HTTP/1.1 301 Moved Permanently
+Content-Type: text/html;charset=utf-8
+Date: Tue, 24 Mar 2015 10:22:35 GMT
+Location: http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html
+Server: CherryPy/3.2.4
+Set-Cookie: tribal="bSuOdMJoS5ai6O7M7ENtPg=="; expires=Fri, 06 Jan 2034 23:13:40 GMT; Path=/; Version=2
+Content-Length: 295
+Connection: keep-alive
+
+HTTP/1.1 200 OK
+Accept-Ranges: bytes
+Accept-Ranges: bytes
+Content-Type: text/html;charset=UTF-8
+ETag: W/"24400f9-206ff-51206294450c0"
+Last-Modified: Tue, 24 Mar 2015 10:22:35 GMT
+Server: Apache/2.2.29 (Amazon)
+X-Varnish: 1154227196
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: private, must-revalidate, max-age=450
+Expires: Tue, 24 Mar 2015 10:30:06 GMT
+Date: Tue, 24 Mar 2015 10:22:36 GMT
+Content-Length: 30280
+Connection: keep-alive
+
+
+<!DOCTYPE html>
+<!--[if lt IE 7]> <html class="no-js lt-ie9 lt-ie8 lt-ie7 modePublish"> <![endif]-->
+<!--[if IE 7]> <html class="no-js lt-ie9 lt-ie8 modePublish"> <![endif]-->
+<!--[if IE 8]> <html class="no-js lt-ie9 modePublish"> <![endif]-->
+<!--[if gt IE 8]><!--><html class="no-js modePublish"><!--<![endif]-->
+
+
+
+
+  <head>
+    
+    
+    <!-- Begin comScore Tag -->
+    <script>
+      var _comscore = _comscore || [];
+      _comscore.push({ c1: "2", c2: "18406752" });
+      (function() {
+        var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+        s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+        el.parentNode.insertBefore(s, el);
+      })();
+    </script>
+    <noscript>
+      <img src="http://b.scorecardresearch.com/p?c1=2&c2=18406752&cv=2.0&cj=1" />
+    </noscript>
+    <!-- End comScore Tag -->
+    
+    
+    <script>
+      //Reload to canonical if you try to paste in the print page
+      if (window.location.search.indexOf("print") > -1) {
+        if (document.referrer.indexOf("http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html") != 0) {
+          window.location = "http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html";
+        }
+      }
+      //-- Stop hiding script -->
+    </script>
+    
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQ4OUFNbGwEGU1dUAwE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),u=c.length,f=i(a,o,r),d=0;u>d;d++)c[d].apply(f,n);return f}function a(t,e){u[t]=s(t).concat(e)}function s(t){return u[t]||[]}function c(){return n(e)}var u={};return{on:a,emit:e,create:c,listeners:s,_events:u}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:20,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(u){try{r("ierr",[u,(new Date).getTime(),!0])}catch(f){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(3),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(4),t(5),"addEventListener"in window&&t(1),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)&&t(2),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:5,2:8,3:3,4:7,5:6,6:21,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:21,2:22,ee:"QJf3ax",gos:"7eSDFh"}],6:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:22,2:21,ee:"QJf3ax"}],7:[function(t,e){function n(t,e,n){t[0]=o(t[0],"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:22,2:21,ee:"QJf3ax"}],8:[function(t,e){function n(){u.inPlace(this,p,"fn-")}function r(t,e){u.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),u=c(a),f=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),f.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(i){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,u.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:5,2:22,ee:"QJf3ax"}],9:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var a=t.responseType,u="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,f=n(u);if(f&&(r.rxSize=f),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(e.cat=d.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,o("xhr",[e,r,this.startTime])}}}function n(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,u=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=e,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,e){var r=this.metrics,o=t[0],i=this;if(r&&o){var u=n(o);u&&(r.txSize=u)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{a.emit("internal-error",[n])}catch(r){}}};for(var f=0;c>f;f++)e.addEventListener(s[f],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+u(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:10,3:8,4:5,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],10:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],11:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:20,2:21,handle:"D5DuLP"}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&u&&u.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=u.createElement("script");e.src=l.proto+t.agent,u.body.appendChild(e)}}function r(){"complete"===u.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),u=c.document,f="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-627.min.js"},l=e.exports={offset:i(),origin:p,features:{}};u[f]?(u[f]("DOMContentLoaded",o,!1),c[f]("load",n,!1)):(u[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:20,2:11,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],20:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],21:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],22:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,u;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){f([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return u=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,u],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,u(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,u="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,u?s+o:o,i,s))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){f([o,e,n,r])}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){f([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function f(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:21,ee:"QJf3ax"}]},{},["G9z0Bl",4,9]);</script>
+    <script type="text/javascript">
+      var slate_public_url = "http://www.slate.com/";
+      window._sf_startpt=(new Date()).getTime();
+    </script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <title>Charlie Hebdo attack, al-Qaida? Staffer says terrorists ID'd selves.</title>
+    <meta name="description" content="The U.K. Telegraph reports via French media that a staffer at Charlie Hebdo says the gunmen who attacked the magazine identified themselves as members of al-Qaida. (Three gunmen are believed to have been involved in the assault.) Cartoonist Corinne &ldquo;Coco&rdquo; Rey also says she helped let the attackers into the..." />
+    <meta name="keywords" content="charlie hebdo al qaida, charlie hebdo al qaeda, charlie hebdo isis, charlie hebdo" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+
+    
+    
+
+    
+    
+    
+    <script>
+      
+      var commercialNode = 'blogs/slatest';
+      
+      var commercialPageType = 'article';
+      var selectedText = "";
+    </script>
+    <!-- Facebook OG -->
+    <meta id="ogtitle" property="og:title" content="Witnesses Say Charlie Hebdo Gunmen Identified Selves as Yemeni al-Qaida" />
+    
+
+    <meta property="article:publisher" content="http://www.facebook.com/Slate" />
+
+    
+
+    <meta property="og:type" content="article" />
+    <meta id="ogurl" property="og:url" content="http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html" />
+    <meta id="ogimage" property="og:image" content="http://www.slate.com/content/dam/slate/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves/rtr4ke2i.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg" />
+    <meta property="og:site_name" content="Slate Magazine" />
+    <meta id="ogdescription" property="og:description" content="The U.K. Telegraph reports via French media that a staffer at Charlie Hebdo says the gunmen who attacked the magazine identified themselves as members of al-Qaida. (Three gunmen are believed to have been involved in the assault.) Cartoonist Corinne &ldquo;Coco&rdquo; Rey also says she helped let the attackers into the..." />
+    <meta property="fb:app_id" content="142011022527753"/>
+    <!-- Twitter -->
+    <meta name="twitter:card" value="summary" />
+    <meta name="twitter:site" value="@slate" />
+    
+    <meta name="twitter:creator" value="@BenMathisLilley" />
+    
+    <meta name="twitter:url" value="http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html" />
+    <meta name="twitter:title" value="Witnesses&lt;em&gt; &lt;/em&gt;Say&lt;em&gt; Charlie Hebdo&lt;/em&gt; Gunmen Identified Selves as Yemeni al-Qaida" />
+    <meta name="twitter:description" value="The U.K. Telegraph reports via French media that a staffer at Charlie Hebdo says the gunmen who attacked the magazine identified themselves as members of al-Qaida. (Three gunmen are believed to have been involved in the assault.) Cartoonist Corinne &ldquo;Coco&rdquo; Rey also says she helped let the attackers into the..." />
+    <meta name="twitter:image" value="http://www.slate.com/content/dam/slate/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves/rtr4ke2i.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg" />
+    
+    <link type="text/css" href="http://static.cdnslate.com/etc/designs/slate/css/story.192574fe.css" rel="stylesheet" />
+    
+    
+    
+    
+    <script data-ad-site="slate" src="http://static.cdnslate.com/etc/designs/slate/js/libs/require.js"></script>
+    <script>
+    requirejs.config({
+      "baseUrl": "http://static.cdnslate.com/etc/designs/slate/js",
+      "waitSeconds": 0,
+      "paths": {
+        "jquery": "//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min",
+        "jqueryui": "//ajax.googleapis.com/ajax/libs/jqueryui/1.10.4/jquery-ui.min",
+        "modernizr": "/etc/designs/slate/js/libs/modernizr-2.6.1.min",
+        "announcements": "/etc/designs/slate/js/announcements",
+        "slate": "/etc/designs/slate/lib",
+        "hogan": "libs/hogan-2.0.0",
+        "facebook": "//connect.facebook.net/en_US/all",
+        "livefyre": "//cdn.livefyre.com/Livefyre",
+        "brightcove": "http://admin.brightcove.com/js/BrightcoveExperiences",
+        "brightcovetracking": "/etc/designs/slate/js/brightcovetracking",
+        "mobileredirection": "libs/redirection_mobile_1.0.0.min",
+        "optimizely": "//cdn.optimizely.com/js/37441550",
+        "outbrain": "//widgets.outbrain.com/outbrain",
+        "shared": "http://static.cdnslate.com/etc/designs/shared/js",
+        "instafeed": "/etc/designs/slate/js/instafeed",
+        "campaigns": "http://campaigns.slate.com/campaigns/slate",
+        "clipboard": "libs/zeroclipboard/ZeroClipboard.min",
+        "tinypass": "//cdn.tinypass.com/api/tinypass.min"
+      },
+      "shim": {
+        "shared/devicemode": ["modernizr"],
+        "hcs/script": ["jquery", "modernizr", "shared/devicemode"],
+        "libs/jquery-plugins/jquery.browser": ["jquery"],
+        "hcs/plugins/jquery.transit": ["jquery"],
+        "hcs/plugins/SGFootnote.jquery": ["jquery"],
+        "hcs/plugins/SGSocialIcons.jquery": ["jquery", "hcs/script"],
+        "hcs/plugins/SGNavDropdown.jquery": ["jquery"],
+        "hcs/plugins/SGComments.jquery": ["jquery", "hcs/script"],
+        "hcs/plugins/SGRollup.jquery": ["jquery", "hcs/script"],
+        "hcs/plugins/SGGlobalNav.jquery": ["jquery", "hcs/script"],
+        "hcs/plugins/SGLightbox.jquery": ["jquery"],
+        "hcs/plugins/jQuery.highlighter": ["jquery"],
+        "hcs/libs/swipe": ["jquery"],
+        "hcs/libs/magnific": ["jquery"],
+        "hcs/plugins/jquery.swipebox": ["jquery"],
+        "hcs/plugins/SGBigSlider.jquery": ["jquery", "hcs/script", "hcs/libs/swipe"],
+        "hcs/plugins/jquery.placeholder.min": ["jquery"],
+        "libs/jquery-plugins/jquery.timeago": ["jquery"],
+        "libs/jquery-plugins/jquery.form": ["jquery"],
+        "libs/jquery-plugins/jquery.cookie": ["jquery"],
+        "libs/jquery-plugins/jquery.fittext": ["jquery"],
+        "libs/jquery-plugins/jquery.backgroundSize": ["jquery"],
+        "libs/jquery-plugins/jquery.flexslider": ["jquery"],
+        "libs/jquery-plugins/purl": ["jquery"],
+        "libs/jquery-plugins/jquery.colorbox": [ "jquery" ],
+        "libs/jquery-plugins/jquery.sticky": ["jquery"],
+        "libs/jquery-plugins/jquery.autoComplete": ["jquery"],
+        "libs/jquery-plugins/jquery.boxfit": ["jquery"],
+        "libs/jquery-plugins/jquery.dateformat": ["jquery"],
+        "libs/jquery-plugins/jquery.lazyloadxt": ["jquery"],
+        "libs/jquery-plugins/jquery.lazyloadxt.extra": ["jquery"],
+        "libs/jquery-plugins/jquery.lazyloadxt.bg": ["jquery"],
+        "libs/jquery-plugins/jquery.lazyloadxt.widget": ["jquery"],
+        "libs/jquery-plugins/jquery.visible": ["jquery"],
+        "optimizely": ["jquery"],
+        "facebook": {
+            deps: ["identity/wapo_site_bottom"],
+            exports: "FB"
+        },
+        "livefyre": {
+            exports: "fyre"
+        },
+        "brightcove": {
+          	"exports": "brightcove"
+        },
+        "mobileredirection": {
+                "exports": "mobileredirection"
+        },
+        "hogan": {
+          	"exports": "Hogan"
+        },
+        "outbrain": {
+          "exports": "OBR"
+        }
+      }
+    });
+
+
+    
+    define("config", {
+      "env": {
+        "edit": false,
+        "environment": "prod"
+      },
+      "identity": {
+		"fb_xd_receiver": "http://www.slate.com/xd_receiver.htm",
+		"fb_app_id": 142011022527753,
+		"publicationName": "Slate",
+		"site_base_domain": "slate.com",
+		"site_path": "/",
+		"wapo_secure_protocol": "https:",
+		"wapo_site_url": "//id.slate.com/identity/",
+		"site_url": "//www.slate.com/",
+		"wapo_public_protocol": "http:",
+		"myslate_domain": "//my.slate.com/",
+		"myslate_https": true,
+		"enabled": true
+	  },
+	  "livefyre": {
+	    "network": "slate.fyre.co",
+	    "jsSourceUrl": "http://zor.livefyre.com/wjs/v3.0/javascripts/livefyre.js",
+	    "siteId": "337720",
+      "loadTiming": "demand",
+	  },
+      "campaigns": {
+         "domain":"campaigns.slate.com"
+       },
+       "site": {
+         "site": "slate",
+         "title": "Slate",
+         "staticUrl": "http://static.cdnslate.com",
+         "omniturePrefix": "sl"
+       },
+       "data_domain": "http://www.slate.com/",
+       "page": {
+         "articleId": "227150107002",
+         "roadblocked": false,
+         "embeddedContent": false,
+         "slateplus": false
+       },
+      "ads": {
+        "enableHomepageViewability": false,
+        "enableStoryViewability": true,
+        "viewabilityEnabled": true,
+        "viewability": {
+          "leaderboardRollup": true,
+          "leaderboardRollupDisabledList": "news",
+          "refreshInterval": "15",
+          "refreshPolar": false,
+          "testPageList": "news,life,arts,sports,technology,blogs,business,science,doublex,video,podvideo,podcasts,news,life,arts,sports,technology,blogs,business,science,doublex,video,podvideo,podcasts",
+          "lazyload": {
+            "homepageBB": true,
+            "leaderboard_2": true,
+            "tiffTiles": true,
+            "rightflex": true
+          }
+        }
+      },
+      "tinypass": {
+        "enabled": false,
+        "aid": "5PGDocOSA0",
+        "paywallId": "55553846",
+        "contentCreated": "2015-01-07T10:16:00",
+        "contentAuthor": ["Ben Mathis-Lilley"],
+        "contentSection": "briefing"
+      },
+      "_log": [],
+      "log": function(data) {
+         requirejs(["config"], function(config) {
+           if (typeof console != "undefined" &&
+               typeof console.log != "undefined") {
+             console.log(data);
+           }
+           config._log.push(data);
+         });
+       }
+    });
+    var homepagePolarSpot = 'b1';
+    </script>
+
+    
+    <script src="http://static.cdnslate.com/etc/designs/slate/js/main.min.6e54a4a0.js"></script>
+    
+
+
+<script type="text/javascript" language="javascript">
+requirejs(["s_code"], function(s) {
+
+        s.currencyCode="usd";
+        s.charSet="utf-8";
+        s.trackDownloadLinks=true;
+        s.trackExternalLinks=true;
+        s.trackInlineStats=true;
+        s.linkDownloadFileTypes="exe,zip,wav,mp3,mov,mpg,avi,wmv,doc,pdf,xls";
+        s.linkInternalFilters="javascript:,slate.com,traffic.outbrain.com";
+        s.linkTrackVars="none";
+        s.linkTrackEvents="none";
+        s.pageName="briefing:blog:the slatest - 20150107 - charlie hebdo attack, al-qaida? staffer says terrorists id'd selves.";
+        s.channel="sl - briefing";
+        s.server="www.slate.com";
+        s.prop2="blog";
+        s.prop3="blog";
+        s.prop4="slate";
+        s.prop5="ben mathis-lilley";
+        s.prop12="227150107002";
+        s.prop13="charlie hebdo attack, al-qaida? staffer says terrorists id'd selves.";
+        s.prop14="1";
+        s.prop25="the slatest";
+        s.prop34="3.65.2";
+        s.prop36="general";
+        s.prop39="blogs/slatest";
+        s.hier1="briefing|blog|blog";
+        s.eVar8="ben mathis-lilley";
+        s.eVar11="the slatest";
+        s.eVar17="blog";
+s.t();
+});
+</script>
+
+
+    <script>               
+      var _isNavMoving = false; // acts as a global (sorry) mutex for keeping track of when our nav panels are moving around. Allows us to prevent overlapping actions.
+    </script>
+
+    <!-- Google Sitemap -->
+    <meta name="google-site-verification" content="jXqoqqPSmx_PWchRdG-IXu-X616Ee2Ptf_AiElI9LzQ" />
+    <link rel="canonical" href="http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html" />
+    <link rel="image_src" href="http://www.slate.com/content/dam/slate/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves/rtr4ke2i.jpg.CROP.thumbnail-small.jpg" />
+
+    <!-- Parsely -->
+        <meta name='parsely-page' content='{
+  "title": "Witnesses Say Charlie Hebdo Gunmen Identified Selves as Yemeni al-Qaida",
+  "link": "http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html",
+  "image_url": "http://www.slate.com/content/dam/slate/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves/rtr4ke2i.jpg.CROP.thumbnail-small.jpg",
+  "type": "post",
+  "post_id": "227150107002",
+  "pub_date": "2015-01-07T10:16:00Z",
+  "section": "briefing",
+  "author": "Ben Mathis-Lilley",
+  "tags": ["charlie hebdo"]
+}'/>
+    
+    <!-- RSS -->
+    <link rel="alternate" type="application/rss+xml" title="The Slatest (RSS 2.0)" href="http://www.slate.com/blogs/the_slatest.fulltext.all.rss" />
+
+    
+    <script>var wp_meta_data = {"authors":["Ben Mathis-Lilley"],"contentType":"blog","page_id":"227150107002","keywords":"charlie hebdo,charlie hebdo al qaida, charlie hebdo al qaeda, charlie hebdo isis, charlie hebdo","section":"briefing","rubric":"Blog"};</script>
+
+    
+    <![if gte IE 8]>
+    <script type="text/javascript">
+    requirejs(['pagenav', 'jquery'], function(pagenav, $) {
+      var SlateNextbox = {};
+
+      SlateNextbox.data = {
+        'headline': 'No, Justice Kennedy Did Not Just Suggest He\'ll Rule Against Obamacare',
+        'subhead': '',
+        'url': 'http:\/\/www.slate.com\/blogs\/the_slatest\/2015\/03\/23\/justice_kennedy_did_not_just_suggest_he_will_rule_against_obamacare.html',
+        'article_id': '227150323008',
+        'hasImage': true,
+        
+        'image': 'http:\/\/www.slate.com\/content\/dam\/slate\/blogs\/the_slatest\/2015\/03\/23\/justice_kennedy_did_not_just_suggest_he_will_rule_against_obamacare\/163672540-supreme-court-associate-justices-anthony-kennedy-and.jpg.CROP.rectangle-small.jpg',
+        
+      
+        'section': 'The Slatest',
+      
+        'subscribe_type': 'rubric'
+      };
+      $.data(window, "SlateNextbox", SlateNextbox);
+      pagenav.addStory(SlateNextbox.data);
+    });
+
+    </script>
+    <![endif]>
+    
+
+    
+
+      
+        <!-- sailthru meta -->
+        <meta name="sailthru.tags" content="charlie hebdo al qaida, charlie hebdo al qaeda, charlie hebdo isis, charlie hebdo" />
+        <meta name="sailthru.author" content="Ben Mathis-Lilley" />
+        <meta name="sailthru.date" content="2015-01-07T10:16:00Z" />
+        <meta name="sailthru.description" content="The U.K. Telegraph reports via French media that a staffer at Charlie Hebdo says the gunmen who attacked the magazine identified themselves as members of al-Qaida. (Three gunmen are believed to have been involved in the assault.) Cartoonist Corinne &ldquo;Coco&rdquo; Rey also says she helped let the attackers into the..." />
+        <meta name="sailthru.image.full" content="http://www.slate.com/content/dam/slate/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves/rtr4ke2i.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg" />
+
+        <meta name="sailthru.headline" content="Witnesses Say Charlie Hebdo Gunmen Identified Selves as Yemeni al-Qaida" />
+        <meta name="sailthru.subheadline" content="" />
+        <meta name="sailthru.promoheadline" content="Witnesses Say Charlie Hebdo Gunmen Identified Selves as Yemeni al-Qaida" />
+        
+
+  </head>
+
+
+  <body class="article story">
+    
+<div id="slug_teads" class="ad " data-ad-type="teads" data-ad-mode="large"></div>
+
+    <input type="hidden" id="currPath" value="/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves"/>
+    <!-- HCS: shared/roll_ups/tablet -->
+    <!-- This is the header bar we always show in tablet mode -->
+    <header class="roll-up" id="tablet_header">
+      <div class="container">
+        <div class="main">
+
+        </div>
+        <div class="sidebar">
+          
+
+
+
+
+
+
+
+<section class="nav-panel" >
+  <div class="nav-header">
+    <a class="slate-logo" href="/"><span class="logo">Slate</span></a>
+    <a href="#" class="user-link "></a>
+    <a href="#" class="search-link "></a>
+    <a href="#" class="global-nav-handle "></a>
+    <div class="buttons">
+      
+      <span class="link option "><a class="first nav-option sign-in-link" href="#" id="sign_in_link">Sign In</a></span>
+      <span class="link option "><a href="#" class="nav-option sign-up-link" id="sign_up_link">Sign Up</a></span>
+      
+    </div>
+  </div>
+  
+</section>
+
+        </div>
+      </div><!-- /.container -->
+    </header><!-- /.header.roll-up -->
+    <!-- HCS END: shared/roll_ups/tablet -->
+    
+    <div class="top">
+      
+<div id="slug_teads" class="ad " data-ad-type="teads" data-ad-mode="large"></div>
+
+      
+      
+<div id="slug_t" class="tAd ad " data-ad-type="t" data-ad-mode="mobile"></div>
+
+      
+      
+<div id="slug_leaderboard" class="banner ad " data-ad-type="leaderboard" data-ad-mode="large"></div>
+
+      
+<div id="slug_pushdown" class="banner ad " data-ad-type="pushdown" data-ad-mode="large"></div>
+
+    </div><!-- end #top -->
+    
+    <!-- HCS END: layouts/shared/top -->
+    
+    
+    
+
+
+<!-- this is the rollup for basic article, no multipart fun -->
+<header class="roll-up with-dropdown" id="article_rollup">
+  <div class="container">
+    
+    <div class="main">
+      
+        
+        
+        
+        
+          <div class="titles centered-titles">
+            <h1 class="primary centered-primary">Witnesses<em> </em>Say<em> Charlie Hebdo</em> Gunmen Identified Selves as Yemeni al-Qaida</h1>
+          </div>
+        
+      
+      
+
+
+<div class="social social-with-popup sharing-buttons">
+    <a href="#" data-share="http://www.facebook.com/sharer.php?s=100&p[title]=Witnesses+Say+Charlie+Hebdo+Gunmen+Identified+Selves+as+Yemeni+al-Qaida&p[summary]=The+U.K.+Telegraph+reports+via+French+media+that+a+staffer+at+Charlie+Hebdo+says+the+gunmen+who+attacked+the+magazine+identified+themselves+as+members+of+al-Qaida.+(Three+gunmen+are+believed+to+have+been+involved+in+the+assault.)+Cartoonist+Corinne+&ldquo;Coco&rdquo;+Rey+also+says+she+helped+let+the+attackers+into+the...&p[ref]=sl_live&p[images][0]=http://www.slate.com/content/dam/slate/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves/rtr4ke2i.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg&p[url]=http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html?wpsrc=sh_all_dt_fb_ru" class="facebook first">
+      <span class="icon"></span>
+      <span class="count"></span>
+    </a>    
+    
+    <div class="twitter">
+    <a href="#" data-share="http://twitter.com/share?text=Witnesses+Say+Charlie+Hebdo+Gunmen+Identified+Selves+as+Yemeni+al-Qaida&count=none&via=slate&url=http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html?wpsrc=sh_all_dt_tw_ru" class="twitter">
+      <span class="icon"></span>
+      <span class="count"></span>
+    </a>
+    </div>
+
+    
+      <a href="#comments" class="comments">
+        <span class="icon"></span>           
+      </a>        
+    
+
+     <a href="mailto:?subject=Check%20out%20this%20piece%20on%20Slate&body=I%20thought%20you%20might%20like%20this%20article%20on%20Slate:%0AWitnesses%20Say%20Charlie%20Hebdo%20Gunmen%20Identified%20Selves%20as%20Yemeni%20al-Qaida%0Ahttp://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html?wpsrc=sh_all_dt_em_ru" class="email">
+        <span class="icon"></span>         
+      </a>        
+</div>
+
+
+    </div>
+    <div class="sidebar">
+      
+
+
+
+
+
+
+
+<section class="nav-panel" >
+  <div class="nav-header">
+    <a class="slate-logo" href="/"><span class="logo">Slate</span></a>
+    <a href="#" class="user-link "></a>
+    <a href="#" class="search-link "></a>
+    <a href="#" class="global-nav-handle "></a>
+    <div class="buttons">
+      
+      <span class="link option "><a class="first nav-option sign-in-link" href="#" id="sign_in_link">Sign In</a></span>
+      <span class="link option "><a href="#" class="nav-option sign-up-link" id="sign_up_link">Sign Up</a></span>
+      
+    </div>
+  </div>
+  
+</section>
+
+    </div>
+  </div><!-- /.container -->
+  <a href="#" class="mobile-social-toggle"><span></span></a> <!-- only shown in mobile -->
+</header><!-- /.header.roll-up -->
+
+
+
+
+
+    <div class="page">
+      
+      <article class="main">
+        
+        <div class="parsys contentWellTop iparsys"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys contentWellTop iparsys">
+</div>
+</div>
+</div>
+
+        
+
+    <header class="article-header" id="article_header">
+      <div class="meta has-image">
+        <div class="prop-name print-only"><a href="http://www.slate.com">Slate</a></div><div class="prop-name"><a href="http://www.slate.com/blogs/the_slatest.html">The Slatest</a></div><div class="prop-image"><a href="http://www.slate.com/blogs/the_slatest.html"><img src="/blogs/the_slatest/jcr:content/logo.gif" alt="The Slatest" /></a></div><div class="prop-desc">Your News Companion</div><div class="pub-date">Jan. 7 2015 10:16 AM</div>
+      </div>
+      <h1 class="hed">Witnesses<em> </em>Say<em> Charlie Hebdo</em> Gunmen Identified Selves as Yemeni al-Qaida</h1>
+      
+
+
+ <div class="social social-with-popup sharing-buttons" id="header_social">
+    <a href="#" data-share="http://www.facebook.com/sharer.php?s=100&p[title]=Witnesses+Say+Charlie+Hebdo+Gunmen+Identified+Selves+as+Yemeni+al-Qaida&p[summary]=The+U.K.+Telegraph+reports+via+French+media+that+a+staffer+at+Charlie+Hebdo+says+the+gunmen+who+attacked+the+magazine+identified+themselves+as+members+of+al-Qaida.+(Three+gunmen+are+believed+to+have+been+involved+in+the+assault.)+Cartoonist+Corinne+&ldquo;Coco&rdquo;+Rey+also+says+she+helped+let+the+attackers+into+the...&p[ref]=sl_live&p[images][0]=http://www.slate.com/content/dam/slate/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves/rtr4ke2i.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg&p[url]=http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html?wpsrc=sh_all_dt_fb_top" class="facebook">
+      <span class="icon"></span>
+      <span class="count"></span>
+    </a>
+    <div class="twitter">
+    <a href="#" data-share="http://twitter.com/share?text=Witnesses+Say+Charlie+Hebdo+Gunmen+Identified+Selves+as+Yemeni+al-Qaida&count=none&via=slate&url=http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html?wpsrc=sh_all_dt_tw_top" class="twitter">
+       <span class="icon"></span>
+    </a>
+    <a class="tw-count" href="http://twitter.com/search?q=http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html"><span class="count"></span></a>
+    </div>
+    
+      <a href="#comments" class="comments">
+        <span class="icon"></span>
+        <span class="count"></span>
+      </a>
+    
+ </div>
+
+
+      <h2 class="dek"></h2>
+      
+      <div class="byline" id="main_byline">
+      
+        By <a href="http://www.slate.com/authors.ben_mathislilley.html">Ben Mathis-Lilley</a>
+      
+      </div>
+      
+      
+
+
+
+
+
+  
+  
+  
+
+
+<div class="social horiz-counts-mobile centered sharing-buttons">
+  
+    <div class="comments">
+      <a class="mobile-comments" href="#comments">
+        <span class="icon"></span>
+        <span class="count"></span>
+      </a>
+    </div>
+  
+  <div class="facebook">
+    <a href="#" data-share="http://www.facebook.com/sharer.php?m2w&s=100&p[title]=Witnesses+Say+Charlie+Hebdo+Gunmen+Identified+Selves+as+Yemeni+al-Qaida&p[summary]=The+U.K.+Telegraph+reports+via+French+media+that+a+staffer+at+Charlie+Hebdo+says+the+gunmen+who+attacked+the+magazine+identified+themselves+as+members+of+al-Qaida.+(Three+gunmen+are+believed+to+have+been+involved+in+the+assault.)+Cartoonist+Corinne+&ldquo;Coco&rdquo;+Rey+also+says+she+helped+let+the+attackers+into+the...&p[ref]=sl_live&p[images][0]=http://www.slate.com/content/dam/slate/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves/rtr4ke2i.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg&p[url]=http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html?wpsrc=sh_all_mob_fb_top" class="share facebook" target="_blank">
+      <span class="icon"></span>
+      <span class="count"></span>
+    </a>
+  </div>
+  <div class="twitter">
+    <a href="#" data-share="http://twitter.com/share?text=Witnesses+Say+Charlie+Hebdo+Gunmen+Identified+Selves+as+Yemeni+al-Qaida&count=none&via=slate&url=http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html?wpsrc=sh_all_mob_tw_top" class="twitter">
+       <span class="icon"></span>
+    </a>
+    <a class="tw-count" href="http://twitter.com/search?q=http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html"><span class="count"></span></a>
+  </div>
+  
+  <div class="whatsapp">
+    <a href="whatsapp://send?text=Witnesses%20Say%20Charlie%20Hebdo%20Gunmen%20Identified%20Selves%20as%20Yemeni%20al-Qaida%20http%3A%2F%2Fwww.slate.com%2Fblogs%2Fthe_slatest%2F2015%2F01%2F07%2Fcharlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html%3Fwpsrc%3Dsh_all_mob_wa_top" class="whatsapp">
+       <span class="icon"></span>
+    </a>
+  </div>
+  
+  
+  <div class="email">
+    <a href="mailto:?subject=Check%20out%20this%20piece%20on%20Slate&body=I%20thought%20you%20might%20like%20this%20article%20on%20Slate:%0AWitnesses%20Say%20Charlie%20Hebdo%20Gunmen%20Identified%20Selves%20as%20Yemeni%20al-Qaida%0Ahttp://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html?wpsrc=sh_all_mob_em_top" class="email">
+      <span class="icon"></span>
+      <span class="count">&nbsp;</span>
+    </a>
+  </div>
+</div>
+
+    </header><!-- /header -->
+
+    <section class="content ">
+        <div class="parsys editorsNote">
+</div>
+
+        
+        <div class="newbody body parsys">
+
+<div class="parbase image slate_image section">
+
+
+ <div class="">
+        <figure class="image inline " style="width: 590px;  display: block;margin: 0 auto;float: none;"> <img title="rtr4ke2i" alt="rtr4ke2i" src="/content/dam/slate/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves/rtr4ke2i.jpg.CROP.promovar-mediumlarge.jpg" > <figcaption class="caption"><span>Outside the <em>Charlie Hedbo</em> offices.</span></figcaption>  <p class="credit">Philippe Wojazer/Reuters</p> 
+        </figure>
+        </div>
+        <script>
+        requirejs(["jquery"], function($) {
+            if ($(window).width() < 640) {
+                $(".slate_image figure").width("100%");
+            }
+        });
+        </script> </div>
+
+<div class="text text-1 parbase section">
+
+<p>The U.K. <em>Telegraph</em> reports via <a href="http://www.humanite.fr/charlie-hebdo-le-temoignage-de-la-dessinatrice-coco-562041">French media</a> that a staffer at <em>Charlie Hebdo</em> says the gunmen who attacked the magazine <a href="http://www.telegraph.co.uk/news/worldnews/europe/france/11329976/Paris-Charlie-Hebdo-attack-live.html">identified themselves as members of al-Qaida</a>. (Three gunmen are believed to have been involved in the assault.) Cartoonist Corinne &ldquo;Coco&rdquo; Rey also says she helped let the attackers into the magazine's office under threat of force:<br>
+</p>
+
+
+</div>
+
+
+
+
+
+
+<div class="text-2 text parbase section">
+
+<blockquote>"I had gone to get my daughter at nursery. When I arrived in front of the door of the building of the paper, two men hooded and armed brutally threatened us. They wanted to come in, go up. I pressed in the code. They shot on Wolinski, Cabu... it lasted 5 minutes... I had hidden under my desk... they spoke French perfectly... they said they we're al-Qaeda." (sic)</blockquote>
+
+
+</div>
+
+<div class="brightcovevideosingle section">
+
+
+
+
+
+
+
+<!-- Start of Brightcove Player -->
+<div id="containing-block-4134" class="bc-containing-block "></div>
+<script type="text/javascript">
+requirejs(["jquery","bcvideo"], function($,bcvideo) {
+  var videoId = 3975657518001,
+      video;
+  if (videoId) {
+    video = {
+      adServerURL:          'http://pubads.g.doubleclick.net/gampad/ads?sz=640x480&iu=/91898098/slate.video',
+      autoplay:             false,
+      experienceID:         '4134',
+      featuredVideoID:      false,
+      height:               270,
+      playerType:           "single",
+      playerSize:           "",
+      customWidth:          "558",
+      playlistSize:         "",
+      playlistItemSize:     120,
+      linkBaseURL:          'http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html',
+      playerID:             '3884567576001',
+      playerKey:            'AQ~~,AAAAAASoY90~,_gW1ZHvKG_316hV-puPIJaN07MCUfVcK',
+      playlistID:           false,
+      showAds:              true,
+      width:                480,
+      videoID:              videoId,
+      templateLoadHandler:  'onTemplateLoaded',
+      templateReadyHandler: 'onTemplateReady',
+      fullBleed:            true,
+      targetId:             '#containing-block-4134',
+      containingBlock:      '#containing-block-4134',
+    };
+  }
+  bcvideo.init(video);
+});
+
+
+var mobileCheckOnLoaded = function (experienceID) {
+  if (mobileMode()) {
+    var bp = brightcove.api.getExperience(experienceID);
+    var be = bp.getModule(brightcove.api.modules.APIModules.EXPERIENCE);
+    if (Modernizr.mq('all and (max-width : 320px)')) {
+      be.setSize(270, 480);
+      $("#tsgp-4134").attr("width", "270").attr("height", "480");
+    } else {
+      be.setSize(480, 270);
+      $("#tsgp-4134").attr("width", "480").attr("height", "270");
+    }
+  }
+  return myTemplateLoaded(experienceID);
+}
+</script>
+<!-- End of Brightcove Player -->
+</div>
+
+
+
+<div class="tablet-ad">
+    Advertisement<br>
+    
+<div id="slug_midarticleflex" class="ad " data-ad-type="midarticleflex" data-ad-mode="tabletPortrait"></div>
+
+    
+<div id="slug_mob_bigbox" class="ad " data-ad-type="mob_bigbox" data-ad-mode="mobile"></div>
+
+</div>
+
+<div class="text-3 text parbase section">
+
+<p>Another <em>Telegraph</em> reporter found a witness who says the attackers specifically claimed affiliation with the terrorist group's Yemeni branch:&nbsp;</p>
+
+
+</div>
+
+<div class="text parbase text-4 section">
+
+<blockquote>C&eacute;dric Le B&eacute;chec, a 33-year-old estate agent, witnessed the attack on the satirical magazine.</blockquote>
+
+
+</div>
+
+<div class="text parbase text-5 section">
+
+<blockquote><p>He said that the men arrived in a black car, stopping in the middle of the street. One of them was carrying a rocket-propelled grenade. They were dressed in black military-style clothing.</p>
+</blockquote>
+
+
+</div>
+
+<div class="text text-6 parbase section">
+
+<blockquote>Mr Le Bechec said that before launching the assault, the attackers approached another man in the street saying, &ldquo;Tell the media that this is Al Qaeda in Yemen.&rdquo;</blockquote>
+
+
+</div>
+
+<div class="text parbase text-7 section">
+
+<p>As of this moment, 12 people are reported to have been killed in the attack, with four more in critical condition. All three attackers are at large.</p>
+
+
+</div>
+
+<div class="text parbase text-8 section">
+
+<p><em><strong><a href="http://www.slate.com/topics/c/charlie_hebdo.html">Read more of Slate&rsquo;s coverage on the Paris shootings</a>.</strong></em></p>
+
+
+</div>
+</div>
+
+        
+        
+        
+    </section>
+
+<footer>
+      
+		
+
+
+  
+  <section class="about-the-author multi">
+    
+    <div class="author-bio">
+      <p>
+        <p><a href="https://twitter.com/BenMathisLilley">Ben Mathis-Lilley</a> edits the Slatest. Follow <a href="https://twitter.com/slatest">@Slatest on Twitter</a>.</p>
+
+	  </p>
+	</div>
+	
+  </section>
+  
+
+      
+
+  
+  
+    <div class="pagination">  
+      
+
+
+    <div class="social social-with-popup sharing-buttons">
+      <div class="plus-popup">
+        <a href="http://www.slatereprints.com/reprint-products-quote-request/?cf2_field_17=http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html&cf2_field_18=www.slate.com&cf2_field_19=Witnesses+Say+Charlie+Hebdo+Gunmen+Identified+Selves+as+Yemeni+al-Qaida&cf2_field_20=09%2F20%2F2013" class="reprint">REPRINT</a>
+        <a href="http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.single.html?print" target="_blank" class="print">PRINT</a>
+        <a href="mailto:?subject=Check%20out%20this%20piece%20on%20Slate&body=I%20thought%20you%20might%20like%20this%20article%20on%20Slate:%0AWitnesses%20Say%20Charlie%20Hebdo%20Gunmen%20Identified%20Selves%20as%20Yemeni%20al-Qaida%0Ahttp://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html?wpsrc=sh_all_dt_em_bot" class="email">EMAIL</a>
+        <div class="arrow-border"></div>
+        <div class="arrow"></div>        
+      </div>
+      <a href="#" class="plus">
+        <span class="icon"></span>
+      </a>
+      <a href="#" data-share="http://www.facebook.com/sharer.php?s=100&p[title]=Witnesses+Say+Charlie+Hebdo+Gunmen+Identified+Selves+as+Yemeni+al-Qaida&p[summary]=The+U.K.+Telegraph+reports+via+French+media+that+a+staffer+at+Charlie+Hebdo+says+the+gunmen+who+attacked+the+magazine+identified+themselves+as+members+of+al-Qaida.+(Three+gunmen+are+believed+to+have+been+involved+in+the+assault.)+Cartoonist+Corinne+&ldquo;Coco&rdquo;+Rey+also+says+she+helped+let+the+attackers+into+the...&p[ref]=sl_live&p[images][0]=http://www.slate.com/content/dam/slate/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves/rtr4ke2i.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg&p[url]=http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html?wpsrc=sh_all_dt_fb_bot" class="facebook">
+        <span class="icon"></span>
+        <span class="count"></span>
+      </a>
+    <div class="twitter">
+    <a href="#" data-share="http://twitter.com/share?text=Witnesses+Say+Charlie+Hebdo+Gunmen+Identified+Selves+as+Yemeni+al-Qaida&count=none&via=slate&url=http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html?wpsrc=sh_all_dt_tw_bot" class="twitter">
+       <span class="icon"></span>
+    </a>
+    <a class="tw-count" href="http://twitter.com/search?q=http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html"><span class="count"></span></a>
+    </div>
+      
+        <a href="#comments" class="comments">
+          <span class="icon"></span>         
+          <span class="count"></span>                
+        </a>              
+      
+    </div>
+    
+
+    </div><!-- /.pagination -->
+    
+
+
+
+
+
+
+  
+  
+  
+
+<div class="social horiz-counts-mobile centered sharing-buttons">
+  
+    <div class="comments">
+      <a class="mobile-comments" href="#comments">
+        <span class="icon"></span>
+        <span class="count"></span>
+      </a>
+    </div>
+  
+  <div class="facebook">
+    <a href="#" data-share="http://www.facebook.com/sharer.php?m2w&s=100&p[title]=Witnesses+Say+Charlie+Hebdo+Gunmen+Identified+Selves+as+Yemeni+al-Qaida&p[summary]=The+U.K.+Telegraph+reports+via+French+media+that+a+staffer+at+Charlie+Hebdo+says+the+gunmen+who+attacked+the+magazine+identified+themselves+as+members+of+al-Qaida.+(Three+gunmen+are+believed+to+have+been+involved+in+the+assault.)+Cartoonist+Corinne+&ldquo;Coco&rdquo;+Rey+also+says+she+helped+let+the+attackers+into+the...&p[ref]=sl_live&p[images][0]=http://www.slate.com/content/dam/slate/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves/rtr4ke2i.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg&p[url]=http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html?wpsrc=sh_all_mob_fb_bot" class="share facebook" target="_blank">
+      <span class="icon"></span>
+      <span class="count"></span>
+    </a>
+  </div>
+  <div class="twitter">
+    <a href="#" data-share="http://twitter.com/share?text=Witnesses+Say+Charlie+Hebdo+Gunmen+Identified+Selves+as+Yemeni+al-Qaida&count=none&via=slate&url=http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html?wpsrc=sh_all_mob_tw_bot" class="twitter">
+       <span class="icon"></span>
+    </a>
+    <a class="tw-count" href="http://twitter.com/search?q=http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html"><span class="count"></span></a>
+  </div>
+  
+  
+  <div class="whatsapp">
+    <a href="whatsapp://send?text=Witnesses%20Say%20Charlie%20Hebdo%20Gunmen%20Identified%20Selves%20as%20Yemeni%20al-Qaida%20http%3A%2F%2Fwww.slate.com%2Fblogs%2Fthe_slatest%2F2015%2F01%2F07%2Fcharlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html%3Fwpsrc%3Dsh_all_mob_wa_bot" class="whatsapp">
+       <span class="icon"></span>
+    </a>
+  </div>
+  
+  <div class="email">
+    <a href="mailto:?subject=Check%20out%20this%20piece%20on%20Slate&body=I%20thought%20you%20might%20like%20this%20article%20on%20Slate:%0AWitnesses%20Say%20Charlie%20Hebdo%20Gunmen%20Identified%20Selves%20as%20Yemeni%20al-Qaida%0Ahttp://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html?wpsrc=sh_all_mob_em_bot" class="email">
+      <span class="icon"></span>
+      <span class="count">&nbsp;</span>
+    </a>
+  </div>
+</div>
+
+    <div class="row up-next" id="up-next-box"></div>
+    <!-- Maybe incorporate the wrapper divs into the components -->
+    <div class="footer-tiles">
+      <div class="row">
+        <div class="outbrain">
+
+  <div id="outbrain_placeholder"></div>
+  <div class="sl-outbrain-divider"></div>
+
+  <script type="text/javascript">
+  requirejs(["jquery","myslate"], function($,myslate) {
+    var isCommentUser = $.cookie("s_segs") && $.cookie("s_segs").indexOf('commenter') > -1;
+    if(!myslate.isSlatePlusUser) {
+      var createOutbrainDivs = function(widgetId) {
+        var divHtml = '<div class="OUTBRAIN" data-src="http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html" data-widget-id="' + widgetId + '" data-ob-template="SlateMag" ></div>';
+        $("#outbrain_placeholder").append(divHtml);
+      }
+      if (mobileMode()) {
+        createOutbrainDivs("MB_1");
+      } else {
+        createOutbrainDivs("AR_3");
+        createOutbrainDivs("AR_17");
+      }
+      $('<script>', {src: '//widgets.outbrain.com/outbrain.js'}).appendTo('body');
+    }
+  });
+  </script>
+</div>
+
+      </div>
+    </div> <!-- /.footer-tiles -->
+  
+</footer>
+
+
+
+
+
+<div id="comments" class="comments-container" data-lf-hash="MzM3NzIwOmNxLTIyNzE1MDEwNzAwMg==">
+  <div id="livefyre">
+  	<div class="button-container lf-loader" style="text-align:center;">
+      <button class="push-button comments-push-button" style="padding: 0 15px;">Load Comments</button>
+    </div>
+  </div>
+  <div id="powered_by_livefyre_new"><a href="http://livefyre.com" target="_blank">Powered by Livefyre</a></div>
+</div>
+<div id="comments-ads" class="comments-ads-container">
+</div>
+
+<script type="text/javascript">
+requirejs(['config'], function(config) {
+  $.extend(config.livefyre, {
+    collectionMeta: 'eyJhbGciOiJIUzI1NiJ9.eyJ0aXRsZSI6IldpdG5lc3Nlc1x1MDAzY2VtXHUwMDNlIFx1MDAzYy9lbVx1MDAzZVNheVx1MDAzY2VtXHUwMDNlIENoYXJsaWUgSGViZG9cdTAwM2MvZW1cdTAwM2UgR3VubWVuIElkZW50aWZpZWQgU2VsdmVzIGFzIFllbWVuaSBhbC1RYWlkYSIsInVybCI6Imh0dHA6Ly93d3cuc2xhdGUuY29tL2Jsb2dzL3RoZV9zbGF0ZXN0LzIwMTUvMDEvMDcvY2hhcmxpZV9oZWJkb19hdHRhY2tfYWxfcWFpZGFfc3RhZmZlcl9zYXlzX3RlcnJvcmlzdHNfaWRfZF9zZWx2ZXMuaHRtbD93cGlzcmNcdTAwM2RsZiIsInRhZ3MiOiJjaGFybGllIGhlYmRvIiwiY2hlY2tzdW0iOiIyNzU5ZTkzZWI3MjNlNTc5YWIyOTM3ODNiM2JhNzI2OSIsImFydGljbGVJZCI6ImNxLTIyNzE1MDEwNzAwMiJ9.ba6cfY15AZwhj9onVlq0YpcboG8ztlXxGXzYvQwnIAQ'
+  });
+});
+requirejs(['slate-livefyre']);
+</script>
+
+
+
+
+        <div class="parsys iparsys contentWellBottom"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys contentWellBottom">
+</div>
+</div>
+</div>
+
+        
+        <div class="abridgedhomepage">
+
+
+<div class="twocolumn-stories">
+  <div class="twocolumn-stories__left large-tiles tiles">
+    <div class="parsys homepageSectionStoriesLeft"><div class="storyboxgroupquery section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-vr-zone="Story Box: News & Politics" class="story-box-news-politics">
+<header class="black-header">
+
+<a href="http://www.slate.com/articles/news_and_politics.html" class="primary"></a>
+<span class="see-all">&nbsp;</span>
+
+News & Politics</header>
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+            
+            
+              
+              
+            
+            
+            
+            
+            
+                
+                
+            
+            
+        <div class="tile stacked long-hed " style="background-image: url('http://www.slate.com/content/dam/slate/articles/news_and_politics/supreme_court_dispatches/2015/03/150323_SCD_LicensePlate.jpg.CROP.promo-medium2.jpg');" data-vr-contentbox="" data-promo-image="http://www.slate.com/content/dam/slate/articles/news_and_politics/supreme_court_dispatches/2015/03/150323_SCD_LicensePlate.jpg.CROP.promo-medium2.jpg">
+            <a href="http://www.slate.com/articles/news_and_politics/supreme_court_dispatches/2015/03/confederate_flag_on_texas_license_plates_supreme_court_considers_free_speech.html" class="primary"></a>
+            
+            
+                <span class="rubrik">Supreme Court Dispatches</span>
+            
+            <div class="full-tile">
+                <span class="timestamp">March 23 2015 5:24 PM</span>
+                <!-- <span class="hed">Lost Cause</span> -->
+                
+                  
+                  
+                    <span class="hed">Lost Cause</span>
+                  
+                
+                <span class="dek">Do devotees of the Confederacy have a First Amendment right to put the rebel battle flag on their license plates?</span>
+                <span class="byline">Mark Joseph Stern</span>
+            </div>
+        </div>
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/news_and_politics/politics/2015/03/why_ted_cruz_chose_liberty_university_the_texas_senator_chose_a_socially.html" class="primary">Why Ted Cruz Chose Liberty University</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/news_and_politics/politics/2015/03/ted_cruz_announces_his_presidential_campaign_the_texas_senator_has_no_chance.html" class="primary">Let’s Not Even Pretend That Ted Cruz Has a Chance of Becoming President</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/news_and_politics/politics/2015/03/america_s_hospitals_our_system_lets_big_hospitals_charge_exorbitant_prices.html" class="primary">The Real Villains in the American Health Care System Are Our Outrageously Greedy Hospitals</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/news_and_politics/history/2015/03/indiana_women_s_prison_a_revisionist_history.html" class="primary">A Revisionist History of America’s Oldest Women’s Prison—Written by Current Prisoners</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/news_and_politics/politics/2015/03/jeb_bush_uses_meerkat_the_2016_candidates_should_be_careful_about_embracing.html" class="primary">Why Political Candidates Should Think Carefully About Embracing Meerkat (or the Next Social Media Tool)</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/news_and_politics/foreigners/2015/03/benjamin_netanyahu_can_t_be_trusted_he_says_he_didn_t_mean_what_he_said.html" class="primary">Don’t Believe Bibi</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+            <div class="section-list  last" data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/news_and_politics/jurisprudence/2015/03/slender_man_defendants_trying_12_year_olds_as_adults_is_illogical_and_barbaric.html" class="primary">Trying 12-Year-Old Brutal Fantasists as Adults Is As Brutal and Fantasy-Driven As They Are</a>
+            </div>
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+</div>
+</div>
+<div class="storyboxgroupquery section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-vr-zone="Story Box: Business" class="story-box-business">
+<header class="black-header">
+
+<a href="http://www.slate.com/articles/business.html" class="primary"></a>
+<span class="see-all">&nbsp;</span>
+
+Business</header>
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+            
+            
+            
+              
+              
+            
+            
+            
+            
+            
+                
+                
+            
+            
+        <div class="tile stacked long-hed " style="background-image: url('http://www.slate.com/content/dam/slate/blogs/moneybox/2015/03/23/un_women_cancels_partnership_with_uber_a_rift_over_creating_1_million_jobs/467350476-taxi-driver-holds-a-sign-reading-no-to-uber-get-out.jpg.CROP.promo-medium2.jpg');" data-vr-contentbox="" data-promo-image="http://www.slate.com/content/dam/slate/blogs/moneybox/2015/03/23/un_women_cancels_partnership_with_uber_a_rift_over_creating_1_million_jobs/467350476-taxi-driver-holds-a-sign-reading-no-to-uber-get-out.jpg.CROP.promo-medium2.jpg">
+            <a href="http://www.slate.com/blogs/moneybox/2015/03/23/un_women_cancels_partnership_with_uber_a_rift_over_creating_1_million_jobs.html" class="primary"></a>
+            
+            
+                <span class="rubrik">Moneybox</span>
+            
+            <div class="full-tile">
+                <span class="timestamp">March 23 2015 5:52 PM</span>
+                <!-- <span class="hed">The World’s Taxi Unions May Have Just Convinced the U.N. to Stop Working With Uber</span> -->
+                
+                  
+                  
+                    <span class="hed">The World’s Taxi Unions May Have Just Convinced the U.N. to Stop Working With Uber</span>
+                  
+                
+                <span class="dek"></span>
+                <span class="byline">Alison Griswold</span>
+            </div>
+        </div>
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/moneybox/2015/03/23/academic_job_market_still_terrifying.html" class="primary">Update: The Job Market for Academics Is Still Terrifying</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/business_insider/2015/03/23/taylor_swift_purchases_porn_site_domains_taylorswift_porn_taylorswift_adult.html" class="primary">How Taylor Swift Bought the URL Taylorswift.porn Before Anyone Else Got the Chance</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/business/the_juice/2015/03/georgetown_texas_goes_renewable_why_the_town_is_dropping_fossil_fuels_for.html" class="primary">The Town in Texas—Oil-Pumpin’, Climate-Change-Denyin’ Texas—That Just Quit Fossil Fuels</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/moneybox/2015/03/23/ted_cruz_is_running_for_president_he_has_a_weird_obsession_with_abolishing.html" class="primary">Ted Cruz Has a Weird Obsession With Abolishing the IRS. About That.</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/moneybox/2015/03/23/starbucks_race_together_it_s_over.html" class="primary">Starbucks Won’t Try to Make You Talk About Race Today</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/moneybox/2015/03/20/burger_king_random_gloria_a_chicken_is_choosing_which_towns_get_chicken.html" class="primary">Burger King Is Letting a Chicken Choose Where Its Friends Will Be Eaten, and That’s Kind of Screwed Up</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+            <div class="section-list  last" data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/moneybox/2015/03/19/godaddy_prices_ipo_valuation_could_reach_2_7_billion.html" class="primary">The Company Behind the Super Bowl’s Sleaziest Ads Thinks It’s Worth $2.7 Billion</a>
+            </div>
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+</div>
+</div>
+<div class="storyboxgroupquery section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-vr-zone="Story Box: Life" class="story-box-life">
+<header class="black-header">
+
+<a href="http://www.slate.com/articles/life.html" class="primary"></a>
+<span class="see-all">&nbsp;</span>
+
+Life</header>
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+                
+            
+            
+            
+            
+            
+            
+            
+            
+        <div class="tile basic  "  data-vr-contentbox="" data-promo-image="http://www.slate.com/content/dam/slate/articles/life/dear_prudence/PRUDIE_STANDING_MEDIUM.jpg.CROP.promo-medium2.jpg">
+            <a href="http://www.slate.com/articles/life/dear_prudence/2015/03/dear_prudence_my_boyfriend_has_stuffed_animals_two_dozen.html" class="primary"></a>
+            
+            
+                <span class="rubrik">Dear Prudence</span>
+            
+            <div class="full-tile">
+                <span class="timestamp">March 23 2015 3:08 PM</span>
+                <!-- <span class="hed">Bear Necessities</span> -->
+                
+                  
+                  
+                    <span class="hed">Bear Necessities</span>
+                  
+                
+                <span class="dek">Prudie advises a letter writer whose boyfriend still has a collection of stuffed animals.</span>
+                <span class="byline">Emily Yoffe</span>
+            </div>
+        </div>
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/outward/2015/03/23/icann_s_dotgay_do_over_will_the_new_eiu_review_recognize_the_existence_of.html" class="primary">Will the New Dotgay Evaluation Recognize the Existence of the LGBTQ Community?</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/the_vault/2015/03/23/history_of_shanghai_map_designed_by_carl_crow.html" class="primary">A 1935 Historical Map of Shanghai, Designed by an Enthusiastic Resident Expat</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/atlas_obscura/2015/03/23/japan_s_nagoro_village_is_mainly_populated_with_dolls.html" class="primary">Japanese Village Replaces Its Lost Citizens With Cloth Doppelgangers &nbsp;</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/outward/2015/03/23/the_intolerant_jackass_act_a_brilliant_response_to_that_kill_the_gays_bill.html" class="primary">One Californian’s Response to That “Kill the Gays” Measure: The Intolerant Jackass Act</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/the_eye/2015/03/23/_99_invisible_roman_mars_the_history_of_barbed_wire.html" class="primary">How a Technology That Helped Settle the West Became Known as the “Devil’s Rope”</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/life/the_short_cut/2015/03/lotion_bottle_trick_how_to_use_every_last_bit_of_expensive_moisturizer_video.html" class="primary">How to Use Every Last Bit of Your Overpriced Moisturizer</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+            <div class="section-list  last" data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/quora/2015/03/23/why_was_the_eastern_roman_empire_unable_to_reclaim_territory_after_the_western.html" class="primary">Why Was the Eastern Roman Empire Unable to Reclaim Territory After the Western Roman Empire Fell?</a>
+            </div>
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+</div>
+</div>
+<div class="storyboxgroupquery section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-vr-zone="Story Box: Double X" class="story-box-double-x">
+<header class="black-header">
+
+<a href="http://www.slate.com/articles/double_x.html" class="primary"></a>
+<span class="see-all">&nbsp;</span>
+
+Double X</header>
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+            
+            
+            
+              
+              
+            
+            
+            
+            
+            
+                
+                
+            
+            
+        <div class="tile stacked long-hed " style="background-image: url('http://www.slate.com/content/dam/slate/blogs/xx_factor/2015/03/23/_hypersensitive_campus_progressives_judith_shulevitz_is_half_right_but_takes/71038774-manassas-united-states-this-24-may-2006-image-shows-a.jpg.CROP.promo-medium2.jpg');" data-vr-contentbox="" data-promo-image="http://www.slate.com/content/dam/slate/blogs/xx_factor/2015/03/23/_hypersensitive_campus_progressives_judith_shulevitz_is_half_right_but_takes/71038774-manassas-united-states-this-24-may-2006-image-shows-a.jpg.CROP.promo-medium2.jpg">
+            <a href="http://www.slate.com/blogs/xx_factor/2015/03/23/_hypersensitive_campus_progressives_judith_shulevitz_is_half_right_but_takes.html" class="primary"></a>
+            
+            
+                <span class="rubrik">The XX Factor</span>
+            
+            <div class="full-tile">
+                <span class="timestamp">March 23 2015 1:28 PM</span>
+                <!-- <span class="hed">Are College Campuses Really in the Thrall of Leftist Censors?</span> -->
+                
+                  
+                  
+                    <span class="hed">Are College Campuses Really in the Thrall of Leftist Censors?</span>
+                  
+                
+                <span class="dek"></span>
+                <span class="byline">Amanda Marcotte</span>
+            </div>
+        </div>
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/xx_factor/2015/03/20/monica_lewinsky_comeback_tour_is_america_finally_growing_up_about_sex.html" class="primary">Monica Lewinsky Is Back and People Love Her. Has America Finally Grown Up on the Subject of Sex?</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/xx_factor/2015/03/20/the_brutality_of_the_stone_age_only_1_man_had_children_for_every_17_women.html" class="primary">8,000 Years Ago, Only One Man Had Children for Every 17 Women</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/xx_factor/2015/03/19/kappa_delta_rho_fraternity_at_penn_state_pictures_of_non_consenting_nude.html" class="primary">Penn State Frat Member Says Pictures of Nonconsenting Nude Women Are “Satire”</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/xx_factor/2015/03/18/the_jinx_highlights_how_cops_once_dismissed_domestic_violence.html" class="primary"><em>The Jinx</em> Highlights How Cops Once Dismissed Domestic Violence</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/double_x/doublex/2015/03/margery_fish_s_we_made_a_garden_is_a_feminist_manifesto_disguised_as_a_gardening.html" class="primary">This 1956 Gardening Advice Book Was a Feminist Manifesto in Disguise</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/xx_factor/2015/03/17/eric_schmidt_at_sxsw_google_chairman_called_out_for_interrupting_female.html" class="primary">Google’s Diversity Manager Asks Google Chairman to Stop Interrupting Woman at SXSW</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+            <div class="section-list  last" data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/xx_factor/2015/03/16/sexual_harassment_in_the_theater_world_marin_ireland_and_other_actors_are.html" class="primary">Professional Theater Has a Sexual Harassment Problem</a>
+            </div>
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+</div>
+</div>
+
+</div>
+
+  </div>
+  <div class="twocolumn-stories__right large-tiles tiles">
+    <div class="parsys homepageSectionStoriesRight"><div class="storyboxgroupquery section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-vr-zone="Story Box: Slate Plus" class="story-box-slate-plus">
+<header class="black-header">
+
+<a href="/plus/home?wpisrc=sp_all_native-by-section" class="primary"></a>
+<span class="see-all">&nbsp;</span>
+
+Slate Plus</header>
+
+
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    
+      
+    
+    
+        
+            
+            
+            
+              
+              
+            
+            
+            
+            
+            
+                
+                
+            
+            
+        <div class="tile stacked long-hed slateplus-preview" style="background-image: url('http://www.slate.com/content/dam/slate/Slate%20Plus/articles/2015/03/150319_PLUS_SwansburgPromo.jpg.CROP.promo-medium2.jpg');" data-vr-contentbox="" data-promo-image="http://www.slate.com/content/dam/slate/Slate%20Plus/articles/2015/03/150319_PLUS_SwansburgPromo.jpg.CROP.promo-medium2.jpg">
+            <a href="http://www.slate.com/articles/news_and_politics/plus_roundups/2015/03/slate_s_weekly_roundup_john_swansburg_lists_his_favorite_reads_about_kendrick.html?wpsrc=sp_all_native_by-section" class="primary"></a>
+            
+            
+                <span class="rubrik">Plus Roundups</span>
+            
+            <div class="full-tile">
+                <span class="timestamp">March 20 2015 2:00 PM</span>
+                <!-- <span class="hed">“I’ve Convinced Them to Let Me Write About Pretty Much All My Other Obscure Interests”</span> -->
+                
+                  
+                  
+                    <span class="hed">“I’ve Convinced Them to Let Me Write About Pretty Much All My Other Obscure Interests”</span>
+                  
+                
+                <span class="dek">Here are John Swansburg’s favorite reads from <strong><em>Slate</em></strong><em> </em>this week, from the good old Grateful Dead to ex-con voting rights.&nbsp;</span>
+                <span class="byline">John Swansburg</span>
+            </div>
+        </div>
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list slateplus-preview" data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/news_and_politics/plus_roundups/2015/03/what_we_like_right_now_a_recommendations_roundup_from_slate_writers_and_2.html?wpsrc=sp_all_native_by-section" class="primary">What Are We Digging Now? Our Favorite Reads From Around the Web, Curated by Slatesters</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list slateplus-preview" data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/podcasts/gabfest/2015/03/the_best_lifehacks_the_political_gabfest_discusses_their_best_lifehacks.html?wpsrc=sp_all_native_by-section" class="primary">Gabfest Bonus Segment:<em> </em>What Are the Best Lifehacks We Know?</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list slateplus-preview" data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/podcasts/tv_club/2014/10/slate_s_the_walking_dead_podcast_recap_and_spoiler_special.html?wpsrc=sp_all_native_by-section" class="primary"><em>Walking Dead</em> Podcast Early Release:&nbsp;Episode 14, &quot;Spend&quot;&nbsp;</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+            <div class="section-list slateplus-preview last" data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/podcasts/science/2015/03/why_beanie_babies_were_popular_mark_joseph_stern_reads_plush_life.html?wpsrc=sp_all_native_by-section" class="primary">Why People Lost Their Minds Over Beanie Babies (Audio)</a>
+            </div>
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+      
+      
+    
+    
+    
+    
+        
+        
+        
+    
+
+</div>
+</div>
+<div class="storyboxgroupquery section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-vr-zone="Story Box: Arts" class="story-box-arts">
+<header class="black-header">
+
+<a href="http://www.slate.com/articles/arts.html" class="primary"></a>
+<span class="see-all">&nbsp;</span>
+
+Arts</header>
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+            
+            
+            
+              
+              
+            
+            
+            
+            
+            
+                
+                
+            
+            
+        <div class="tile stacked long-hed " style="background-image: url('http://www.slate.com/content/dam/slate/blogs/browbeat/2015/03/23/the_russo_brothers_will_direct_the_next_two_avengers_movies_the_infinity/479295051-anthony-russo-and-joe-russo-attend-the-captain-america.jpg.CROP.promo-medium2.jpg');" data-vr-contentbox="" data-promo-image="http://www.slate.com/content/dam/slate/blogs/browbeat/2015/03/23/the_russo_brothers_will_direct_the_next_two_avengers_movies_the_infinity/479295051-anthony-russo-and-joe-russo-attend-the-captain-america.jpg.CROP.promo-medium2.jpg">
+            <a href="http://www.slate.com/blogs/browbeat/2015/03/23/the_russo_brothers_will_direct_the_next_two_avengers_movies_the_infinity.html" class="primary"></a>
+            
+            
+                <span class="rubrik">Brow Beat</span>
+            
+            <div class="full-tile">
+                <span class="timestamp">March 23 2015 8:06 PM</span>
+                <!-- <span class="hed">The Russo Brothers Will Direct the Next Two <em>Avengers </em>Movies &nbsp;</span> -->
+                
+                  
+                  
+                    <span class="hed">The Russo Brothers Will Direct the Next Two <em>Avengers </em>Movies &nbsp;</span>
+                  
+                
+                <span class="dek"></span>
+                <span class="byline">Sharan Shetty</span>
+            </div>
+        </div>
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/browbeat/2015/03/23/_baby_blue_watch_action_bronson_and_chance_the_rapper_play_out_coming_to.html" class="primary">Action Bronson’s Video for “Baby Blue” Is an Adorable Remake of <em>Coming to America</em></a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/browbeat/2015/03/23/watch_what_up_would_look_like_as_a_horror_movie.html" class="primary">Watch: This Is What <em>Up </em>Would Look Like as a Horror Movie&nbsp; &nbsp;&nbsp;</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/browbeat/2015/03/23/mission_impossible_rogue_nation_trailer_tom_cruise_rides_even_more_motorcycles.html" class="primary">Tom Cruise Rides Even More Motorcycles in the Full Trailer for the Next <em>Mission: Impossible</em></a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/browbeat/2015/03/23/watch_jack_white_and_robert_plant_cover_led_zeppelin_at_lollapalooza_argentina.html" class="primary">Watch Jack White Cover Led Zeppelin with Robert Plant</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/browbeat/2015/03/23/stream_earl_sweatshirt_s_grim_new_album.html" class="primary">Listen to Earl Sweatshirt’s Dark New Album</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+            <div class="section-list  last" data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/behold/2015/03/23/brian_m_cassidy_and_melanie_shatzky_present_a_dark_vision_of_childhood_fun.html" class="primary">Summer Fun Never Looked So Creepy</a>
+            </div>
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+</div>
+</div>
+<div class="storyboxgroupquery section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-vr-zone="Story Box: Technology" class="story-box-technology">
+<header class="black-header">
+
+<a href="http://www.slate.com/articles/technology.html" class="primary"></a>
+<span class="see-all">&nbsp;</span>
+
+Technology</header>
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+            
+            
+            
+              
+              
+            
+            
+            
+            
+            
+                
+                
+            
+            
+        <div class="tile stacked long-hed " style="background-image: url('http://www.slate.com/content/dam/slate/blogs/future_tense/2015/03/23/ted_cruz_presidential_campaign_weird_tech_moments/494870869-senator-ted-cruz-speaks-during-the-final-day-of-the.jpg.CROP.promo-medium2.jpg');" data-vr-contentbox="" data-promo-image="http://www.slate.com/content/dam/slate/blogs/future_tense/2015/03/23/ted_cruz_presidential_campaign_weird_tech_moments/494870869-senator-ted-cruz-speaks-during-the-final-day-of-the.jpg.CROP.promo-medium2.jpg">
+            <a href="http://www.slate.com/blogs/future_tense/2015/03/23/ted_cruz_presidential_campaign_weird_tech_moments.html" class="primary"></a>
+            
+            
+                <span class="rubrik">Future Tense</span>
+            
+            <div class="full-tile">
+                <span class="timestamp">March 23 2015 6:39 PM</span>
+                <!-- <span class="hed">Lots of Weird Internet Moments on Day 1 of Ted Cruz's Presidential Campaign</span> -->
+                
+                  
+                  
+                    <span class="hed">Lots of Weird Internet Moments on Day 1 of Ted Cruz's Presidential Campaign</span>
+                  
+                
+                <span class="dek"></span>
+                <span class="byline">Lily Hay Newman</span>
+            </div>
+        </div>
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/future_tense/2015/03/23/greenland_icemelt_study_suggests_the_day_after_tomorrow_has_some_basis_in.html" class="primary"><em>The Day After Tomorrow</em>&nbsp;Might Kinda, Sorta Come True</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/future_tense/2015/03/23/project_spartan_browser_why_microsoft_names_products_after_halo.html" class="primary">Why Microsoft Keeps Naming Products After Its Video Game Characters</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/future_tense/2015/03/23/google_doogle_celebrates_mathematician_emmy_noether_s_133rd_birthday.html" class="primary">What Einstein Had to Say About the Female Math Genius in Today’s Google Doodle</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/future_tense/2015/03/23/data_security_and_breach_notification_act_would_eliminate_protections_for.html" class="primary">Congress Wants to Eliminate Protections for Some of Your Most Sensitive Records</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/technology/future_tense/2015/03/satellite_based_internet_is_the_next_frontier_in_net_neutrality.html" class="primary">The Final Frontier of Net Neutrality: The Space Internet</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+            <div class="section-list  last" data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/future_tense/2015/03/21/watching_the_solar_eclipse_in_reykjavik_iceland.html" class="primary">Eating My Way Through the Solar Eclipse</a>
+            </div>
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+</div>
+</div>
+<div class="storyboxgroupquery section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-vr-zone="Story Box: Health & Science" class="story-box-health-science">
+<header class="black-header">
+
+<a href="http://www.slate.com/articles/health_and_science.html" class="primary"></a>
+<span class="see-all">&nbsp;</span>
+
+Health & Science</header>
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+            
+            
+              
+              
+            
+            
+            
+            
+            
+                
+                
+            
+            
+        <div class="tile stacked long-hed " style="background-image: url('http://www.slate.com/content/dam/slate/articles/health_and_science/medical_examiner/2015/03/150919_MEDEX_OkFats.jpg.CROP.promo-medium2.jpg');" data-vr-contentbox="" data-promo-image="http://www.slate.com/content/dam/slate/articles/health_and_science/medical_examiner/2015/03/150919_MEDEX_OkFats.jpg.CROP.promo-medium2.jpg">
+            <a href="http://www.slate.com/articles/health_and_science/medical_examiner/2015/03/diets_do_not_work_the_thin_evidence_that_losing_weight_makes_you_healthier.html" class="primary"></a>
+            
+            
+                <span class="rubrik">Medical Examiner</span>
+            
+            <div class="full-tile">
+                <span class="timestamp">March 24 2015 3:00 AM</span>
+                <!-- <span class="hed">The Weight of the Evidence</span> -->
+                
+                  
+                  
+                    <span class="hed">The Weight of the Evidence</span>
+                  
+                
+                <span class="dek">It’s time to stop telling fat people to become thin.&nbsp;</span>
+                <span class="byline">Harriet  Brown</span>
+            </div>
+        </div>
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/bad_astronomy/2015/03/23/bad_astronomy_video_the_pink_and_purple_crab.html" class="primary">Bad Astronomy Video: The Pink and Purple Crab</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/health_and_science/science/2015/03/computers_proving_mathematical_theorems_how_artificial_intelligence_could.html" class="primary">How Computers Could Change Pure Mathematics</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/bad_astronomy/2015/03/23/pluto_naming_features_as_new_horizons_flies_by.html" class="primary">Want to Name a Feature on Pluto?</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/bad_astronomy/2015/03/22/ceres_new_pictures_will_come_soon.html" class="primary">Where Are the Pictures of Ceres?</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/blogs/bad_astronomy/2015/03/21/mauna_kea_snowy_volcano.html" class="primary">Snowy ... Hawaii?</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+            <div class="section-list  last" data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/health_and_science/science/2015/03/darwin_s_strangest_animals_in_south_america_identified_video.html" class="primary">Darwin’s “Strangest Animals Ever Discovered” Identified After 180 Years</a>
+            </div>
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+      
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+</div>
+</div>
+<div class="storyboxgroupquery section">
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div data-vr-zone="Story Box: Sports" class="story-box-sports">
+<header class="black-header">
+
+<a href="http://www.slate.com/articles/sports.html" class="primary"></a>
+<span class="see-all">&nbsp;</span>
+
+Sports</header>
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+            
+            
+            
+              
+              
+            
+            
+            
+            
+            
+                
+                
+            
+            
+        <div class="tile stacked long-hed " style="background-image: url('http://www.slate.com/content/dam/slate/articles/sports/sports_nut/2015/03/150320_SNUT_Cricket.png.CROP.promo-medium2.png');" data-vr-contentbox="" data-promo-image="http://www.slate.com/content/dam/slate/articles/sports/sports_nut/2015/03/150320_SNUT_Cricket.png.CROP.promo-medium2.png">
+            <a href="http://www.slate.com/articles/sports/sports_nut/2015/03/cricket_world_cup_2015_how_do_you_play_cricket_a_guide_for_americans.html" class="primary"></a>
+            
+            
+                <span class="rubrik">Sports Nut</span>
+            
+            <div class="full-tile">
+                <span class="timestamp">March 23 2015 10:24 AM</span>
+                <!-- <span class="hed">Cricket for Americans</span> -->
+                
+                  
+                  
+                    <span class="hed">Cricket for Americans</span>
+                  
+                
+                <span class="dek">A guide to the completely simple, totally not confusing sport.</span>
+                <span class="byline">A.J. McCarthy and Chris Wade</span>
+            </div>
+        </div>
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/sports/sports_nut/2015/03/john_calipari_hate_your_hatred_of_the_kentucky_wildcats_coach_only_makes.html" class="primary">Your Hate for John Calipari Only Makes Kentucky Love Him More</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/sports/sports_nut/2015/03/uva_cavaliers_2015_how_one_university_of_virginia_professor_learned_to_stop.html" class="primary">How I Learned to Stop Worrying and Love College Basketball</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/sports/sports_nut/2015/03/kentucky_wildcats_religion_how_to_balance_faith_and_basketball_in_kentucky.html" class="primary">How to Balance Faith and Basketball in Kentucky</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/sports/sports_nut/2015/03/basketball_shoe_history_chuck_taylors_nike_reebok_in_sean_williams_sneaker.html" class="primary">The Highs and Lows of the Basketball Shoe, 1917 to Present</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+            <div class="section-list " data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/sports/sports_nut/2015/03/warren_buffett_s_billion_dollar_bracket_challenge_the_legal_feud_that_killed.html" class="primary">The Silly Legal Feud That Killed Warren Buffett’s Goofy Billion Dollar Bracket Challenge</a>
+            </div>
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+            <div class="section-list  last" data-vr-contentbox="">
+              <a href="http://www.slate.com/articles/sports/sports_nut/2015/03/chris_borland_s_retirement_is_an_nfl_player_s_brain_really_more_important.html" class="primary">Is an NFL Player’s Brain Really More Important Than the Rest of His Body?</a>
+            </div>
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+        
+        
+        
+    
+
+</div>
+</div>
+
+</div>
+
+  </div>
+</div>
+</div>
+
+      </article><!-- /.main -->
+      
+
+      <aside class="sidebar" id="main_sidebar">
+        <div class="sidebar-wrapper">
+          
+          
+          
+          
+
+
+
+
+
+
+  
+  
+  
+
+
+<section class="nav-panel" id='slate_logo'>
+  <div class="nav-header">
+    <a class="slate-logo" href="/"><span class="logo">Slate</span></a>
+    <a href="#" class="user-link sidebar-handle"></a>
+    <a href="#" class="search-link sidebar-handle"></a>
+    <a href="#" class="global-nav-handle sidebar-handle"></a>
+    <div class="buttons">
+      
+      <span class="link option "><a class="first nav-option sign-in-link" href="#" id="sign_in_link">Sign In</a></span>
+      <span class="link option "><a href="#" class="nav-option sign-up-link" id="sign_up_link">Sign Up</a></span>
+      
+    </div>
+  </div>
+  
+</section>
+
+          
+
+          
+          
+
+<div class="parsys iparsys contentSidebar"><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys contentSidebar"><div class="renderHtml section">
+
+<style type="text/css">
+.mostshared {display: none;}
+.mostpopular {display: none;}
+</style>
+
+ 
+</div>
+<div class="mostpopular section">
+
+
+<section class="items">
+  <a class="header" href="#">Most Read</a>
+  <ul class="numbered-list">
+  
+    
+      
+      <li><a href="http://www.slate.com/articles/life/dear_prudence/2015/03/dear_prudence_my_boyfriend_has_stuffed_animals_two_dozen.html"><small>1.</small> <span>Help! My Boyfriend Has Stuffed Animals. A Lot of Stuffed Animals.</span></a></li>
+      
+    
+  
+    
+      
+      <li><a href="http://www.slate.com/articles/health_and_science/medical_examiner/2015/03/diets_do_not_work_the_thin_evidence_that_losing_weight_makes_you_healthier.html"><small>2.</small> <span>Planning to Go on a Diet? One Word of Advice: Don’t.</span></a></li>
+      
+    
+  
+    
+      
+      <li><a href="http://www.slate.com/articles/news_and_politics/politics/2015/03/america_s_hospitals_our_system_lets_big_hospitals_charge_exorbitant_prices.html"><small>3.</small> <span>The Real Villains in the American Health Care System Are Our Outrageously Greedy Hospitals</span></a></li>
+      
+    
+  
+    
+      
+      <li><a href="http://www.slate.com/articles/news_and_politics/politics/2015/03/ted_cruz_announces_his_presidential_campaign_the_texas_senator_has_no_chance.html"><small>4.</small> <span>Let’s Not Even Pretend That Ted Cruz Has a Chance of Becoming President</span></a></li>
+      
+    
+  
+    
+      
+      <li><a href="http://www.slate.com/articles/news_and_politics/supreme_court_dispatches/2015/03/confederate_flag_on_texas_license_plates_supreme_court_considers_free_speech.html"><small>5.</small> <span>The Confederacy Rises Again—This Time at the Supreme Court</span></a></li>
+      
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+    
+  
+  </ul>
+</section>
+
+</div>
+<div class="mostshared section">
+
+
+<section data-vr-zone="Most Shared">
+    <header class="black-header">Most Shared</header>
+    <ul class="numbered-list">
+        
+            
+                
+                <li data-vr-contentbox="">
+                  <a href="http://www.slate.com/blogs/browbeat/2015/03/23/girls_season_finale_how_lena_dunham_finally_made_hannah_grow_up.html">
+                    <small>1.</small> <span><em>Girls </em>Finally Figured Out How to Make Hannah Horvath Grow Up</span>
+                  </a>
+                </li>
+                
+            
+        
+            
+                
+                <li data-vr-contentbox="">
+                  <a href="http://www.slate.com/articles/news_and_politics/politics/2015/03/america_s_hospitals_our_system_lets_big_hospitals_charge_exorbitant_prices.html">
+                    <small>2.</small> <span>The Real Villains in the American Health Care System Are Our Outrageously Greedy Hospitals</span>
+                  </a>
+                </li>
+                
+            
+        
+            
+                
+                <li data-vr-contentbox="">
+                  <a href="http://www.slate.com/articles/news_and_politics/politics/2015/03/ted_cruz_announces_his_presidential_campaign_the_texas_senator_has_no_chance.html">
+                    <small>3.</small> <span>Let’s Not Even Pretend That Ted Cruz Has a Chance of Becoming President</span>
+                  </a>
+                </li>
+                
+            
+        
+            
+                
+                <li data-vr-contentbox="">
+                  <a href="http://www.slate.com/articles/news_and_politics/history/2015/03/indiana_women_s_prison_a_revisionist_history.html">
+                    <small>4.</small> <span>A Revisionist History of America’s Oldest Women’s Prison—Written by Current Prisoners</span>
+                  </a>
+                </li>
+                
+            
+        
+            
+                
+                <li data-vr-contentbox="">
+                  <a href="http://www.slate.com/blogs/future_tense/2015/03/23/greenland_icemelt_study_suggests_the_day_after_tomorrow_has_some_basis_in.html">
+                    <small>5.</small> <span><em>The Day After Tomorrow</em>&nbsp;Might Kinda, Sorta Come True</span>
+                  </a>
+                </li>
+                
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+            
+        
+    </ul>
+</section>
+</div>
+<div class="rightrailstories section">
+
+<section class="items">
+  
+
+  
+    <div id="rr-results" data-track-module="smart-rr" data-omit-views="true">
+    <div class="smallvideos">
+
+<div class="row">
+<section class="video-gallery" id="small_videos" style="display: none;">
+    <div id='small_video_gallery_mobile_wrap'>
+        
+        <div class="current-video">
+            <img src="http://www.slate.com/content/dam/slate/articles/video/video/2015/03/swallowing_underwater_why_animals_developed_tongues_video/tnc150319_tongue_1280.jpg.CROP.hd-large.jpg" />
+            <a href="http://www.slate.com/articles/video/video/2015/03/swallowing_underwater_why_animals_developed_tongues_video.html?wpisrc=seg_video" class="primary">
+                <span class="play-button"></span>
+                <span class="main-title">Speaking of Tongues</span>
+            </a>
+        </div>
+        
+    </div>
+</section>
+</div>
+<script>
+requirejs(["jquery"], function($) {
+	if ($.cookie("s_segs") && $.cookie("s_segs").indexOf('video') > -1) {
+      $([
+        '#small_videos',
+        '#small_video_gallery_mobile_wrap',
+        '.current-video'
+      ].join(',')).show();
+      if (mobileMode()) {
+        $('#video_gallery_mobile').show();
+      }
+      $(".video-gallery").css('height','auto');
+      $(window).load(function() {
+        var dataCount3 = $('.rr-block[data-count="3"]');
+        dataCount3.addClass('repositioned');
+        $('.rr-block[data-count="9"]').before(dataCount3);
+      });
+	}
+});
+</script></div>
+
+      <div class="rr-block" data-count="3"></div>
+     
+      <div class="item ad-container">
+          
+            
+              <div class="ad rightflex" data-ad-mode="desktop" data-ad-type="rightflex"></div>
+              
+              
+<div id="slug_rightflex" class="ad " data-ad-type="rightflex" data-ad-mode="tabletLandscape"></div>
+
+              
+            
+            
+          
+      </div>
+      
+      <div class="rr-block" data-count="9"></div>
+     
+     <div class="sl-art-ad-midflex">
+        <div class="item ad-container">
+        
+          
+            <div class="ad rightflex-2" data-ad-mode="desktop" data-ad-type="rightflex|2"></div>
+            
+            
+<div id="slug_rightflex_2" class="ad " data-ad-type="rightflex|2" data-ad-mode="tabletLandscape"></div>
+
+            
+          
+          
+        
+        </div>
+      </div>
+      
+      <div class="rr-block"></div>
+    </div>
+
+  
+ </section>
+
+
+ 
+<script type="text/javascript">
+requirejs(["jquery","rrstories"], function($,rrs) {
+  if (!mobileMode()) {
+    rrs.init(28,14,"trending");
+  } else {
+    $(".rightrailstories section").remove();
+  }
+});
+</script>
+
+
+
+</div>
+
+</div>
+</div>
+</div>
+
+
+
+          
+        </div><!-- /.sidebar-wrapper -->
+      </aside><!-- /.sidebar -->
+      
+      
+      
+      	
+
+  <footer id="article_footer_tiles">
+     
+  </footer>
+
+      
+    </div><!-- /.page -->
+
+
+
+<!-- HCS: layout -->
+  
+    <style type="text/css">
+      body > .bottom {
+        text-align: center;
+        padding: 10px 0;
+      }
+      .bottom > #slug_leaderboard_2 {
+        position: relative;
+        width: auto;
+        text-align: center;
+      }
+    </style>
+    <div class="bottom">
+      
+        
+          <div class="ad leaderboard-2" data-ad-type="leaderboard|2" data-ad-mode="desktop"></div>
+        
+        
+      
+    </div>
+    <footer class="footer-base">
+      <div class="container">
+
+      <div class="sub-slate-row">
+        <div class="left">
+          <span class="label">FOLLOW SLATE</span>
+          <a href="https://twitter.com/slate" class="twitter"><img src="http://static.cdnslate.com/etc/designs/slate/images/social/yellow-twitterNew.821dc365.png" /></a>
+          <a href="http://www.facebook.com/Slate" class="facebook"><img src="http://static.cdnslate.com/etc/designs/slate/images/social/yellow-facebookNew.74981e6f.png" /></a>
+        </div>
+
+        <div class="left slate-on">
+          <span class="label">SLATE ON</span>
+          <a href="http://itunes.apple.com/us/app/slate-magazine/id384914589?mt=8">IPAD</a>
+          <a href="http://itunes.apple.com/us/app/slate-com/id357555242?mt=8">IPHONE</a>
+          <a href="https://market.android.com/details?id=com.wapo.slate.android">ANDROID</a>
+          <a href="http://www.amazon.com/gp/product/B000IOMTC0?ie=UTF8&tag=slatmaga-20&link_code=as3&camp=211189&creative=373489&creativeASIN=B000IOMTC0/">KINDLE</a>
+        </div>
+
+        <div class="right">
+          <a href="http://www.slatereprints.com" class="label reprints">REPRINTS</a>
+
+          <a href="http://innovate.slate.com/" class="label advertise-with-us" target="_blank">ADVERTISE WITH US</a>
+        </div>
+      </div>
+
+      </div><!-- /.container -->
+
+
+    </footer>
+  
+  
+    <footer class="footer-base-toc">
+      <div class="container">
+        <div class="footer-link-cols">
+          <ul>
+            <li><a href="/articles/news_and_politics/slate_fare/2006/08/about_us.html">ABOUT US</a></li>
+            <li><a href="/articles/briefing/contact_us/2006/08/whereto_find_slate_staff.html">CONTACT US</a></li>
+            <li><a href="/articles/news_and_politics/slate_fare/2008/04/a_job_for_you_at_slate.html">WORK WITH US</a></li>
+          </ul>
+          <ul class="center">
+            <li><a href="/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_terms_of_service.html">USER AGREEMENT</a></li>
+            <li><a href="/articles/briefing/slate_user_agreement_and_privacy_policy/2012/12/slate_s_privacy_policy.html">PRIVACY POLICY</a></li>
+            <li><a href="/articles/briefing/slate_fare/2011/12/commenting_on_slate_frequently_asked_questions.html">FAQ</a></li>
+          </ul>
+          <ul class="last">
+            <li><a href="mailto:feedback@slate.com">FEEDBACK</a></li>
+            <li><a href="/articles/news_and_politics/corrections.html">CORRECTIONS</a></li>
+          </ul>
+        </div>
+        <ul class="copyright unstyled">
+          <li><a href="http://www.slate.com"><img src="http://static.cdnslate.com/etc/designs/slate/images/the-slate-group-logo.12cbe5ac.png" /></a></li>
+          <li><a href="http://www.theroot.com"><img src="http://static.cdnslate.com/etc/designs/slate/images/the-root-logo.74009c0a.png" /></a></li>
+          <li class="blurb">Slate is published by The Slate Group, a Graham Holdings Company. All contents &copy; 2014 The Slate Group LLC. All rights reserved.</li>
+        </ul>
+      </div><!-- /.container -->
+    </footer> <!-- /.footer-base-toc -->
+<!-- HCS END: layout -->
+<!-- HCS: layouts/shared/bottom -->
+<div id="sidebar_toggle">
+  <a href="#" id="sidebar_handle"></a>
+</div>
+<script src="http://slate-ad-scripts.s3.amazonaws.com/wp-srv/ad/loaders/latest/js/min/polar_config.min.js"></script>
+<script>
+
+
+requirejs(["jquery", "hcs/libs/iscroll-lite", "modernizr", "hcs/script", "hcs/plugins/SGGlobalNav.jquery", "hcs/plugins/jQuery.highlighter","hcs/plugins/SGGlobalNav.jquery","libs/jquery-plugins/jquery.timeago","announcements","myslate"], function($, iScroll, unused0, unused1, unused2, unused3, unused4, unused5, announcements, myslate) {
+  $(document).ready(function() {
+    announcements.deleteOldCookies();
+    
+    $("span.timeago").timeago();
+  });
+  function pageLoadedForScrolling(){
+
+
+    scroller = new iScroll('main_sidebar', {
+      hScroll: false,
+      hScrollbar: false,
+      bounce: false
+    });
+
+    if(!mobileMode() && tabletMode() && $('html').hasClass('touch')){
+      // Nav gets iScroll if we're on an actual tablet.
+      window.tabletScroller = new iScroll('nav_sections', {
+        hScroll: false,
+        hScrollbar: false,
+        bounce: false,
+        onBeforeScrollStart: function (e) {
+          var target = e.target;
+          while (target.nodeType != 1) target = target.parentNode;
+
+          if (target.tagName != 'SELECT' && target.tagName != 'INPUT' && target.tagName != 'TEXTAREA')
+          e.preventDefault();
+        }
+      });
+    }
+
+  }
+
+  // We institute fancy scrolling on iscroll only on mobile webkit.
+
+  // Webkit detection script
+  Modernizr.addTest('webkit', function(){
+    return RegExp(" AppleWebKit/").test(navigator.userAgent);
+  });
+
+  // Mobile Webkit
+  Modernizr.addTest('mobile', function(){
+    return RegExp(" Mobile/").test(navigator.userAgent);
+  });
+
+  if(Modernizr.webkit && Modernizr.mobile){
+    if (document.addEventListener){
+      document.addEventListener('DOMContentLoaded', function () { setTimeout(pageLoadedForScrolling, 200); }, false);
+    } else if (document.attachEvent){
+      document.attachEvent('DOMContentLoaded', function () { setTimeout(pageLoadedForScrolling, 200); }, false);
+    }
+  }
+
+
+
+  $(function(){
+
+    watchSidebar();
+
+    if ($('body').hasClass('home')
+        || $('body').hasClass('landing')
+        || $('body').hasClass('settings')) {
+      $('.nav-header').SGGlobalNav({
+        noRollup: true, // Need to tell the homepage and landing etc that there's no rollup here, which causes things to behave differently.
+        noBurgerScroll: $('body').hasClass('no-burger-scroll'),
+        isSlatePlusUser: myslate.isSlatePlusUser
+      });
+    } else {
+      $('.nav-header').SGGlobalNav({
+        isSlatePlusUser: myslate.isSlatePlusUser
+      });
+    }
+
+
+    // Input field placeholder plugin to account for placeholder fallbacks.
+    jQuery(document).ready(function($) {
+      $(".field-with-placeholder").placeholder();
+    });
+
+
+    $('.content').highlighter({
+      'selector': '.highlighter-container',
+      'noHighlightIds': $('#podcast-slateplus-page'),
+      'minWords': 0,
+      'complete': function (data) {
+        // Here we have the selected string for use.
+        // console.log(data);
+        selectedText = data;
+      }
+    });
+
+  });
+
+
+  $(document).ready(function() {
+    $(".sticky").each(function() {
+      var stickyTop = $(".sticky").offset().top; // returns number
+      $(window).scroll(function() { // scroll event
+        var windowTop = $(window).scrollTop() + 57 + parseInt($(".sticky").css("margin-top").split("px")[0]); // returns number
+        if (stickyTop < windowTop) {
+          $(".sticky").css({ position: "fixed", top: "53px" });
+        } else {
+          $(".sticky").css("position","static");
+        }
+      });
+    })
+  });
+
+  watchSocialWelcomeNotifications();
+
+});
+    </script>
+
+    
+    
+
+    <script>
+requirejs(["jquery", "myslate", "hcs/script", "hcs/plugins/SGNavDropdown.jquery",
+		"hcs/plugins/SGBigSlider.jquery","hcs/plugins/SGFootnote.jquery","hcs/plugins/SGRollup.jquery",
+		"hcs/plugins/SGNavDropdown.jquery","hcs/plugins/SGComments.jquery","hcs/plugins/SGLightbox.jquery",
+		"hcs/plugins/SGSocialIcons.jquery"],
+		function($, myslate, unused0, unused1, unused2, unused3, unused4, unused5, unused6, unused7, unused8) {
+
+    $(function(){
+
+      $('#big_slider').SGBigSlider({
+        type: 'article'
+      });
+
+      $('.footnote').SGFootnote();
+      var multipartArticleRollup = $('#article_rollup');
+
+      var subHed = $('#sub_hed');
+      if(subHed.length > 0){
+        subHed.SGNavDropdown({ // Multipart rollup triggered by tapping the subhed.
+          extraId: 'subhed', // Used to name events inside the plugin, so we can be sure to bind/unbind the correct stuff.
+          targetId: '#multipart_nav', // The thing to show.
+          leftOffset: function(){ return $('#sub_hed').position().left; },
+          topOffset: function(){ return $('#sub_hed').position().top + $('#sub_hed').outerHeight(true); },
+          onShow: function(){
+            $('#multipart_nav').css('position', 'absolute');
+            $('#multipart_nav').css('height', 'auto');
+            $('#multipart_nav').css('overflow', 'auto');
+            // subHed.find('.toggle').addClass('open-toggle');
+          },
+          onHide: function(){
+            // subHed.find('.toggle').removeClass('open-toggle');
+          }
+        });
+      }
+
+      if($('#article_header').length > 0){
+        // The roll up.
+        $('#main_sidebar').SGRollup({ // The main element assigned to this plugin is used to trigger the drop of the rollup on desktop mode.
+          rollupEl: multipartArticleRollup,
+          topOffset: $('#slate_logo').height(),
+          leftOffset: $('#article_header').offset().left,
+          tablet: {el: $('#article_header'), topOffset: $('#article_header').height()}, // Indicate the visibility triggers for tablet mode.
+          mobile: {el: $('#tablet_header'), topOffset: $('#tablet_header').height()},// Indicate the visibility triggers for mobile mode.
+          onHide: function(){
+            // On roll back up make sure to hide the nav if it's open, assuming it was opened by the rollup toggle.
+            if(multipartArticleRollup.data('plugin_SGNavDropdown').isTargetVisible() && $('#multipart_nav').data('openedByRollup')){
+              multipartArticleRollup.data('plugin_SGNavDropdown').close();
+            }
+            if (!myslate.isSlatePlusUser) {
+              if ($('#comments').length > 0) {
+                $('#comments').data('plugin_SGComments').close();
+              }
+            }
+          }
+        });
+      }
+
+    // Multipart dropdown triggered by the rollup in the multipart nav.
+      multipartArticleRollup.SGNavDropdown({
+        targetId: '#multipart_nav', // The thing to show.
+        extraSpecificHandle: '.handle',
+        extraId: 'multipart', // Used to name events inside the plugin, so we can be sure to bind/unbind the correct stuff.
+        leftOffset: function(){ return multipartArticleRollup.find('.main').offset().left; },
+        topOffset: function(){
+          return multipartArticleRollup.outerHeight(true)
+        },
+        onShow: function(){
+          $('#multipart_nav').css('position', ''); // undo the absolute bit we might have affixed in subHed.SGNavDropdown().
+          $('#multipart_nav').addClass('fixed').data('openedByRollup', true);
+          $('#multipart_nav').css('max-height', (mobileMode() ? $(window).outerHeight(true) + 10 : $(window).height() - $('#article_rollup').height()));
+          $('#multipart_nav').css('overflow', 'scroll');
+          if(mobileMode()){
+            $('#multipart_nav').css('right', 0);
+          }
+        },
+        onHide: function(){
+          $('#multipart_nav').data('openedByRollup', false);
+        }
+      });
+
+
+      if (!myslate.isSlatePlusUser) {
+        $('#comments').SGComments({
+          handles: $('.social .comments, .comment-options a'),
+          rollUp: $('#main_sidebar').data('plugin_SGRollup'),
+          leftOffset: function(){
+            // The intent is for the right side of the comments to line up with the sidebar.
+            if(tabletMode()){
+              return 0;
+            } else {
+              return $('#main_sidebar').offset().left - $('#comments').outerWidth() - 11;
+            }
+          },
+          topOffset: function(){ return $('#article_rollup').height(); },
+          onShow: function(){
+            if(multipartArticleRollup.data('plugin_SGNavDropdown').isTargetVisible()){
+              multipartArticleRollup.data('plugin_SGNavDropdown').close();
+            }
+            //if ($("#livefyre .fyre").size() == 0) {
+            //  loadLivefyre();
+            //}
+          },
+          mobile: {
+            handle: $('#see_more_comments') // This both triggers the mobile comments and indicates where to drop the content in the DOM.
+          }
+
+        });
+      }
+
+
+      // Trigger the slideshow lightbox for from the .slideshow-preview example.
+        $('#slideshow_preview_link').SGLightbox({
+          type: 'slideshow',
+          slideshowElement: $('#the_slideshow')
+        });
+
+
+      $('.social-with-popup').SGSocialIcons({});
+
+      watchMobileRollupSocialToggle();
+
+      $('.expandable').find('.toggle').click(function(e){
+        $(this).closest('.social').toggleClass('visible');
+        $('#main_byline').toggle();
+        e.preventDefault();
+      });
+
+      $('.full-width').setFullWidth();
+
+      myslate.benefits();
+
+    });
+});
+    </script>
+
+
+    
+    <script>
+    requirejs(["facebook"], function(unused0) {
+      $(function(){
+        FB.XFBML.parse();
+      });
+    });
+    </script>
+    <!-- Buzzfeed -->
+    <!-- Chartbeat -->
+    
+<script type="text/javascript">
+
+var _sf_async_config={uid:9250,domain:"slate.com"};
+_sf_async_config.useCanonical = true;
+if (wp_meta_data) {
+    var sectionsArray = new Array();
+    if (wp_meta_data.section !== undefined) {
+        sectionsArray.push(wp_meta_data.section);
+    }
+    if (wp_meta_data.rubric !== undefined) {
+        sectionsArray.push(wp_meta_data.rubric);
+    }
+    if (wp_meta_data.blog !== undefined) {
+        sectionsArray.push(wp_meta_data.blog);
+    }
+    _sf_async_config.sections = sectionsArray.join(",");
+    if (wp_meta_data.authors !== undefined) {
+        _sf_async_config.authors = wp_meta_data.authors.join(",");
+    }
+}
+
+_sf_async_config.sections = _sf_async_config.sections + ",Blogs";
+
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://a248.e.akamai.net/chartbeat.download.akamai.com/102508/" : "http://static.chartbeat.com/") +
+       "js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+    <!-- Parsely -->
+    
+
+<div id="parsely-root" style="display: none">
+  <div id="parsely-cfg" data-parsely-site="slate.com"></div>
+</div>
+<script>
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include -->
+    
+
+
+
+    
+    
+        <script>
+            requirejs(["shared/sgads"], function(slateads) {
+                slateads.wire("http://ads.cdnslate.com/wp-srv/ad/loaders/latest/js/min/loader.min.js");
+            });
+        </script>
+    
+
+<div class="nav-header" id="magic_nav_header">
+  <a class="slate-logo" href="/"><span class="logo">Slate</span></a>
+  <div class="buttons">
+  	
+    <span class="link option"><a class="first nav-option sign-in-link" href="#" id="sign_in_link">
+      Sign In
+    </a></span>
+    <span class="link option"><a href="#" class="nav-option sign-up-link" id="sign_up_link">Sign Up</a></span>
+    
+  </div>
+</div><!-- /.nav-header -->
+<!-- HCS: layouts/shared/nav/nav -->
+<div id="nav_sections"></div>
+<!-- HCS END: layouts/shared/nav/nav -->
+
+      
+      
+
+
+
+
+
+
+  
+  
+  
+
+
+<section class="nav-panel" id='nav_header_for_rollup_magic'>
+  <div class="nav-header">
+    <a class="slate-logo" href="/"><span class="logo">Slate</span></a>
+    <a href="#" class="user-link sidebar-handle"></a>
+    <a href="#" class="search-link sidebar-handle"></a>
+    <a href="#" class="global-nav-handle sidebar-handle"></a>
+    <div class="buttons">
+      
+      <span class="link option "><a class="first nav-option sign-in-link" href="#" id="sign_in_link">Sign In</a></span>
+      <span class="link option "><a href="#" class="nav-option sign-up-link" id="sign_up_link">Sign Up</a></span>
+      
+    </div>
+  </div>
+  
+</section>
+
+
+    <div id="nav_animation_mask">
+
+    </div>
+
+    
+    <span class='highlighter-container'>
+      <div class="social social-with-popup sharing-buttons">
+        <a href="#" data-share="http://www.facebook.com/sharer/sharer.php?s=100&p[url]=http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html&p[images][0]=http://www.slate.com/content/dam/slate/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves/rtr4ke2i.jpg/_jcr_content/renditions/cq5dam.web.1280.1280.jpeg&p[title]=Witnesses+Say+Charlie+Hebdo+Gunmen+Identified+Selves+as+Yemeni+al-Qaida&p[summary]=The+U.K.+Telegraph+reports+via+French+media+that+a+staffer+at+Charlie+Hebdo+says+the+gunmen+who+attacked+the+magazine+identified+themselves+as+members+of+al-Qaida.+%28Three+gunmen+are+believed+to+have+been+involved+in+the+assault.%29+Cartoonist+Corinne+%E2%80%9CCoco%E2%80%9D+Rey+also+says+she+helped+let+the+attackers+into+the..." class="facebook share highlighter">
+          <span class="icon"></span>
+        </a>
+        <a href="#" data-share="http://twitter.com/share?url=http://www.slate.com/blogs/the_slatest/2015/01/07/charlie_hebdo_attack_al_qaida_staffer_says_terrorists_id_d_selves.html&count=none&via=slate" class="twitter">
+          <span class="icon"></span>
+        </a>
+        
+          <a href="#comments" class="comments" style="display: none;">
+            <span class="icon"></span>
+          </a>
+        
+      </div>
+        <div class="arrow-border"></div>
+        <div class="arrow"></div>
+    </span>
+    <!-- Sailthru Horizon -->
+    <script>
+    requirejs(['jquery'], function($) {
+      (function() {
+        function loadHorizon() {
+          var s = document.createElement('script');
+          s.type = 'text/javascript';
+          s.async = true;
+          s.src = location.protocol + '//ak.sail-horizon.com/horizon/v1.js';
+          var x = document.getElementsByTagName('script')[0];
+          x.parentNode.insertBefore(s, x);
+        }
+        loadHorizon();
+        var oldOnLoad = window.onload;
+        window.onload = function() {
+          if (typeof oldOnLoad === 'function') {
+            oldOnLoad();
+          }
+          Sailthru.setup({
+            domain: 'horizon.slate.com'
+          });
+        };
+      })();
+    });
+    </script>
+    
+<!-- HCS END: layouts/shared/bottom -->
+
+    <!-- Campaigns -->
+    <script>
+     requirejs(["shared/campaignManager", "optimizely"], function(campaigns, optimizely) {
+       // setTimeout.  Boo.
+       setTimeout(campaigns.execute, 400);
+     });
+    </script>
+
+    
+    <!-- trueAnthem -->
+    <script>
+      (function (w, d) {
+        var s1 = d.getElementsByTagName('script')[0],
+          s = d.createElement('script'),
+          cid = '399';
+        s.src = '//tru.am/scripts/ta-pagesocial-sdk.js';
+        if (s.addEventListener) {
+          s.addEventListener('load', function () {
+            w.TRUE_ANTHEM.configure(cid);
+          }, false);
+        } else {
+          s.onreadystatechange = function () {
+            if (s.readyState in {loaded: 1, complete: 1}) {
+              s.onreadystatechange = null;
+              w.TRUE_ANTHEM.configure(cid);
+            }
+          };
+        }
+        s1.parentNode.insertBefore(s, s1);
+      }(window, document));
+    </script>
+    <!-- END: trueAnthem -->
+
+    
+
+
+
+<script type="text/javascript">
+        var _snaq = _snaq || [];
+        var _snaq_user_id = '';
+        var _snaq_track_id = '';
+        var _snaq_value = "; " + document.cookie;
+        var _snaq_parts = _snaq_value.split("; wapo_login_id=");
+        if (_snaq_parts.length == 2) {
+            _snaq_user_id = _snaq_parts.pop().split(";").shift();
+        }
+        _snaq_parts = _snaq_value.split("; s_vi=");
+        if (_snaq_parts.length == 2) {
+            _snaq_track_id = _snaq_parts.pop().split(";").shift();
+        }
+        _snaq.push(['setCollectorUrl', 'www.i.matheranalytics.com']);
+        _snaq.push(['setAppId', 'v1']);
+        _snaq.push(['setCustomerId', 'ma59032']);
+        _snaq.push(['setMarket', '84956725']);
+        _snaq.push(['setUserId', _snaq_user_id]);
+        
+        _snaq.push(['setSection', 'briefing']);
+        
+        _snaq.push(['setCookieDomain', '.slate.com']);
+        _snaq.push(['enableActivityTracking', 30, 10]);
+        if (_snaq_track_id!='') {
+            _snaq.push(['trackPageView', null, {identity: {omnitureId: _snaq_track_id}}]);
+        } else {
+            _snaq.push(['trackPageView']);
+        }
+        (function() {
+            var sp = document.createElement('script'); sp.type = 'text/javascript'; sp.async = true; sp.defer = true;
+            sp.src = ('https:' == document.location.protocol ? 'https' : 'http') + '://js.matheranalytics.com/sp.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sp, s);
+        })();
+</script><noscript><img src="http://www.i.matheranalytics.com/i?e=pv&aid=v1&cid=ma59032&mrk=84956725&sec=briefing&p=web&tv=no-js-0.1.0" style="display:none" height="1" width="1" alt/></noscript>
+
+
+    
+  <!--
+  Page Loading starts on 2015/03/24 06:22:35, Total time elapsed to render is 0.29872894 seconds, Server: pub2w.slate.com
+  -->
+  </body>
+</html>
+
+
+
+
+
+
+
+
+
+
+
+

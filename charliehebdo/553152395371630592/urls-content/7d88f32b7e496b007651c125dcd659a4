@@ -1,0 +1,1359 @@
+HTTP/1.1 200 OK
+Server: nginx/1.1.19
+Date: Tue, 24 Mar 2015 11:00:37 GMT
+Content-Type: text/html; charset=utf-8
+Transfer-Encoding: chunked
+X-Served-By: ukweb1 (via ukvarnish1)
+Cache-Control: public, max-age=10
+X-Varnish: 629197453
+Age: 0
+Via: 1.1 varnish
+X-Meta-Tbi-Varnish-Servers: ukvarnish1.aws.businessinsider.com
+X-Meta-Tbi-Final-Client-Ip: 137.205.117.66
+Vary: Accept-Encoding
+Content-Encoding: gzip
+
+<!DOCTYPE html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" xmlns:fb="http://www.facebook.com/2008/fbml" >
+<head>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta http-equiv="content-type" content="text/html;charset=utf-8" /><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQ8EUVRADQUIUVhUAg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o?o:e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(t){function e(e,n,a){t&&t(e,n,a),a||(a={});for(var c=s(e),f=c.length,u=i(a,o,r),d=0;f>d;d++)c[d].apply(u,n);return u}function a(t,e){f[t]=s(t).concat(e)}function s(t){return f[t]||[]}function c(){return n(e)}var f={};return{on:a,emit:e,create:c,listeners:s,_events:f}}function r(){return{}}var o="nr@context",i=t("gos");e.exports=n()},{gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:23,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,s){try{c?c-=1:r("err",[s||new UncaughtException(t,e,n)])}catch(f){try{r("ierr",[f,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof a?a.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=window.onerror,s=!1,c=0;t("loader").features.err=!0,t(4),window.onerror=e;try{throw new Error}catch(f){"stack"in f&&(t(1),t(5),"addEventListener"in window&&t(2),window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&t(3),s=!0)}i.on("fn-start",function(){s&&(c+=1)}),i.on("fn-err",function(t,e,r){s&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){s&&!this.thrown&&c>0&&(c-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:7,3:11,4:3,5:9,6:24,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1);t("loader").features.stn=!0,t(2),n.on("fn-start",function(t){var e=t[0];e instanceof Event&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof Event&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1),window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){i.inPlace(t,["addEventListener","removeEventListener"],"-",r)}function r(t){return t[1]}var o=(t(1),t("ee").create()),i=t(2)(o),a=t("gos");if(e.exports=o,n(window),"getPrototypeOf"in Object){for(var s=document;s&&!s.hasOwnProperty("addEventListener");)s=Object.getPrototypeOf(s);s&&n(s);for(var c=XMLHttpRequest.prototype;c&&!c.hasOwnProperty("addEventListener");)c=Object.getPrototypeOf(c);c&&n(c)}else XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&n(XMLHttpRequest.prototype);o.on("addEventListener-start",function(t){if(t[1]){var e=t[1];"function"==typeof e?this.wrapped=t[1]=a(e,"nr@wrapped",function(){return i(e,"fn-",null,e.name||"anonymous")}):"function"==typeof e.handleEvent&&i.inPlace(e,["handleEvent"],"fn-")}}),o.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:24,2:25,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState"],"-")},{1:25,2:24,ee:"QJf3ax"}],9:[function(t,e){var n=(t(2),t("ee").create()),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:25,2:24,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){var r=t[0];"string"==typeof r&&(r=new Function(r)),t[0]=o(r,"fn-",null,n)}var r=(t(2),t("ee").create()),o=t(1)(r);e.exports=r,o.inPlace(window,["setTimeout","setInterval","setImmediate"],"setTimer-"),r.on("setTimer-start",n)},{1:25,2:24,ee:"QJf3ax"}],11:[function(t,e){function n(){f.inPlace(this,p,"fn-")}function r(t,e){f.inPlace(e,["onreadystatechange"],"fn-")}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").create(),s=t(1),c=t(2),f=c(a),u=c(s),d=window.XMLHttpRequest,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"];e.exports=a,window.XMLHttpRequest=function(t){var e=new d(t);try{a.emit("new-xhr",[],e),u.inPlace(e,["addEventListener","removeEventListener"],"-",function(t,e){return e}),e.addEventListener("readystatechange",n,!1)}catch(r){try{a.emit("internal-error",[r])}catch(o){}}return e},i(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{1:7,2:25,ee:"QJf3ax"}],12:[function(t){function e(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function n(t){var n=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var i=0;c>i;i++)t.removeEventListener(s[i],this.listener,!1);if(!n.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){n.status=t.status;var a=t.responseType,f="arraybuffer"===a||"blob"===a||"json"===a?t.response:t.responseText,u=e(f);if(u&&(r.rxSize=u),this.sameOrigin){var d=t.getResponseHeader("X-NewRelic-App-Data");d&&(n.cat=d.split(", ").pop())}}else n.status=0;r.cbTime=this.cbTime,o("xhr",[n,r,this.startTime])}}}function r(t,e){var n=i(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}if(window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent)){t("loader").features.xhr=!0;var o=t("handle"),i=t(2),a=t("ee"),s=["load","error","abort","timeout"],c=s.length,f=t(1);t(4),t(3),a.on("new-xhr",function(){this.totalCbs=0,this.called=0,this.cbTime=0,this.end=n,this.ended=!1,this.xhrGuids={}}),a.on("open-xhr-start",function(t){this.params={method:t[0]},r(this,t[1]),this.metrics={}}),a.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),a.on("send-xhr-start",function(t,n){var r=this.metrics,o=t[0],i=this;if(r&&o){var f=e(o);f&&(r.txSize=f)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof n.onload))&&i.end(n)}catch(e){try{a.emit("internal-error",[e])}catch(r){}}};for(var u=0;c>u;u++)n.addEventListener(s[u],this.listener,!1)}),a.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),a.on("xhr-load-added",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),a.on("xhr-load-removed",function(t,e){var n=""+f(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),a.on("addEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-added",[t[1],t[2]],e)}),a.on("removeEventListener-end",function(t,e){e instanceof XMLHttpRequest&&"load"===t[0]&&a.emit("xhr-load-removed",[t[1],t[2]],e)}),a.on("fn-start",function(t,e,n){e instanceof XMLHttpRequest&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),a.on("fn-end",function(t,e){this.xhrCbStart&&a.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:11,4:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");return!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname),r.sameOrigin=!e.hostname||e.hostname===document.domain&&e.port===n.port&&e.protocol===n.protocol,r}},{}],14:[function(t,e){function n(t){return function(){r(t,[(new Date).getTime()].concat(i(arguments)))}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=window.NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit","noticeError"];o(a,function(t,e){window.NREUM[e]=n("api-"+e)}),e.exports=window.NREUM},{1:23,2:24,handle:"D5DuLP"}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],D5DuLP:[function(t,e){function n(t,e,n){return r.listeners(t).length?r.emit(t,e,n):(o[t]||(o[t]=[]),void o[t].push(e))}var r=t("ee").create(),o={};e.exports=n,n.ee=r,r.q=o},{ee:"QJf3ax"}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],G9z0Bl:[function(t,e){function n(){var t=l.info=NREUM.info;if(t&&t.licenseKey&&t.applicationID&&f&&f.body){s(h,function(e,n){e in t||(t[e]=n)}),l.proto="https"===p.split(":")[0]||t.sslForHttp?"https://":"http://",a("mark",["onload",i()]);var e=f.createElement("script");e.src=l.proto+t.agent,f.body.appendChild(e)}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()])}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=(t(2),window),f=c.document,u="addEventListener",d="attachEvent",p=(""+location).split("?")[0],h={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-593.min.js"},l=e.exports={offset:i(),origin:p,features:{}};f[u]?(f[u]("DOMContentLoaded",o,!1),c[u]("load",n,!1)):(f[d]("onreadystatechange",r),c[d]("onload",n)),a("mark",["firstbyte",i()])},{1:23,2:14,handle:"D5DuLP"}],23:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],24:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],25:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@wrapper",a=Object.prototype.hasOwnProperty;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,f;try{i=this,n=o(arguments),s=r&&r(n,i)||{}}catch(d){u([d,"",[n,i,a],s])}c(e+"start",[n,i,a],s);try{return f=t.apply(i,n)}catch(p){throw c(e+"err",[n,i,p],s),p}finally{c(e+"end",[n,i,f],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=!0,f(t,nrWrapper),nrWrapper)}function s(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s,t))}function c(e,n,r){try{t.emit(e,n,r)}catch(o){u([o,e,n,r])}}function f(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){u([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function u(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=s,e.flag=i,e}},{1:24,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script>
+    <title>Fake Banksy Charlie Hebdo Illustration - Business Insider</title>
+    <meta name="date" content="2015-01-08" />
+<meta name="sailthru.date" content="2015-01-08" />
+<meta name="news_keywords" content="Banksy, Instagram, Art, Charlie Hebdo, James Cook, " />
+<meta name="sailthru.tags" content="Banksy, Instagram, Art, Charlie Hebdo, James Cook, " />
+<meta name="description" content="Almost every social media page claiming to be Banksy is actually a fake." />
+<meta name="sailthru.description" content="Almost every social media page claiming to be Banksy is actually a fake." />
+<meta name="title" content="The Image That Everyone Is Sharing By 'Banksy' Isn't By Banksy — But It's Awesome" />
+<meta name="sailthru.verticals" content="tech,more" />
+<meta name="sailthru.title" content="The Image That Everyone Is Sharing By 'Banksy' Isn't By Banksy — But It's Awesome" />
+<meta name="tbi-image" content="http://static1.uk.businessinsider.com/image/54ade45add0895c66f8b4593/the-image-that-everyone-is-sharing-by-banksy-isnt-by-banksy--but-its-awesome.jpg" />
+<meta name="sailthru.image.full" content="http://static1.uk.businessinsider.com/image/54ade45add0895c66f8b4593/the-image-that-everyone-is-sharing-by-banksy-isnt-by-banksy--but-its-awesome.jpg" />
+<meta name="sailthru.image.thumb" content="http://static4.uk.businessinsider.com/image/54ade45add0895c66f8b4593-50-50/the-image-that-everyone-is-sharing-by-banksy-isnt-by-banksy--but-its-awesome.jpg" />
+<meta name="sailthru.author" content="James Cook" />
+<meta property="og:title" content="The Image That Everyone Is Sharing By 'Banksy' Isn't By Banksy — But It's Awesome" />
+<meta property="og:description" content="Almost every social media page claiming to be Banksy is actually a fake." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="http://uk.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1" />
+<meta property="og:site_name" content="Business Insider" />
+<meta property="fb:app_id" content="155043519637" />
+<meta property="article:publisher" content="BusinessInsiderUK" />
+<meta property="author" content="James Cook, " />
+<meta property="twitter:card" content="summary" />
+<meta property="twitter:url" content="http://uk.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1" />
+<meta property="twitter:title" content="The Image That Everyone Is Sharing By 'Banksy' Isn't By Banksy — But It's Awesome" />
+<meta property="twitter:description" content="Almost every social media page claiming to be Banksy is actually a fake." />
+<meta property="twitter:image" content="http://static1.uk.businessinsider.com/image/54ade45add0895c66f8b4593/the-image-that-everyone-is-sharing-by-banksy-isnt-by-banksy--but-its-awesome.jpg" />
+<meta property="twitter:creator" content="jamesliamcook" />
+<meta property="twitter:site" content="BI_Europe" />
+<meta property="article:author" content="http://uk.businessinsider.com/author/james-cook" />
+<meta property="og:image" content="http://static2.uk.businessinsider.com/image/54ade3b3dd0895557a8b4594/the-image-that-everyone-is-sharing-by-banksy-isnt-by-banksy--but-its-awesome.jpg" />    
+<link rel="alternate" href="http://www.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1" hreflang="x-default">
+<link rel="alternate" href="http://www.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1" hreflang="en-US">
+<link rel="alternate" href="http://uk.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1" hreflang="en-GB">
+    <link href="http://static5.uk.businessinsider.com/assets/css/min-base-uk.css?1426871179" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://static2.uk.businessinsider.com/assets/css/min-post-uk.css?1426871179" media="screen" rel="stylesheet" type="text/css" />
+<link href="http://www.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1" rel="canonical" />    <link type="text/css" rel="stylesheet" media="print" href="http://static4.uk.businessinsider.com/assets/css/print.css?1426871179" />   
+    <script type="text/javascript" src="http://static4.uk.businessinsider.com/assets/js/min2.js?1426871179"></script>
+<script type="application/ld+json">
+    //<![CDATA[
+    {"@context":"http:\/\/schema.org","@type":"NewsArticle","headline":"The Image That Everyone Is Sharing By \u0027Banksy\u0027 Isn\u0027t By Banksy \u2014 But It\u0027s Awesome","url":"http:\/\/uk.businessinsider.com\/fake-banksy-charlie-hebdo-illustration-2015-1","thumbnailUrl":"http:\/\/static1.uk.businessinsider.com\/image\/54ade45add0895c66f8b4593\/the-image-that-everyone-is-sharing-by-banksy-isnt-by-banksy--but-its-awesome.jpg","dateCreated":"2015-01-08T01:55:00Z","articleSection":"tech","creator":"James Cook","keywords":["Banksy","Instagram","Art","Charlie Hebdo"]}    //]]>
+</script>
+<script type="text/javascript">
+    //<![CDATA[
+    BI.post.isSlideshow=false;    //]]>
+</script>
+<script type="text/javascript">
+    //<![CDATA[
+    post = {"id":"54ade390dd089575708b45a9","uri":"http:\/\/uk.businessinsider.com\/fake-banksy-charlie-hebdo-illustration-2015-1","thumb":"http:\/\/static3.uk.businessinsider.com\/image\/54ade45add0895c66f8b4593-90-90\/the-image-that-everyone-is-sharing-by-banksy-isnt-by-banksy--but-its-awesome.jpg","author":"James Cook","author_ids":"James Cook:03","post_type":"post"};    //]]>
+</script>
+<script type="text/javascript">
+    //<![CDATA[
+    
+        Author = "James Cook";
+        Category = "Banksy|Instagram|Art|Charlie Hebdo";
+        AuthorType = "Staff";
+        Editor = "knarr_us";
+        BIISub = "none"
+            //]]>
+</script>
+<script type="text/javascript">
+    //<![CDATA[
+    
+        BI.nav_select = "Tech";
+        BI.highTrafficMode = 0;
+        BI.post.isDraft = 0;
+        BI.post.url = "http://uk.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1";
+        BI.post.name = "fake-banksy-charlie-hebdo-illustration-2015-1";
+        BI.comments.currentPage = 0;
+        BI.comments.filterPundits = 1;
+        BI.comments.getAllComments = 1;
+            //]]>
+</script>    <!-- optimizely desktop -->
+        <!-- End optimizely desktop -->
+
+    
+    
+    <meta name="tbi-vertical" content="tech" />
+    <meta name="viewport" content="width=1024" />
+
+    <!--[if gte IE 9]>
+    <style type="text/css">
+        .gradient {
+            filter: none;
+        }
+    </style>
+    <![endif]-->
+
+    <!--[if lt IE 8]>
+        <link type="text/css" rel="stylesheet" media="all" href="http://static3.uk.businessinsider.com/assets/css/ie7_or_lower.css" />
+        <link type="text/css" rel="stylesheet" media="all" href="http://static2.uk.businessinsider.com/assets/css_vendor/font-awesome-ie7.min.css">
+    <![endif]-->
+    <!--[if IE 8]>
+        <link type="text/css" rel="stylesheet" media="all" href="http://static5.uk.businessinsider.com/assets/css/ie8.css" />
+    <![endif]-->
+    <!--[if lt IE 9]>
+        <script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
+        <script type="text/javascript" src="http://static3.uk.businessinsider.com/assets/js/vendor/ie8/placeholders.min.js"></script>
+    <![endif]-->
+
+    <!--[if IE 9]>
+        <link type="text/css" rel="stylesheet" media="all" href="http://static4.uk.businessinsider.com/assets/css/ie9.css" />
+        <script type="text/javascript" src="http://static5.uk.businessinsider.com/assets/js/shims/Element.classList.js"></script>
+    <![endif]-->
+
+    <script type="text/javascript">
+        var vertical = 'tech';
+        var PageType = 'post';
+        var post_id = '';
+        var _sf_startpt=(new Date()).getTime();
+    </script>
+
+    <!-- Kissmetrics -->
+    <script type="text/javascript">
+        var _kmq = _kmq || [];
+        var _kmk = _kmk || '999f578acebfab6dd29b540ab4ebbcbaafafa774';
+
+        function _kms(u){
+            setTimeout(function(){
+                var s = document.createElement('script');
+                var f = document.getElementsByTagName('script')[0];
+                s.type = 'text/javascript';
+                s.async = true;
+                s.src = u;
+                f.parentNode.insertBefore(s, f);
+            }, 1);
+        }
+            </script>
+    <!-- Kissmetrics -->
+
+    <link rel="alternate" type="application/rss+xml" title="RSS" href="tech.rss" />
+    <link rel="shortcut icon" href="http://static5.uk.businessinsider.com/assets/images/faviconBI.ico" />
+    <link rel="icon" type="image/ico" href="http://static5.uk.businessinsider.com/assets/images/faviconBI.ico" />
+    <link rel="apple-touch-icon" href="http://static4.uk.businessinsider.com/assets/images/apple-touch-icon.png" />
+    <meta name="linkedin:owner" content="mid:218712">
+
+    <!--[if gte IE 9]>
+        <meta name="application-name" content="Business Insider - tech"/>
+        <meta name="msapplication-tooltip" content="Start the page in Site Mode"/>
+        <meta name="msapplication-starturl" content="http://uk.businessinsider.com/tech"/>
+        <meta name="msapplication-window" content="width=800;height=600"/>
+        <meta name="msapplication-navbutton-color" content="#4C7C8D"/>
+
+        <meta name="msapplication-task" content="name=Tech;action-uri=http://uk.businessinsider.com/sai;icon-uri=http://uk.businessinsider.com/favicon.ico"/>
+        <meta name="msapplication-task" content="name=Media;action-uri=http://uk.businessinsider.com/thewire;icon-uri=http://uk.businessinsider.com/favicon.ico"/>
+        <meta name="msapplication-task" content="name=Wall Street;action-uri=http://uk.businessinsider.com/clusterstock;icon-uri=http://uk.businessinsider.com/favicon.ico"/>
+        <meta name="msapplication-task" content="name=Markets;action-uri=http://uk.businessinsider.com/moneygame;icon-uri=http://uk.businessinsider.com/favicon.ico"/>
+        <meta name="msapplication-task" content="name=Strategy;action-uri=http://uk.businessinsider.com/warroom;icon-uri=http://uk.businessinsider.com/favicon.ico"/>
+    <![endif]-->
+
+    <script type="text/javascript">BI.siteURI = 'http://uk.businessinsider.com';</script>
+    <script type="text/javascript">BI.secureURI = 'https://uk.businessinsider.com';</script>
+    <script type="text/javascript">BI.staticURI = 'http://static1.uk.businessinsider.com';</script>
+    <script type="text/javascript">BI.env.setDomain('http://uk.businessinsider.com');</script>
+    <script type="text/javascript">BI.sailthruHorizonURI = 'horizon.uk.businessinsider.com'</script>
+
+        <script type="text/javascript">BI.pageData.set('enableCookieNotice', true);</script>
+    <script type="text/javascript">BI.pageData.set('cookieNoticeTemplate', 'CMS/assets/templates/cookie-notice/notice-uk');</script>
+    
+    <script type="text/javascript" src="//platform.linkedin.com/in.js">
+       api_key: x4dbohswv62d
+       authorize: true
+       scope: r_basicprofile r_emailaddress r_network rw_nus
+    </script>
+
+<!-- Taboola head -->
+
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({article:'auto'});
+        !function (e, f, u) {
+            e.async = 1;
+            e.src = u;
+            f.parentNode.insertBefore(e, f);
+        }(
+            document.createElement('script'),
+            document.getElementsByTagName('script')[0],
+            'http://cdn.taboola.com/libtrc/businessinsider/loader.js'
+        );
+    </script>
+<!-- / Taboola head -->
+
+</head>
+
+
+<body class="responsive ">
+<div data-cookie-notice-container></div>
+<!-- print only -->
+<img class="print" src="http://static2.uk.businessinsider.com/assets/images/uk/logos/logo-bi-print.png" width="150" />
+
+<!-- FB Connect -->
+<div id="fb-root" data-bi-facebook-root="155043519637"></div>
+<!-- / FB Connect -->
+
+<!--[if lt IE 8]>
+    <div class="container>
+        <div class="row">
+            <div class="alert alert-error alert-block">
+                <h4>Warning!</h4>
+                You are using an outdated version of Internet Explorer.  For security reasons you should <a href="http://windows.microsoft.com/en-us/internet-explorer/download-ie" target="_blank" title="Upgrade IE">upgrade your browser</a>. Please go to Windows Updates and install the latest version.
+            </div>
+        </div>
+    </div>
+<![endif]-->
+
+    <div id="tray">
+        <div class="list-pipes filters container">
+            <ul class="container page">
+                <li><a href="#" class="active" data-view="featured">Featured</a></li>
+                <li><a href="#" data-view="trending">Trending</a></li>
+                <li><a href="#" data-view="latest">Recent</a></li>
+            </ul>
+        </div>
+        <div class="container page">
+            <div class="tray-control right">
+                <i class="fa fa-angle-right"></i>
+            </div>
+            <div class="tray-control left disabled">
+                <i class="fa fa-angle-left"></i>
+            </div>
+            <div class="container" style="overflow: hidden">
+                <div class="carousel-items row">
+                    <div class="item-container">
+                    </div>
+                    <div class="clearfix"></div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+<!-- new masthead -->
+<div class="masthead">
+    <div class="masthead-bottom-gradient"></div>
+    <div class="container">
+        <div class="row">
+
+            <!-- BI Logo -->
+            <div class="span2 logo">
+                <div class="sprites logo-background"></div>
+                <div class="sprites logo-background-oneline"></div>
+                <a class="logo-link" href="/" title="Business Insider"><img src="http://static4.uk.businessinsider.com/assets/images/transparent.gif" alt="Business Insider"></a>
+            </div>
+
+            <div class="span10 navigation">
+                <div class="row">
+
+                    <!-- user_menubar -->
+                    <div data-bi-ajax-route="/esi/user_menubar?0=json%3A%5B%5D"></div>
+                    <!-- Non-verticals -->
+                    <div class="non-verticals">
+                        <ul class="sprites">
+                            <li class="sprites hide-uk"><a href="/events">Events</a></li>
+                            <li class="sprites"><a href="http://intelligence.businessinsider.com">BI Intelligence</a></li>
+                        </ul>
+                    </div>
+                </div>
+
+                                <div class="tray-btn">
+                    <span class="open-label"><i class="fa fa-caret-down"></i></span>
+                    <span class="close-label"><i class="fa fa-caret-up"></i></span>
+                </div>
+                
+                <div class="row">
+                    <!-- Search -->
+                    <div class="span4 nav-search">
+                        <form method="get" action="/s" class="search-field">
+                            <input class="sprites" name="q" type="text" placeholder="Search">
+                            <button type="submit" title="Search"></button>
+                        </form>
+                    </div>
+
+                    <!-- Main Nav -->
+                    <div class="main-nav">
+                        <ul>
+                                                                                    <li class="Tech active">
+                                <a class="item" data-dropdown-id="dropdown-Tech" href="/tech">
+                                    <div class="triangle triangle-left"></div>
+                                    <div class="triangle triangle-right"></div>
+                                    Tech                                </a>
+                            </li>
+                                                                                    <li class="Finance">
+                                <a class="item" data-dropdown-id="dropdown-Finance" href="/finance">
+                                    <div class="triangle triangle-left"></div>
+                                    <div class="triangle triangle-right"></div>
+                                    Finance                                </a>
+                            </li>
+                                                                                    <li class="Politics">
+                                <a class="item" data-dropdown-id="dropdown-Politics" href="/politics">
+                                    <div class="triangle triangle-left"></div>
+                                    <div class="triangle triangle-right"></div>
+                                    Politics                                </a>
+                            </li>
+                                                                                    <li class="Strategy">
+                                <a class="item" data-dropdown-id="dropdown-Strategy" href="/strategy">
+                                    <div class="triangle triangle-left"></div>
+                                    <div class="triangle triangle-right"></div>
+                                    Strategy                                </a>
+                            </li>
+                                                                                    <li class="All">
+                                <a class="item" data-dropdown-id="dropdown-All" href="/">
+                                    <div class="triangle triangle-left"></div>
+                                    <div class="triangle triangle-right"></div>
+                                    All                                </a>
+                            </li>
+                                                    </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <!-- Main Nav Dropdowns -->
+    <div class="main-nav-dropdown ks-nav-dropdown" style="border-color: #185f7c">
+    </div>
+</div>
+<!-- / new masthead -->
+
+
+
+<div id="main-content" class="container">
+    <!-- flash messages -->
+    
+        <div class="subnav-container">
+        <div class="subnav-content">
+            
+
+<div data-bi-ad class="ad dfp" data-adunit="desktop-uk/tech/tech/post" data-authors="james-cook" data-pagetype="post" data-pos="atf" data-region="Subnav" data-sizes="728x90,970x250,970x90" data-tag="banksy,instagram,art,charlie-hebdo" data-url="/fake-banksy-charlie-hebdo-illustration-2015-1" data-views="5001-10000"></div>
+<script type="text/javascript">
+	(function() {
+		'use strict';
+		// Notify the DFP code that a new ad has just been rendered
+		amplify.publish('adRender');
+	}());
+</script>
+        </div>
+    </div>
+    
+    
+    <div class="siteskin-dropshadow">
+        <div class="row primary-row">
+                            <div class="breaking-module-rendered" id="breaking-module-rendered">
+                    <div class="page-top">
+                    <div data-bi-ajax-route="/esi/breaking_module"></div>                    </div>
+                </div>
+                        <div class="span8">
+                <div class="breaking-module-siteskin" id="breaking-module-siteskin"></div>
+    
+<a name="post-top"></a>
+
+
+<div id="share-email-tmpl">
+    <div id="shareEmailModal" class="modal hide fade" tabindex="-1" role="dialog" aria-labelledby="shareEmailModalLabel" aria-hidden="true">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+        <h3 id="shareEmailModalLabel"></h3>
+      </div>
+      <div class="modal-body">
+        <div class="share-email-error alert alert-error display-none"></div>
+
+        <div class="share-email-body">
+            <div class="register">
+                <form id="form_form" class="form-horizontal" action="#" method="post">
+                    <div class="control-group">
+                        <label for="mail_from" class="control-label">From</label>
+                        <div class="controls">
+                            <input type="text" name="mail_from" class="mail-from" placeholder="Your Email Address" />
+                        </div>
+                    </div>
+                    <div class="control-group">
+                        <label for="mail_to" class="control-label">To</label>
+                        <div class="controls">
+                            <input type="text" name="mail_to" class="mail-to" placeholder="Friend's Email Address" />
+                        </div>
+                    </div>
+                    <input type="hidden" name="action" value="email" />
+                    <div class="control-group">
+                        <div class="controls">
+                            <input type="submit" class="btn submit email-post" value="Send" />
+                        </div>
+                    </div>
+                </form>
+            </div>
+        </div>
+
+        <div class="share-email-success" style="display:none">
+            <div class="alert alert-success">
+                You have successfully emailed the post.
+            </div>
+        </div>
+
+      </div>
+    </div>
+</div>
+
+
+
+<div  class="content post">
+    <div class="sl-layout-post">
+        
+<!-- Top category tags -->
+    <div class="category-wrapper" data-category-wrapper>
+
+            
+                            <span class="category-link" style="border-color: #01819e;">
+                    <a style="color: #01819e" href="http://uk.businessinsider.com/tech">Tech</a>                </span>
+            
+        <span class="tags-top pull-right">
+            More:
+
+                                                        <a href="/category/banksy">Banksy</a>
+                                            <a href="/category/instagram">Instagram</a>
+                                            <a href="/category/art">Art</a>
+                                            <a href="/category/charlie-hebdo">Charlie Hebdo</a>
+            
+                    </span>
+    </div>
+
+
+<h1>The Image That Everyone Is Sharing By 'Banksy' Isn't By Banksy — But It's Awesome</h1>
+
+<div id="content" class="content">
+    <div class="post-top">
+        <!-- Byline -->
+        <div class="flex byline">
+			<div class="flex-auto byline-icon">
+							<a class="author-photo author-photo-square" href="http://uk.businessinsider.com/author/james-cook"><img class="author" src="http://static2.uk.businessinsider.com/image/544f6348dd0895d3358b463e-50-50/james-cook.jpg"></a>
+					</div>
+	    
+	
+	<div class="flex-item">
+		<div class="list-pipes">
+			<ul>
+																		<li class="single-author"><a href="http://uk.businessinsider.com/author/james-cook" rel="author">James Cook</a></li>
+		                <li>
+    <div class="contact">
+        
+                    <a href="mailto:jcook@businessinsider.com" data-toggle="tooltip" data-placement="top" title="" data-original-title="jcook@businessinsider.com"><i class="fa fa-envelope-o"></i></a>
+        
+                    <a href="aim:goim?screenname=jamesliamcook" data-toggle="tooltip" data-placement="top" title="" data-original-title="jamesliamcook" onclick="_gaq.push(['_trackEvent','outbound','Click','undefined']); "><i class="sprites aim"></i></a>
+        
+        
+                    <a href="http://www.businessinsider.com/author/james-cook/rss" data-toggle="tooltip" data-placement="top" title="" data-original-title="RSS feed"><i class="fa fa-rss"></i></a>
+        
+                    <a href="http://twitter.com/jamesliamcook" data-toggle="tooltip" data-placement="top" title="" data-original-title="Twitter feed"><i class="fa fa-twitter"></i></a>
+        
+        
+    </div>
+
+    </li>
+					                
+				                    </ul>
+                </div>
+                <div class="list-pipes">
+                    <ul>
+                		        			        <li class="date" data-bi-format="date" rel="1420682100">Jan.  8, 2015,  1:55 AM</li>		        			
+		    		        <li class="pageviews"><span class="sprites hot views" title="views">9,883</span></li>
+		    
+		    		        			        <li title="Read comments" class="comments ks-read-comments-top">
+				        <a href="http://uk.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1#comments" class="views sprites comments-icon"></a>
+						<a class="comment_count" href="http://uk.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1#comments">2</a>			        </li>
+		        		    
+			</ul>
+
+		</div>
+	</div>
+</div>
+
+        <!-- Sharing -->
+        <div class="share">
+			
+<!-- RRSSB start -->
+<div class="rrssb-baseline share-container ks-share-top clearfix" style="display:block;">
+    <!-- buttons start here -->
+    <ul class="rrssb-buttons rrssb-top clearfix">
+        <li class="facebook ks-byline-fb">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=http://uk.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1" title="facebook" class="popup">
+                <i class="fa fa-facebook-square"></i>
+                <span class="text">facebook</span>
+            </a>
+        </li>
+        <li class="linkedin ks-byline-linkedin">
+            <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://uk.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1&amp;title=The Image That Everyone Is Sharing By 'Banksy' Isn't By Banksy — But It's Awesome&amp;summary=Almost every social media page claiming to be Banksy is actually a fake." title="linkedin" class="popup">
+                <i class="fa fa-linkedin"></i>
+                <span class="text">linkedin</span>
+            </a>
+        </li>
+        <li class="twitter ks-byline-tweet">
+            <a href="http://twitter.com/share?url=http://uk.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1&amp;via=BI_Europe&amp;text=The Image That Everyone Is Sharing By 'Banksy' Isn't By Banksy — But It's Awesome" title="twitter" class="popup">
+                <i class="fa fa-twitter"></i>
+                <span class="text">twitter</span>
+            </a>
+        </li>
+        <li class="email button-email ks-byline-email" data-href="http://uk.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1">
+            <a href="#" title="email">
+                <i class="fa fa-envelope"></i>
+                <span class="text">email</span>
+            </a>
+        </li>
+                <li class="printbtn ks-byline-print">
+            <a href="javascript:window.print()" title="print">
+                <i class="fa fa-print"></i>
+                <span class="text">print</span>
+            </a>
+        </li>
+            </ul>
+    <!-- buttons end here -->
+</div>
+<!-- RRSSB end -->        </div>
+    </div>
+
+    <!-- Perfect Market content ad-->
+    
+		 <!-- END Perfect Market content ad-->
+
+    <div class="clear-both">
+		<div class="KonaBody post-content">
+			
+            
+<p><span style="font-size: 15px; line-height: 1.5em;"><em>Update: The artist who <a href="https://twitter.com/moneyries/status/553170202779992065">made</a> the work is <a href="https://twitter.com/LucilleClerc/" target="_blank" class="link-complex" rel="user" data-user-name="LucilleClerc">@<span class="link-complex-target">LucilleClerc</span></a></em><br></span></p>
+<p><span style="font-size: 15px; line-height: 1.5em;">There's an illustration being shared on Facebook, Instagram and Twitter that claims to be a tribute created by street artist Banksy in response to the <a href="http://www.nytimes.com/2015/01/08/world/europe/charlie-hebdo-paris-shooting.html?_r=0">terrorist attack</a> that killed 12 people near the offices of the French satirical magazine Charlie Hebdo in Paris earlier today.</span></p>
+<p><span style="font-size: 15px; line-height: 1.5em;">While the image does have a touching message, it's a fake - </span><a href="https://twitter.com/JamesLiamCook/status/552989574600093696/photo/1">not</a><span style="font-size: 15px; line-height: 1.5em;"> created by Banksy.</span></p>
+<p><strong>Here's the illustration that everyone is sharing:</strong></p>
+<p><span class="KonaFilter image-container display-table"><span><span data-post-image class="image on-image"><img src="http://static5.uk.businessinsider.com/image/54ade38ddd089575708b45a6-800-800/10899542_1531240417130999_737500267_n.jpg" border="0" alt="Fake Banksy illustration"><span class="source"><span><a href="http://instagram.com/banksy">Instagram/Banksy</a></span></span></span><p></p></span></span></p>
+<p><a href="http://mashable.com/2015/01/07/banksy-instagram-paris-tribute/?utm_cid=mash-com-Tw-main-link">Mashable is reporting that the image</a> was posted by a "popular 'Banksy' account" on Instagram. The <a href="http://instagram.com/banksy/">instagram.com/banksy</a> Instagram isn't run by Banksy at all, and is actually a fan page that shares street art created by a variety of different artists - rarely with any attribution.</p>
+<p>Banksy has<a href="http://www.independent.co.uk/news/people/banksys-striking-illustrated-response-to-the-charlie-hebdo-attack-9964198.html"> issued a statement to the Independent</a> denying that the illustration is his work. "We can confirm this is not by Banksy," said a spokesman for the anonymous artist.</p>
+<p>Instead, it appears that the illustration was originally posted by graphic designer Lucille Clerc, just with an added Instagram filter.</p>
+<p>Here's Clerc's original Instagram post:</p>
+<div><div>
+	<blockquote class="instagram-media" data-instgrm-captioned data-instgrm-version="4" style=" background:#FFF; border:0; border-radius:3px; box-shadow:0 0 1px 0 rgba(0,0,0,0.5),0 1px 10px 0 rgba(0,0,0,0.15); margin: 1px; max-width:658px; padding:0; width:99.375%; width:-webkit-calc(100% - 2px); width:calc(100% - 2px);"><div style="padding:8px;"> <div style=" background:#F8F8F8; line-height:0; margin-top:40px; padding:50% 0; text-align:center; width:100%;"> <div style=" background:url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACwAAAAsCAMAAAApWqozAAAAGFBMVEUiIiI9PT0eHh4gIB4hIBkcHBwcHBwcHBydr+JQAAAACHRSTlMABA4YHyQsM5jtaMwAAADfSURBVDjL7ZVBEgMhCAQBAf//42xcNbpAqakcM0ftUmFAAIBE81IqBJdS3lS6zs3bIpB9WED3YYXFPmHRfT8sgyrCP1x8uEUxLMzNWElFOYCV6mHWWwMzdPEKHlhLw7NWJqkHc4uIZphavDzA2JPzUDsBZziNae2S6owH8xPmX8G7zzgKEOPUoYHvGz1TBCxMkd3kwNVbU0gKHkx+iZILf77IofhrY1nYFnB/lQPb79drWOyJVa/DAvg9B/rLB4cC+Nqgdz/TvBbBnr6GBReqn/nRmDgaQEej7WhonozjF+Y2I/fZou/qAAAAAElFTkSuQmCC); display:block; height:44px; margin:0 auto -44px; position:relative; top:-22px; width:44px;"></div>
+</div> <p style=" margin:8px 0 0 0; padding:0 4px;"> <a href="https://instagram.com/p/xkaysJplPT/" style=" color:#000; font-family:Arial,sans-serif; font-size:14px; font-style:normal; font-weight:normal; line-height:17px; text-decoration:none; word-wrap:break-word;" target="_top">Break one, thousand will rise #CharlieHebdo #JeSuisCharlie #raiseyourpencil</a></p> <p style=" color:#c9c8cd; font-family:Arial,sans-serif; font-size:14px; line-height:17px; margin-bottom:0; margin-top:8px; overflow:hidden; padding:8px 0 7px; text-align:center; text-overflow:ellipsis; white-space:nowrap;">A photo posted by Lucille Clerc (@lucille_clerc) on <time style=" font-family:Arial,sans-serif; font-size:14px; line-height:17px;" datetime="2015-01-07T22:12:06+00:00">Jan 1, 2015 at 2:12pm PST</time></p>
+</div></blockquote>
+<script async defer src="//platform.instagram.com/en_US/embeds.js"></script>
+</div></div>
+<p class="embed-spacer"></p>
+<p>Search on Facebook, Twitter, and Instagram and you'll see plenty of popular accounts that seem to be official Banksy pages. <span style="font-size: 15px; line-height: 1.5em;">The problem of fake social media accounts is so widespread that Banksy </span><a href="http://banksy.co.uk/faq.asp">has even posted on his official website</a><span style="font-size: 15px; line-height: 1.5em;"> to deny he runs any Facebook or Twitter accounts. He does, however, <a href="http://instagram.com/banksyny/">have one Instagram account</a>, which was used during his recent trip to New York.</span></p>
+<p>Facebook was recently<a href="http://animalnewyork.com/2014/banksys-verified-facebook-page-fake/"> forced to remove the verification checkmark for a Facebook page</a> for a Banksy account with millions of Likes after the artists PR representative denied that he had anything to do with it.</p>
+<p>The Instagram account that the pencil illustration originates from is part of a ring of fake social media profiles. As well as the fake Instagram and Facebook accounts, the administrators behind the Banksy pages also run a YouTube account that re-uploads popular viral videos to capitalize on their popularity.</p>
+<p>Here's an example of a video posted by the fake Banksy YouTube account:</p>
+<div><div>
+	<iframe width="420" height="315" src="//www.youtube.com/embed/K-7ErvUhlAI" frameborder="0" allowfullscreen></iframe>
+</div></div>
+<p>Another clue that points to the image being fake is its file size. The image uploaded to the fake Banksy social media posts is pixelated and low-resolution. Banksy is an artist who makes a living from exhibiting his work, he wouldn't want his work to be displayed in a way that makes it look bad.</p>
+<p>It's tricky to verify new Banksy work. Because of Banksy's continued anonymity, and the often confusing similarity to other graffiti artists, many works of art end up mistakenly labeled as created by Banksy. A handful of galleries and companies in the UK are, however, experts in his work, meaning that they can verify prints purported to originate from Banksy.</p>
+<p>Nevertheless, given today's tragic events, the sentiment is strong.</p>
+            
+            
+                        	
+
+
+
+            
+					</div>
+
+            </div>
+</div>
+
+        <div id="social-reader-notification" class="alert clear-both" style="display:none;"></div>
+
+        <div id="facebook-notification" class="alert" style="display:none;"></div>
+
+            </div>
+
+        
+        <div class="bottom-share-module clearfix clear-both">
+            <!-- RRSSB BOTTOM POST CALL -->
+            
+<!-- RRSSB start -->
+<div class="rrssb-baseline share-container ks-share-bottom margin-top margin-bottom clearfix " style="display:none;">
+    <!-- buttons start here -->
+    <ul class="rrssb-buttons rrssb-bottom clearfix">
+        <li class="facebook ks-sharemodule-fb">
+            <a href="https://www.facebook.com/sharer/sharer.php?u=http://uk.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1" title="facebook" class="popup">
+                <i class="fa fa-facebook-square"></i>
+                <span class="text">facebook</span>
+            </a>
+        </li>
+        <li class="linkedin ks-sharemodule-linkedin">
+            <a href="http://www.linkedin.com/shareArticle?mini=true&amp;url=http://uk.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1&amp;title=The Image That Everyone Is Sharing By 'Banksy' Isn't By Banksy — But It's Awesome&amp;summary=Almost every social media page claiming to be Banksy is actually a fake." title="linkedin" class="popup">
+                <i class="fa fa-linkedin"></i>
+                <span class="text">linkedin</span>
+            </a>
+        </li>
+        <li class="twitter ks-sharemodule-tweet">
+            <a href="http://twitter.com/share?url=http://uk.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1&amp;via=BI_Europe&amp;text=The Image That Everyone Is Sharing By 'Banksy' Isn't By Banksy — But It's Awesome" title="twitter" class="popup">
+                <i class="fa fa-twitter"></i>
+                <span class="text">twitter</span>
+            </a>
+        </li>
+        <li class="email button-email ks-sharemodule-email" data-href="http://uk.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1">
+            <a href="#" title="email">
+                <i class="fa fa-envelope"></i>
+                <span class="text">email</span>
+            </a>
+        </li>
+                <li class="printbtn ks-byline-print">
+            <a href="javascript:window.print()" title="print">
+                <i class="fa fa-print"></i>
+                <span class="text">print</span>
+            </a>
+        </li>
+            </ul>
+    <!-- buttons end here -->
+</div>
+<!-- RRSSB end -->
+
+<!-- This Empty div tells sailthru where to fly out the concierge promo. -->
+<div id="bottom-share-links"></div>
+        </div>
+
+                    
+<div class="bottom-recommended clear-fix pull-left ks-recommended">
+    <h3 class="underlined thin">Recommended For You</h3>
+    <!-- Concierge posts -->
+    <ul class="media-list pull-left ">
+        <li class="media concierge-post">
+            <a href=""><div class="seealso-image"><img src="http://static4.uk.businessinsider.com/assets/images/transparent.gif" alt="" /></div></a>
+            <h4 class="related"><a class="title-link" href=""></a></h4>
+        </li>
+        <li class="media concierge-post">
+            <a href=""><div class="seealso-image"><img src="http://static4.uk.businessinsider.com/assets/images/transparent.gif" alt="" /></div></a>
+            <h4 class="related"><a class="title-link" href=""></a></h4>
+        </li>
+        <li class="media concierge-post">
+            <a href=""><div class="seealso-image"><img src="http://static4.uk.businessinsider.com/assets/images/transparent.gif" alt="" /></div></a>
+            <h4 class="related"><a class="title-link" href=""></a></h4>
+        </li>
+        <li class="media concierge-post">
+            <a href=""><div class="seealso-image"><img src="http://static4.uk.businessinsider.com/assets/images/transparent.gif" alt="" /></div></a>
+            <h4 class="related"><a class="title-link" href=""></a></h4>
+        </li>
+                <li class="media concierge-post last-story">
+            <a href=""><div class="seealso-image"><img src="http://static4.uk.businessinsider.com/assets/images/transparent.gif" alt="" /></div></a>
+            <h4 class="related"><a class="title-link" href=""></a></h4>
+        </li>
+    </ul>
+</div>
+            <div class="clearfix"></div>
+        
+                                    <div id='taboola-below-main-column' class='ks-taboola'></div>
+                <script type="text/javascript">                 
+                window._taboola = window._taboola || [];
+                                    _taboola.push({mode:'thumbs-1r', container:'taboola-below-main-column', placement:'below-main-column'});
+                                </script>
+                        <div class="clearfix"></div>
+        
+                <div class="clearfix"></div>
+
+        
+        
+        
+        
+<!-- Comments -->
+<div id="comments" class="">
+    
+<a name="comments"></a>
+<div class="comments">
+
+    <h3>Comments <a href="http://uk.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1/comments.rss" class="" title="RSS"><i class="fa fa-rss"></i></a></h3>
+
+            <div class="alert">Comments on this post are now closed.</div>
+    
+    <div class="tabs">
+
+	    <div id="pundit-request-success-message"></div>
+
+		<div class="comments-tabs">
+
+			<ul class="comments-tabs nav nav-tabs gradient">
+
+				<li id="comments-1" class="pundit-comments-content-message tab">
+					<a href="#pundits" data-toggle="tab">
+						Insiders
+						<span class="badge badge-info">0</span>
+					</a>
+				</li>
+				<li id="comments-2" class="comments-content-message tab active">
+					<a href="#non-pundits" data-toggle="tab">
+						All Comments
+						<span class="badge badge-info">2</span>
+					</a>
+				</li>
+                <div id="pundit-request-container" class="pundit-request-container pull-right gradient">
+                    <div class="pundit-request" rel="pundit-request-success-message">
+                        <a href="/register?first=index&pundit_request=1">Apply To Be An "Insider" &#187;</a>
+                    </div>
+                </div>
+			</ul>
+
+		</div>
+
+	</div>
+
+    <div id="comments-container">
+        <div id="comments-loading-image">
+            <img src="http://static3.uk.businessinsider.com/assets/images/icons/icon_loading.gif" alt="Loading" /> <span style="color:#dd4725">Loading</span>
+        </div>
+        <div class="comments-content tab-content"></div>
+        <div id="pundit-request-success-message-bottom" class="margin-top"></div>
+
+        <!-- Receive New Comments Alert -->
+        
+    </div>
+</div>
+
+<!-- Bleachers -->
+
+</div>
+<!-- / Comments -->
+
+        <!-- Schema.org/Article metadata -->
+<div style="display:none;" itemscope itemtype="http://schema.org/Article">
+    <h1 itemprop="name">The Image That Everyone Is Sharing By 'Banksy' Isn't By Banksy — But It's Awesome</h1>
+    <a href="http://uk.businessinsider.com/fake-banksy-charlie-hebdo-illustration-2015-1" itemprop="url">The Image That Everyone Is Sharing By 'Banksy' Isn't By Banksy — But It's Awesome</a>
+    <img src="http://static4.uk.businessinsider.com/image/54ade45add0895c66f8b4593-100-100/the-image-that-everyone-is-sharing-by-banksy-isnt-by-banksy--but-its-awesome.jpg"  itemprop="image" />
+    <div itemprop="description"><p>Update: The artist who made the work...</p></div>
+</div>
+<!-- / Schema.org/Article metadata -->
+        
+    
+</div>
+
+                        </div>
+                                                    <div class="span4">
+                                <div class="main-rail">
+                                    
+<div id="right-rail" class="right-rail">
+	<div class="sl-layout-post">
+		<!-- PERFECT MARKET RR -->
+					<!-- Only show at uppermost top if skin is active -->
+			
+			<!-- Vertical Host -->
+													<!-- / Vertical Host -->
+
+			<!-- Countdown Clock  -->
+						<!-- / Countdown Clock  -->
+
+			<!-- Top Right Rail Ad -->
+						<!-- / Top Right Rail Ad -->
+
+			<!-- BI Live Widget (Above Fold Placement) -->
+										
+			<!-- Newsletters -->
+			
+<div class="right-subscribe">
+	<div class="right-news">
+		<h3>Get <span class="news-vert">Tech</span> Emails &amp; Alerts</h3>
+		<div class="alert" id="news-alert"></div>
+		<form class="form" action="/newsletter?source=sidebar" method="post">
+			<div class="input-append">
+				<input id="news-email" name="email" type="text" placeholder="Email Address" data-email="">
+				<button class="btn submit" id="news-signup" type="submit">Sign-Up</button>
+			</div>
+			<a class="pull-right smallest" href="/newsletter">Learn More &#187;</a>
+
+			<div id="newsletter-expand" class="newsletter-preview-links" style="display:none">
+				<ul>
+											<li>
+							<label class="checkbox">
+								<input type="checkbox" name="newsletters[]" value="UK Tech Select" checked="checked">
+									UK Tech Select							</label>
+						</li>
+											<li>
+							<label class="checkbox">
+								<input type="checkbox" name="newsletters[]" value="UK Business Insider Select" checked="checked">
+									UK Business Insider Select							</label>
+						</li>
+											<li>
+							<label class="checkbox">
+								<input type="checkbox" name="newsletters[]" value="UK 10 Things In Tech You Need To Know" checked="checked">
+									UK 10 Things In Tech You Need To Know							</label>
+						</li>
+									</ul>
+				<div class="divider">More</div>
+				<div class="accordion" id="news-categories">
+																											<div class="accordion-group">
+							<div class="accordion-heading">
+								<a class="accordion-toggle collapsed" data-toggle="collapse" href="#news-category-id1">
+									<i class="fa fa-caret-right"></i><span>Featured</span>
+								</a>
+							</div>
+							<div id="news-category-id1" class="accordion-body collapse">
+								<div class="accordion-inner">
+									<ul>
+																																																						<li>
+												<label class="checkbox">
+													<input type="checkbox" name="newsletters[]" value="UK Tech Select"
+														checked="checked"													/>
+													UK Tech Select												</label>
+											</li>
+																																																						<li>
+												<label class="checkbox">
+													<input type="checkbox" name="newsletters[]" value="UK Strategy Select"
+																											/>
+													UK Strategy Select												</label>
+											</li>
+																																																						<li>
+												<label class="checkbox">
+													<input type="checkbox" name="newsletters[]" value="UK Politics Select"
+																											/>
+													UK Politics Select												</label>
+											</li>
+																																																						<li>
+												<label class="checkbox">
+													<input type="checkbox" name="newsletters[]" value="10 Most Important Things In The World"
+																											/>
+													10 Most Important Things In The World												</label>
+											</li>
+																																																						<li>
+												<label class="checkbox">
+													<input type="checkbox" name="newsletters[]" value="UK Finance Select"
+																											/>
+													UK Finance Select												</label>
+											</li>
+																																																						<li>
+												<label class="checkbox">
+													<input type="checkbox" name="newsletters[]" value="UK Business Insider Select"
+														checked="checked"													/>
+													UK Business Insider Select												</label>
+											</li>
+																																																						<li>
+												<label class="checkbox">
+													<input type="checkbox" name="newsletters[]" value="10 Things Before European Markets Open"
+																											/>
+													10 Things Before European Markets Open												</label>
+											</li>
+																																																						<li>
+												<label class="checkbox">
+													<input type="checkbox" name="newsletters[]" value="UK 10 Things In Tech You Need To Know"
+														checked="checked"													/>
+													UK 10 Things In Tech You Need To Know												</label>
+											</li>
+																			</ul>
+								</div>
+							</div>
+						</div>
+									</div>
+			</div>
+		</form>
+	</div>
+</div>
+
+			<!-- Show here if skin is not active -->
+												<div class="right-ad">
+						<div class="min-height-250">
+							<h5 class="text-ad">Advertisement</h5>
+							
+
+<div data-bi-ad class="ad dfp" data-adunit="desktop-uk/tech/tech/post" data-authors="james-cook" data-pagetype="post" data-region="Upper 300" data-sizes="300x250,300x600,300x400,300x1050" data-tag="banksy,instagram,art,charlie-hebdo" data-url="/fake-banksy-charlie-hebdo-illustration-2015-1" data-views="5001-10000"></div>
+<script type="text/javascript">
+	(function() {
+		'use strict';
+		// Notify the DFP code that a new ad has just been rendered
+		amplify.publish('adRender');
+	}());
+</script>
+						</div>
+					</div>
+		        		    
+			<!-- Your Money -->
+							<div class="stock-ticker ks-rr-your-money">
+	<h3 class="underlined">Your Money</h3>
+    <table class="xignite-indices">
+	                <tr>
+                <td>
+                    FTSE 100                </td>
+                <td class="price">6,196</td>
+                <td>
+                                            <span class="xignite-indices-red">
+                            -15.73                        </span>
+                                    </td>
+                <td>
+                                            <span class="xignite-indices-red">
+                            (-0.253%)
+                        </span>
+                                    </td>
+            </tr>
+                    <tr>
+                <td>
+                    Dow Jones Composite                </td>
+                <td class="price">5,804</td>
+                <td>
+                                            <span class="xignite-indices-green">
+                            +14.22                        </span>
+                                    </td>
+                <td>
+                                            <span class="xignite-indices-green">
+                            (+0.246%)
+                        </span>
+                                    </td>
+            </tr>
+                    <tr>
+                <td>
+                    Nikkei 225                </td>
+                <td class="price">14,738</td>
+                <td>
+                                            <span class="xignite-indices-red">
+                            -335.14                        </span>
+                                    </td>
+                <td>
+                                            <span class="xignite-indices-red">
+                            (-2.223%)
+                        </span>
+                                    </td>
+            </tr>
+                    <tr>
+                <td>
+                    S&P 500                </td>
+                <td class="price">1,863</td>
+                <td>
+                                            <span class="xignite-indices-green">
+                            +0.27                        </span>
+                                    </td>
+                <td>
+                                            <span class="xignite-indices-green">
+                            (+0.014%)
+                        </span>
+                                    </td>
+            </tr>
+            </table>
+
+            <div class="ad-marketswidget margin-top">
+            <h5 class="text-ad">Sponsored By</h5>
+
+                            <div class="marketswidget-unit">
+                    
+
+<div data-bi-ad class="ad dfp" data-adunit="desktop-uk/tech/tech/post" data-authors="james-cook" data-pagetype="post" data-region="Stock Widget 1" data-sizes="88x31" data-tag="banksy,instagram,art,charlie-hebdo" data-url="/fake-banksy-charlie-hebdo-illustration-2015-1" data-views="5001-10000"></div>
+<script type="text/javascript">
+	(function() {
+		'use strict';
+		// Notify the DFP code that a new ad has just been rendered
+		amplify.publish('adRender');
+	}());
+</script>
+                </div>
+            
+                    </div>
+    </div>			
+			<div id="taboola-right-rail-thumbnails"></div>
+<script type="text/javascript">
+	window._taboola = window._taboola || [];
+	_taboola.push({
+		mode: 'organic-thumbnails-a',
+		container: 'taboola-right-rail-thumbnails',
+		placement: 'Right Rail Thumbnails',
+		target_type: 'video'
+	});
+</script>
+							<!-- Linkedin App -->
+							
+			<!-- Author Sold -->
+							<div class="right-ad">
+					<div>
+						<h5 class="text-ad">Advertisement</h5>
+						
+
+<div data-bi-ad class="ad dfp" data-adunit="desktop-uk/tech/tech/post" data-authors="james-cook" data-pagetype="post" data-region="Lower 300" data-sizes="300x250" data-tag="banksy,instagram,art,charlie-hebdo" data-url="/fake-banksy-charlie-hebdo-illustration-2015-1" data-views="5001-10000"></div>
+<script type="text/javascript">
+	(function() {
+		'use strict';
+		// Notify the DFP code that a new ad has just been rendered
+		amplify.publish('adRender');
+	}());
+</script>
+					</div>
+				</div>
+			
+		 	
+			<!-- Facebook Promo -->
+			
+			<!-- Facebook App -->
+			<div class="facebook-app-container" style="display:none;">
+	<h3 class="underlined">Welcome, <span id="fb-username"></span>!</h3>
+	<div class="facebook-app media">
+
+		<div class="fb-profile-pic pull-left"></div>
+
+		<div class="media-body">
+
+			<h5>You are logged into Facebook</h5>
+
+			<h5>Social: <a class="switch-off" href=""></a></h5>
+
+			<ul class="clearfix">
+				<li class="bi-popover activity"><a href="">Your Activity</a><span>|</span>
+					<div class="popover bottom">
+						<div class="arrow"></div>
+						<h3 class="popover-title">These articles have been shared on your timeline. You can remove them here:</h3>
+						<div class="popover-content">
+							<div class="fb-remove-articles"></div>
+						</div>
+					</div>
+				</li>
+				<li class="bi-popover options"><a href="">Options</a>
+					<div class="popover bottom">
+						<div class="arrow"></div>
+						<h3 class="popover-title">Notify me when a story is shared.</h3>
+						<div class="popover-content">
+							<div>						
+								<form id="fb-app-form">
+									<label class="radio inline">
+										<input type="radio" name="shared" value="true" id="notify_yes">Yes</label>
+									<label class="radio inline">
+										<input type="radio" name="shared" value="false" id="notify_no">No</label>
+								</form>
+							</div>
+						</div>
+					</div>
+				</li>
+			</ul>
+
+		</div>	
+
+	</div>
+</div>
+
+	        <!-- Google App -->
+	        <div class="google-app-container" style="display:none;">
+    <h3 class="underlined">Welcome, <span id="gp-username"></span>!</h3>
+    <div class="google-app media">
+
+        <div class="gp-profile-pic pull-left"></div>
+
+        <div class="media-body">
+
+            <h5>You are logged in with Google</h5>
+
+            <h5>Social: <a class="switch-off" href=""></a></h5>
+
+            <ul class="clearfix">
+                <li class="bi-popover activity"><a href="">Your Activity</a><span>|</span>
+                    <div class="popover bottom">
+                        <div class="arrow"></div>
+                        <h3 class="popover-title">These articles have been added to your Google activity log. You can remove them here:</h3>
+                        <div class="popover-content">
+                            <div class="gp-remove-articles"></div>
+                        </div>
+                    </div>
+                </li>
+                <li class="bi-popover options"><a href="">Options</a>
+                    <div class="popover bottom">
+                        <div class="arrow"></div>
+                        <h3 class="popover-title">Notify me when a story is shared.</h3>
+                        <div class="popover-content">
+                            <div>                       
+                                <form id="gp-app-form">
+                                    <label class="radio inline">
+                                        <input type="radio" name="shared" value="true" id="notify_yes">Yes</label>
+                                    <label class="radio inline">
+                                        <input type="radio" name="shared" value="false" id="notify_no">No</label>
+                                </form>
+                            </div>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+
+        </div>  
+
+    </div>
+</div>
+
+			<!-- Editorial Sidebar -->
+			
+			<!-- Trending -->
+			<div class="trending ks-trending-recirculation">
+				<h3 class="underlined">Trending</h3>
+			</div>
+
+			<!-- Read Me -->
+			<div data-bi-ajax-route="/esi/readme_module?0=300&1=tech"></div>
+							<!-- The Hive -->
+							
+			<!-- Editorial Sidebar 2 -->
+			
+			<!-- BI Live Widget (Below Fold Placement) -->
+							<div data-bi-ajax-route="/esi/live_feed_module?0=300&1=tech&2=below_fold"></div>			
+			<!-- Jobs Widget -->
+			
+<!-- Jobs Module -->
+<div class="jobs ks-rr-jobs hide-uk">
+	<h5 class="text-ad pull-right"><a href="http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?IPath=QH&qb=1&s_rawwords=&s_freeloc=&s_jobtypes=ALL&lr=cbpar_busiin&siteid=cbpar_busiin026&utm_source=businessinsider&utm_medium=partner&utm_campaign=businessinsider-all-jobs-applys" title="Visit Career Builder"><img src="http://static3.uk.businessinsider.com/assets/images/careerbuilder.png" alt="Career Builder"></a></h5>
+	<h3 class="underlined">Find A Job</h3>
+
+	<div class="row-fluid">
+		<div class="span6">
+			<ul>
+				<li>
+					<a rel="nofollow" href="http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?IPath=QH&qb=1&s_rawwords=technology&s_freeloc=&s_jobtypes=ALL&lr=cbpar_busiin&siteid=cbpar_busiin020&utm_source=businessinsider&utm_medium=partner&utm_campaign=businessinsider-tech-applys">Tech Jobs</a>
+				</li>
+				<li class="">
+					<a rel="nofollow" href="http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?IPath=QH&qb=1&s_rawwords=media&s_freeloc=&s_jobtypes=ALL&lr=cbpar_busiin&siteid=cbpar_busiin021&utm_source=businessinsider&utm_medium=partner&utm_campaign=businessinsider-media-applys">Media Jobs</a>
+				</li>
+				<li class="">
+					<a rel="nofollow" href="http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?IPath=QH&qb=1&s_rawwords=finance&s_freeloc=&s_jobtypes=ALL&lr=cbpar_busiin&siteid=cbpar_busiin022&utm_source=businessinsider&utm_medium=partner&utm_campaign=businessinsider-finance-applys">Finance Jobs</a>
+				</li>
+			</ul>
+		</div>
+		<div class="span6">
+			<ul>
+				<li>
+					<a rel="nofollow" href="http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?IPath=QH&qb=1&s_rawwords=c-level&s_freeloc=&s_jobtypes=ALL&lr=cbpar_busiin&siteid=cbpar_busiin023&utm_source=businessinsider&utm_medium=partner&utm_campaign=businessinsider-c-level-applys">C-Level Jobs</a>
+				</li>
+				<li>
+					<a rel="nofollow" href="http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?IPath=QH&qb=1&s_rawwords=design&s_freeloc=&s_jobtypes=ALL&lr=cbpar_busiin&siteid=cbpar_busiin024&utm_source=businessinsider&utm_medium=partner&utm_campaign=businessinsider-design-applys">Design Jobs</a>
+				</li>
+				<li>
+					<a rel="nofollow" href="http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?IPath=QH&qb=1&s_rawwords=sales&s_freeloc=&s_jobtypes=ALL&lr=cbpar_busiin&siteid=cbpar_busiin025&utm_source=businessinsider&utm_medium=partner&utm_campaign=businessinsider-sales-applys">Sales Jobs</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="footer border-top-dotted clearfix">
+		<div class="pull-right">
+			<a href="http://www.careerbuilder.com/Jobseeker/Jobs/JobResults.aspx?IPath=QH&qb=1&s_rawwords=&s_freeloc=&s_jobtypes=ALL&lr=cbpar_busiin&siteid=cbpar_busiin026&utm_source=businessinsider&utm_medium=partner&utm_campaign=businessinsider-all-jobs-applys">See All Jobs</a>
+		</div>
+	</div>
+
+</div>
+
+
+
+
+			<!-- Partners -->
+			<div class="right-ad">
+				<div class="partner-thanks clearfix">
+				<h3 class="underlined">Thanks to our partners</h3>
+					<a href="http://www.catchpoint.com/" title="Visit Catchpoint" target="_blank"><img src="http://static3.uk.businessinsider.com/assets/images/partners/catchpoint-9.png" alt="Catchpoint - Web Performance Monitoring" /></a>
+					<a href="http://www.ooyala.com/?utm_source=BusinessInsider&utm_medium=Sponsor&utm_campaign=Rebranding" title="Visit Ooyala" target="_blank"><img src="http://static3.uk.businessinsider.com/assets/images/partners/ooyala-9.png" alt="Ooyala" /></a>
+					<a href="http://www.sailthru.com" title="Visit Sailthru" target="_blank"><img src="http://static2.uk.businessinsider.com/assets/images/partners/sailthru-9.png" alt="Sailthru" /></a>
+				</div>
+			</div>
+
+			<!-- Google Adsense -->
+			            <!-- / Google Adsense -->
+
+			</div>
+</div>
+                                </div>
+                            </div>
+                        
+                    </div>
+                </div>
+
+                
+                </div>
+            </div>
+        </div>
+
+        <div class="footer" data-bi-footer>
+
+            <div class="container border-top">
+
+                <div class="list-pipes">
+                    <ul>
+                    <li>* Copyright &copy; 2015 Business Insider Inc. All rights reserved. <span class="nowrap">Registration on or use of this site constitutes acceptance of our
+                                                        <a href="/terms">Terms of Service</a>,                                                        <a href="/privacy-policy">Privacy Policy</a>, and
+                            <a href="/cookie-policy">Cookie Policy</a>.</span>
+                        </li>
+                        <li><a href="/disclaimer">Disclaimer</a></li>
+                                            </ul>
+                </div>
+                <div class="list-pipes">
+                    <ul>
+                        <li>Powered by <a href="http://www.mongodb.org">MongoDB</a></li>
+                        <li>Stock quotes by <a href="http://ycharts.com">YCharts</a></li>
+                                            </ul>
+                </div>
+                <div class="international-links border-top list-pipes">
+                    <ul><li>International Editions:</li>
+                        <li><a href="http://www.businessinsider.com.au/">AUS</a></li><li><a href="http://www.businessinsider.co.id/">ID</a></li><li><a href="http://www.businessinsider.in/">IN</a></li><li><a href="http://www.businessinsider.my/">MY</a></li><li><a href="http://www.businessinsider.sg/">SG</a></li><li><a href="http://www.businessinsider.com?IR=C">US</a></li><li><a href="http://uk.businessinsider.com?IR=C">UK</a></li>                    </ul>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.min.js"></script>
+<script type="text/javascript" src="http://static2.uk.businessinsider.com/assets/js/min-foot.js?1426871179"></script>
+
+<!--[if gte IE 9]>
+<script type="text/javascript">amplify.publish("ie9-pinned-site", {"hid":null,"vertical":"tech"});</script><![endif]-->
+
+<!-- Google Tag Manager -->
+<noscript><iframe src=""//www.googletagmanager.com/ns.html?id=GTM-MBJWF4""
+height=""0"" width=""0"" style=""display:none;visibility:hidden""></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MBJWF4');</script>
+<!-- End Google Tag Manager -->
+
+<!-- Twitter widget.js -->
+<script type="text/javascript">
+    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){
+        js=d.createElement(s);
+        js.id=id;
+        js.src="https://platform.twitter.com/widgets.js";
+        js.async=true;
+        fjs.parentNode.insertBefore(js,fjs);
+    }}(document,"script","twitter-wjs");
+</script>
+<!-- /Twitter widget.js -->
+
+            <!-- BEGIN Tynt Script -->
+        <script type="text/javascript">
+            if(document.location.protocol=='http:'){
+                var Tynt=Tynt||[];Tynt.push('bY-Bo-fcCr5jizacwqm_6l');
+                (function(){var s=document.createElement('script');s.async="async";s.type="text/javascript";s.src='http://tcr.tynt.com/ti.js';var h=document.getElementsByTagName('script')[0];h.parentNode.insertBefore(s,h);})();
+            }
+        </script>
+        <!-- END Tynt Script -->
+    
+    <!-- START Nielsen Online SiteCensus V6.0 -->
+    <!-- COPYRIGHT 2010 Nielsen Online -->
+    <script type="text/javascript">
+    (function () {
+        var d = new Image(1, 1);
+        d.onerror = d.onload = function () { d.onerror = d.onload = null; };
+        d.src = ["//secure-us.imrworldwide.com/cgi-bin/m?ci=us-103525h&cg=0&cc=1&si=", escape(window.location.href), "&rp=", escape(document.referrer), "&ts=compact&rnd=", (new Date()).getTime()].join('');
+    })();
+    </script>
+    <noscript>
+        <div><img src="//secure-us.imrworldwide.com/cgi-bin/m?ci=us-103525h&amp;cg=0&amp;cc=1&amp;ts=noscript" width="1" height="1" alt="" /></div>
+    </noscript>
+    <!-- END Nielsen Online SiteCensus V6.0 -->
+
+    <!-- Begin comScore Tag -->
+    <script type="text/javascript">
+        var _comscore = _comscore || [];
+        _comscore.push({ c1: "2", c2: "9900186" });
+        (function() {
+            var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+            s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+            el.parentNode.insertBefore(s, el);
+        })();
+    </script>
+    <noscript>
+        <img src="http://b.scorecardresearch.com/p?c1=2&c2=9900186&cv=2.0&cj=1" />
+    </noscript>
+    <!-- End comScore Tag -->
+
+        <!-- Chartbeat -->
+    <script type="text/javascript">
+        // chartbeat wants the vars in global
+        window._sf_async_config={uid:14447,domain:"uk.businessinsider.com"};
+        window._sf_async_config.useCanonical = true;
+
+        //only set the following if on a sponsored post
+        
+        (function(){
+          function loadChartbeat() {
+            window._sf_endpt=(new Date()).getTime();
+            var e = document.createElement('script');
+            e.setAttribute('language', 'javascript');
+            e.setAttribute('type', 'text/javascript');
+            e.setAttribute('src',
+               (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+               "static.chartbeat.com/js/chartbeat_pub.js");
+            document.body.appendChild(e);
+          }
+          var oldonload = window.onload;
+          window.onload = (typeof window.onload != 'function') ?
+             loadChartbeat : function() { oldonload(); loadChartbeat(); };
+        })();
+    </script>
+    <!-- / Chartbeat -->
+    
+    <!-- BEGIN Krux Control Tag for "businessinsider.com" -->
+<!-- Source: /snippet/controltag?confid=I2I9M2yx&site=businessinsider.com&edit=1 -->
+<script class="kxct" data-id="JNevbfbF" data-timing="async" data-version="1.9" type="text/javascript">
+  window.Krux||((Krux=function(){Krux.q.push(arguments)}).q=[]);
+  (function(){
+    var k=document.createElement('script');k.type='text/javascript';k.async=true;
+    var m,src=(m=location.href.match(/\bkxsrc=([^&]+)/))&&decodeURIComponent(m[1]);
+    k.src = /^https?:\/\/([^\/]+\.)?krxd\.net(:\d{1,5})?\//i.test(src) ? src : src === "disable" ? "" :
+      (location.protocol==="https:"?"https:":"http:")+"//cdn.krxd.net/controltag?confid=JNevbfbF"
+  ;
+    var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(k,s);
+  }());
+</script>
+<!-- END Krux Controltag -->
+            <!-- Sailthru Concierge -->
+        <script type="text/javascript" src="http://ak.sail-horizon.com/horizon/v1.js"></script>
+        <script type="text/javascript" src="http://ak.sail-horizon.com/scout/v1.js"></script>
+        <script type="text/javascript">
+        $(function() {
+            // Sailthru Concierge
+            if (window.Sailthru) {
+                var sailthruOpts = {
+                    domain: 'horizon.uk.businessinsider.com'
+                                            , concierge: { from: 'top', threshold: $('#bottom-share-links') }
+                                    };
+                if (window.outerWidth < 800) { //on small screens we dont want the flyout to appear
+                    delete sailthruOpts.concierge;
+                }
+                Sailthru.setup(sailthruOpts);
+            }
+        });
+        </script>
+        <!-- / Sailthru Concierge -->
+                <!-- Skimlinks -->
+        <script class="post-loaded" type="text/javascript" data-src="http://s.skimresources.com/js/35871X1520432.skimlinks.js"></script>
+        <!-- /Skimlinks -->
+
+    
+<!-- Perfect market JS -->
+    <!-- End Perfect market JS-->
+
+<!-- kontera contextual ads -->
+
+<!-- taboola foot -->
+    <script type="text/javascript">
+        window._taboola = window._taboola || [];
+        _taboola.push({flush: true});
+    </script>
+
+
+<!-- START Parse.ly Include: Standard -->
+<div id="parsely-root" style="display: none">
+  <div id="parsely-cfg" data-parsely-site="businessinsider.com"></div>
+</div>
+<script>
+(function(s, p, d) {
+  var h=d.location.protocol, i=p+"-"+s,
+      e=d.getElementById(i), r=d.getElementById(p+"-root"),
+      u=h==="https:"?"d1z2jf7jlzjs58.cloudfront.net"
+      :"static."+p+".com";
+  if (e) return;
+  e = d.createElement(s); e.id = i; e.async = true;
+  e.src = h+"//"+u+"/p.js"; r.appendChild(e);
+})("script", "parsely", document);
+</script>
+<!-- END Parse.ly Include -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"4b4136998e","applicationID":"5685965","transactionName":"ZVZVZRBVXEJVVkJRDVwcdEQRQF1cG0VZSxY=","queueTime":0,"applicationTime":92,"ttGuid":"","agentToken":"","atts":"SRFWE1hPT0w=","errorBeacon":"bam.nr-data.net","agent":"js-agent.newrelic.com\/nr-593.min.js"}</script></body>
+</html>

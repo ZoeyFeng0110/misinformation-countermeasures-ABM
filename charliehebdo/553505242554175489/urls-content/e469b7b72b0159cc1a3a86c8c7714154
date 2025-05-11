@@ -1,0 +1,1072 @@
+HTTP/1.1 200 OK
+Server: nginx
+Date: Mon, 15 Jun 2015 12:46:56 GMT
+Content-Type: text/html
+Transfer-Encoding: chunked
+Connection: keep-alive
+Keep-Alive: timeout=5
+Content-Encoding: gzip
+Cache-Control: public, must-revalidate, proxy-revalidate
+
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <title>Hostage drama northeast of Paris as police reportedly corner shooting suspects — RT News</title>    <meta name="description" content="After a dramatic car chase, casualties, and gun fire, police in Paris have reportedly closed in on the suspects in the Charlie Hebdo magazine, who have taken one or several hostages, with injuries also…" >
+<meta name="keywords" content="" >
+<meta name="news_keywords" content="" >
+<meta name="twitter:card" content="summary" >
+<meta name="twitter:url" content="http://rt.com/news/221083-france-charlie-shooting-manhunt/" >
+<meta name="twitter:title" content="Hostage drama northeast of Paris as police reportedly corner shooting suspects" >
+<meta name="twitter:description" content="After a dramatic car chase, casualties, and gun fire, police in Paris have reportedly closed in on the suspects in the Charlie Hebdo magazine, who have taken one or several hostages, with injuries also reported." >
+<meta name="twitter:image" content="http://rt.com/files/news/35/f9/b0/00/32.jpg" >
+<meta name="twitter:site" content="@RT_com" >    <meta charset="UTF-8">
+    
+    <meta name="apple-mobile-web-app-capable" content="no" />
+    <meta name="format-detection" content="telephone=yes" />
+    <!-- Add "maximum-scale=1.0; user-scalable=no;" to fix the Mobile Safari auto-zoom bug on orientation changes, but keep in mind that it will disable user-zooming completely. Bad for accessibility. -->
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no" />
+    
+    <!-- BlackBerry, Palm and others use the Handheld Friendly tag -->
+    <meta name="HandheldFriendly" content="true" />
+    <!-- Windows Mobile (and WP7?) use the MobileOptimized and cleartype values -->
+    <meta name="MobileOptimzied" content="width" />
+    <meta http-equiv="cleartype" content="on" />    
+    <!-- Tell Google that we're already on the mobile version -->
+    <link rel="alternate" media="handheld" href="" />
+    
+    <meta property="fb:admins" content="100000836839189" />
+    <meta property="fb:admins" content="642703102" />
+    <meta name="google-site-verification" content="qtHnAycq46TD1R4aSj3lDMMw1MYYx8FGo7WzZu-c-_E" />
+    
+        <!-- Special meta for facebook -->
+    
+                    <meta property="og:title" content="Hostage drama northeast of Paris as police reportedly corner shooting suspects" />
+            <meta property="og:description" content="After a dramatic car chase, casualties, and gun fire, police in Paris have reportedly closed in on the suspects in the Charlie Hebdo magazine, who have taken one or several hostages, with injuries also reported." />
+                            <meta property="og:type" content="article" />
+                <meta property="og:url" content="http://rt.com/news/221083-france-charlie-shooting-manhunt/" />
+        <meta property="og:image" content="http://rt.com/files/news/35/f9/b0/00/32.jpg" />
+        <meta name="twitter:image" content="http://rt.com/files/news/35/f9/b0/00/32.jpg" />
+        <link rel="image_src" href="http://rt.com/files/news/35/f9/b0/00/32.jpg" />
+        
+                    <meta name='publish-date' content='Fri, 09 Jan 2015 08:27:49 +0000' />
+                <meta name="apple-itunes-app" content="app-id=649316948, app-argument=rtnews://articles/221083" />
+            <!-- Favicon -->
+    <link rel="shortcut icon" href="http://rt.com/favicon.ico" type="image/x-icon" />
+    <link rel="icon" href="http://rt.com/favicon.ico" type="image/x-icon" />	
+	
+	<link rel="apple-touch-icon" href="/apple-touch-icon-precomposed.png"/>
+	<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72-precomposed.png" />
+	<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png" />
+	<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png" />
+    <!--[if lt IE 6]>
+    <meta http-equiv="X-UA-Compatible" content="IE=Edge,chrome=IE6">
+    <![endif]-->
+
+    <script type="text/javascript" src="/static/js/jquery.min.js"></script>
+    <script type="text/javascript" src="/static/js/jquery-ui.min.js"></script>
+
+    
+<script type="text/javascript">
+	var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-5773642-2']);
+	_gaq.push(['_setDomainName', '.rt.com']);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'stats.g.doubleclick.net/dc.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+  
+	/**********************************
+	// Social plugins
+	**********************************/
+	var _ga = _ga || {};
+	var _gaq = _gaq || [];
+
+
+	_ga.trackSocial = function(opt_pageUrl, opt_trackerName) {
+	  _ga.trackFacebook(opt_pageUrl, opt_trackerName);
+	  _ga.trackTwitter(opt_pageUrl, opt_trackerName);
+	};
+
+
+	_ga.trackFacebook = function(opt_pageUrl, opt_trackerName) {
+	  var trackerName = _ga.buildTrackerName_(opt_trackerName);
+	  try {
+		if (FB && FB.Event && FB.Event.subscribe) {
+		  FB.Event.subscribe('edge.create', function(targetUrl) {
+			_gaq.push([trackerName + '_trackSocial', 'facebook', 'like',
+				targetUrl, opt_pageUrl]);
+		  });
+		  FB.Event.subscribe('edge.remove', function(targetUrl) {
+			_gaq.push([trackerName + '_trackSocial', 'facebook', 'unlike',
+				targetUrl, opt_pageUrl]);
+		  });
+		  FB.Event.subscribe('message.send', function(targetUrl) {
+			_gaq.push([trackerName + '_trackSocial', 'facebook', 'send',
+				targetUrl, opt_pageUrl]);
+		  });
+		}
+	  } catch (e) {}
+	};
+
+
+	_ga.buildTrackerName_ = function(opt_trackerName) {
+	  return opt_trackerName ? opt_trackerName + '.' : '';
+	};
+
+
+	_ga.trackTwitter = function(opt_pageUrl, opt_trackerName) {
+	  function twitterEventHandler(event){
+		if (event) {
+		  var targetUrl; // Default value is undefined.
+		  if (event.target && event.target.nodeName == 'IFRAME') {
+			targetUrl = _ga.extractParamFromUri_(event.target.src, 'url');
+		  }
+		  _gaq.push([trackerName + '_trackSocial', 'twitter', event.type,
+			targetUrl, opt_pageUrl]);
+		}
+	  }
+	
+	  var trackerName = _ga.buildTrackerName_(opt_trackerName);
+	  try {
+		if (twttr && twttr.events && twttr.events.bind) {
+		  twttr.events.bind('tweet', twitterEventHandler);
+		  twttr.events.bind('follow', twitterEventHandler);
+		  twttr.events.bind('unfollow', twitterEventHandler);
+		}
+	  } catch (e) {}
+	};
+
+
+	_ga.extractParamFromUri_ = function(uri, paramName) {
+	  if (!uri) {
+		return;
+	  }
+	  var uri = uri.split('#')[0];  // Remove anchor.
+	  var parts = uri.split('?');  // Check for query params.
+	  if (parts.length == 1) {
+		return;
+	  }
+	  var query = decodeURI(parts[1]);
+
+	  // Find url param.
+	  paramName += '=';
+	  var params = query.split('&');
+	  for (var i = 0, param; param = params[i]; ++i) {
+		if (param.indexOf(paramName) === 0) {
+		  return unescape(param.split('=')[1]);
+		}
+	  }
+	  return;
+	};
+	
+	// Run trackings
+	$(_ga.trackSocial);
+</script>
+
+    <link rel="stylesheet" href="/static/css/smoothness/jquery-ui.css" media="all" />
+
+    <link rel="stylesheet" href="/static/css/base.css?01122014" media="all" />
+    <link rel="stylesheet" href="/static/css/static.css?30032015" media="all" />
+    <!--
+        -->
+        <link rel="stylesheet" href="/static/css/high.css?14032015" media="only screen and (max-width: 864px) and (min-width: 685px)" />
+    <link rel="stylesheet" href="/static/css/med.css?14032015" media="only screen and (max-width: 684px) and (min-width: 479px)" />
+    <link rel="stylesheet" href="/static/css/low.css?14032015" media="only screen and (max-width: 478px)" />
+    
+    <!--[if lt IE 9]>
+    <link rel="stylesheet" href="/static/css/ie.css?01122014" media="all" />
+    <script src="/static/js/html5.js"></script>
+    <script src="/static/js/tab.js"></script>
+    <script src="/static/js/ie.js"></script>
+    <script src="/static/js/ie-css3.htc"></script>
+    <![endif]-->
+    <!--[if IE 7]>
+    <link rel="stylesheet" href="/static/css/ie7.css?15012015" media="all" />
+    <![endif]-->
+    <!--[if lt IE 7]>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/chrome-frame/1/CFInstall.min.js"></script>
+    <style type="text/css">.main-header,.page{display: none;} .chromeFrameOverlayContent{width: auto;}</style>
+    <![endif]-->
+    <script type="text/javascript" src="/static/js/simplemodal.js"></script>    <script>
+        var controllerName = 'news';
+        var site_domain = 'rt.com';
+        var datepickerUrl = 'news';
+    </script>
+    <script type="text/javascript" src="/st/rtplayer/jwplayer/jwplayer.js"></script>
+    <script type="text/javascript" src="/static/js/jwplayerkey.js"></script>
+    <script type="text/javascript" src="/st/swf/swfobject.js"></script>
+    <script type="text/javascript" src="/static/js/common.js?v24"></script>
+    <script type="text/javascript" src="/static/js/datepicker.js"></script>
+    <script type="text/javascript" src="/static/js/fvideo.js"></script>
+    <script type="text/javascript" src="/static/js/player.js?v1"></script>
+    <script language="JavaScript" type="text/javascript" src="/static/js/clock.js"></script>
+
+    <script type='text/javascript'>
+var googletag = googletag || {};
+googletag.cmd = googletag.cmd || [];
+(function() {
+var gads = document.createElement('script');
+gads.async = true;
+gads.type = 'text/javascript';
+var useSSL = 'https:' == document.location.protocol;
+gads.src = (useSSL ? 'https:' : 'http:') + '//www.googletagservices.com/tag/js/gpt.js';
+var node = document.getElementsByTagName('script')[0];
+node.parentNode.insertBefore(gads, node);
+})();
+</script>
+    
+
+<script type='text/javascript'>
+googletag.cmd.push(function() {
+
+
+
+var mappingLeaderboard = googletag.sizeMapping().
+    addSize([1000, 0 ], [[728,90],[970, 90],[970, 250]]).
+    addSize([768, 0 ], [728,90]).
+    addSize([0, 0 ], [[300, 50], [320, 50]]).
+    build();
+var mappingBox = googletag.sizeMapping().
+    addSize([1000, 0 ], [[250, 250], [300, 250]]).
+    addSize([768, 0 ], [[250, 250], [300, 250]]).
+    addSize([0, 0 ], [300, 250]).
+    build();    
+var mappingSkyscraper = googletag.sizeMapping().
+    addSize([1000, 0 ], [160, 600]).
+    addSize([768, 0 ], [160, 600]).
+    addSize([0, 0 ], [300, 250]).
+    build();
+
+googletag.defineSlot('/144751494/EN_RT_News', [[300, 50], [320, 50], [728, 90], [970, 90], [970, 250]], 'div-gpt-ad-1406118774894-0').defineSizeMapping(mappingLeaderboard).addService(googletag.pubads());
+googletag.defineSlot('/144751494/EN_RT_News', [[250, 250], [300, 250], [300, 250]], 'div-gpt-ad-1406118774894-1').defineSizeMapping(mappingBox).addService(googletag.pubads());
+googletag.defineSlot('/144751494/EN_RT_News', [[160, 600], [300, 250]], 'div-gpt-ad-1406118774894-2').defineSizeMapping(mappingSkyscraper).addService(googletag.pubads());
+googletag.defineSlot('/144751494/EN_260x180', [260, 180], 'div-gpt-ad-1426577342865-0').addService(googletag.pubads());
+
+
+
+googletag.defineSlot('/144751494/1x1', [1, 1], 'div-gpt-ad-1422625477597-0').addService(googletag.pubads());
+
+
+googletag.pubads().enableSingleRequest();
+googletag.enableServices();
+});
+</script>    
+    <script type="text/javascript">
+    window._taboola = window._taboola || [];
+    _taboola.push({article:'auto'});
+    !function (e, f, u) {
+    e.async = 1;
+    e.src = u;
+    f.parentNode.insertBefore(e, f);
+    }(document.createElement('script'),
+    document.getElementsByTagName('script')[0],
+    'http://cdn.taboola.com/libtrc/rt-rtcom/loader.js');
+    </script>
+    
+    <script type='text/javascript'>var _sf_startpt=(new Date()).getTime()</script>
+    <script>
+        var _prum = [['id', '54ca2d51abe53ddb6be85738'],
+            ['mark', 'firstbyte', (new Date()).getTime()]];
+        (function () {
+            var s = document.getElementsByTagName('script')[0]
+                , p = document.createElement('script');
+            p.async = 'async';
+            p.src = '//rum-static.pingdom.net/prum.min.js';
+            s.parentNode.insertBefore(p, s);
+        })();
+    </script>
+</head>
+<body class="">
+	<script type="text/javascript">
+  (function() {
+  var em = document.createElement('script'); em.type = 'text/javascript'; em.async = true;
+  em.src = ('https:' == document.location.protocol ? 'https://me-ssl' : 'http://me-cdn') + '.effectivemeasure.net/em.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(em, s);
+  })();
+</script>
+<noscript>
+  <img src="//me.effectivemeasure.net/em_image" alt="" style="position:absolute; left:-5px;" />
+</noscript>
+<div class="b-main_extension">
+    <div class="b-min_width">
+        <a class="b-main_extension_close" href=""><span>&nbsp;</span></a>
+        <a class="b-main_extension_button" href="">&nbsp;</a>
+        <p class="b-main_extension_message"><i class="icon">&#160;</i>Keep up with the news by installing RT’s extension for <span></span>. Never miss a story with this clean and simple app that delivers the latest headlines to you.</p>
+    </div>
+    <a class="b-main_extension_close" href=""><span>&nbsp;</span></a>
+</div>
+
+<div class="main-header">
+    <div class="main-header-wp">
+        <div class="head-nav">
+            <ul class="lang">
+                <li><a href="//arabic.rt.com/" target="_blank">العربية</a></li>
+                <li><a href="//actualidad.rt.com/" target="_blank">ESP</a></li>
+                <li><a href="//russian.rt.com/" target="_blank">РУС</a></li>
+                <li><a href="http://rtdeutsch.com/" target="_blank">DE</a></li>
+                <li><a href="http://francais.rt.com/" target="_blank">FR</a></li>
+            </ul>
+            <div class="center">
+                <ul class="media">
+                    <li><a href="//freevideo.rt.com/" target="_blank">Freevideo</a></li>
+                    <li class="upper"><a href="//inotv.rt.com/" target="_blank">инотв</a></li>
+                    <li class="upper"><a href="//rtd.rt.com/" target="_blank">rtд</a></li>
+                    <li class="upper"><a href="//ruptly.tv/" target="_blank">RUPTLY</a></li>
+                </ul>
+                <div class="b-follow-us">
+    <div class="row"><a
+        href="http://www.facebook.com/RTnews/" class="follow_icon_fb" target="_blank"></a><a
+            href="https://twitter.com/#!/RT_com" class="follow_icon_twi" target="_blank"></a><a
+            href="http://www.youtube.com/user/RussiaToday" class="follow_icon_yt" target="_blank"></a><a
+            href="https://plus.google.com/102728491539958529040/posts" class="follow_icon_gplus" target="_blank"></a><a
+            href="//instagram.com/rt" class="follow_icon_inst" target="_blank"></a><a
+            href="https://soundcloud.com/rttv" class="follow_icon_scloud" target="_blank"></a><a
+            href="http://coub.com/russiatoday" class="follow_icon_coub" target="_blank"></a></div>
+</div>                <ul class="alternative">
+                    <li class="mob-apps"><a href="/applications/" onClick="_gaq.push(['_trackEvent', 'Links', 'Click', 'App Up']);">Applications</a></li>
+                                            <li class="rss"><a href="/rss/news/"><span class="icon"></span>RSS</a></li>
+                                    </ul>
+            </div>
+
+        </div>
+      <div class="logo">
+        <a id="showNav" class="i-mobile i-menu"></a>
+        <a id="showSearch" class="i-mobile i-search"></a>
+        <div class="rt-wrapper">
+          <a href="/on-air/" class="link-live">live</a>
+          <a href="/" class="rt-logo"><img src="/static/img/static/logo.png" alt="RT logo" /></a>
+          <div class="logo_text">
+            <h2>
+              <img src="/static/img/static/question-more.png" alt="" class="pic-qm" title="" />
+              <img src="/static/img/static/question-more-320.png" alt="" class="pic-qm-320" title="" />
+            </h2>
+          </div>
+        </div>
+      </div>
+        <div class="search">
+            <form action="/search/everywhere/" method="get">
+                <fieldset>
+                    <legend>search</legend>
+                    <span class="icon"><input type="text" name="term" value=""><input type="submit" value=""></span>
+					<label>
+						<div id="hours">
+						</div>
+                   </label>
+                </fieldset>
+            </form>
+        </div>
+        <div class="mobile-search off" id="mobileSearch">
+            <form action="/search/everywhere/" method="get">
+                <fieldset>
+                    <input type="submit" value="Search" />
+                    <div class="input_wrapper"><input type="search" name="term" value="" /></div>
+                </fieldset>
+            </form>
+        </div>
+        <div class="main-nav">
+            <div class="button">Section</div>
+            <ul>
+                                    <li class="active"><a href="/news/">News</a></li>
+                                    <li class=""><a href="/usa/">USA</a></li>
+                                    <li class=""><a href="/uk/">UK</a></li>
+                                    <li class=""><a href="/politics/">Russian politics</a></li>
+                                    <li class=""><a href="/business/">Business</a></li>
+                                    <li class=""><a href="/op-edge/">Op-Edge</a></li>
+                                    <li class=""><a href="/in-vision/">In vision</a></li>
+                                    <li class=""><a href="/in-motion/">In motion</a></li>
+                                    <li class=""><a href="/shows/">Shows</a></li>
+                                    <li class=""><a href="/bulletin-board/">Bulletin board</a></li>
+                                    <li class=""><a href="/more/">More</a></li>
+                            </ul>
+        </div>
+    </div>
+</div>
+
+            <div class="page">
+        
+            <div class="google-top-banner news_banner">
+            <div class="border-banner">
+            <!-- EN_RT_News -->
+            <div id='div-gpt-ad-1406118774894-0'>
+            <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1406118774894-0'); });
+            </script>
+            </div>
+            </div>
+        </div>
+        
+    
+    <i class="border-bg"></i>
+
+<div class="content p-page doc-page">
+    <ul class="crumbs">
+        <li><a href="/">Home</a> /</li>
+        <li><a href="/news/">News</a> /</li>
+    </ul>    
+    <div class="content-wp  no_bold">
+        <div class="cont-wp-mid">
+
+            <div class="cont-wp">
+                <h1>Hostage drama northeast of Paris as police reportedly corner shooting suspects</h1>
+
+                <div class="cont-wp-mid max_width">
+                    <div class="acticle_clock">
+						<!-- time -->
+                        <span class="time">
+                            Published time: January 09, 2015 08:27                                                            <br>
+                                Edited time: January 09, 2015 16:10                                                    </span>
+                        <!--// time -->
+						
+                        <div id="get-short-url">
+                            <a href="" class="get" data-url="http://rt.com/news/221083-france-charlie-shooting-manhunt/">Get short URL</a>
+                            <div class="url"></div>
+                        </div>
+                       <div class="i-clears i-mh"></div>  
+                        
+                    </div>
+                  <div class="i-clears i-mh"></div>
+                    
+                  <div class="article_img" style="float: none; margin-left: 0px; margin-right: 0px; margin-bottom:10px;">
+                    <img title="" src="http://img.rt.com/files/news/35/f9/b0/00/32.si.jpg"
+                         alt="French gendarmes secure the roundabout near the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris January 9, 2015.(Reuters / Eric Gaillard)"
+                         style="float: none; margin-left: 0px; margin-right: 0px;">
+                                        <p class="article_img_footer">French gendarmes secure the roundabout near the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris January 9, 2015.(Reuters / Eric Gaillard)</p>
+                                      </div>
+
+                  <div style="overflow:hidden">
+                    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5396eb96220e676a"></script>
+
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<!-- Share template -->
+<div class="addthis_sharing_toolbox"></div>
+
+<!-- Go to your Addthis.com Dashboard to update any options -->
+<div class="addthis_responsive_sharing"></div>
+
+<div class="clearboth"></div>
+                  </div>
+                                  </div>
+                
+                <div class="b-tags_trends">
+                    <div class="b-tags_trends-hrcol">
+                                                                            <p>Tags</p>
+                            <a href="/tags/crime/">Crime</a>, <a href="/tags/france/">France</a>, <a href="/tags/human-rights/">Human rights</a>, <a href="/tags/peter-oliver/">Peter Oliver</a>, <a href="/tags/polly-boyko/">Polly Boiko</a>, <a href="/tags/terrorism/">Terrorism</a>, <a href="/tags/violence/">Violence</a>                                            </div>
+                </div>
+                
+                <p>After a dramatic car chase, casualties, and gun fire, police in Paris have reportedly closed in on the suspects in the Charlie Hebdo magazine, who have taken one or several hostages, with injuries also reported.</p>
+                
+<p>
+  <a href="http://rt.com/news/220523-deadly-attack-french-newspaper/" style="background-color: initial;">READ MORE: Charlie Hebdo
+  shooting aftermath LIVE UPDATES</a>
+</p><p>
+  <a href="http://rt.com/news/220523-deadly-attack-french-newspaper/" style="background-color: initial;"></a>On Thursday morning,
+  gunfire was allegedly heard near Charles-de-Gaulle Airport in
+  Paris, according to an unconfirmed report from the Air News
+  agency. Other reports add that police have closed in on the
+  suspects some eight miles from the airport. The airport has been
+  partially closed while police conduct attempt to apprehend the
+  terror suspects.
+</p><p>
+  Two of four runways have been closed at the airport as the
+  operation to neutralize the Paris shooting suspects is underway,
+  reported the media. Planes cross the Dammartin-en-Goele commune
+  while approaching CDG airport.
+</p><p>
+  The suspects are holding one hostage, police sources told AFP.
+</p><p>
+  <span style="background-color: initial;">The Charles de Gaulle
+  School in Dammartin-en-Goele is under lockdown as police have
+  surrounded the town. Pupils were instructed to stay away from
+  windows, said a high school student in Figaro.</span>
+</p><p>
+  <em>"Some students are crying,"</em> said another, adding that
+  her friend was <em>"terrified."</em>
+</p><p>
+  <iframe src="//www.youtube.com/embed/Ut6y-d6bIjs" allowfullscreen="" height="360" width="640" frameborder="0"></iframe>
+</p><blockquote class="twitter-tweet" lang="en">
+  <p>
+    <a href="https://twitter.com/hashtag/Dammartin?src=hash">#Dammartin</a>
+    : un internaute sur place envoie des clichés en direct de la
+    prise d'otage. <a href="https://twitter.com/hashtag/CharlieHebdo?src=hash">#CharlieHebdo</a><a href="http://t.co/KjpEwsRLi4">pic.twitter.com/KjpEwsRLi4</a>
+  </p>
+  <p>
+    — Olivier Pérou (@OlivierPerou) <a href="https://twitter.com/OlivierPerou/status/553478014496174081">January
+    9, 2015</a>
+  </p>
+</blockquote><p>
+  <img src="/files/news/35/f9/b0/00/21.jpg"></p><p>
+  France's interior minister, Bernard Cazeneuve confirmed an
+  operation to detain suspects was underway northeast of Paris.
+  Security teams are being mobilized in Dammartin-en-Goele, he
+  added.
+</p><p>
+  <em>We have indications that the terrorists are within our
+  perimeter,”</em> said Cazeneuve. <em>"The national police and the
+  gendarmerie are working to locate them.”</em>
+</p><p>
+  <em>"Police forces are in place and the operation is being
+  conducted minute by minute, led by the director general of the
+  gendarmerie and the national police, the counter terror
+  authorities and the Interior Ministry,”</em> he added.
+</p><p>
+  Several schools, located close to the printing house where the
+  suspects have been surrounded, have been evacuated, French media
+  reported.
+</p><p>
+  The Henri Dunant primary school is only 300 meters from the
+  printing facility.
+</p><blockquote class="twitter-tweet" lang="en">
+  <p>
+    Bus scolaires sous escorte pour évacuer élèves de <a href="https://twitter.com/hashtag/Dammartin?src=hash">#Dammartin</a><a href="https://twitter.com/hashtag/Charlie?src=hash">#Charlie</a><a href="https://twitter.com/hashtag/JDD?src=hash">#JDD</a><a href="http://t.co/LHC2rEKO0w">pic.twitter.com/LHC2rEKO0w</a>
+  </p>
+  <p>
+    — Juliette Demey (@juliettedemey) <a href="https://twitter.com/juliettedemey/status/553524040946974720">January
+    9, 2015</a>
+  </p>
+</blockquote><p>
+  At least four French Air Force helicopters have landed nearby,
+  reports say.
+</p><p>
+  <iframe src="//www.youtube.com/embed/XDG_8P1n9R4" allowfullscreen="" height="360" width="640" frameborder="0"></iframe>
+</p><p>
+  Cazeneuve confirmed that the kidnappers are the Kouachi brothers,
+  who are said to be heavily armed, RTL reported from the scene.The
+  brothers are holding one female hostage, reported iTele.
+</p><p>
+  Yves Albarello , the deputy of Seine-et-Marne department, said
+  the Kouachis <em>"are ready to die as martyrs,”</em> Le Figaro
+  cites.
+</p><p>
+  Despite the threat, French PM Manuel Valls stressed that his
+  country is <em>"at war against terrorism, not against
+  religion.”</em>
+</p><blockquote class="twitter-tweet" lang="en">
+  <p>
+    "It's pretty much a war zone here," an eyewitness in
+    Dammartin-en-Goële tells BFM TV <a href="https://twitter.com/hashtag/CharlieHebdo?src=hash">#CharlieHebdo</a>
+  </p>
+  <p>
+    — Ruadhán Mac Cormaic (@RuadhanIT) <a href="https://twitter.com/RuadhanIT/status/553477061923602433">January
+    9, 2015</a>
+  </p>
+</blockquote><p>
+  After some 90,000 thousand security forces were mobilized
+  nationwide, the manhunt to capture the suspects in the worst
+  terrorist attack to strike France in a generation may be coming
+  to a head.
+</p><p>
+  Reports have flooded French media about shots being fired in a
+  number of localities, including the Seine-et-Marne area in
+  northeastern France. Earlier on Thursday, the suspects had
+  reportedly stolen a Peugeot in the morning in the town of
+  Montagny, which is about 50 kilometers northeast of Paris.
+</p><blockquote class="twitter-tweet" lang="en">
+  <p>
+    3 hélicos du GIGN, ou RAID au dessus de chez moi vers Dammartin
+    en Goele. <a href="https://twitter.com/hashtag/Traque?src=hash">#Traque</a><a href="http://t.co/I6OUMbZHRw">pic.twitter.com/I6OUMbZHRw</a>
+  </p>
+  <p>
+    — Romain Tamburrino (@Romain_Tmb77) <a href="https://twitter.com/Romain_Tmb77/status/553462903391936513">January
+    9, 2015</a>
+  </p>
+</blockquote><blockquote class="twitter-tweet" lang="en">
+  <p>
+    10 camions de gendarmerie mobile en route vers Dammartin #
+    CharlieHebdo <a href="http://t.co/QlIO3SQQdC">pic.twitter.com/QlIO3SQQdC</a>
+  </p>
+  <p>
+    — Marc-Antoine Bindler (@marcobindler) <a href="https://twitter.com/marcobindler/status/553471756984676352">January
+    9, 2015</a>
+  </p>
+</blockquote><p>
+  RTL reports that at least two people have been seriously injured
+  in the course of events, though it remains unclear if it happened
+  during or before the hostage-taking in Dammartin-en-Goele, a
+  commune located 22 miles northeast of Paris.
+</p><p>
+  <em>“I am [in] Dammartin-en-Goêle,”</em> wrote one Twitter user.
+  <em>“All the exits to the village are blocked. The police
+  brigades are here. And 5 helicopters.”</em>
+</p><blockquote class="twitter-tweet" lang="en">
+  <p>
+    BREAKING INTENSE GUNFIRE HEARD NEAR Paris-Charles-de-Gaulle
+    AIRPORT - airplanes currently over CDG airport <a href="http://t.co/WPUQCiCllL">pic.twitter.com/WPUQCiCllL</a>
+  </p>
+  <p>
+    — Air News agency (@airlivenet) <a href="https://twitter.com/airlivenet/status/553468884343607296">January
+    9, 2015</a>
+  </p>
+</blockquote><p>
+  The Paris prosecutor’s office, however, has denied reports by
+  several French media outlets that there were casualties in the
+  shootout in northeast Paris.
+</p><p>
+  The hospitals in Dammartin-en-Goele are on high alert, and they
+  are ready to receive patients in case any causalities result from
+  the police operation.
+</p><p>
+  <span style="background-color: initial;">The suspects are later
+  reported to have taken hostages at Création Tendance Découverte,
+  a small company of about five employees, the city mayor said at a
+  press conference. Police would later pursue the suspects down the
+  N2 highway, which passes near the airport.</span>
+</p><p>
+  <img style="float: none; margin: 0px;" alt="A helicopter with members of the French intervention gendarme forces hover above the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris January 9, 2015.(Reuters / Christian Hartmann)" src="/files/news/35/f9/b0/00/33.jpg"></p><p>
+  Cherif and Said Kouachi, are accused of killing 12 people in
+  Wednesday's attack on the satirical weekly Charlie Hebdo. The
+  magazine had repeatedly lampooned religious and political
+  figures, including the Prophet Mohammed. The shooting was
+  France's deadliest attack in over 50 years.
+</p><p>
+  On Thursday, France’s President Francois Hollande ordered that
+  security be tightened at vigils devoted to the Paris massacre
+  victims, which are to be held on Sunday.
+</p>
+                <div class="clear"></div>
+                
+                                
+                
+                                
+                
+                                    <script src="http://platform.twitter.com/widgets.js" type="text/javascript"></script>
+                
+                
+                
+                
+<!-- Go to www.addthis.com/dashboard to customize your tools -->
+<!-- Share template -->
+<div class="addthis_sharing_toolbox"></div>
+
+<!-- Go to your Addthis.com Dashboard to update any options -->
+<div class="addthis_responsive_sharing"></div>
+
+<div class="clearboth"></div>
+            </div>
+            
+                            <div id="taboola-below-article-thumbnails"></div>
+                <script type="text/javascript">
+                  window._taboola = window._taboola || [];
+                  _taboola.push({
+                    mode: 'thumbnails-a',
+                    container: 'taboola-below-article-thumbnails',
+                    placement: 'Below Article Thumbnails',
+                    target_type: 'mix'
+                  });
+                </script>
+                <div id="taboola-below-article-thumbnails-2rd"></div>
+                <script type="text/javascript">
+                  window._taboola = window._taboola || [];
+                  _taboola.push({
+                    mode: 'organic-thumbnails-a',
+                    container: 'taboola-below-article-thumbnails-2rd',
+                    placement: 'Below Article Thumbnails 2rd',
+                    target_type: 'mix'
+                  });
+                </script>
+            
+                        
+            
+
+
+<div id="hypercomments_widget"></div>
+<script type="text/javascript">
+_hcwp = window._hcwp || [];
+_hcwp.push({
+    widget:"Stream",
+    widget_id: 25736,
+    xid: 221083,
+    hc_disable: 1,
+    quote_disable: 1,
+    social: 'google, facebook, twitter, tumblr',
+    realtime: false,
+        auth_url: 'http://rt.com/auth/hypercomments-login/',
+    auth_logo: 'http://rt.com/static/img/rt.png',
+    auth_title: 'RT',
+    callback: function(app, init) {
+        app.on('userState', function(packet) {
+            if (packet.acc_id === null) {
+                $.ajax({
+                    type: 'POST',
+                    url: '/auth/hypercomments-logout/',
+                    dataType: 'json'
+                });
+            }
+        });
+    }
+});
+(function() {
+if("HC_LOAD_INIT" in window)return;
+HC_LOAD_INIT = true;
+var hcc = document.createElement("script"); hcc.type = "text/javascript"; hcc.async = true;
+hcc.src = ("https:" == document.location.protocol ? "https" : "http")+"://w.hypercomments.com/widget/hc/25736/en/widget.js";
+var s = document.getElementsByTagName("script")[0];
+s.parentNode.insertBefore(hcc, s.nextSibling);
+})();
+</script>            
+        </div>
+        <!--// content-wp -->
+    </div>
+    <!--// content -->
+
+</div>
+<div class="aside col-high-simple">
+    <div class="aside-wp">
+                        <div class="row b-buttons links">
+    <span><a class="where_watch" href="/where-to-watch/">Where to watch</a></span>
+    <span><a class="schedule" href="/schedule/">Schedule</a></span>
+</div>
+                        <div class="b-follow-us">
+    <div class="row"><a
+        href="http://www.facebook.com/RTnews/" class="follow_icon_fb" target="_blank"></a><a
+        href="https://twitter.com/#!/RT_com" class="follow_icon_twi" target="_blank"></a><a
+        href="http://www.youtube.com/user/RussiaToday" class="follow_icon_yt" target="_blank"></a><a
+        href="https://plus.google.com/102728491539958529040/posts" class="follow_icon_gplus" target="_blank"></a><a
+        href="//instagram.com/rt" class="follow_icon_inst" target="_blank"></a><a
+        href="https://soundcloud.com/rttv" class="follow_icon_scloud" target="_blank"></a><a
+        href="http://coub.com/russiatoday" class="follow_icon_coub" target="_blank"></a></div>
+</div>
+
+    <div class="cont-wp banner-center">
+                <!-- EN_RT_News -->
+        <div id='div-gpt-ad-1406118774894-1'>
+        <script type='text/javascript'>
+        googletag.cmd.push(function() { googletag.display('div-gpt-ad-1406118774894-1'); });
+        </script>
+        </div>
+        </div>
+                        <div class="cont-wp">
+    <div id="taboola-right-rail-thumbnails"></div>
+    <script type="text/javascript">
+      window._taboola = window._taboola || [];
+      _taboola.push({
+        mode: 'organic-thumbnails-b',
+        container: 'taboola-right-rail-thumbnails',
+        placement: 'Right Rail Thumbnails',
+        target_type: 'mix'
+      });
+    </script>
+</div>                                                                        
+<div class="cont-wp editable_widget" data-section-widget-id="127">
+    <div class="widget_edit_button_wrapper"><div class="widget_edit_button"></div></div>                                <div class="r_banner">
+                                                                                        <a href="https://itunes.apple.com/us/app/rt-news-english/id649316948" onClick="_gaq.push(['_trackEvent', 'Banners', 'Click', 'itunes.apple.com']);"><img src="/files/bpic/ef/70/00/00/ios.jpg" alt="" title=""></a>
+                            </div>
+
+            <script type="text/javascript">
+                $(function () {
+                    $('div.r_banner').each(function() {
+                        if ($('img', this).width() > 0 && $('img', this).width() < 259) {
+                            $(this).removeClass('r_banner').addClass('right_banner');
+                        }
+                    });
+                });
+            </script>
+            </div>                        
+<div class="cont-wp editable_widget" data-section-widget-id="216">
+    <div class="widget_edit_button_wrapper"><div class="widget_edit_button"></div></div>                                <div class="r_banner">
+                                                                                        <a href="https://play.google.com/store/apps/details?id=com.rt.mobile.english" onClick="_gaq.push(['_trackEvent', 'Banners', 'Click', 'play.google.com']);"><img src="/files/bpic/f0/f0/00/00/android-app_googleplay1.jpg" alt="" title=""></a>
+                            </div>
+
+            <script type="text/javascript">
+                $(function () {
+                    $('div.r_banner').each(function() {
+                        if ($('img', this).width() > 0 && $('img', this).width() < 259) {
+                            $(this).removeClass('r_banner').addClass('right_banner');
+                        }
+                    });
+                });
+            </script>
+            </div>                        
+<div class="cont-wp editable_widget" data-section-widget-id="324">
+    <div class="widget_edit_button_wrapper"><div class="widget_edit_button"></div></div>                                <div class="r_banner">
+                                                                                        <a href="http://apps.microsoft.com/windows/app/rt-news-english/b1c6d600-6486-4498-a3c8-773db151b6f0" target="_blank" onClick="_gaq.push(['_trackEvent', 'Banners', 'Click', 'apps.microsoft.com']);"><img src="/files/bpic/13/b8/00/00/win8_small.jpg" alt="" title=""></a>
+                            </div>
+
+            <script type="text/javascript">
+                $(function () {
+                    $('div.r_banner').each(function() {
+                        if ($('img', this).width() > 0 && $('img', this).width() < 259) {
+                            $(this).removeClass('r_banner').addClass('right_banner');
+                        }
+                    });
+                });
+            </script>
+            </div>                
+                            <!-- EN_RT_News -->
+            <div id='div-gpt-ad-1406118774894-2'>
+            <script type='text/javascript'>
+            googletag.cmd.push(function() { googletag.display('div-gpt-ad-1406118774894-2'); });
+            </script>
+            </div>
+            </div>
+    <!--// aside-wp -->
+</div><!--// aside -->
+
+<script type="text/javascript">
+    getCommentsCount('a.comments', '<span class="count-comment">{%COUNT%}</span>');
+</script>
+<style>
+    a.comments {
+        display: none;
+    }
+</style>
+    
+        <div class="clear"></div>
+    <div class="b-mobile-view-widgets">
+        <div class="b-follow-us">
+    <div class="row"><a
+        href="http://www.facebook.com/RTnews/" class="follow_icon_fb" target="_blank"></a><a
+            href="https://twitter.com/#!/RT_com" class="follow_icon_twi" target="_blank"></a><a
+            href="http://www.youtube.com/user/RussiaToday" class="follow_icon_yt" target="_blank"></a><a
+            href="https://plus.google.com/102728491539958529040/posts" class="follow_icon_gplus" target="_blank"></a><a
+            href="//instagram.com/rt" class="follow_icon_inst" target="_blank"></a><a
+            href="https://soundcloud.com/rttv" class="follow_icon_scloud" target="_blank"></a><a
+            href="http://coub.com/russiatoday" class="follow_icon_coub" target="_blank"></a></div>
+</div>        <div class="row b-buttons links">
+    <span><a class="where_watch" href="/where-to-watch/">Where to watch</a></span>
+    <span><a class="schedule" href="/schedule/">Schedule</a></span>
+</div>
+    </div>
+</div><!--/.page-->
+
+    <div class="main-footer">
+        <div class="main-footer-top">
+            <div class="main-footer-wp">
+                <div class="links">
+                    <div class="inner-links">
+                        <ul class="bottom-nav">
+                            <li><a href="/news/">News</a></li>
+                            <li><a href="/in-vision/">In vision</a></li>
+                            <li><a href="/usa/">USA</a></li>
+                            <li><a href="/in-motion/">In motion</a></li>
+                            <li><a href="/uk/">UK</a></li>
+                            <li><a href="/shows/">Shows</a></li>
+                            <li><a href="/politics/">Russian politics</a></li>
+                            <li><a href="/bulletin-board/">Bulletin board</a></li>
+                            <li><a href="/business/">Business</a></li>
+                            <li><a href="/more/">More</a></li>
+                            <li><a href="/op-edge/">Op-Edge</a></li>
+                        </ul>
+
+                        <div class="piece-two">
+                            <ul>
+                                <li><a href="/on-air/" title="Live">Live</a></li>
+                                <li><a href="/where-to-watch/" title="Where to watch">Where to watch</a></li>
+                                <li><a href="/schedule/" title="Schedule">Schedule</a></li>
+                            </ul>
+
+                            <ul class="support-menu">
+                                <li><a href="/legal-disclaimer/">Legal disclaimer</a></li>
+                                <li><a href="/privacy-policy/">Privacy policy</a></li>
+                                <li><a href="mailto:feedback@rttv.ru">Feedback</a></li>
+                                <li><a href="/about-us/">About us</a></li>
+                                <li><a href="/about-us/contact-info/">Contact info</a></li>
+                            </ul>
+                        </div>
+                    </div>
+
+                    <div class="outer-links">
+                        <dl class="apps">
+                            <dt>rt news english apps</dt>
+                            <dd><a href="https://play.google.com/store/apps/details?id=com.rt.mobile.english"
+                                   target="_blank" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Android']);">Android</a></dd>
+                            <dd><a href="https://itunes.apple.com/us/app/rt-news-english/id649316948"
+                                   target="_blank" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'iOS']);">iOS</a>
+                            </dd>
+                            <dd><a
+                                href="http://www.windowsphone.com/s?appid=1eaa6301-170d-4aeb-a8d0-815fe7dbd682"
+                                target="_blank" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Windows phone']);">Windows phone</a></dd>
+                            <dd><a href="http://apps.microsoft.com/windows/app/rt-news-english/b1c6d600-6486-4498-a3c8-773db151b6f0" onClick="_gaq.push(['_trackEvent', 'Footer', 'Click', 'Windows 8']);">Windows 8</a></dd>
+                        </dl>
+                        <div class="piece-two">
+                            <ul class="langs">
+                                <li><a href="//arabic.rt.com/" target="_blank">العربية</a></li>
+                                <li><a href="//actualidad.rt.com/" target="_blank">Español</a></li>
+                                <li><a href="//russian.rt.com/" target="_blank">Русский</a></li>
+                                <li><a href="http://rtdeutsch.com/" target="_blank">Deutsch</a></li>
+                                <li><a href="http://francais.rt.com/" target="_blank">Français</a></li>
+                            </ul>
+                            <ul class="media">
+                                <li><a href="//freevideo.rt.com/" target="_blank">Freevideo</a></li>
+                                <li class="upper"><a href="//inotv.rt.com/" target="_blank">инотв</a></li>
+                                <li class="upper"><a href="//rtd.rt.com/" target="_blank">rtд</a></li>
+                                <li class="upper"><a href="//ruptly.tv/" target="_blank">RUPTLY</a></li>
+                            </ul>
+                            <ul class="alternative-copy">
+                                <li><a target="_blank" title="Mobile apps" href="/applications/" onClick="_gaq.push(['_trackEvent', 'Links', 'Click', 'App Down']);">Applications</a></li>
+                                <li><a target="_blank" title="RSS" href="/rss/">RSS</a></li>
+                            </ul>
+                            <ul class="support-menu copy">
+                                <li><a href="/legal-disclaimer/">Legal disclaimer</a></li>
+                                <li><a href="/privacy-policy/">Privacy policy</a></li>
+                                <li><a href="mailto:feedback@rttv.ru">Feedback</a></li>
+                                <li><a href="/about-us/">About us</a></li>
+                                <li><a href="/about-us/contact-info/">Contact info</a></li>
+                            </ul>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="main-footer-ctrl">
+                    <div class="b-search">
+                        <form action="/search/everywhere/" method="get">
+                            <fieldset>
+                                <label><input type="text" name="term" value=""></label>
+                                <input type="submit" value=""/>
+                            </fieldset>
+                        </form>
+                    </div>
+
+                    <div class="b-icons">
+                        <ul class="alternative">
+                            <li><a title="Applications" href="/applications/" onClick="_gaq.push(['_trackEvent', 'Links', 'Click', 'App Down']);">Applications</a></li>
+                            <li class="rss"><a title="RSS" href="/rss/"><span class="icon"></span>RSS</a>
+                            </li>
+                        </ul>
+                        <div class="b-follow-us">
+    <div class="row"><a
+        href="http://www.facebook.com/RTnews/" class="follow_icon_fb" target="_blank"></a><a
+            href="https://twitter.com/#!/RT_com" class="follow_icon_twi" target="_blank"></a><a
+            href="http://www.youtube.com/user/RussiaToday" class="follow_icon_yt" target="_blank"></a><a
+            href="https://plus.google.com/102728491539958529040/posts" class="follow_icon_gplus" target="_blank"></a><a
+            href="//instagram.com/rt" class="follow_icon_inst" target="_blank"></a><a
+            href="https://soundcloud.com/rttv" class="follow_icon_scloud" target="_blank"></a><a
+            href="http://coub.com/russiatoday" class="follow_icon_coub" target="_blank"></a></div>
+</div>                    </div>
+                </div>
+            </div>
+        </div>
+
+        <div class="main-footer-bottom">
+            <div class="main-footer-wp">
+                <div class="copyright">
+                    <figure class="logo-bottom pic">
+                        <img src="/static/img/static/logo-bottom.png" alt="RT.com" /></figure>
+                        &copy; Autonomous Nonprofit Organization “TV-Novosti”, 2005–2015. All rights reserved.
+                                        </div>
+            </div>
+        </div>
+    </div>
+
+    <div id="mobileNav" class="mobile-nav">
+              <ul>
+                        <li class="active"><a href="/news/">News</a></li>
+                        <li class=""><a href="/usa/">USA</a></li>
+                        <li class=""><a href="/uk/">UK</a></li>
+                        <li class=""><a href="/politics/">Russian politics</a></li>
+                        <li class=""><a href="/business/">Business</a></li>
+                        <li class=""><a href="/op-edge/">Op-Edge</a></li>
+                        <li class=""><a href="/in-vision/">In vision</a></li>
+                        <li class=""><a href="/in-motion/">In motion</a></li>
+                        <li class=""><a href="/shows/">Shows</a></li>
+                        <li class=""><a href="/bulletin-board/">Bulletin board</a></li>
+                        <li class=""><a href="/more/">More</a></li>
+                    </ul>
+      <div class="top-modal-panel"><a id="hideNav" class="i-mobile i-menu"></a></div>
+    </div>
+<!--LiveInternet counter-->
+  <script type="text/javascript">
+  new Image().src = "http://counter.yadro.ru/hit?r"+
+  escape(document.referrer)+((typeof(screen)=="undefined")?"":
+  ";s"+screen.width+"*"+screen.height+"*"+(screen.colorDepth?
+  screen.colorDepth:screen.pixelDepth))+";u"+escape(document.URL)+
+  ";"+Math.random();</script>
+<!--/LiveInternet-->	<!-- Start of StatCounter Code -->
+<script type="text/javascript">
+  var sc_project=4158078;
+  var sc_invisible=1;
+  var sc_partition=54;
+  var sc_click_stat=1;
+  var sc_security="fd2686a7";
+  
+  
+</script>
+<script type="text/javascript" src="/st/js/counters/statcounter.js"></script>
+<noscript><div class="statcounter"><a title="myspace hit counter" href="http://www.statcounter.com/myspace/" target="_blank"><img class="statcounter" src="http://c.statcounter.com/4158078/0/fd2686a7/1/" alt="myspace hit counter" ></a></div></noscript>
+<!-- End of StatCounter Code -->
+<!-- Begin comScore Tag -->
+<script>
+  var _comscore = _comscore || [];
+  _comscore.push({ c1: "2", c2: "17935924" });
+  (function() {
+    var s = document.createElement("script"), el = document.getElementsByTagName("script")[0]; s.async = true;
+    s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+    el.parentNode.insertBefore(s, el);
+  })();
+</script>
+<noscript>
+  <img src="http://b.scorecardresearch.com/p?c1=2&c2=17935924&cv=2.0&cj=1" />
+</noscript>
+<!-- End comScore Tag --><!-- tns-counter.ru -->
+<script type="text/javascript">
+(new Image()).src = '//www.tns-counter.ru/V13a***R>' + document.referrer.replace(/\*/g,'%2a') + '*russianrt_com/ru/UTF-8/tmsec=rt_total/' + Math.round(Math.random()*1E9);
+</script>
+<noscript>
+	<img src="http://www.tns-counter.ru/V13a****russianrt_com/ru/UTF-8/tmsec=rt_total/" width="1" height="1" alt="" />
+</noscript>
+<!--/ tns-counter.ru --><script type='text/javascript'>
+var _sf_async_config={};
+/** CONFIGURATION START /
+_sf_async_config.uid = 55718;
+_sf_async_config.domain = 'rt.com';
+_sf_async_config.useCanonical = true;
+/ CONFIGURATION END **/
+(function(){
+function loadChartbeat() {
+window._sf_endpt=(new Date()).getTime();
+var e = document.createElement('script');
+e.setAttribute('language', 'javascript');
+e.setAttribute('type', 'text/javascript');
+e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+document.body.appendChild(e);
+}
+var oldonload = window.onload;
+window.onload = (typeof window.onload != 'function') ?
+loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script><!-- begin of Top100 code -->
+
+<script id="top100Counter" type="text/javascript" src="http://counter.rambler.ru/top100.jcn?1886286"></script>
+<noscript>
+<img src="http://counter.rambler.ru/top100.cnt?1886286" alt="" width="1" height="1" border="0" />
+
+</noscript>
+<!-- end of Top100 code --><script>
+    (function (w, d) {
+        var s1 = d.getElementsByTagName('script')[0],
+            s = d.createElement('script'),
+            cid = '476';
+        s.src = '//tru.am/scripts/ta-pagesocial-sdk.js';
+        if (s.addEventListener) {
+            s.addEventListener('load', function () {
+                w.TRUE_ANTHEM.configure(cid);
+            }, false);
+        } else {
+            s.onreadystatechange = function () {
+                if (s.readyState in {loaded: 1, complete: 1}) {
+                    s.onreadystatechange = null;
+                    w.TRUE_ANTHEM.configure(cid);
+                }
+            };
+        }
+        s1.parentNode.insertBefore(s, s1);
+    }(window, document));
+</script>
+    <!-- Javascript tag  -->
+    <!-- begin ZEDO for channel: InView , publisher: default , Ad Dimension: InView-160x600 -->
+    <script language="JavaScript">
+    var zflag_nid="2886"; var zflag_cid="1"; var zflag_sid="0"; var zflag_width="160"; var zflag_height="600"; var zflag_sz="88";</script> <script language="JavaScript" src="http://e2.zedo.com/jsc/e2/fhs.js"></script>  
+    <!-- end ZEDO for channel: InView , publisher: default , Ad Dimension: InView-160x600 -->
+
+
+    <!-- 1x1 -->
+    <div id='div-gpt-ad-1422625477597-0' style='width:1px; height:1px; position: fixed;'>
+    <script type='text/javascript'>
+    googletag.cmd.push(function() { googletag.display('div-gpt-ad-1422625477597-0'); });
+    </script>
+    </div>
+
+</body>
+</html>

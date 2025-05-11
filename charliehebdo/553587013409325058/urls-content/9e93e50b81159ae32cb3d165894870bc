@@ -1,0 +1,2720 @@
+HTTP/1.1 200 OK
+Vary: Accept-Encoding
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+ETag: W/"wM7482567P/FhBz5ygprGw=="
+X-UA-Compatible: IE=edge,chrome=1
+X-Powered-By: 2886-a0698bd
+Content-Length: 13423
+Cache-Control: public, max-age=57
+Date: Mon, 15 Jun 2015 12:56:19 GMT
+Connection: keep-alive
+
+<!doctype html>
+
+<!--[if lt IE 9]><html id="root" class="no-js lt-ie9 no-touch" lang="en"> <![endif]-->
+<!--[if gte IE 9]><!--> <html id="root" class="no-js no-touch" lang="en"> <!--<![endif]-->
+
+<head>
+	<meta charset="utf-8">
+	<title>Paris Suspects Killed As Police End Stand-Off</title>
+	<meta name="description" content="The brothers&#39; hostage is free after the pair come out firing as the siege reaches a deadly conclusion at the warehouse near Paris.">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="shortcut icon" href="/images/favicon.ico" type="image/x-icon">
+	<link rel="apple-touch-icon" href="/images/f670e1be.sky-news-touch.png"><!-- 60x60 -->
+	<link rel="apple-touch-icon" sizes="76x76" href="/images/1b5f54e3.sky-news-touch-ipad.png"><!-- 76x76 -->
+	<link rel="apple-touch-icon" sizes="120x120" href="/images/74ebaccd.sky-news-touch-retina.png"><!-- 120x120 -->
+	<link rel="apple-touch-icon" sizes="152x152" href="/images/61bf2734.sky-news-touch-retina-ipad.png"><!-- 152x152 -->
+
+	<meta property="fb:app_id" content="744976955573926"/>
+	<meta property="og:site_name" content="Sky News"/>
+	<meta property="og:locale" content="en_GB"/>
+
+	
+<meta property="og:title" content="Paris Suspects Killed As Police End Stand-Off">
+<meta property="og:description" content="The brothers&#39; hostage is free after the pair come out firing as the siege reaches a deadly conclusion at the warehouse near Paris.">
+<meta property="og:url" content="http://news.sky.com/story/1405095/paris-suspects-killed-as-police-end-stand-off">
+<meta property="og:type" content="article">
+<meta property="og:image" content="http://media.skynews.com/media/images/generated/2015/1/9/362124/default/v1/cegrab-20150109-160157-0-1-1600x900.jpg"/>
+
+
+	
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:site" content="@skynews" />
+
+
+    <script>
+    var adsEnabled = true,
+    	analyticsEnabled = true;
+
+    if (window.localStorage && window.localStorage.getItem('australia-edition') === '1') {
+    	document.querySelector('html').className += ' australia-edition';
+    }
+
+    (function() {
+		var root = document.getElementById('root');
+		root.className = root.className.replace('no-js', 'js');
+
+		// Chartbeat script needed at beginning of head
+		var _sf_startpt=(new Date()).getTime();
+		window.skynews = {};
+		window.skynews.config = {
+			videoPlayerUrl: "//player.sky.com/ga/dist/jquery.skyplayer.js",
+			analytics: {
+				site: 'sky/portal/news',
+				account: 'bskybskynews,bskybnetworkglobal',
+				section: '',
+				headline: '',
+				contentType: '',
+				contentId: '',
+				chartbeat: {
+					enabled: true
+				}
+			},
+			ad: {
+				tag: "20346936/skynews/world/content",
+				artId: "1405095"
+			},
+			disableResponsiveImages: false,
+			elections: {},
+			parties: {"con":"Conservative","dup":"Democratic Unionist Party","lab":"Labour","bnp":"British National Party","snp":"Scottish National Party","uup":"Ulster Unionist Party","sdlp":"Social Democratic and Labour Party","ukip":"UK Independence Party","green":"Green","libdem":"Liberal Democrats","others":"Others","other":"Others","respect":"Respect","speaker":"Speaker","alliance":"Alliance Party","sinnfein":"Sinn Fein","plaidcymru":"Plaid Cymru","independent":"Independent Party"}
+		};
+	}());
+	</script>
+
+	<script src="/scripts/bfaad6ea.bundle.js" async></script>
+
+	<!--[if lt IE 9]>
+	<link rel="stylesheet" href="/styles/bed6edd8.lt-ie9.css">
+	<script src="/scripts/a45bfc9a.ie.js" async></script>
+	<![endif]-->
+
+	<!--[if gte IE 9]><!-->
+	<link rel="stylesheet" href="/styles/8ea448ac.main.css">
+	<!--<![endif]-->
+
+	<link rel="stylesheet" href="//player.sky.com/css/skyplayer.min.css" >
+
+	<!-- AUDIENCE SCIENCE AD TAG CODE -->
+	<script type="text/javascript">
+		var rsi_segs = [];
+		var segs_beg=document.cookie.indexOf('rsi_segs=');
+		if(segs_beg>=0){
+		 segs_beg=document.cookie.indexOf('=',segs_beg)+1;
+		 if(segs_beg>0){
+		  var segs_end=document.cookie.indexOf(';',segs_beg);
+		  if(segs_end==-1)segs_end=document.cookie.length;
+		  rsi_segs=document.cookie.substring(segs_beg,segs_end).split('|');
+		}}
+		var segLen=20
+		var segQS="",segArr=new Array()
+		if (rsi_segs.length<segLen){segLen=rsi_segs.length}
+		for (var i=0;i<segLen;i++){
+		    segArr=rsi_segs[i].split("_")
+		    if (segArr.length>1) segQS+=("rsi"+"="+segArr[1]+"+")
+		}
+	</script>
+	<!-- END AUDIENCE SCIENCE AD TAG CODE -->
+</head>
+
+<body data-sn-base-url="http://news.sky.com" class="">
+	<div id="cookie-notice" class="cookie-notice">
+		<div class="cookie-notice__wrapper">
+			<p class="cookie-notice__text">We use <a href="http://help.sky.com/security/privacy/privacy-and-cookies-notice" target="_blank">cookies</a> to give you the best experience. If you do nothing we'll assume that it's ok.</p>
+			<button type="button" id="cookie-notice__close" class="cookie-notice__close" onclick="handleCookieCloseClick()">
+				<span class="cookie-notice__close-text">
+					Close
+				</span>
+				<i class="cookie-notice__close-icon skycon skycon-close"></i>
+			</button>
+			<script>
+				function hideCookieNotice() { document.getElementById('cookie-notice').className='cookie-notice cookie-notice--hidden'; }
+				function handleCookieCloseClick() {
+					document.cookie='eucd=0;path=/;expires='+(new Date(+new Date()+157785e6)).toGMTString();
+					hideCookieNotice();
+				}
+				if (document.cookie.search('eucd=0') !== -1) {
+					hideCookieNotice();
+				}
+			</script>
+		</div>
+	</div>
+	<div class="viewport">
+		
+<header class="header" aria-label="Sky News">
+	<div class="header__content">
+
+		<div class="header__logo">
+			<a href="/" class="header__link"><img src="/images/dbb30625.sky-news-logo.png" alt="Sky News" class="header__image"></a>
+		</div>
+
+		<span class="edition edition--desktop js-edition">
+			<a href="/us" class="js-edition__link edition__link">Switch to US Edition</a>
+		</span>
+
+		<div class="header__actions header__actions--desktop">
+			<form action="/search" method="get" role="search">
+	<span class="search__icon skycon-search"></span>
+	<input type="search" name="term" class="search__input" placeholder="Search" value="">
+	<input type="hidden" name="filter" value="">
+
+	<button class="search__clear-button skycon-close js-button-close skycon" type="button">
+		<span class="button__a11y">Clear search</span>
+	</button>
+
+	<button type="submit" class="search__button skycon-search"><span class="search__button-text">Search</span></button>
+</form>
+			<a href="/watch-live" class="button button--watch-live button--watch-live-desktop">Watch Live</a>
+		</div>
+
+
+
+		<div class="navigation" data-append="navigation">
+			
+
+<nav class="js-append" aria-label="sections" role="navigation">
+	<ul class="navigation__list">
+		<li class="navigation__item navigation__item--first"><a href="/" class="navigation__link">Home</a></li>
+		<li class="navigation__item navigation__item--even"><a href="/uk" class="navigation__link">UK</a></li>
+		<li class="navigation__item"><a href="/world" class="navigation__link navigation__link--active">World</a></li>
+		<li class="navigation__item navigation__item--even"><a href="/usnews" class="navigation__link">US</a></li>
+		<li class="navigation__item"><a href="/business" class="navigation__link">Business</a></li>
+		<li class="navigation__item navigation__item--even"><a href="/politics" class="navigation__link">Politics</a></li>
+		<li class="navigation__item"><a href="/technology" class="navigation__link">Technology</a></li>
+		<li class="navigation__item navigation__item--even"><a href="/entertainment" class="navigation__link">Entertainment</a></li>
+		<li class="navigation__item"><a href="/strangenews" class="navigation__link">Strange News</a></li>
+		<li class="navigation__item navigation__item--even"><a href="/weather" class="navigation__link">Weather</a></li>
+
+		<li class="navigation__item navigation__item--more navigation__item--last">
+			<button class="button button--more js-button js-button-more" aria-hidden="true">More
+				<span class="chevron__container">
+					<img class="chevron__image" src="/images/da4f1776.chevron.png" alt="" />
+				</span>
+			</button>
+
+			
+	<div class="panel panel--small js-panel js-panel--small">
+
+		
+
+		<div class="panel__section">
+			<ul class="social__list">
+	<li class="social__item">
+		<a class="social__link" href="https://www.facebook.com/skynews">
+			<i aria-hidden="true" class="skycon skycon-facebook social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Facebook</span>
+		</a>
+	</li>
+
+	<li class="social__item">
+		<a class="social__link" href="https://twitter.com/SkyNews">
+			<i aria-hidden="true" class="skycon skycon-twitter social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Twitter</span>
+		</a>
+	</li>
+
+	<li class="social__item">
+		<a class="social__link" href="https://www.youtube.com/user/skynews">
+			<i aria-hidden="true" class="skycon skycon-youtube social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">YouTube</span>
+		</a>
+	</li>
+
+	<li class="social__item">
+		<a class="social__link" href="https://instagram.com/skynews/">
+			<i aria-hidden="true" class="skycon skycon-instagram social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Instagram</span>
+		</a>
+	</li>
+
+	<li class="social__item">
+		<a class="social__link" href="https://vine.co/Sky.News">
+			<i aria-hidden="true" class="skycon skycon-vine social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Vine</span>
+		</a>
+	</li>
+
+	<li class="social__item social__item--last">
+		<a class="social__link" href="https://plus.google.com/+SkyNews">
+			<i aria-hidden="true" class="skycon skycon-google-plus social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Google+</span>
+		</a>
+	</li>
+</ul>
+
+		</div>
+
+		
+
+	</div>
+
+		</li>
+	</ul>
+</nav>
+
+
+		</div>
+
+		<span class="header__header-gradient">
+			<button class="button button--burger js-button js-button-burger" aria-hidden="true">
+				<i class="burger"><span class="button__a11y">Menu</span></i>
+			</button>
+		</span>
+
+		
+	<div class="panel panel--large js-panel js-panel--large">
+
+		
+			<form action="/search" method="get" role="search">
+	<span class="search__icon skycon-search"></span>
+	<input type="search" name="term" class="search__input" placeholder="Search" value="">
+	<input type="hidden" name="filter" value="">
+
+	<button class="search__clear-button skycon-close js-button-close skycon" type="button">
+		<span class="button__a11y">Clear search</span>
+	</button>
+
+	<button type="submit" class="search__button skycon-search"><span class="search__button-text">Search</span></button>
+</form>
+			<a href="/watch-live" class="button button--watch-live button--watch-live-panel-large">Watch Live</a>
+
+			<div class="navigation--panel" data-append="navigation"></div>
+		
+
+		<div class="panel__section">
+			<ul class="social__list">
+	<li class="social__item">
+		<a class="social__link" href="https://www.facebook.com/skynews">
+			<i aria-hidden="true" class="skycon skycon-facebook social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Facebook</span>
+		</a>
+	</li>
+
+	<li class="social__item">
+		<a class="social__link" href="https://twitter.com/SkyNews">
+			<i aria-hidden="true" class="skycon skycon-twitter social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Twitter</span>
+		</a>
+	</li>
+
+	<li class="social__item">
+		<a class="social__link" href="https://www.youtube.com/user/skynews">
+			<i aria-hidden="true" class="skycon skycon-youtube social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">YouTube</span>
+		</a>
+	</li>
+
+	<li class="social__item">
+		<a class="social__link" href="https://instagram.com/skynews/">
+			<i aria-hidden="true" class="skycon skycon-instagram social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Instagram</span>
+		</a>
+	</li>
+
+	<li class="social__item">
+		<a class="social__link" href="https://vine.co/Sky.News">
+			<i aria-hidden="true" class="skycon skycon-vine social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Vine</span>
+		</a>
+	</li>
+
+	<li class="social__item social__item--last">
+		<a class="social__link" href="https://plus.google.com/+SkyNews">
+			<i aria-hidden="true" class="skycon skycon-google-plus social--icon"></i>
+			<span class="social__pre-text">Sky News on </span><span class="social__name">Google+</span>
+		</a>
+	</li>
+</ul>
+
+		</div>
+
+		
+		<span class="edition edition--panel-large js-edition">
+			<a href="/us" class="js-edition__link edition__link">Switch to US Edition</a>
+		</span>
+		
+
+	</div>
+
+	</div>
+</header>
+
+
+		
+			
+			
+
+	<div class="ad ad--leaderboard" data-id="ad-leaderboard" aria-label="Advertisement"></div>
+
+
+			
+		
+
+		
+
+
+		
+<script>
+	window.skynews.config.analytics.section = 'world/Paris Suspects Killed As Police End Stand-Off';
+	window.skynews.config.analytics.headline = 'Paris Suspects Killed As Police End Stand-Off';
+	window.skynews.config.analytics.contentType = 'story';
+	window.skynews.config.analytics.contentId = '1405095';
+</script>
+
+
+<div role="main" class="main">
+
+	<article class="story">
+		
+		<header class="story__header">
+			<h1 class="story__headline story__headline--breaking" aria-label="Breaking News: Paris Suspects Killed As Police End Stand-Off">
+				<span aria-hidden="true">Paris Suspects Killed As Police End Stand-Off</span>
+			</h1>
+			<p class="story__standfirst">The brothers&#39; hostage is free after the pair come out firing as the siege reaches a deadly conclusion at the warehouse near Paris.</p>
+			<div class="last-updated">
+				<p class="last-updated__text">
+					<span class="last-updated__time">19:55, UK, </span>
+					<span class="last-updated__day">Friday 09</span>
+					<span class="last-updated__month-year">January 2015</span>
+				</p>
+			</div>
+		</header>
+
+		<!-- "normal" wrapper. Post-story content floated alongside primary and content -->
+		<div class="story__content-outer-wrapper">
+			<div class="story__media">
+				
+					
+						
+					
+					<div class="module module--primary">
+						
+
+	
+		
+
+	<div class="module video" data-format-low="http://video.news.sky.com/video/h264/vod/374/2015/01/DIGI155633FRPARISDAMMARTINSIEGEGUNFIRE1420819691789374.mp4" data-format-high="http://video.news.sky.com/video/h264/vod/700/2015/01/DIGI155633FRPARISDAMMARTINSIEGEGUNFIRE1420819691789700.mp4">
+		<div class="video__placeholder-wrapper js-video">
+
+			
+
+	
+	
+	
+	
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--16x9">
+
+			
+			<img src="http://media.skynews.com/media/images/generated/2015/1/9/362124/default/v1/cegrab-20150109-160157-0-1-144x81.jpg" class="image__item video__teaser-image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/362124/default/v1/cegrab-20150109-160157-0-1-{width}x{height}.jpg" data-sizes="144x81 362x204 762x428 942x530" data-sizes-wide="" data-breakpoint="" alt="" />
+			
+			
+			<noscript><img src="http://media.skynews.com/media/images/generated/2015/1/9/362124/default/v1/cegrab-20150109-160157-0-1-144x81.jpg" class="image__item video__teaser-image" alt="" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+			<button class="video__play--icon">
+				<span class="video__play-a11y">Play video "Gunfire And Explosions At Siege"</span>
+			</button>
+		</div>
+
+		<!--html5 video player: don't add 'display: none' or 'visibility: hidden' to this-->
+		<div class="video__wrapper">
+	        <video class="video__item" data-autoload="true" data-guid="news-1420819691789" data-autoplay="false" data-fwsitesectionid="sky.portal.news:world:story" preload="metadata">
+				<source src="http://video.news.sky.com/video/h264/vod/374/2015/01/DIGI155633FRPARISDAMMARTINSIEGEGUNFIRE1420819691789374.mp4" type="video/mp4" data-resolution="small" />
+				<source src="http://video.news.sky.com/video/h264/vod/700/2015/01/DIGI155633FRPARISDAMMARTINSIEGEGUNFIRE1420819691789700.mp4" type="video/mp4" data-resolution="medium" />
+	        </video>
+    	</div>
+
+        
+		<span  class="video__caption" aria-hidden="true">
+			<span class="video__type">Video:</span>
+			<span class="video__teaser">Gunfire And Explosions At Siege</span>
+		</span>
+		
+
+	</div>
+
+	
+
+
+					</div>
+				
+			</div>
+
+			
+	
+
+	<div class="share ">
+		<ul class="share__list" data-tracking-module="social">
+			<li class="share__item">
+				<a target="_blank" class="share__link js-share" href="https://twitter.com/intent/tweet?text=Paris%20Suspects%20Killed%20As%20Police%20End%20Stand-Off&amp;url=http%3A%2F%2Fnews.sky.com%2Fstory%2F1405095%2Fparis-suspects-killed-as-police-end-stand-off" data-tracking-label="Twitter">
+					<i aria-hidden="true" class="skycon skycon-twitter share--icon"></i>
+					<span class="a11y">Share on Twitter</span>
+				</a>
+			</li>
+
+			<li class="share__item">
+				<a target="_blank" class="share__link js-share" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fnews.sky.com%2Fstory%2F1405095%2Fparis-suspects-killed-as-police-end-stand-off&amp;t=Shared%20from%20Sky%20News%3A%20Paris%20Suspects%20Killed%20As%20Police%20End%20Stand-Off" data-tracking-label="Facebook">
+					<i aria-hidden="true" class="skycon skycon-facebook share--icon"></i>
+					<span class="a11y">Share on Facebook</span>
+				</a>
+			</li>
+
+			<li class="share__item">
+				<a target="_blank" class="share__link js-share" href="https://plus.google.com/share?url=http%3A%2F%2Fnews.sky.com%2Fstory%2F1405095%2Fparis-suspects-killed-as-police-end-stand-off" data-tracking-label="GooglePlus">
+					<i aria-hidden="true" class="skycon skycon-google-plus share--icon"></i>
+					<span class="a11y">Share on Google+</span>
+				</a>
+			</li>
+
+
+			<li class="share__item share__item-whatsapp">
+				<a target="_blank" class="share__link js-share" href="whatsapp://send?text=Shared%20from%20Sky%20News%3A%20Paris%20Suspects%20Killed%20As%20Police%20End%20Stand-Off%20http%3A%2F%2Fnews.sky.com%2Fstory%2F1405095%2Fparis-suspects-killed-as-police-end-stand-off" data-tracking-label="WhatsApp">
+					<i aria-hidden="true" class="skycon skycon-whatsapp share--icon"></i>
+					<span class="a11y">Share on Whatsapp</span>
+				</a>
+			</li>
+
+
+			<li class="share__item share__item--last">
+				<a class="share__link" href="mailto:?to=&amp;subject=Shared%20from%20Sky%20News%3A%20Paris%20Suspects%20Killed%20As%20Police%20End%20Stand-Off&amp;body=Shared%20from%20Sky%20News%3A%20Paris%20Suspects%20Killed%20As%20Police%20End%20Stand-Off%20http%3A%2F%2Fnews.sky.com%2Fstory%2F1405095%2Fparis-suspects-killed-as-police-end-stand-off"  data-tracking-label="Email">
+					<i aria-hidden="true" class="skycon skycon-mail share--icon"></i>
+					<span class="a11y">Share by email</span>
+				</a>
+			</li>
+		</ul>
+	</div>
+
+	<script>
+		if( /Android|iPhone/i.test(navigator.userAgent) ) {
+			var shareBlocks = document.querySelectorAll('.share__item-whatsapp');
+			for (var i in shareBlocks) {
+				shareBlocks[i].style.display = 'block';
+			}
+		}
+	</script>
+
+
+			
+
+			<div class="content-column">
+				
+
+					
+
+					
+					<p class="story__intro">The two brothers suspected of massacring staff at the offices of Charlie Hebdo in Paris have been killed and their hostage freed.</p>
+					
+
+					
+						
+						
+
+	<div class="ad ad--mpu ad--mpu-story" data-id="ad-mpu-inline" aria-label="Advertisement"></div>
+
+
+					 	
+						
+							
+								
+									<p>Gunshots and explosions were heard at the Dammartin-en-Goele warehouse, where brothers Said and Cherif Kouachi had been holed up with a 26-year-old male hostage for hours.</p>
+								
+							
+						
+							
+								
+									<p>According to media reports in France, the brothers - who came out firing - have been killed and their hostage was freed safely.</p>
+								
+							
+						
+							
+								
+									<p>Some reports claim he was hidden in a corner of the building and communicating with police.</p>
+								
+							
+						
+							
+								
+									<p>A helicopter that had been hovering nearby landed on top of the building during the raid.</p>
+								
+							
+						
+							
+								
+									
+
+	
+		
+
+	<div class="module module--inline  video" data-format-low="http://video.news.sky.com/video/h264/vod/374/2015/01/DIGI155633FRPARISDAMMARTINSIEGEGUNFIRE1420819691789374.mp4" data-format-high="http://video.news.sky.com/video/h264/vod/700/2015/01/DIGI155633FRPARISDAMMARTINSIEGEGUNFIRE1420819691789700.mp4">
+		<div class="video__placeholder-wrapper js-video">
+
+			
+
+	
+	
+	
+	
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--16x9">
+
+			
+			<img src="http://media.skynews.com/media/images/generated/2015/1/9/362124/default/v1/cegrab-20150109-160157-0-1-144x81.jpg" class="image__item video__teaser-image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/362124/default/v1/cegrab-20150109-160157-0-1-{width}x{height}.jpg" data-sizes="144x81 362x204 762x428 942x530" data-sizes-wide="" data-breakpoint="" alt="" />
+			
+			
+			<noscript><img src="http://media.skynews.com/media/images/generated/2015/1/9/362124/default/v1/cegrab-20150109-160157-0-1-144x81.jpg" class="image__item video__teaser-image" alt="" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+			<button class="video__play--icon">
+				<span class="video__play-a11y">Play video "Gunfire And Explosions At Siege"</span>
+			</button>
+		</div>
+
+		<!--html5 video player: don't add 'display: none' or 'visibility: hidden' to this-->
+		<div class="video__wrapper">
+	        <video class="video__item" data-autoload="true" data-guid="news-1420819691789" data-autoplay="false" data-fwsitesectionid="sky.portal.news:world:story" preload="metadata">
+				<source src="http://video.news.sky.com/video/h264/vod/374/2015/01/DIGI155633FRPARISDAMMARTINSIEGEGUNFIRE1420819691789374.mp4" type="video/mp4" data-resolution="small" />
+				<source src="http://video.news.sky.com/video/h264/vod/700/2015/01/DIGI155633FRPARISDAMMARTINSIEGEGUNFIRE1420819691789700.mp4" type="video/mp4" data-resolution="medium" />
+	        </video>
+    	</div>
+
+        
+		<span  class="video__caption" aria-hidden="true">
+			<span class="video__type">Video:</span>
+			<span class="video__teaser">Gunfire And Explosions At Siege</span>
+		</span>
+		
+
+	</div>
+
+	
+
+
+								
+							
+						
+							
+								
+									<p>Sky's Ian Woods, who is on the scene, said: "There were several bursts of gunfire that lasted about 10 seconds. Since then we've heard four or five explosions."</p>
+								
+							
+						
+							
+								
+									<p>There was then around a minute of silence, followed by further explosions.</p>
+								
+							
+						
+							
+								
+									<p>Several ambulances were then seen travelling at speed in the area of the factory complex following the explosions, close to the outskirts of Paris and near to Charles De Gaulle airport.</p>
+								
+							
+						
+							
+								
+									<p>It came as <a href="http://news.sky.com/story/1405106/paris-supermarket-siege-explosions-heard"><strong>six explosions were heard at the Paris supermarket where at least six hostages have been held by gunmen</strong></a>. Reports say four of the hostages plus the hostage-taker have been killed.</p>
+								
+							
+						
+							
+								
+									<p><a href="http://news.sky.com/story/1405100/the-paris-terrorists-and-their-al-qaeda-links"><strong>The two incidents are apparently linked to each other, and to al Qaeda</strong></a>.</p>
+								
+							
+						
+							
+								
+									<p>Minutes before the Dammartin-en-Goele operation, dozens of workers who had been trapped on the industrial estate next to the stand-off were seen leaving the area in their cars, accompanied by a police escort.</p>
+								
+							
+						
+							
+								
+									
+
+	
+		
+
+	
+
+		
+
+		
+		<div class="module gallery gallery--4x3 module--inline gallery--teaser-view" data-breakpoint="700" tabindex="0">
+		
+
+			<div class="gallery__position" aria-hidden="true"><span class="js-gallery-current">1</span>/<span class="js-gallery-total">28</span></div>
+
+			<div class="gallery__container">
+				<ol class="gallery__list" aria-labelledby="gallery__teaser--1404838">
+					
+					<li class="gallery__item gallery__item--first">
+						
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="http://media.skynews.com/media/images/generated/2015/1/9/362140/default/v4/461228376-1-300x225.jpg" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/362140/default/v4/461228376-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Manhunt For Charlie Hebdo Attackers Continues In Northern France" />
+			
+			
+			<noscript><img src="http://media.skynews.com/media/images/generated/2015/1/9/362140/default/v4/461228376-1-300x225.jpg" class="image__item gallery__image" alt="Manhunt For Charlie Hebdo Attackers Continues In Northern France" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+							<div class="gallery__text">
+								<p class="gallery__teaser" id="gallery__teaser--1404838"><span class="gallery__module-type">Gallery:</span> From Car Chase To Last Stand</p>
+								
+									<p class="gallery__caption">Two brothers suspected of killing 12 people at the Charlie Hebdo offices in Paris have been killed. They had earlier taken one person hostage as police cornered the gunmen in the area, northeast of Paris</p>
+								
+							</div>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/362121/default/v3/cegrab-20150109-155645-0-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Explosions in Dammartin" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Explosions in Dammartin" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/362124/default/v1/cegrab-20150109-160157-0-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Explosions in Dammartin" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Explosions in Dammartin" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Blasts and gunfire were later heard at the scene</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/10/362230/default/v2/rtr4kqyt-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="French special forces handle arms as they take position on a rooftop of the complex at the scene of a hostage taking at an industrial zone in Dammartin-en-Goele" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="French special forces handle arms as they take position on a rooftop of the complex at the scene of a hostage taking at an industrial zone in Dammartin-en-Goele" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Special forces on the roof</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/362141/default/v4/461227038-2-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Manhunt For Charlie Hebdo Attackers Continues In Northern France" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Manhunt For Charlie Hebdo Attackers Continues In Northern France" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">These snipers were seen on the roof a building in the area</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/362139/default/v3/461228396-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Manhunt For Charlie Hebdo Attackers Continues In Northern France" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Manhunt For Charlie Hebdo Attackers Continues In Northern France" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/8/361535/default/v2/composite-image-paris-suspects-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Cherif Kouachi (L) and Said Kouachi (R)" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Cherif Kouachi (L) and Said Kouachi (R)" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Cherif Kouachi (L) and Said Kouachi (R) had led police on a manhunt lasting more than 48 hours</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/362137/default/v4/helicopter-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="France manhunt" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="France manhunt" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">A helicopter at the scene at around the explosions and gunfire were heard</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/361971/default/v2/rtr4koms-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Members of the French intervention gendarme forces arrive at the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Members of the French intervention gendarme forces arrive at the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">This was the scene in Dammartin-en-Goele earlier today</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/361995/default/v1/rtr4koxy-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="French gendarmes secure the roundabout near the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="French gendarmes secure the roundabout near the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/361976/default/v2/rtr4kope-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="A helicopter with members of the French intervention gendarme forces hover above the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="A helicopter with members of the French intervention gendarme forces hover above the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">A helicopter with members of the French intervention gendarme forces hover above the scene of the hostage drama</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/361973/default/v2/rtr4konc-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Members of the French intervention gendarme forces arrive at the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Members of the French intervention gendarme forces arrive at the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/361955/default/v1/cegrab-20150109-090149-0-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Suspects in Charlie Hebdo shooting reportedly involved in car chase on French motorway" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Suspects in Charlie Hebdo shooting reportedly involved in car chase on French motorway" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/361988/default/v2/rtr4kou7-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="A French Air Force helicopter with intervention forces hovers above the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="A French Air Force helicopter with intervention forces hovers above the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/361959/default/v2/461212156-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Paris suspects in stand-off" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Paris suspects in stand-off" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/361963/default/v1/printers-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Google Street View image of a printing company where the suspects are under siege" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Google Street View image of a printing company where the suspects are under siege" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">A Google Street View image of a printing company where the hostage drama unfolded</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/361970/default/v2/461212436-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Members of the French intervention gendarme forces arrive at the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Members of the French intervention gendarme forces arrive at the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/361989/default/v2/rtr4kous-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="A French Army helicopter with intervention forces hovers near the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="A French Army helicopter with intervention forces hovers near the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/362016/default/v3/461218172-10-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Manhunt For Charlie Hebdo Attackers Continues In Northern France" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Manhunt For Charlie Hebdo Attackers Continues In Northern France" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Helicopters of the French Special Police Forces wait in a field</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/362019/default/v1/461218656-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="French police intervention force stand next to helicopters in front of a building in Dammartin-en-Goele" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="French police intervention force stand next to helicopters in front of a building in Dammartin-en-Goele" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">French police intervention officers stand next to helicopters in front of a building in Dammartin-en-Goele</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/362012/default/v3/461218192-10-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Manhunt For Charlie Hebdo Attackers Continues In Northern France" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Manhunt For Charlie Hebdo Attackers Continues In Northern France" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/362011/default/v3/461218258-10-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Manhunt For Charlie Hebdo Attackers Continues In Northern France" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Manhunt For Charlie Hebdo Attackers Continues In Northern France" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Police guard the entrance of the industrial estate</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/362014/default/v3/461218252-10-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Manhunt For Charlie Hebdo Attackers Continues In Northern France" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Manhunt For Charlie Hebdo Attackers Continues In Northern France" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">People congregate at the rear of the industrial estate</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/362015/default/v3/461218224-10-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Manhunt For Charlie Hebdo Attackers Continues In Northern France" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Manhunt For Charlie Hebdo Attackers Continues In Northern France" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">A police helicopter and the French Special Police Forces wait in fields nearby</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/361972/default/v2/461212426-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Members of the French intervention gendarme forces arrive at the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Members of the French intervention gendarme forces arrive at the scene of a hostage taking at an industrial zone in Dammartin-en-Goele, northeast of Paris" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/361975/default/v1/cegrab-20150109-093150-260-2-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Paris Shooting Police Vans in Dammartin" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Paris Shooting Police Vans in Dammartin" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Police vans in Dammartin-en-Goele</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/361952/default/v1/cegrab-20150109-085811-0-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="A French armed police officer shouts for people to stay back at a roadblock" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="A French armed police officer shouts for people to stay back at a roadblock" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">An armed police officer shouts at people to stay back at a roadblock near the industrial buildings</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+					<li class="gallery__item gallery__item--last">
+						
+							<script type="text/template" class="gallery__image-template">
+							
+							<!-- 4:3 landscape -->
+							
+
+	
+	
+	
+	
+	
+	
+	
+		
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/1/9/361925/default/v1/cegrab-20150109-084134-0-1-{width}x{height}.jpg" data-sizes="300x225 480x360 800x600 960x720 1024x768 1600x1200" data-sizes-wide="132x74 380x214 522x293 778x437 942x530 1600x900" data-breakpoint="700" alt="Suspects in Charlie Hebdo shooting reportedly involved in car chase on French motorway" />
+			
+			
+			<noscript><img src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" class="image__item gallery__image" alt="Suspects in Charlie Hebdo shooting reportedly involved in car chase on French motorway" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+
+							
+								<div class="gallery__text">
+									
+										<p class="gallery__caption">Police vans travel along the N2 towards Paris during a car chase before the siege</p>
+									
+								</div>
+							</script>
+						
+
+						
+					</li>
+					
+				</ol>
+			</div>
+
+			<div class="gallery__control-container" aria-hidden="true">
+				<div class="gallery__area gallery__area--left" data-direction="left">
+					<button class="gallery__control gallery__control--left skycon-chevron-left" data-direction="left" tabindex="-1"></button>
+				</div>
+
+				<div class="gallery__area gallery__area--right" data-direction="right">
+					<button class="gallery__control gallery__control--right skycon-chevron" data-direction="right" tabindex="-1"></button>
+				</div>
+			</div>
+
+			
+		</div>
+
+	
+
+	
+
+
+								
+							
+						
+							
+								
+									<p>This was followed by a number of cars heading in the other directions towards the factory, filled with individuals wearing balaclavas.</p>
+								
+							
+						
+							
+								
+									<p>The Kouachi brothers had been surrounded at the print works by special forces officers for several hours.</p>
+								
+							
+						
+							
+								
+									<p>They took refuge in the building with a hostage after being forced off the road into Paris by a police roadblock.</p>
+								
+							
+						
+							
+								
+									<p>Earlier in the day they broke cover from an area northeast of the capital and stole a car, before heading towards Paris.</p>
+								
+							
+						
+							
+								
+									<p>A police chase took place and they were forced off the road close to the city's outskirts.</p>
+								
+							
+						
+							
+								
+									<p><strong>:: Watch Sky News Special Report: Paris Attack at 8.30pm and tomorrow at 4.30pm and 8.30pm. See it on skynews.com, our mobile apps and on Sky News - channels Sky 501, Virgin Media 602, Freesat 202, Freeview 132.</strong></p>
+								
+							
+						
+					
+				
+			</div>
+
+			
+
+	<section class="partner-links partner-links--story" data-external="9" data-internal="3" data-widgetid="APP_2">
+
+		<script type="text/template" class="outbrain__template--external">
+			<li class="partner-links__item partner-links__item--{counter} partner-links__item--{parity}">
+				<a href="{href}" class="partner-links__link">
+					<div class="image">
+						<div class="image__wrapper image__wrapper--4x3">
+							<img src="{image}" alt="" />
+							
+						</div>
+					</div>
+					<span class="headline">{headline}</span>
+					<span class="partner-links__source">{source}</span>
+				</a>
+			</li>
+		</script>
+
+		<script type="text/template" class="outbrain__template--internal">
+			<li class="partner-links__item partner-links__item--{counter} partner-links__item--{parity}">
+				<a href="{href}" class="partner-links__link">
+					<div class="image">
+						<div class="image__wrapper image__wrapper--4x3">
+							<img src="{image}" alt="" />
+							
+						</div>
+					</div>
+					<span class="headline">{headline}</span>
+				</a>
+			</li>
+		</script>
+
+		<div class="partner-links__external">
+			<h2 class="partner-links__title">Promoted Stories</h2>
+
+			<ul class="partner-links__list js-partner-links"></ul>
+		</div>
+
+		<div class="partner-links__internal">
+			<h2 class="partner-links__title">From Sky News</h2>
+
+			<ul class="partner-links__list partner-links__list--internal js-partner-links-internal"></ul>
+		</div>
+
+		<span class="partner-links__recommended js-show-recommended">
+			<a href="http://www.outbrain.com/what-is/default/en" class="partner-links__link partner-links__link--desktop" target="_blank">Recommended by <span class="partner-links__name">Outbrain</span></a>
+			<a href="http://blog.outbrain.com/whatismobilepage" class="partner-links__link partner-links__link--mobile" target="_blank">Recommended by <span class="partner-links__name">Outbrain</span></a>
+		</span>
+	</section>
+
+
+
+			
+				
+	<p class="comment__nb">By posting a comment you are agreeing to abide by our <a href="http://www.sky.com/helpcentre/account-and-billing/terms-and-conditions/index.html">Terms &amp; Conditions</a>. See our <a href="/info/comments-faq">House Rules and FAQs</a>.</p>
+	
+	<div class="livecomments" id="livecomments-1405095"></div>
+
+	<script type="text/javascript" src="https://cdn.livefyre.com/Livefyre.js"></script>
+
+	<script type="text/javascript">
+		'use strict';
+
+		var getCookie = function (sKey) {
+				return decodeURIComponent(document.cookie.replace(new RegExp("(?:(?:^|.*;)\\s*" + encodeURIComponent(sKey).replace(/[\-\.\+\*]/g, "\\$&") + "\\s*\\=\\s*([^;]*).*$)|^.*$"), "$1")) || null;
+			},
+
+			SSO_token = getCookie('skyCFsidlf01'),
+			
+			networkConfig = {
+				network: 'bskyb.fyre.co'
+			},
+			
+			convConfig = {
+				siteId: '360818',
+				articleId: '1405095',
+				el: 'livecomments-1405095',
+				collectionMeta: 'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJodHRwOi8vbmV3cy5za3kuY29tL3N0b3J5LzE0MDUwOTUiLCJ0YWdzIjoiIiwidGl0bGUiOiJQYXJpcyBTdXNwZWN0cyBLaWxsZWQgQXMgUG9saWNlIEVuZCBTdGFuZC1PZmYiLCJhcnRpY2xlSWQiOjE0MDUwOTUsInR5cGUiOiJsaXZlY29tbWVudHMifQ.caf2IJBZdvv2MSpjHLJYAfqfOcVB-NNvehKxAZv9TIM'
+			};
+
+		Livefyre.require(['fyre.conv#3', 'auth'], function(Conv, auth) {
+			new Conv(networkConfig, [convConfig]);
+
+			auth.delegate({
+				login: function() {
+					window.location.assign('https://skyid.sky.com/signin/news?successUrl=' + window.location.href);
+				},
+
+				logout: function(errback) {
+					errback(null); // Notifies Livefyre that logout was successful
+
+					window.location.assign('https://skyid.sky.com/signout/news?successUrl=' + window.location.href);
+				},
+
+				viewProfile: function() {
+					return false;
+				}
+			});
+
+			auth.authenticate({ livefyre: SSO_token });
+		});
+
+	</script>
+
+
+			
+
+			<!-- end "wide primary" wrapper -->
+		</div>
+		<!-- end "normal" wrapper -->
+
+		
+
+<section class="story__post-content">
+	
+	
+	
+
+	<div class="ad ad--mpu" data-id="ad-mpu" aria-label="Advertisement"></div>
+
+
+	
+
+	
+	
+	
+	
+	
+		
+		<div class="top-stories top-stories--story">
+			
+				<h2 id="top-stories__title" class="top-stories__title">Top Stories</h2>
+			
+		    <ol class="top-stories__list" aria-labelledby="top-stories__title">
+		
+				
+				
+				<li class="top-stories__item top-stories__item--1 top-stories__item--odd">
+					
+
+	<a class="top-stories__link" href="/story/1502415/fugitive-mother-accused-of-playing-the-press">
+
+		
+
+		 
+
+			
+
+	
+	
+	
+	
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="http://media.skynews.com/media/images/generated/2015/6/9/398026/default/v1/white-glass-bgd-copy-1-91x68.jpg" class="image__item top-stories__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/6/9/398026/default/v1/white-glass-bgd-copy-1-{width}x{height}.jpg" data-sizes="91x68 300x225 480x360" data-sizes-wide="144x81 362x204 762x428 942x530 1600x900" data-breakpoint="210" alt="" />
+			
+			
+			<noscript><img src="http://media.skynews.com/media/images/generated/2015/6/9/398026/default/v1/white-glass-bgd-copy-1-91x68.jpg" class="image__item top-stories__image" alt="" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+			
+		
+
+		
+		
+	<span class="headline headline--normal headline--top-stories">Fugitive Mother Accused Of &#39;Playing The Press&#39;</span>
+
+				
+	</a>
+
+
+					
+				</li>
+		
+	
+		
+				
+				
+				<li class="top-stories__item top-stories__item--2 top-stories__item--even">
+					
+
+	<a class="top-stories__link" href="/story/1501938/youngest-brit-suicide-bomber-groomed-on-web">
+
+		
+
+		 
+
+			
+
+	
+	
+	
+	
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="http://media.skynews.com/media/images/generated/2015/6/14/398889/default/v2/pic2-1-91x68.jpg" class="image__item top-stories__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/6/14/398889/default/v2/pic2-1-{width}x{height}.jpg" data-sizes="91x68 300x225 480x360" data-sizes-wide="144x81 362x204 762x428 942x530 1600x900" data-breakpoint="210" alt="" />
+			
+			
+			<noscript><img src="http://media.skynews.com/media/images/generated/2015/6/14/398889/default/v2/pic2-1-91x68.jpg" class="image__item top-stories__image" alt="" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+			
+		
+
+		
+		
+	<span class="headline headline--normal headline--top-stories">Youngest Brit Suicide Bomber &#39;Groomed Online&#39;</span>
+
+				
+	</a>
+
+
+					
+				</li>
+		
+	
+		
+				
+				
+				<li class="top-stories__item top-stories__item--3 top-stories__item--odd">
+					
+
+	<a class="top-stories__link" href="/story/1502412/briton-killed-fighting-for-al-shabaab-in-kenya">
+
+		
+
+		 
+
+			
+
+	
+	
+	
+	
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="http://media.skynews.com/media/images/generated/2015/6/15/399043/default/v1/ins-collect-thomas-evans-001-1-91x68.jpg" class="image__item top-stories__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/6/15/399043/default/v1/ins-collect-thomas-evans-001-1-{width}x{height}.jpg" data-sizes="91x68 300x225 480x360" data-sizes-wide="144x81 362x204 762x428 942x530 1600x900" data-breakpoint="210" alt="" />
+			
+			
+			<noscript><img src="http://media.skynews.com/media/images/generated/2015/6/15/399043/default/v1/ins-collect-thomas-evans-001-1-91x68.jpg" class="image__item top-stories__image" alt="" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+			
+		
+
+		
+		
+	<span class="headline headline--normal headline--top-stories">&#39;Briton Killed&#39; In Militant Raid On Kenya Base</span>
+
+				
+	</a>
+
+
+					
+				</li>
+		
+	
+		
+				
+				
+				<li class="top-stories__item top-stories__item--4 top-stories__item--even">
+					
+
+	<a class="top-stories__link" href="/story/1502320/david-starkey-snp-strikingly-similar-to-nazis">
+
+		
+
+		 
+
+			
+
+	
+	
+	
+	
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="http://media.skynews.com/media/images/generated/2015/6/15/399021/default/v1/cegrab-20150615-103245-688-1-91x68.jpg" class="image__item top-stories__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/6/15/399021/default/v1/cegrab-20150615-103245-688-1-{width}x{height}.jpg" data-sizes="91x68 300x225 480x360" data-sizes-wide="144x81 362x204 762x428 942x530 1600x900" data-breakpoint="210" alt="" />
+			
+			
+			<noscript><img src="http://media.skynews.com/media/images/generated/2015/6/15/399021/default/v1/cegrab-20150615-103245-688-1-91x68.jpg" class="image__item top-stories__image" alt="" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+			
+		
+
+		
+		
+	<span class="headline headline--normal headline--top-stories">Starkey: SNP &#39;Strikingly&#39; Similar To Nazis</span>
+
+				
+	</a>
+
+
+					
+				</li>
+		
+	
+		
+				
+				
+				<li class="top-stories__item top-stories__item--5 top-stories__item--odd top-stories__item--last">
+					
+
+	<a class="top-stories__link" href="/story/1502450/sepp-blatter-could-stay-as-fifa-president">
+
+		
+
+		 
+
+			
+
+	
+	
+	
+	
+	
+	
+	 
+
+	<div class="image">
+		<div class="image__wrapper image__wrapper--4x3">
+
+			
+			<img src="http://media.skynews.com/media/images/generated/2015/5/30/395985/default/v1/gettyimages-475233164-1-91x68.jpg" class="image__item top-stories__image js-responsive" data-template="http://media.skynews.com/media/images/generated/2015/5/30/395985/default/v1/gettyimages-475233164-1-{width}x{height}.jpg" data-sizes="91x68 300x225 480x360" data-sizes-wide="144x81 362x204 762x428 942x530 1600x900" data-breakpoint="210" alt="" />
+			
+			
+			<noscript><img src="http://media.skynews.com/media/images/generated/2015/5/30/395985/default/v1/gettyimages-475233164-1-91x68.jpg" class="image__item top-stories__image" alt="" /></noscript>
+
+			
+		</div>
+
+		
+
+		
+	</div>
+
+			
+		
+
+		
+		
+	<span class="headline headline--breaking headline--top-stories"><span class="story__headline-breaking-prefix">Breaking News: </span>Sepp Blatter &#39;Could Stay As FIFA President&#39;</span>
+
+				
+	</a>
+
+
+					
+				</li>
+		
+			</ol>
+		</div>
+		
+	
+
+
+	
+<div class="promo-mpu js-promo-mpu" data-src="/images/a038706c.promo-mpu.png" data-alt="Sky promo watch live"></div>
+
+</section>
+
+	</article>
+
+</div>
+
+
+
+		<footer class="js-footer footer" role="navigation" aria-label="More Sky links">
+
+	<div class="footer__columns">
+
+		<div class="js-footer__section footer__section footer__section--first">
+			<h2 class="footer__heading"><span class="footer__heading-text">About Sky News</span><i class="skycon-chevron-down footer__heading--icon" aria-hidden="true"></i></h2>
+			<div class="footer__list-wrapper">
+				<ul class="footer__list">
+					<li class="footer__item"><a class="footer__link" href="https://corporate.sky.com/media-centre/news-page?categoriesPiD=aa00d2f4b45441d9b2fbd0d369d5380a">About Us</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.skynewsinternational.com">Sky News International</a></li>
+					<li class="footer__item"><a class="footer__link" href="/info/library-sales">Sky News Library Sales</a></li>
+					<li class="footer__item"><a class="footer__link" href="/info/sitemap">Site Map</a></li>
+					<li class="footer__item"><a class="footer__link" href="/docs/sky_news_editorial_guidelines.pdf">Editorial Guidelines</a></li>
+					<li class="footer__item footer__item--last"><a class="footer__link" href="/supreme-court-live">Supreme Court Live</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="js-footer__section footer__section">
+			<h2 class="footer__heading"><span class="footer__heading-text">Sky News Services</span><i class="skycon-chevron-down footer__heading--icon" aria-hidden="true"></i></h2>
+			<div class="footer__list-wrapper">
+				<ul class="footer__list">
+					<li class="footer__item"><a class="footer__link" href="http://devices.news.sky.com/">Sky News for iPad</a></li>
+					<li class="footer__item"><a class="footer__link" href="/info/rss">Sky News RSS</a></li>
+					<li class="footer__item"><a class="footer__link" href="/info/smartphones">Sky News for Smartphones</a></li>
+					<li class="footer__item footer__item--last"><a class="footer__link" href="/info/radio">Sky News Radio</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="js-footer__section footer__section">
+			<h2 class="footer__heading"><span class="footer__heading-text">Sky Channels</span><i class="skycon-chevron-down footer__heading--icon" aria-hidden="true"></i></h2>
+			<div class="footer__list-wrapper">
+				<ul class="footer__list">
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com/tv/channel/sky1">Sky 1</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com/tv/channel/skyliving">Sky Living</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com/tv/channel/skyatlantic">Sky Atlantic</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com/tv/channel/skyarts">Sky Arts</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://skymovies.sky.com">Sky Movies</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com/tv/channel/sky3d">Sky 3D</a></li>
+					<li class="footer__item footer__item--last"><a class="footer__link" href="http://www.skysports.com">Sky Sports</a></li>
+				</ul>
+			</div>
+		</div>
+
+		<div class="js-footer__section footer__section footer__section--last">
+			<h2 class="footer__heading"><span class="footer__heading-text">More Sky Sites</span><i class="skycon-chevron-down footer__heading--icon" aria-hidden="true"></i></h2>
+			<div class="footer__list-wrapper">
+				<ul class="footer__list">
+					<li class="footer__item"><a class="footer__link" href="http://www.nowtv.com">NOW TV</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com/academy">Sky Academy</a></li>				
+					<li class="footer__item"><a class="footer__link" href="http://corporate.sky.com/the_bigger_picture">Bigger Picture</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.goskyride.com">Sky Ride</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://corporate.sky.com/">Sky Corporate</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.skybet.com">Sky Bet</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.sky.com">Sky.com</a></li>
+					<li class="footer__item"><a class="footer__link" href="http://www.skynewsarabia.com">Sky News Arabia</a></li>
+					<li class="footer__item footer__item--last"><a class="footer__link" href="http://www.skymedia.co.uk/?utm_source=Sky%20News&amp;utm_medium=Web%20page&amp;utm_content=Sky%20News%20web%20page&amp;utm_campaign=Sky%20News%20web%20page">Advertise With Us</a></li>
+				</ul>
+			</div>
+		</div>
+
+	</div>
+
+	<div class="sub-footer">
+		<ul class="sub-footer__list">
+			<li class="sub-footer__item sub-footer__item--first"><a href="http://help.sky.com/my-account/terms-and-conditions/skycom-terms-and-conditions/" class="sub-footer__link">Terms &amp; Conditions</a></li>
+			<li class="sub-footer__item"><a href="http://help.sky.com/security/privacy/privacy-and-cookies-notice" class="sub-footer__link">Privacy &amp; Cookies Notice</a></li>
+			<li class="sub-footer__item"><a href="http://accessibility.sky.com/" class="sub-footer__link">Accessibility Information</a></li>
+			<li class="sub-footer__item sub-footer__item--last"><a href="/info/contact-us" class="sub-footer__link">Contact Us</a></li>
+		</ul>
+
+		<div class="copyright table">
+			<div class="table__row">
+				<div class="table__cell"><img src="/images/2e4c41ca.sky-spectrum-logo.png" class="copyright__image" width="75" height="45" alt=""></div>
+				<div class="table__cell"><p class="copyright__text">&copy; 2015 Sky UK</p></div>
+			</div>
+		</div>
+	</div>
+</footer>
+
+	</div>
+
+	<script>
+	(function () {
+	'use strict';
+
+	if (window.skynews.config.disableResponsiveImages) return;
+
+	var exports = exports || {},
+		retina = window.devicePixelRatio > 1, // Added this as a reminder as a way to check if high DPI.
+		ResponsiveImage,
+		pixelRatio = window.devicePixelRatio || 1;
+
+	ResponsiveImage = function(el) {
+		var sizesToParse = el.getAttribute('data-sizes').split(' '),
+			wideSizesToParse = (el.getAttribute('data-sizes-wide')) ? el.getAttribute('data-sizes-wide').split(' ') : [],
+			dimensions,
+			that = this;
+
+		this.el = el;
+		this.sizes = [];
+		this.sizesWide = [];
+		this.breakpoint = el.getAttribute('data-breakpoint') || 0;
+		this.currentSize = {
+			index: 0,
+			width: 0
+		};
+		this.hasApectRatioSwitch = (wideSizesToParse.length > 0);
+
+		// Calculate available sizes for this image
+		sizesToParse.forEach(function(size) {
+			dimensions =  size.split('x');
+			that.sizes.push({ w: dimensions[0], h: dimensions[1] });
+			that.maxWidth = dimensions[0];
+		});
+
+		wideSizesToParse.forEach(function(size) {
+			dimensions =  size.split('x');
+			that.sizesWide.push({ w: dimensions[0], h: dimensions[1] });
+		});
+
+		this.setAspectRatio(this.sizes[0].w, this.sizes[0].h);
+
+		this.currentSize.width = -1; // assume image is smallest width from the start
+		this.currentSize.index = 0;
+
+		if (!window.resize) {
+			if (!window.deferredResizeSubscribers) window.deferredResizeSubscribers = [];
+			window.deferredResizeSubscribers.push(this);
+		}
+		else {
+			window.resize.subscribe(this);
+		}
+	};
+
+	ResponsiveImage.prototype.resize = function() {
+		var sizeToSet,
+			renderedWidth,
+			wideAspect = false,
+			sizesToCompare,
+			stop = false;
+
+		renderedWidth = Math.floor(this.el.clientWidth); // Current pixel width as scaled by the browser
+
+		if (renderedWidth > this.breakpoint && this.hasApectRatioSwitch) {
+			wideAspect = true;
+		}
+
+		if (retina) renderedWidth *= pixelRatio;
+
+		// Only continue if the image has scaled beyond its native resolution
+		if (renderedWidth <= this.currentSize.width && !this.hasApectRatioSwitch) {
+			return;
+		}
+
+		// Loop through the available sizes until hitting a size bigger than the image
+		sizesToCompare = (wideAspect) ? this.sizesWide : this.sizes;
+
+		sizesToCompare.forEach(function(size) {
+			if (!stop) sizeToSet = size;
+
+			if (renderedWidth <= sizeToSet.w) {
+				stop = true;
+			}
+		});
+
+		this.el.src = this.el.getAttribute('data-template').replace('{width}', sizeToSet.w).replace('{height}', sizeToSet.h);
+
+		// Store the new width
+		this.currentSize.width = sizeToSet.w;
+		this.setAspectRatio(sizeToSet.w, sizeToSet.h);
+
+		// Has image reached its maximum width? If so, it no longer needs to listen to the resize event
+		if (this.currentSize.width === this.maxWidth && !this.hasApectRatioSwitch) {
+			window.resize && window.resize.unsubscribe(this);
+		}
+	};
+
+	ResponsiveImage.prototype.setAspectRatio = function(width, height) {
+		var wideAspect = Number((width / height).toFixed(1)) === 1.8 || Number((width / height).toFixed(1)) === 0.6;
+
+		if (this.wideAspect === wideAspect) return; // already in the correct aspect ratio
+
+		if (wideAspect) {
+			this.el.parentNode.className = this.el.parentNode.className
+				.replace('image__wrapper--4x3', 'image__wrapper--16x9');
+		}
+		else {
+			this.el.parentNode.className = this.el.parentNode.className
+				.replace('image__wrapper--16x9', 'image__wrapper--4x3');
+		}
+
+		this.wideAspect = wideAspect;
+	};
+
+	exports.init = function() {
+		var imageNodes = document.querySelectorAll('.js-responsive');
+		
+		for (var index = 0, numImages = imageNodes.length; index < numImages; index++) {
+			exports.responsify(imageNodes[index]);
+		}
+	};
+
+	exports.responsify = function (img) {
+		var imageInstance = img._responsiveInstance;
+
+		if (!imageInstance) {
+			imageInstance = new exports.ResponsiveImage(img);
+			imageInstance.resize();
+			img._responsiveInstance = imageInstance;
+		}
+		return imageInstance;
+	};
+
+	exports.ResponsiveImage = ResponsiveImage;
+	window.responsiveImages = exports;
+}());
+	if (!window.skynews.config.disableResponsiveImages) window.responsiveImages.init();
+	</script>
+
+	<script type="text/javascript">
+		var _sf_async_config={},
+			_comscore = _comscore || [];
+  
+		_comscore.push({ c1: "2", c2: "6035677" });
+		
+		_sf_async_config.uid = "34974";
+		_sf_async_config.domain = "news.sky.com"; /** CHANGE THIS **/
+		_sf_async_config.useCanonical = true;
+		
+		(function(){
+			function loadChartbeat() {
+				window._sf_endpt=(new Date()).getTime();
+				var e = document.createElement("script");
+				e.setAttribute("language", "javascript");
+					e.setAttribute("type", "text/javascript");
+				e.setAttribute('src', '//static.chartbeat.com/js/chartbeat.js');
+				document.body.appendChild(e);
+			}
+
+			function loadComscore() {
+				var s = document.createElement("script"),
+					el = document.getElementsByTagName("script")[0];
+
+				s.async = true;
+				s.src = (document.location.protocol == "https:" ? "https://sb" : "http://b") + ".scorecardresearch.com/beacon.js";
+				el.parentNode.insertBefore(s, el);
+			}
+
+			function loadScripts() {
+				if (window.skynews.config.analytics.chartbeat.enabled) loadChartbeat();
+				loadComscore();
+			}
+
+			var oldonload = window.onload;
+			window.onload = (typeof window.onload != "function") ? loadScripts : function() { oldonload(); loadScripts(); };
+		})();
+	</script>
+
+	<noscript>
+		<img src="http://b.scorecardresearch.com/p?c1=2&amp;c2=6035677&amp;cv=2.0&amp;cj=1" alt=""/>
+	</noscript>
+
+	<script src="//js.revsci.net/gateway/gw.js?csid=G07611" async></script>
+
+	
+</body>
+</html>

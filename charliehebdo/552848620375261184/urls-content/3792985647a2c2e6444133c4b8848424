@@ -1,0 +1,1297 @@
+HTTP/1.1 200 OK
+Server: Apache
+Cache-Control: public, s-maxage=300
+Last-Modified: Fri, 20 Mar 2015 08:42:06 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Transfer-Encoding: chunked
+Date: Tue, 24 Mar 2015 11:07:14 GMT
+X-Varnish: 486357914
+Age: 0
+Via: 1.1 varnish
+Connection: keep-alive
+
+<!DOCTYPE html>
+<!--[if lte IE 7]><html class="ie" lang="fr" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><![endif]-->
+<!--[if IE 8]><html class="ie8" lang="fr" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><![endif]-->
+<!--[if gt IE 8]><html class="gt-ie8" lang="fr" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><![endif]-->
+<!--[if !IE]><html lang="fr" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml"><![endif]-->
+    <head>
+                    <script src="http://cache.20minutes.fr/js/boomerang-0.9.1349424624.min.js"></script>
+        <script type="text/javascript">
+        BOOMR.init({
+            beacon_url: "http://measure.20mn.fr/l/",
+            site_domain: "www.20minutes.fr",
+            BW: { enabled: false  },
+            log: false
+        });
+        if (typeof BOOMR !== "undefined") {
+            BOOMR.addVar("p", "a");
+            BOOMR.addVar("k", "1511879");
+            BOOMR.plugins.RT.startTimer("t_head");
+        }
+        </script>
+            <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>Attaque à «Charlie Hebdo»: «Vous direz aux médias que c’est Al-Qaida au Yémen!» - 20minutes.fr</title>
+        <link rel="shortcut icon" href="http://www.20minutes.fr/favicon.ico" />        <link rel="alternate" type="application/rss+xml" href="http://www.20minutes.fr/rss/une.xml" title="A la Une de 20minutes.fr" />
+        <link rel="apple-touch-icon" sizes="76x76" href="/img/mobile/touch-icon-ipad.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="/img/mobile/touch-icon-iphone-retina.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="/img/mobile/touch-icon-ipad-retina.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="/img/mobile/touch-icon-iphone-6-plus.png">
+                <link rel="canonical" href="http://www.20minutes.fr/societe/1511879-20150107-attaque-charlie-hebdo-direz-medias-al-qaida-yemen" />
+
+    <link rel="alternate" href="android-app://com.backelite.vingtminutes/http/www.20minutes.fr/societe/1511879-20150107-attaque-charlie-hebdo-direz-medias-al-qaida-yemen"/>
+                    <meta name="robots" content="index,follow"/>
+                    <meta name="application-name" content="20minutes.fr" />
+            <meta name="msapplication-tooltip" content="Lancer 20minutes.fr" />
+            <meta name="msapplication-starturl" content="/" />
+            <meta name="msapplication-window" content="width=1024;height=768" />
+            <meta name="msapplication-task" content="name=Actualit&eacute;; action-uri=/actus; icon-uri=/favicon.ico" />
+            <meta name="msapplication-task" content="name=Politique; action-uri=/politique; icon-uri=/favicon.ico" />
+            <meta name="msapplication-task" content="name=People; action-uri=/people; icon-uri=/favicon.ico" />
+            <meta name="msapplication-task" content="name=Insolite; action-uri=/insolite; icon-uri=/favicon.ico" />
+            <meta name="msapplication-task" content="name=Sport; action-uri=/sport; icon-uri=/favicon.ico" />
+            <meta name="msapplication-task" content="name=Economie; action-uri=/economie; icon-uri=/favicon.ico" />
+            <meta name="apple-itunes-app" content="app-id=373963519" />
+            <meta property="og:site_name" content="20minutes.fr" />
+            <meta property="fb:admins" content="650423992" />
+            <meta property="fb:app_id" content="132725426770373" />
+        
+            <meta name="description" content="Un t&amp;eacute;moin du changement de voiture des assaillants pr&amp;eacute;sum&amp;eacute;s, dans le 19e arrondissement, affirme avoir entendu cette revendication&amp;hellip;" />
+                <meta name="news_keywords" content="attentats" />
+        <meta property="og:url" content="http://www.20minutes.fr/societe/1511879-20150107-charlie-hebdo-dit-direz-medias-al-qaeda-yemen-raconte-temoin-19e-arrondissement"/>
+
+    <meta property="og:title" content="Attaque à «Charlie Hebdo»: «Vous direz aux médias que c’est Al-Qaida au Yémen!»"/>
+<meta property="og:type" content="article"/>
+<meta property="og:description" content="Un t&amp;eacute;moin du changement de voiture des assaillants pr&amp;eacute;sum&amp;eacute;s, dans le 19e arrondissement, affirme avoir entendu cette revendication&amp;hellip;">
+<meta property="og:image" content="http://img.20mn.fr/eWCmnB_0T4ir74RwVGhcIA/648x360_voiture-auteurs-attaque-contre-charlie-hebdo-7-janvier-2015-paris.jpg"/>
+<meta property="article:published_time" content="2015-01-07T14:11:00+01:00"/>
+<meta property="article:tag" content="Société"/>
+<meta property="vr:type" content="text">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@20minutes">
+<meta property="twitter:image" content="http://img.20mn.fr/eWCmnB_0T4ir74RwVGhcIA/648x360_voiture-auteurs-attaque-contre-charlie-hebdo-7-janvier-2015-paris.jpg"/>
+                        
+        <!--[if gt IE 8]><!-->
+                    <link rel="stylesheet" media="screen" href="http://assets.20mn.fr/front/css/styles.css?edf52d3" />
+                <!--<![endif]-->
+
+        <!--[if IE 8]>
+                    <link rel="stylesheet" media="screen" href="http://assets.20mn.fr/front/css/styles_ie8.css?edf52d3" />
+                <![endif]-->
+
+        <!--[if lte IE 7]>
+                    <link rel="stylesheet" media="screen" href="http://assets.20mn.fr/front/css/styles_ie.css?edf52d3" />
+                <![endif]-->
+
+        <!--[if lte IE 8]>
+        <script type="text/javascript" src="http://assets.20mn.fr/js/html5shiv.js?edf52d3"></script>
+        <script type="text/javascript" src="http://assets.20mn.fr/js/respond.src.js?edf52d3"></script>
+        <![endif]-->
+
+                    <link rel="stylesheet" media="print" href="http://assets.20mn.fr/front/css/print.css?edf52d3" />
+                
+    <link rel="stylesheet" href="http://assets.20mn.fr/css/modals.css?edf52d3" />
+
+    <link rel="stylesheet" media="screen" href="http://assets.20mn.fr/bundles/etnaarticle/css/article-carousel.css?edf52d3" />
+
+            <!-- sas tag -->
+<script src="http://ads.20minutes.fr/config.js?nwid=55"></script>
+<script type="text/javascript">
+    sas.setup({ domain: 'http://ads.20minutes.fr', async: true, renderMode: 0, inSequence: true });
+
+    // Sas custom scripts
+    var sasCustomCall = function(sasFormatId) {
+        sas.call("std", {
+            siteId: 3313,
+            pageId: 167248,
+            target: 'tag_title=attentats;tag_title=charlie_hebdo',
+            formatId: sasFormatId
+        }, {
+            onLoad: function() {
+                // No ad case
+                if (window.sas_noad) {
+                    window.sas_noad = false;
+                    document.getElementById('sas_'+ sasFormatId).setAttribute('data-ad-status', 'empty');
+                }
+            }
+        });
+    };
+    var sasAdLoaded = function(sasFormatId) {
+        document.getElementById(sasFormatId).setAttribute('data-ad-status', 'loaded');
+    };
+</script>
+
+
+        <script src="http://assets.20mn.fr/bundles/etnatracking/js/nugg.ad.js?edf52d3"></script>
+
+                    <script type="text/javascript">
+        if (typeof BOOMR !== "undefined") {
+            BOOMR.plugins.RT.endTimer("t_head").startTimer("t_body");
+        }
+        </script>
+        </head>
+    <body role="document">
+                    <div id="sas_7268"  class="ad">
+        <script type="text/javascript">
+        sasCustomCall(7268);
+    </script>
+    </div>
+
+                            <div id="sas_3567"  class="ad">
+        <script type="text/javascript">
+        sasCustomCall(3567);
+    </script>
+    </div>
+
+                <ul id="lt-accesskeys">
+            <li><a href="#page-content">Allez au contenu</a></li>
+            <li><a href="#navigation">Allez à la navigation</a></li>
+        </ul>
+                <header data-stick="custom">
+            <!-- header-top -->
+<div class="header-top lt-container">
+    <p class="logo"><a href="http://www.20minutes.fr"><img src="http://assets.20mn.fr/front/images/logo.jpg?edf52d3" alt="20minutes.fr" width="130" height="130" xtclib="logo_20minutes" /></a></p>
+
+        <div class="header-actions float-left pl4">
+        <div class="clearfix">
+            <div class="header-community">
+                <ul class="user-action float-left" xtcz="hat_zone_profile" data-username-refresh="/etna-ajax/header-user-action">
+                    <li>
+                        <a href="/membre/identification" class="color-base" data-icon="u" xtclib="hat_profile_connection"><span class="pl1">Se connecter</span></a>
+                    </li>
+                </ul>
+                <ul class="header-social social condensed float-left">
+    <li class="facebook-iframe-small">
+        <a href="https://www.facebook.com/20minutes" class="social-btn follow-facebook" data-icon="F" target="_blank">        <span class="social-counter">903K</span>
+                    <span class="social-label">J'aime</span>
+        </a>
+    </li>
+    <li class="twitter-iframe-small">
+        <a href="https://twitter.com/20Minutes" class="social-btn follow-twitter" data-icon="T" target="_blank">        <span class="social-counter">1,4M</span>
+                    <span class="social-label">@20minutes</span>
+        </a>
+    </li>
+    <li class="googleplus-iframe-small">
+        <a href="https://plus.google.com/+20Minutes" class="social-btn follow-google" data-icon="g" target="_blank">        <span class="social-counter">84K</span>
+                    <span class="social-label">+</span>
+        </a>
+    </li>
+</ul>
+
+            </div>
+        </div>
+        <div class="clearfix pt1">
+            <p class="float-left pr3"> <button class="color-base" data-icon="z" data-show="#search"><span class="pl1">Rechercher</span></button></p>
+            <form action="http://www.20minutes.fr/newsletters/sauvegarde#xtatc=INT-35-[hat]" method="POST" target="_blank" class="nl-form" xtcz="hat_zone_newsletter">
+    <label for="nl_email" data-icon="m">Newsletter</label>
+    <input id="nl_email" name="emailing[key]" class="nl-input" type="text" placeholder="Saisissez votre email" />
+    <input class="nl-submit" type="submit" value="OK" />
+                        <input type="hidden" id="nl_morning" name="emailing[subscriptions][nl_morning]" value="1" />
+            <input type="hidden" name="emailing[show][]" value="nl_morning">
+                    <input type="hidden" id="nl_13h" name="emailing[subscriptions][nl_13h]" value="1" />
+            <input type="hidden" name="emailing[show][]" value="nl_13h">
+                    <input type="hidden" id="nl_buzz" name="emailing[subscriptions][nl_buzz]" value="1" />
+            <input type="hidden" name="emailing[show][]" value="nl_buzz">
+                    <input type="hidden" id="nl_pop" name="emailing[subscriptions][nl_pop]" value="1" />
+            <input type="hidden" name="emailing[show][]" value="nl_pop">
+                    <input type="hidden" id="nl_sport" name="emailing[subscriptions][nl_sport]" value="1" />
+            <input type="hidden" name="emailing[show][]" value="nl_sport">
+                    <input type="hidden" id="mn_data_1" name="emailing[subscriptions][mn_data_1]" value="1" />
+            <input type="hidden" name="emailing[show][]" value="mn_data_1">
+                    <input type="hidden" id="mn_data_2" name="emailing[subscriptions][mn_data_2]" value="1" />
+            <input type="hidden" name="emailing[show][]" value="mn_data_2">
+                    <input type="hidden" id="mn_data_3" name="emailing[subscriptions][mn_data_3]" value="1" />
+            <input type="hidden" name="emailing[show][]" value="mn_data_3">
+            </form>
+
+        </div>
+    </div>
+
+        <div id="sas_5668"  class="ad-oreille float-right ml2 ad">
+        <script type="text/javascript">
+        sasCustomCall(5668);
+    </script>
+    </div>
+
+
+        <div class="get-pdf w16">
+        <div class="title-pdf">La une du jour</div>
+        <div id="download-pdf">
+            
+<div class="block box block-pdf-download">
+    <span class="teaser-media" style="background-position:top;background-image:url(http://cache.20minutes.fr/img/laune/2015/03/24-PAR-preview.jpg);"></span>
+        <div class="block-footer">
+            <p>Lire le journal du <span class="color-default">24 mars 2015</span></p>
+            <p><a href="http://logi4.xiti.com/go.click?xts=290428&amp;s2=13&amp;clic=T&amp;type=click&amp;p=www::paris::paris_20150324&amp;url=http://ojd.octelio.com/track?link=154&amp;n=20150324&amp;url=http://pdf.20mn.fr/2015/quotidien/20150324_PAR.pdf" class="btn btn-default" xtclib="header_pdf_download">Télécharger le PDF</a></p>
+            <p><a href="/pdf/" onclick="return xt_adc(this, 'INT-55-[header]')" xtclib="header_pdf"><span class="color-default">Voir toutes nos éditions</span></a></p>
+        </div>
+    </div>
+
+        </div>
+    </div>
+    
+        <div id="search" class="header-search bbs bts pl4" xtcz="hat_zone_recherche">
+        <form id="search-form" action="/search" method="GET">
+            <input id="q" name="q" class="search-input" type="text" placeholder="Recherche (ex : Réforme des retraites, etc.)" />
+            <input class="search-submit" type="submit" value="OK" />
+        </form>
+        <button class="search-close pl2 bls" data-hide="#search">Fermer la recherche</button>
+    </div>
+</div>
+
+
+                <nav id="navigation" role="navigation">
+    <div class="lt-container header-navigation" data-scroll-content=".site-menu" data-scroll-item=".site-menu li"><ul class="site-menu" data-menu=""><li class="home" xtcz="hat_zone_retour_accueil"><a href="http://www.20minutes.fr" data-icon="h" onclick="xt_med('C','2','hat_retour_accueil','N');"><em xtclib="hat_retour_accueil">Accueil</em></a></li><li class="default is-active"><a href="/actu-generale/"
+                           xtclib="header_actu-generale" data-menu-content="#actu-generale-submenu"
+                           >
+                            Actualité
+                        </a></li><li class="entertainment"><a href="/arts-stars/"
+                           xtclib="header_arts-stars" data-menu-content="#arts-stars-submenu"
+                           data-menu-lazy-url="/etna-esi/menu-partial?rootId=%2Fcms%2Fcontent%2Farts-stars">
+                            Entertainment
+                        </a></li><li class="economy"><a href="/economie/"
+                           xtclib="header_economie" data-menu-content="#economie-submenu"
+                           data-menu-lazy-url="/etna-esi/menu-partial?rootId=%2Fcms%2Fcontent%2Feconomie">
+                            Economie
+                        </a></li><li class="sport"><a href="/sport/"
+                           xtclib="header_sport" data-menu-content="#sport-submenu"
+                           data-menu-lazy-url="/etna-esi/menu-partial?rootId=%2Fcms%2Fcontent%2Fsport">
+                            Sport
+                        </a></li><li class="default"><a href="/locales/"
+                           xtclib="header_locales" data-menu-content="#locales-submenu"
+                           data-menu-lazy-url="/etna-esi/menu-partial?rootId=%2Fcms%2Fcontent%2Flocales">
+                            Locales
+                        </a></li><li class="weird"><a href="/insolite/"
+                           xtclib="header_insolite" data-menu-content="#insolite-submenu"
+                           data-menu-lazy-url="/etna-esi/menu-partial?rootId=%2Fcms%2Fcontent%2Factu-generale%2Finsolite">
+                            T&#039;as vu ?
+                        </a></li><li class="media"><a href="http://www.20minutes.fr/tv/" >Vidéos</a></li><li class="hightech"><a href="/high-tech/"
+                           xtclib="header_high-tech" data-menu-content="#high-tech-submenu"
+                           data-menu-lazy-url="/etna-esi/menu-partial?rootId=%2Fcms%2Fcontent%2Fhightech%2Fhigh-tech">
+                            High-Tech
+                        </a></li><li class="planet"><a href="/planete/"
+                           xtclib="header_planete" data-menu-content="#planete-submenu"
+                           data-menu-lazy-url="/etna-esi/menu-partial?rootId=%2Fcms%2Fcontent%2Fplanete">
+                            Planète
+                        </a></li><li class="media"><a href="http://www.20minutes.fr/diaporamas/" >En Images</a></li><li class="partner"><a href="http://www.20minutes.fr/services/jeux" >Jeux</a></li><li class="partner"><a href="http://www.20minutes.fr/bons-plans" >Bons Plans</a></li><li class="partner"><a href="http://www.20minutes.fr/services.php" >Services</a></li><li class="partner"><a href="http://horoscope.20minutes.fr/" >Horoscope</a></li><li class="default"><a href="http://www.20minutes.fr/pdf" >Editions PDF</a></li><li class="default"><a href="http://www.20minutes.fr/magazine/secoacher/" >Se Coacher</a></li><li class="default"><a href="http://lacuisinedannie.20minutes.fr/" >Cuisine d&#039;Annie</a></li><li class="default"><a href="http://vosquestions.20minutes.fr/" >Questions</a></li><li class="default"><a href="http://mesnotices.20minutes.fr/" >Mes Notices</a></li></ul><button class="menu-scroll" data-scroll-action="previous" data-icon="<" aria-hidden="true"><em>Précédent</em></button><button class="menu-scroll" data-scroll-action="next" data-icon=">" aria-hidden="true"><em>Suivant</em></button></div></nav>
+
+    <div class="submenu level1 default">
+        <ul class="menu lt-container">
+                                                <li><a href="/monde/">Monde</a>
+
+                                                                <li><a href="/politique/">Politique</a>
+
+                                                                <li><a href="/societe/">Société</a>
+
+                                                                <li><a href="/sante/">Santé</a>
+
+                                    </ul>
+    </div>
+
+    <div class="section-menu-container">
+        <div id="actu-generale-submenu" class="section-menu default" data-menu-active="false">
+    <div class="column w16 section-tag">
+        <div class="column-title">Rubrique</div>
+        <ul>
+                                    <li><a href="/monde/">Monde</a>
+
+                                                <li><a href="/politique/">Politique</a>
+
+                                                <li><a href="/societe/">Société</a>
+
+                                                <li><a href="/sante/">Santé</a>
+
+                            </ul>
+    </div>
+    <div class="hot-news column w50">
+                <div class="column-title">A la une</div>
+        <ul class="clearfix pb2">
+                    <li class="column large w33">
+                <a href="/societe/1570199-20150324-direct-crash-a320-alpes-avion-transportait-148-personnes-avion-declare-etat-detresse">
+                    <span class="teaser-media" style="background-image:url(http://img.20mn.fr/i4Qry0QbTzmH9TXoRPdsTg/362x108_carte-localisation-tete-estrop-alpes-haute-provence-o-a320-compagnie-germanwings-crashe-24-mars-2015.jpg)"></span>
+                    <div class="teaser-desc">
+                        <div class="teaser-title">EN DIRECT. Crash d&#039;un A320 dans les Alpes: L&#039;avion transportait 148 personnes... L&#039;avion...</div>
+                    </div>
+                </a>
+            </li>
+                            <li class="column w16">
+                <a href="/monde/1570163-20150324-grande-bretagne-enleve-parents-etre-soigne-differemment-ashya-king-gueri">
+                    <span class="teaser-media" style="background-image:url(http://img.20mn.fr/JrIVaTVcRIq7ttxmzY0jFQ/172x108_petit-britannique-ashya-king-c-souffre-tumeur-cerveau-24-octobre-2014-a-prague.jpg)"></span>
+                    <div class="teaser-desc">
+                        <div class="teaser-title">Grande-Bretagne: Enlevé par ses parents pour être soigné différemment, Ashya King serait...</div>
+                    </div>
+                </a>
+            </li>
+                </ul>
+        <ul>
+                            <li class="column w16">
+                <a href="/societe/1570159-20150324-greve-historique-salaries-groupe-banque-populaire-caisse-epagne">
+                    <span class="teaser-media" style="background-image:url(http://img.20mn.fr/hcM9TdYYRFu_hRthJWz-tg/172x108_logo-banque-populaire-caisses-epargnes-bpce.jpg)"></span>
+                    <div class="teaser-desc">
+                        <div class="teaser-title">«Grève historique» des salariés du groupe Banque Populaire-Caisse d&#039;Epagne</div>
+                    </div>
+                </a>
+            </li>
+                            <li class="column w16">
+                <a href="/societe/1570135-20150324-seniors-qualite-repas-menu-maisons-retraite">
+                    <span class="teaser-media" style="background-image:url(http://img.20mn.fr/Rq8LsateTuabgPGkxStFrA/172x108_maison-de-retraite-les-jardins-d-emilie-a-caussade-personne-agee-dans-les-couloirs-deambulateur.jpg)"></span>
+                    <div class="teaser-desc">
+                        <div class="teaser-title">Séniors: La qualité des repas n’est pas au menu des maisons de retraite</div>
+                    </div>
+                </a>
+            </li>
+                            <li class="column w16">
+                <a href="/insolite/1570143-20150324-isere-148000-euros-sac-jete-bordure-autoroute">
+                    <span class="teaser-media" style="background-image:url(http://img.20mn.fr/5YUPH7oOS3yumbcijzytTQ/172x108_sac-jete-fenetre-14-novembre-dernier-pleine-course-poursuite-douaniers-lyonnais-autoroute-a7.jpg)"></span>
+                    <div class="teaser-desc">
+                        <div class="teaser-title">Isère: 148.000 euros dans un sac jeté en bordure d’autoroute</div>
+                    </div>
+                </a>
+            </li>
+                        </ul>
+            </div>
+    <div class="section-most column w33 pr2">
+                <div class="column-title">Les + lus</div>
+        <ul>
+                        <li>
+                <a href="/societe/1569915-20150324-isere-directeur-ecole-soupconne-avoir-viole-eleves-cp">
+                    <div class="teaser-desc">
+                        <p class="teaser-headline">FAITS DIVERS</p>
+                        <div class="teaser-title">Isère: Un directeur d’école soupçonné d&#039;avoir violé des élèves de CP</div>
+                    </div>
+                </a>
+            </li>
+                        <li>
+                <a href="/societe/1561719-20150323-envoye-cocu-71515-comment-vu-avenir-650-euros">
+                    <div class="teaser-desc">
+                        <p class="teaser-headline">AMOUR</p>
+                        <div class="teaser-title">J’ai envoyé COCU au 71515 (ou comment j’ai vu l’avenir pour 6,50 euros)</div>
+                    </div>
+                </a>
+            </li>
+                        <li>
+                <a href="/societe/1569867-20150323-isere-directeur-ecole-garde-vue-viols-eleves">
+                    <div class="teaser-desc">
+                        <p class="teaser-headline">FAITS DIVERS</p>
+                        <div class="teaser-title">Isère: Un directeur d&#039;école en garde à vue pour des viols sur ses élèves</div>
+                    </div>
+                </a>
+            </li>
+                        <li>
+                <a href="/societe/1569871-20150323-dropped-condamne-avoir-organise-fausse-collecte-memoire-vastine">
+                    <div class="teaser-desc">
+                        <p class="teaser-headline">JUSTICE</p>
+                        <div class="teaser-title">«Dropped»: Condamné pour avoir organisé une fausse collecte en mémoire de Vastine</div>
+                    </div>
+                </a>
+            </li>
+                        <li>
+                <a href="/societe/1569531-20150323-mere-famille-trouve-20580-vrais-euros-boite-monopoly">
+                    <div class="teaser-desc">
+                        <p class="teaser-headline">LOISIRS</p>
+                        <div class="teaser-title">Une mère de famille trouve 20.580 vrais euros dans une boîte de Monopoly</div>
+                    </div>
+                </a>
+            </li>
+                    </ul>
+            </div>
+</div>
+
+    </div>
+        </header>
+        
+        <div id="content">
+                            <div id="sas_1056"  class="ad-large ad">
+        <script type="text/javascript">
+        sasCustomCall(1056);
+    </script>
+    </div>
+
+            
+                                            <section class="breaking-news">
+                    
+                </section>
+                            
+            <div id="page-content" class="clearfix">
+                <ul class='breadcrumb'>
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+        <a href="http://www.20minutes.fr" itemprop="url"><span itemprop="title">Accueil</span></a>
+         &gt;     </li>
+        <li itemscope itemtype="http://data-vocabulary.org/Breadcrumb">
+        <a href="http://www.20minutes.fr/societe/" itemprop="url"><span itemprop="title">Société</span></a>
+            </li>
+    </ul>
+                    <div class="lt-page article default" >
+                                            
+            <div class="headline ">
+            <p class="content">Société</p>
+            <span class="liner"></span>
+        </div>
+    
+                    
+                    <p class="hat">
+                <strong class="hat-label">ATTENTAT</strong>                 <span class="hat-summary">Un t&eacute;moin du changement de voiture des assaillants pr&eacute;sum&eacute;s, dans le 19e arrondissement, affirme avoir entendu cette revendication&hellip;</span>
+            </p>
+        
+                    <h1>Attaque à «Charlie Hebdo»: «Vous direz aux médias que c’est Al-Qaida au Yémen!»</h1>
+        
+                            <ul class="content-related buzz mb2">
+                                <li class="comment horizontal">
+                                            <a href="#comments-container" data-scroll-action="anchor" xtclib="article_appel_commentaires">
+                            <p class="buzz-title"><span data-icon="b" class="total-comments">6</span><br />contribution<span class="plural-comments">s</span></p>
+                            <p>Réagissez à<br />cet article</p>
+                        </a>
+                                    </li>
+                                <li class="social">
+                    <p class="social-title">Partagez cet article</p>
+                            <ul class="social_bar_article">
+        <li>
+            <span class="social-counter">11,3k</span>
+            <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.20minutes.fr%2Fsociete%2F1511879-20150107-charlie-hebdo-dit-direz-medias-al-qaeda-yemen-raconte-temoin-19e-arrondissement&amp;t=Attaque%20%C3%A0%20%C2%ABCharlie%20Hebdo%C2%BB%3A%20%C2%ABVous%20direz%20aux%20m%C3%A9dias%20que%20c%E2%80%99est%20Al-Qaida%20au%20Y%C3%A9men%21%C2%BB" class="social-btn share-facebook" data-icon="F" target="_blank">
+                <span class="social-label">Partager</span>
+            </a>
+        </li>
+        <li>
+            <span class="social-counter">1,2k</span>
+            <a href="http://twitter.com/home?status=Attaque%20%C3%A0%20%C2%ABCharlie%20Hebdo%C2%BB%3A%20%C2%ABVous%20direz%20aux%20m%C3%A9dias%20que%20c%E2%80%99est%20Al-Qaida%20au%20Y%C3%A9men%21%C2%BB%20-%20http%3A%2F%2Fwww.20minutes.fr%2Fsociete%2F1511879-20150107-charlie-hebdo-dit-direz-medias-al-qaeda-yemen-raconte-temoin-19e-arrondissement%20via%20%4020minutes" class="social-btn share-twitter" data-icon="T" target="_blank">
+                <span class="social-label">Twitter</span>
+            </a>
+        </li>
+        <li>
+            <span class="social-counter">32</span>
+            <a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.20minutes.fr%2Fsociete%2F1511879-20150107-charlie-hebdo-dit-direz-medias-al-qaeda-yemen-raconte-temoin-19e-arrondissement" class="social-btn share-google" data-icon="G" target="_blank">
+                <span class="social-label">1</span>
+            </a>
+        </li>
+    </ul>
+
+                </li>
+                <li class="page-option">
+                    <ul>
+                        <li><a href="#" data-icon="r" class="button-print">Imprimer</a></li>
+                        <li><a href="/envoyer-par-email/51f3e0c3-1824-46c2-8642-27438167c3ab" data-icon="s" class="button-send">Envoyer</a></li>
+                    </ul>
+                </li>
+            </ul>
+                
+                        <div class="lt-content w66" role="main">
+        
+                                        <figure role="group" data-src-format="photo" class="oembed oembed-photo">
+                                                <img class="img" src="http://img.20mn.fr/eWCmnB_0T4ir74RwVGhcIA/648x415_voiture-auteurs-attaque-contre-charlie-hebdo-7-janvier-2015-paris.jpg" width="648" height="415" alt="La voiture des auteurs de l&#039;attaque contre Charlie Hebdo, le 7 janvier 2015, à Paris." title="La voiture des auteurs de l&#039;attaque contre Charlie Hebdo, le 7 janvier 2015, à Paris." />
+                                <figcaption>La voiture des auteurs de l&#039;attaque contre Charlie Hebdo, le 7 janvier 2015, à Paris. - ANNE GELBARD / AFP</figcaption>
+                    </figure>
+    
+                                                        <dl class="author">
+    <dt>
+                    <span class="author-pic">
+                <img src="https://lh3.googleusercontent.com/-ZDL8fxT5Hb8/AAAAAAAAAAI/AAAAAAAAACk/jwD7xRsJ-Y0/photo.jpg?sz=50" alt="*" height="48" width="48" />
+            </span>
+                <span class="author-name">Antoine Maes</span></li>
+    </dt>
+            <dd>
+            <ul>
+                                    <li><a rel="author" href="https://plus.google.com/102656823156773544474" target="_blank" class="user-google">Google+</a></li>
+                                                    <li><a href="https://twitter.com/AntoineMaes" target="_blank" class="user-twitter">Twitter</a></li>
+                            </ul>
+        </dd>
+    </dl>
+                        
+                                                            <ul class="content-related index">
+                                                <li data-icon="D">
+                            <ul class="index-date">
+                                <li>Publié le <time datetime="2015-01-07" pubdate>07.01.2015 à 14:11</time></li>
+                                <li>Mis à jour le <time datetime="2015-01-07">07.01.2015 à 16:14</time></li>
+                            </ul>
+                        </li>
+                                                                        <li data-icon="t">
+                            <span class="index-key">Mots-clés</span>
+                            <ul class="index-tags">
+                                                            <li><a href="http://www.20minutes.fr/dossier/attentats" xtclib="article_tag">attentats</a>,</li>
+                                                            <li><a href="http://www.20minutes.fr/dossier/charlie_hebdo" xtclib="article_tag">Charlie Hebdo</a></li>
+                                                        </ul>
+                        </li>
+                                            </ul>
+                                        
+                
+                        
+        <p>&laquo;Tout s&rsquo;est pass&eacute; tr&egrave;s calmement, sans cris, sans insultes.&raquo;&nbsp;Il est 11h30, mercredi, quand C&eacute;dric Le B&eacute;chec, agent immobilier de 33 ans, sort de rendez-vous au 45, rue de Meaux, <a href="http://www.20minutes.fr/societe/1511823-20150107-fusillade-charlie-hebdo-commando-enfuit-porte-pantin">dans le 19e arrondissement</a>. Au seuil de l&rsquo;immeuble, il assiste &agrave; une sc&egrave;ne incroyable, qu&rsquo;il ne relie pas encore &agrave; <a href="http://www.20minutes.fr/societe/1511803-20150107-attaque-locaux-charlie-hebdo-horreur-absolue-massacre-classe-politique-devastee">l&rsquo;attaque perp&eacute;tr&eacute;e &agrave; <em>Charlie Hebdo</em></a>:&nbsp;<a href="http://www.20minutes.fr/societe/1511807-20150107-sait-deja-attaque-kalachnikov-charlie-hebdo">deux hommes sortent d&rsquo;une voiture noire</a>, arm&eacute;s d&rsquo;un lance-roquettes, et braquent la voiture d&rsquo;une personne&nbsp;&laquo;d&rsquo;une soixantaine d&rsquo;ann&eacute;es&raquo;, selon lui.</p>
+
+<p><a href="http://www.20minutes.fr/societe/1511763-20150107-direct-charlie-hebdo-tirs-armes-automatiques-entendus-locaux-journal"><strong>&gt;&gt; Suivez les derniers &eacute;v&eacute;nements de l&#39;attaque de<em> Charlie Hebdo</em> en direct</strong></a></p>
+
+<p>Il raconte la sc&egrave;ne.&nbsp;&laquo;Une voiture noire &eacute;tait arr&ecirc;t&eacute;e au milieu de la rue. Deux grands <em>blacks</em> habill&eacute;s de fa&ccedil;on militaire &eacute;taient sortis, dont un avec un lance-roquettes. Ils ont sorti un homme de la voiture qui &eacute;tait derri&egrave;re. Et ils sont mont&eacute;s en disant &quot;vous direz aux m&eacute;dias que c&rsquo;est Al-Qa&iuml;da au Y&eacute;men&quot;. J&rsquo;&eacute;tais &agrave; 5 ou 10 m&egrave;tres, ils sont repartis et la police est arriv&eacute;e 5 minutes plus tard&raquo;, raconte-t-il.</p>
+
+<p>Selon lui, les deux hommes sont repartis au volant de ce qu&rsquo;il croit &ecirc;tre une Clio II grise. Le propri&eacute;taire du v&eacute;hicule a &eacute;t&eacute; tr&egrave;s rapidement entendu par les forces de l&rsquo;ordre.&nbsp;&laquo;Il leur a m&ecirc;me dit &quot;attendez, laissez-moi mon chien!&quot; Et ils l&rsquo;ont laiss&eacute; sortir.&raquo;&nbsp;A 13h, il n&rsquo;avait pas encore livr&eacute; son t&eacute;moignage &agrave; la police, mais&nbsp;&laquo;un monsieur qui &eacute;tait bien plus pr&egrave;s que moi et qui a assist&eacute; &agrave; tout de A &agrave; Z&raquo;&nbsp;a &eacute;t&eacute; entendu, explique le t&eacute;moin de la sc&egrave;ne.</p>
+    
+            
+    
+
+                                        <ul class="content-related buzz mt2">
+                                        <li class="comment vertical">
+                        <a href="#comments-container" data-scroll-action="anchor" xtclib="article_appel_commentaires">
+                            <p class="buzz-title">
+                                <span data-icon="b" class="total-comments">6</span>
+                                <br />contribution<span class="plural-comments">s</span>
+                            </p>
+                            <p>Réagissez à<br />cet article</p>
+                        </a>
+                    </li>
+                                        <li class="social vertical">
+                        <p class="social-title">Partagez cet article</p>
+                                <ul class="social_bar_article">
+        <li>
+            <span class="social-counter">11,3k</span>
+            <a href="http://www.facebook.com/sharer.php?u=http%3A%2F%2Fwww.20minutes.fr%2Fsociete%2F1511879-20150107-charlie-hebdo-dit-direz-medias-al-qaeda-yemen-raconte-temoin-19e-arrondissement&amp;t=Attaque%20%C3%A0%20%C2%ABCharlie%20Hebdo%C2%BB%3A%20%C2%ABVous%20direz%20aux%20m%C3%A9dias%20que%20c%E2%80%99est%20Al-Qaida%20au%20Y%C3%A9men%21%C2%BB" class="social-btn share-facebook" data-icon="F" target="_blank">
+                <span class="social-label">Partager</span>
+            </a>
+        </li>
+        <li>
+            <span class="social-counter">1,2k</span>
+            <a href="http://twitter.com/home?status=Attaque%20%C3%A0%20%C2%ABCharlie%20Hebdo%C2%BB%3A%20%C2%ABVous%20direz%20aux%20m%C3%A9dias%20que%20c%E2%80%99est%20Al-Qaida%20au%20Y%C3%A9men%21%C2%BB%20-%20http%3A%2F%2Fwww.20minutes.fr%2Fsociete%2F1511879-20150107-charlie-hebdo-dit-direz-medias-al-qaeda-yemen-raconte-temoin-19e-arrondissement%20via%20%4020minutes" class="social-btn share-twitter" data-icon="T" target="_blank">
+                <span class="social-label">Twitter</span>
+            </a>
+        </li>
+        <li>
+            <span class="social-counter">32</span>
+            <a href="https://plus.google.com/share?url=http%3A%2F%2Fwww.20minutes.fr%2Fsociete%2F1511879-20150107-charlie-hebdo-dit-direz-medias-al-qaeda-yemen-raconte-temoin-19e-arrondissement" class="social-btn share-google" data-icon="G" target="_blank">
+                <span class="social-label">1</span>
+            </a>
+        </li>
+    </ul>
+
+                    </li>
+                    <li class="social vertical">
+                        <p class="social-title">Suivez 20minutes</p>
+                        <ul class="social_bar_sites">
+    <li class="facebook-iframe-small">
+                <span class="social-counter">903K</span>
+        <a href="https://www.facebook.com/20minutes" class="social-btn follow-facebook" data-icon="F" target="_blank">            <span class="social-label">J'aime</span>
+        </a>
+    </li>
+    <li class="twitter-iframe-small">
+                <span class="social-counter">1,4M</span>
+        <a href="https://twitter.com/intent/user?screen_name=20minutes" class="social-btn follow-twitter" data-icon="T" target="_blank">            <span class="social-label">@20minutes</span>
+        </a>
+    </li>
+    <li class="googleplus-iframe-small">
+                <span class="social-counter">84K</span>
+        <a href="https://plus.google.com/+20Minutes" class="social-btn follow-google" data-icon="g" target="_blank">            <span class="social-label">+</span>
+        </a>
+    </li>
+</ul>
+
+                    </li>
+                </ul>
+                        
+                                                <div id="mb_container"  class="mt2">
+    <script type="text/javascript">
+        (function(){
+            var sc = document.createElement('script');
+            sc.src = 'http://player.mediabong.com/se/315.js?url='+encodeURIComponent(document.location.href)+'&section='+encodeURIComponent('actualite, societe')+'&titre=Plus%20d\'informations%20sur%20ce%20sujet%20en%20vid%C3%A9o';
+            sc.type = 'text/javascript';
+            sc.async = true;
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sc, s);
+        })();
+    </script>
+</div>
+
+
+                                        <div class="OUTBRAIN mt2" data-src="http://www.20minutes.fr/societe/1511879-20150107-attaque-charlie-hebdo-direz-medias-al-qaida-yemen" data-widget-id="AR_4" data-ob-template="20minutes" ></div>
+
+                    <div class="OUTBRAIN mt2" data-src="http://www.20minutes.fr/societe/1511879-20150107-attaque-charlie-hebdo-direz-medias-al-qaida-yemen" data-widget-id="AR_3" data-ob-template="20minutes" ></div>
+
+                    <div id="sas_3131"  class="mt4 ad">
+        <script type="text/javascript">
+        sasCustomCall(3131);
+    </script>
+    </div>
+
+                                    </div>
+
+                    <aside class="lt-sidebar" role="complementary" data-tpl="article">
+    
+    
+            <div id="sas_1058"  class="ad">
+        <script type="text/javascript">
+        sasCustomCall(1058);
+    </script>
+    </div>
+
+    
+                                    
+            
+    <iframe class="ad mb2" id="ligatus_20354" name="ligatus_20354" src="http://a.ligatus.com/timeout.php?ids=20354" width="300" height="537" frameborder="0" scrolling="no" allowtransparency="true"></iframe>
+
+    <div class="leguide">
+        <p class="widget-title">Annonces shopping <span class="ad-mentions">(Publicité)</span><a href="http://guide-shopping.20minutes.fr/" class="leguide-brand" target="_blank"><em>par leguide.com</em></a></p>
+        <iframe src="http://cshoppingbox.partner.leguide.com/20minutes/001_box.htm" class="mb2" width="300" height="225" scrolling="no" frameborder="0"></iframe>
+    </div>
+    <div id="sas_6842"  class="mb2 ad">
+        <script type="text/javascript">
+        sasCustomCall(6842);
+    </script>
+    </div>
+
+    <div id="sas_13876"  class="ad-ops mb0 ad">
+        <script type="text/javascript">
+        sasCustomCall(13876);
+    </script>
+    </div>
+
+
+            
+    <div class="OUTBRAIN mt2 mb2" data-src="http://www.20minutes.fr/societe/1511879-20150107-attaque-charlie-hebdo-direz-medias-al-qaida-yemen" data-widget-id="SB_2" data-ob-template="20minutes" ></div>
+
+
+    <form action="http://www.20minutes.fr/newsletters/sauvegarde#xtatc=INT-54-[article]" method="POST" class="nlbox default" target="_blank">
+    <div class="icon-wrap" data-icon="d">
+        <span class="icon-label">Breaking</span><br>
+        <span class="nlbox-title">NEWS</span>
+    </div>
+    <p class="nlbox-desc">Recevez nos <strong>alertes info en temps réel</strong></p>
+    <p>
+        <input id="nlbox_email" name="emailing[key]" class="nl-input" type="text" placeholder="Saisissez votre email" />
+        <input type="hidden" name="emailing[subscriptions][mn_data_1]" value="1">
+        <input type="hidden" name="emailing[show][]" value="mn_data_1">
+        <input type="hidden" name="emailing[segment]" value="box_article_mn_data_1">
+        <input class="nl-submit" type="submit" value="OK" />
+    </p>
+    <img src="http://logi4.xiti.com/get.ad?xts=290428&amp;ati=INT-54-[article]&amp;type=AT&amp;rn=1391791506&amp;url=http://cache.20minutes.fr/img/design/pixtransp.gif" class="invisible" width="0" height="0" />
+</form>
+
+
+    </aside>
+
+            </div>
+
+                        <div class="page-over clr mb2" data-scroll-content=".pave-over-scroll">
+    <div class="pave-over-scroll">
+                            <div class="page-over-section">
+                <p class="block-title-headline default"><span class="block-title-content pl2">Actualité</span><span class="block-title-liner"></span></p>
+                <ul class="block-list">
+                                        <li>
+                        <a href="/societe/1570199-20150324-direct-crash-a320-alpes-avion-transportait-148-personnes-avion-declare-etat-detresse" xtclib="pageover_actualite">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/i4Qry0QbTzmH9TXoRPdsTg/120x78_carte-localisation-tete-estrop-alpes-haute-provence-o-a320-compagnie-germanwings-crashe-24-mars-2015.jpg"></span>
+                            <div class="teaser-desc default">
+                                <p class="teaser-headline">LIVE.</p>
+                                <p class="teaser-title">EN DIRECT. Crash d&#039;un A320 dans les Alpes: L&#039;avion transportait 148 personnes... L&#039;avion s&#039;est...</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/monde/1570163-20150324-grande-bretagne-enleve-parents-etre-soigne-differemment-ashya-king-gueri" xtclib="pageover_actualite">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/JrIVaTVcRIq7ttxmzY0jFQ/120x78_petit-britannique-ashya-king-c-souffre-tumeur-cerveau-24-octobre-2014-a-prague.jpg"></span>
+                            <div class="teaser-desc default">
+                                <p class="teaser-headline">SANTE.</p>
+                                <p class="teaser-title">Grande-Bretagne: Enlevé par ses parents pour être soigné différemment, Ashya King serait...</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/societe/1570159-20150324-greve-historique-salaries-groupe-banque-populaire-caisse-epagne" xtclib="pageover_actualite">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/hcM9TdYYRFu_hRthJWz-tg/120x78_logo-banque-populaire-caisses-epargnes-bpce.jpg"></span>
+                            <div class="teaser-desc default">
+                                <p class="teaser-headline">SOCIAL.</p>
+                                <p class="teaser-title">«Grève historique» des salariés du groupe Banque Populaire-Caisse d&#039;Epagne</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/societe/1570135-20150324-seniors-qualite-repas-menu-maisons-retraite" xtclib="pageover_actualite">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/Rq8LsateTuabgPGkxStFrA/120x78_maison-de-retraite-les-jardins-d-emilie-a-caussade-personne-agee-dans-les-couloirs-deambulateur.jpg"></span>
+                            <div class="teaser-desc default">
+                                <p class="teaser-headline">SANTE.</p>
+                                <p class="teaser-title">Séniors: La qualité des repas n’est pas au menu des maisons de retraite</p>
+                            </div>
+                        </a>
+                    </li>
+                                    </ul>
+            </div>
+                    <div class="page-over-section">
+                <p class="block-title-headline entertainment"><span class="block-title-content pl2">Entertainment</span><span class="block-title-liner"></span></p>
+                <ul class="block-list">
+                                        <li>
+                        <a href="/cinema/1570211-20150324-video-fast-furious-7-vin-diesel-evoque-paul-walker-larmes-yeux" xtclib="pageover_entertainment">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/o3ztwBV9RgyHOjbYV6KRrw/120x78_acteur-vin-diesel-juillet-2014-los-angeles.jpg"></span>
+                            <div class="teaser-desc entertainment">
+                                <p class="teaser-headline">CINEMA.</p>
+                                <p class="teaser-title">VIDEO. «Fast &amp; Furious 7»: Vin Diesel évoque Paul Walker les larmes aux yeux</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/medias/1570183-20150324-radio-france-direction-envisage-plan-departs-volontaires-200-300-salaries" xtclib="pageover_entertainment">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/nM61QBJSRxCUaP36c8gbeA/120x78_maison-radio-18-mars-2015-a-paris.jpg"></span>
+                            <div class="teaser-desc entertainment">
+                                <p class="teaser-headline">MEDIAS.</p>
+                                <p class="teaser-title">Radio France: La direction envisage un plan de départs volontaires de 200 à 300 salariés</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/television/1570107-20150324-video-russell-crowe-reaffirme-admiration-zaz-chanteuse-enorme" xtclib="pageover_entertainment">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/O0eDCDNbRu2Tvt-tS-dbdQ/120x78_russell-crowe-dublin-irlande-20-mars-2015.jpg"></span>
+                            <div class="teaser-desc entertainment">
+                                <p class="teaser-headline">TÉLÉVISION.</p>
+                                <p class="teaser-title">VIDÉO. Russell Crowe réaffirme son admiration pour Zaz: «C’est une chanteuse énorme»</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/culture/musique/1570039-20150324-gonzales-invente-hip-hop-chambre-chambers" xtclib="pageover_entertainment">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/EX7KRAOlSS-uho82IfHVoQ/120x78_chilly-gonzales-kaiser-quartett.jpg"></span>
+                            <div class="teaser-desc entertainment">
+                                <p class="teaser-headline">MUSIQUE.</p>
+                                <p class="teaser-title">Gonzales invente le hip-hop de chambre avec «Chambers»</p>
+                            </div>
+                        </a>
+                    </li>
+                                    </ul>
+            </div>
+                    <div class="page-over-section">
+                <p class="block-title-headline economy"><span class="block-title-content pl2">Economie</span><span class="block-title-liner"></span></p>
+                <ul class="block-list">
+                                        <li>
+                        <a href="/lille/1570139-20150324-nord-portakabin-etend-activite" xtclib="pageover_economie">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/hOSb5UilQLOF7QCDQJOG3g/120x78_batiment-modialire-portakabin.jpg"></span>
+                            <div class="teaser-desc default">
+                                <p class="teaser-headline">CONSTRUCTION.</p>
+                                <p class="teaser-title">Nord: Portakabin étend son activité</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/economie/1570099-20150324-renault-nissan-remuneration-carlos-ghosn-augmente-169-2014" xtclib="pageover_economie">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/xXN5VGk2R5KCSqECFMEYrQ/120x78_pdg-nissan-carlos-ghosn-19-decembre-2014-siege-groupe-automobile-a-yokohama.jpg"></span>
+                            <div class="teaser-desc economy">
+                                <p class="teaser-headline">AUTOMOBILE.</p>
+                                <p class="teaser-title">Renault-Nissan: La rémunération de Carlos Ghosn a augmenté de 169% en 2014</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/economie/1570138-20150324-inflation-nulle-royaume-uni-fevrier-premiere" xtclib="pageover_economie">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/8Au7wd98R4SK10za3ZNC5g/120x78_premier-ministre-david-cameron-arrive-a-congres-chambre-commerce-britannique-10-fevrier-2015-a-londres.jpg"></span>
+                            <div class="teaser-desc economy">
+                                <p class="teaser-headline">Economie.</p>
+                                <p class="teaser-title">Inflation nulle au Royaume-Uni en février, une première</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/economie/1570214-20150324-carrefour-cede-173-capital-3937-eur" xtclib="pageover_economie">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/EsUd0EEITeOEPF5PMlzkAw/120x78_logo-carrefour-marseille-photographie-13-mars-2015.jpg"></span>
+                            <div class="teaser-desc economy">
+                                <p class="teaser-headline">Economie.</p>
+                                <p class="teaser-title">Carrefour cède 1,73% du capital pour 393,7 M EUR  </p>
+                            </div>
+                        </a>
+                    </li>
+                                    </ul>
+            </div>
+                    <div class="page-over-section">
+                <p class="block-title-headline sport"><span class="block-title-content pl2">Sport</span><span class="block-title-liner"></span></p>
+                <ul class="block-list">
+                                        <li>
+                        <a href="/sport/football/1570179-20150324-video-bresil-arbitre-siffle-penalty-frappe-niveau-gorge" xtclib="pageover_sport">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/78GmCGDwSGSZvoCs7eWiMA/120x78_bresil-lors-match-entre-jacuipenet-juazeiren-3-1-joueur-tape-arbitre-car-dernier-accorde-penalty-equipe.jpg"></span>
+                            <div class="teaser-desc sport">
+                                <p class="teaser-headline">FOOTBALL.</p>
+                                <p class="teaser-title">VIDEO. Brésil: L&#039;arbitre ne siffle pas penalty, il le frappe au niveau de la gorge</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/sport/football/1570167-20150324-mondial-2018-boycott-inutile-estime-sepp-blatter" xtclib="pageover_sport">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/02cNUB6DS3mYx_cby8nFGw/120x78_sepp-blatter-president-fifa-26-septembre-2014-zurich.jpg"></span>
+                            <div class="teaser-desc sport">
+                                <p class="teaser-headline">FOOTBALL.</p>
+                                <p class="teaser-title">Mondial 2018: Un boycott est inutile, estime Sepp Blatter</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/sport/football/1570123-20150324-mercato-blaise-matuidi-promet-quittera-psg" xtclib="pageover_sport">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/ZuWy1BOKRBm00HllNTtd7w/120x78_blaise-matuidi-lors-match-entre-psg-toulouse-21-fevrier-2015.jpg"></span>
+                            <div class="teaser-desc sport">
+                                <p class="teaser-headline">FOOTBALL.</p>
+                                <p class="teaser-title">Mercato: Blaise Matuidi promet qu&#039;il ne quittera pas le PSG</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/sport/1570055-20150324-bjarne-riis-suspendu-patron-oleg-tinkov" xtclib="pageover_sport">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/6QICs6jWQtiCylYlDVzaQg/120x78_bjarne-riis-octobre-2013.jpg"></span>
+                            <div class="teaser-desc sport">
+                                <p class="teaser-headline">CYCLISME.</p>
+                                <p class="teaser-title">Bjarne Riis suspendu par son patron Oleg Tinkov</p>
+                            </div>
+                        </a>
+                    </li>
+                                    </ul>
+            </div>
+                    <div class="page-over-section">
+                <p class="block-title-headline default"><span class="block-title-content pl2">Locales</span><span class="block-title-liner"></span></p>
+                <ul class="block-list">
+                                        <li>
+                        <a href="/toulouse/1570155-20150324-toulouse-vingtaine-platanes-abattue-long-canal-midi" xtclib="pageover_locales">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/F_3LBmI4TVGXgBaNm2N7og/120x78_champignon-peut-cacher-autre-canal.jpg"></span>
+                            <div class="teaser-desc default">
+                                <p class="teaser-headline">ESPACES VERTS.</p>
+                                <p class="teaser-title">Toulouse: Une vingtaine de platanes abattue le long du Canal du Midi</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/nice/1570231-20150324-mariage-annule-nice-estrosi-doutes-sincerite" xtclib="pageover_locales">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/8whornInQTGGoDCFxWM9gQ/120x78_christian-estrosi-17-fevrier-2015-a-paris.jpg"></span>
+                            <div class="teaser-desc default">
+                                <p class="teaser-headline">SOCIETE.</p>
+                                <p class="teaser-title">Mariage annulé à Nice: Pour Estrosi, il y avait des «doutes sur la sincérité»</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/nantes/1570219-20150324-loire-atlantique-cote-reports-voix-feront-pencher-balance" xtclib="pageover_locales">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/48lV359JTH2lJrWvmjOSWg/120x78_philippe-grosvalet-c-socialist-party-ps-president-of-the-loire-atlantique-department-smiles-before.jpg"></span>
+                            <div class="teaser-desc default">
+                                <p class="teaser-headline">ELECTIONS DEPARTEMENTALES.</p>
+                                <p class="teaser-title">Loire-Atlantique: De quel côté les reports de voix feront-ils pencher la balance?</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/bordeaux/1570187-20150324-bordeaux-olikrom-start-up-rend-peintures-intelligentes" xtclib="pageover_locales">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/Jq4rdNanTYi6kbkFyMW9gQ/120x78_jean-francois-letard-directeur-recherche-cnrs-patron-societe-olikrom-pessac.jpg"></span>
+                            <div class="teaser-desc default">
+                                <p class="teaser-headline">INNOVATION.</p>
+                                <p class="teaser-title">Bordeaux: Olikrom, une start up qui rend les peintures intelligentes</p>
+                            </div>
+                        </a>
+                    </li>
+                                    </ul>
+            </div>
+                    <div class="page-over-section">
+                <p class="block-title-headline weird"><span class="block-title-content pl2">T&#039;as vu ?</span><span class="block-title-liner"></span></p>
+                <ul class="block-list">
+                                        <li>
+                        <a href="/insolite/1570143-20150324-isere-148000-euros-sac-jete-bordure-autoroute" xtclib="pageover_t_as_vu">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/5YUPH7oOS3yumbcijzytTQ/120x78_sac-jete-fenetre-14-novembre-dernier-pleine-course-poursuite-douaniers-lyonnais-autoroute-a7.jpg"></span>
+                            <div class="teaser-desc weird">
+                                <p class="teaser-headline">FAITS DIVERS.</p>
+                                <p class="teaser-title">Isère: 148.000 euros dans un sac jeté en bordure d’autoroute</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/insolite/1570111-20150324-video-etats-unis-larmes-rires-drole-week-end-joueuse-flute-villanova-wildcats" xtclib="pageover_t_as_vu">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/P5dYjnh0R6GMJ0phX7XitA/120x78_roxanne-chalifoux-joueuse-piccolo-orchestre-universite-villanova-philadelphie-pennsylvanie.jpg"></span>
+                            <div class="teaser-desc weird">
+                                <p class="teaser-headline">INSOLITE.</p>
+                                <p class="teaser-title">VIDEO. Etats-Unis: Des larmes aux rires, le drôle de week-end de la joueuse de flûte des...</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/insolite/1570031-20150324-video-boeing-brevete-bouclier-anti-explosion-star-wars" xtclib="pageover_t_as_vu">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/X8ioAY-WRaOgaPrNBwYbFQ/120x78_boeing-songe-serieusement-inspirer-champs-forces-utilisees-bataille-planete-naboo-proteger-tanks-aussi-batiments.jpg"></span>
+                            <div class="teaser-desc weird">
+                                <p class="teaser-headline">INNOVATION.</p>
+                                <p class="teaser-title">VIDEO. Boeing a breveté le bouclier anti-explosion de Star Wars</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/insolite/1569983-20150324-portugal-espece-inconnue-salamandre-geante-vieille-plus-200-millions-annees-decouvertes" xtclib="pageover_t_as_vu">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/h33mtitvTU6R5BsCo_07-g/120x78_salamandres-ancetre-bien-terrifiant.jpg"></span>
+                            <div class="teaser-desc weird">
+                                <p class="teaser-headline">DINOSAURES.</p>
+                                <p class="teaser-title">Portugal: Une espèce inconnue de salamandre géante vieille de plus de 200 millions d’années...</p>
+                            </div>
+                        </a>
+                    </li>
+                                    </ul>
+            </div>
+                    <div class="page-over-section">
+                <p class="block-title-headline hightech"><span class="block-title-content pl2">High-Tech</span><span class="block-title-liner"></span></p>
+                <ul class="block-list">
+                                        <li>
+                        <a href="/high-tech/1569895-20150324-non-google-glass-mort" xtclib="pageover_high_tech">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/x-QSJL0cQz6S7AfRDCfMtQ/120x78_google-glass-propose-desormais-quatre-montures-lunettes-vue.jpg"></span>
+                            <div class="teaser-desc hightech">
+                                <p class="teaser-headline">TECHNOLOGIE.</p>
+                                <p class="teaser-title">Non, Google Glass n&#039;est pas mort</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/sciences/1569859-20150323-creation-bebes-genetiquement-modifies-inquiete-chercheurs" xtclib="pageover_high_tech">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/1uAWs-LxR_ibQUgCHMS2nA/120x78_methode-crisp-cas9-permet-modifier-brin-adn.jpg"></span>
+                            <div class="teaser-desc hightech">
+                                <p class="teaser-headline">ETHIQUE.</p>
+                                <p class="teaser-title">La création de bébés génétiquement modifiés inquiète des chercheurs</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/culture/1569663-20150323-video-battlefield-hardline-plonge-joueur-enquetes-policieres-episodes" xtclib="pageover_high_tech">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/VtexLHKhSwe8H42sBW4stg/120x78_nick-mendoza-heros-battlefield-hardline.jpg"></span>
+                            <div class="teaser-desc entertainment">
+                                <p class="teaser-headline">JEU VIDEO.</p>
+                                <p class="teaser-title">VIDEO. «Battlefield Hardline» plonge le joueur dans des enquêtes policières à épisodes</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/high-tech/1569675-20150323-metamorphosez-bicyclette-velo-assistance-electrique" xtclib="pageover_high_tech">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/pvC_3RmjSmKvO53ZyXJ6vA/120x78_amovible-roolin-adapte-velos-20-26-28-pouces.jpg"></span>
+                            <div class="teaser-desc hightech">
+                                <p class="teaser-headline">INNOVATION.</p>
+                                <p class="teaser-title">Métamorphosez votre bicyclette en vélo à assistance électrique</p>
+                            </div>
+                        </a>
+                    </li>
+                                    </ul>
+            </div>
+                    <div class="page-over-section">
+                <p class="block-title-headline planet"><span class="block-title-content pl2">Planète</span><span class="block-title-liner"></span></p>
+                <ul class="block-list">
+                                        <li>
+                        <a href="/france/1569886-20150323-guyane-suspension-pulverisations-insecticide-probablement-cancerogene" xtclib="pageover_planete">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/TRMi8HyuRSyT_tLVlZFZgw/120x78_larves-moustiques-portant-chikungunya.jpg"></span>
+                            <div class="teaser-desc planet">
+                                <p class="teaser-headline">Planète.</p>
+                                <p class="teaser-title">Guyane: suspension des pulvérisations d&#039;un insecticide probablement cancérogène</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/planete/1569774-20150323-accord-egypte-a-immense-barrage-ethiopien-nil" xtclib="pageover_planete">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/VKDidRTDQbaXxcoC487IDA/120x78_president-egyptien-abdel-fatah-al-sissi-g-homologue-soudanais-omar-el-bechir-c-premier-ministre-ethiopien-hailemariam-desalegn.jpg"></span>
+                            <div class="teaser-desc planet">
+                                <p class="teaser-headline">Planète.</p>
+                                <p class="teaser-title">Accord de l&#039;Egypte à un immense barrage éthiopien sur le Nil</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/planete/1569662-20150323-bruxelles-sonne-alerte-contre-bacterie-tueuse-oliviers" xtclib="pageover_planete">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/Cvs7_XrHS--pMUY9SU6Ydg/120x78_oliviers-pres-florence-2-decembre-2014.jpg"></span>
+                            <div class="teaser-desc planet">
+                                <p class="teaser-headline">Planète.</p>
+                                <p class="teaser-title">Bruxelles sonne l&#039;alerte contre une bactérie tueuse d&#039;oliviers</p>
+                            </div>
+                        </a>
+                    </li>
+                                        <li>
+                        <a href="/planete/1569359-20150323-pollution-efficace-trop-tardive-circulation-alternee-vraiment-reponse" xtclib="pageover_planete">
+                            <span class="teaser-media" data-bg-src="http://img.20mn.fr/KNrT-yOwRqixW0T2Qi7lRg/120x78_controles-police-cadre-circulation-alternee-23-mars-2015-paris.jpg"></span>
+                            <div class="teaser-desc planet">
+                                <p class="teaser-headline">ENVIRONNEMENT.</p>
+                                <p class="teaser-title">Pollution: Pas efficace, trop tardive, la circulation alternée est-elle vraiment la réponse?</p>
+                            </div>
+                        </a>
+                    </li>
+                                    </ul>
+            </div>
+            </div>
+    <button class="page-over-prev" data-scroll-action="previous" aria-hidden="true" disabled="disabled"><span data-icon="<"><em>Précédent</em></span></button>
+    <button class="page-over-next" data-scroll-action="next" aria-hidden="true" disabled="disabled"><span data-icon=">"><em>Suivant</em></span></button>
+</div>
+
+            
+                    <div id="comments" class="lt-page">
+            <div id="comments-wrap" class="clearfix">
+                <div id="comments-container" class="lt-content w66" data-delayed="scroll"
+     data-comment-overview="/etna-ajax/comments-section/51f3e0c3-1824-46c2-8642-27438167c3ab/0">
+</div>
+                <div class="lt-sidebar">
+                    <div id="sas_1059"  class="pt3 mb0 ad" data-delayed="scroll" data-stick="default" data-stick-within="#comments-wrap">
+    </div>
+
+                </div>
+            </div>
+        </div>
+                                            <div id="sas_1069"  class="ad-large ad" data-delayed="scroll">
+    </div>
+
+                            </div>
+
+            <div id="arch-wrapper" class="ad-arch"></div>
+        </div>
+
+                    <div class="alerts_container">
+    <div id="cnil-notice" class="alert alert-base alert-dismissable hidden">
+        <button class="alert-close default" aria-hidden="true" data-cnil="allow"><em>Fermer</em></button>
+        <p>En poursuivant votre navigation sur ce site, vous acceptez l’utilisation de cookies pour vous proposer des contenus et services adaptés à vos centres d’intérêts.</p>
+        <p class="clearfix pt1">
+            <a href="/cgu.php" class="btn float-left"><span class="color-default">En savoir plus</span></a>
+            <button class="btn btn-default float-right" aria-hidden="true" data-cnil="allow">Fermer</button>
+        </p>
+    </div>
+</div>
+        
+                <footer>
+            <div class="lt-container footer-links">
+    <div class="w25 column">
+        <div class="footer-title">20 Minutes</div>
+        <ul>
+            <li><a href="/contact" xtclib="footer_contact">Contacts</a></li>
+            <li><a href="/distribution" xtclib="footer_distribution">Distribution</a></li>
+            <li><a href="http://www.20minutes-media.com/contacts.html" xtclib="footer_pub">Publicité</a></li>
+            <li><a href="http://www.20minutes-media.com/" xtclib="footer_20mn-media">20 Minutes Media</a></li>
+            <li><a href="http://www.20minutes.fr/plan-site" xtclib="footer_panel">Plan de site</a></li>
+            <li><a href="http://www.panel20minutes.fr/" xtclib="footer_panel">Panel des lecteurs</a></li>
+            <li><a href="/archives">Archives</a></li>
+            <li><a href="/article/8110/La-Charte-20.php">Charte 20 Minutes</a></li>
+        </ul>
+    </div>
+    <div class="w25 column">
+        <div class="footer-title">Partenaires</div>
+        <ul>
+            <li>
+                <div class="footer-item-logo"><img src="http://assets.20mn.fr/front/images/part-leboncoin.jpg?edf52d3" alt="Le Bon Coin" width="36" height="36" /></div>
+                <div class="footer-item-title">Le Bon Coin</div>
+                <p><a href="http://www.leboncoin.fr/" xtclib="footer_leboncoin">Annonces</a></p>
+            </li>
+            <li>
+                <div class="footer-item-logo"><img src="http://assets.20mn.fr/front/images/part-lacentrale.jpg?edf52d3" alt="La Centrale" width="36" height="36" /></div>
+                <div class="footer-item-title">La Centrale</div>
+                <p><a href="http://www.lacentrale.fr/" xtclib="footer_lacentrale">Voiture d'occasion</a></p>
+            </li>
+            <li>
+                <div class="footer-item-logo"><img src="http://assets.20mn.fr/front/images/part-caradisiac.jpg?edf52d3" alt="Caradisiac" width="36" height="36" /></div>
+                <div class="footer-item-title">Caradisiac</div>
+                <p><a href="http://www.caradisiac.com/" xtclib="footer_caradisiac">Actualité automobile</a></p>
+            </li>
+            <li>
+                <div class="footer-item-logo"><img src="http://assets.20mn.fr/front/images/part-20minutos.jpg?edf52d3" alt="20 Minutos" width="36" height="36" /></div>
+                <div class="footer-item-title">20 Minutos</div>
+                <p><a href="http://www.20minutos.es/" xtclib="footer_20minutos">Actualités en Espagne</a></p>
+            </li>
+            <li>
+                <div class="footer-item-logo"><img src="http://assets.20mn.fr/front/images/part-oxalide.jpg?edf52d3" alt="Oxalide" width="36" height="36" /></div>
+                <div class="footer-item-title">Oxalide</div>
+                <p><a href="http://www.oxalide.com/" xtclib="footer_oxalide">Hébergement et infogérance</a></p>
+            </li>
+            <li>
+                <div class="footer-item-logo"><img src="http://assets.20mn.fr/front/images/part-google.jpg?edf52d3" alt="Google+" width="36" height="36" /></div>
+                <div class="footer-item-title">Google+</div>
+                <p><a href="https://plus.google.com/111809199172709549618?prsrc=3" rel="publisher" xtclib="footer_googleplus">Le flux d'actualités 20 Minutes</a></p>
+            </li>
+            <li>
+                <div class="footer-item-logo"><img src="http://assets.20mn.fr/front/images/part-promo.jpg?edf52d3" alt="Promos shopping" width="36" height="36" /></div>
+                <div class="footer-item-title">Promos Shopping</div>
+                <p><a href="http://www.20minutes.fr/promotion-shopping/code-promo-zalando-reduction-13822" xtclib="footer_zalando">Code Promo Zalando</a></p>
+                <p><a href="http://www.20minutes.fr/promotion-shopping/code-promo-spartoo-reduction-1388" xtclib="footer_spartoo">Code Promo Spartoo</a></p>
+            </li>
+        </ul>
+    </div>
+    <div class="w50 column">
+        <div class="footer-title">Les services 20 Minutes</div>
+        <ul class="w25 column">
+            <li>
+                <div class="footer-item-icon"  data-icon="a"><em>Edition PDF</em></div>
+                <div class="footer-item-title"><a href="http://www.20minutes.fr/pdf#xtatc=INT-55-[footer]" xtclib="footer_pdf">20minutes - Le quotidien</a></div>
+                <p><a href="http://www.20minutes.fr/pdf#xtatc=INT-55-[footer]" xtclib="footer_pdf">Edition téléchargeable</a></p>
+            </li>
+            <li>
+                <div class="footer-item-icon"  data-icon='"'><em>Horoscope</em></div>
+                <div class="footer-item-title"><a href="http://horoscope.20minutes.fr/" xtclib="footer_horoscope">Horoscope</a></div>
+                <p><a href="http://horoscope.20minutes.fr/" xtclib="footer_horoscope">Que vous reserve la journée ?</a></p>
+            </li>
+            <li>
+                <div class="footer-item-icon"  data-icon="S"><em>Programme TV</em></div>
+                <div class="footer-item-title"><a href="http://programme-tv.20minutes.fr" xtclib="footer_programme-tv">Programme TV</a> </div>
+                <p><a href="http://programme-tv.20minutes.fr/soiree/" title="programme tv ce soir" xtclib="footer_programme-tv">Programme complet de la soirée</a></p>
+            </li>
+            <li>
+                <div class="footer-item-icon"  data-icon="k"><em>La cuisine d'Annie</em></div>
+                <div class="footer-item-title"><a href="http://lacuisinedannie.20minutes.fr/" xtclib="footer_cuisine">Recette de Cuisine</a></div>
+                <p><a href="http://lacuisinedannie.20minutes.fr/" xtclib="footer_cuisine">Recette de cuisine facile</a></p>
+            </li>
+            <li>
+                <div class="footer-item-icon"  data-icon="#"><em>Mots fléchés</em></div>
+                <div class="footer-item-title"><a href="http://www.20minutes.fr/services/mots-fleches" xtclib="footer_motsfleches">Mots fl&eacute;ch&eacute;s</a></div>
+                <p><a href="http://www.20minutes.fr/services/mots-fleches" xtclib="footer_motsfleches">Une grille gratuite tous les jours</a></p>
+            </li>
+            <li>
+                <div class="footer-item-icon"  data-icon="H"><em>Immobilier</em></div>
+                <div class="footer-item-title"><a href="http://immobilier.20minutes.fr/" xtclib="footer_bp_immobilier">Immobilier</a></div>
+                <p><a href="http://immobilier.20minutes.fr/" xtclib="footer_bp_immobilier">Trouvez votre logement </a></p>
+            </li>
+        </ul>
+        <ul class="w25 column">
+            <li>
+                <div class="footer-item-icon"  data-icon="e"><em>Jeux gratuits</em></div>
+                <div class="footer-item-title"><a href="http://www.20minutes.fr/services/jeux" xtclib="footer_jeux">Jeux gratuits</a></div>
+                <p><a href="http://www.20minutes.fr/services/sudoku" xtclib="footer_sudoku">Une grille de sudoku par jour</a></p>
+            </li>
+            <li>
+                <div class="footer-item-icon"  data-icon="t"><em>Les dossiers</em></div>
+                <div class="footer-item-title"><a href="http://www.20minutes.fr/dossier" xtclib="footer_dossierf">Les dossiers d'actualit&eacute;s</a></div>
+                <p><a href="http://www.20minutes.fr/dossier" xtclib="footer_thematiques">Toutes les thématiques</a></p>
+            </li>
+            <li>
+                <div class="footer-item-icon"  data-icon="'"><em>La 21e Minute</em></div>
+                <div class="footer-item-title"><a href="/la21e" xtclib="footer_la21e">La 21<sup>e</sup> Minute</a></div>
+                <p><a href="/la21e" xtclib="footer_la21e">Retrouver tous nos dossiers</a></p>
+            </li>
+            <li>
+                <div class="footer-item-icon"  data-icon="L"><em>Le journal</em></div>
+                <div class="footer-item-title"><a href="https://itunes.apple.com/fr/app/20-minutes-le-journal/id574834302?mt=8" xtclib="footer_kiosque">20 Minutes - le journal</a></div>
+                <p><a href="https://itunes.apple.com/fr/app/20-minutes-le-journal/id574834302?mt=8" xtclib="footer_kiosque">Le journal sur votre mobile</a></p>
+            </li>
+        </ul>
+    </div>
+    <hr />
+    <div class="w100 footer-ojd">
+        <a href="http://www.ojd-internet.com/chiffres/">La fréquentation de 20minutes.fr est certifiée par l'OJD</a>
+    </div>
+</div>
+<div class="footer-mention">
+    <div class="lt-container">
+        <ul>
+            <li><a href="/cgu.php">Conditions générales d'utilisation</a></li>
+            <li><a href="/mentions.php">Mentions légales</a></li>
+        </ul>
+        <p>&copy; Copyright <a href="/">20 Minutes</a></p>
+    </div>
+</div>
+        </footer>
+        
+            <div class="modal hidden fade" id="modalPostsRules" tabindex="-1" role="dialog" aria-labelledby="postsRules" aria-hidden="true">
+        <p id="postsRules" class="modal-title pb1 bbd">Règles de modération des commentaires</p>
+        <div class="modal-body mt1 mb1">
+            <p>Afin d'être publiée, votre note :</p>
+<br/>
+<p>- Doit se conformer à la législation en vigueur. En particulier et de manière non exhaustive sont proscrits : l'incitation à la haine raciale et à la discrimination, l'appel à la violence ; la diffamation, l'injure, l'insulte et la calomnie ; l'incitation au suicide, à l'anorexie, l'incitation à commettre des faits contraires à la loi ; les collages de textes soumis  au droit d'auteur ou au copyright ; les sous-entendus racistes, homophobes, sexistes ainsi que les blagues stigmatisantes.</p>
+<br/>
+<p>- De plus, votre message doit respecter les règles de bienséance : être respectueux des internautes comme des journalistes de 20Minutes, ne pas être hors-sujet et ne pas tomber dans la vulgarité.</p>
+<br/>
+<p>- D'autre part, les messages publicitaires, postés en plusieurs exemplaires, rédigés en majuscules, contenant des liens vers des sites autres que 20Minutes ou trop longs seront supprimés. De même, 20Minutes.fr respecte tous les engagements de ses lecteurs, mais n'autorise pas le prosélytisme. Les commentaires ne doivent pas appeler au vote pour un parti, un syndicat ou un candidat quel qu'il soit.</p>
+
+        </div>
+        <p class="pt1 btd"><button type="button" class="btn" data-dismiss="modal">Fermer</button></p>
+        <button class="modal-close" data-dismiss="modal"><em>Fermer</em></button>
+    </div>
+    <div class="modal hidden fade" id="modalPostConfirm" tabindex="-1" role="dialog" aria-hidden="true">
+        <div class="modal-body mt1">
+            Votre commentaire a bien été pris en compte. Il sera visible sur le site très prochainement s'il respecte la charte 20 Minutes.
+        </div>
+        <p class="pt1 btd clearfix"><button type="button" class="btn btn-default float-right" data-dismiss="modal">Fermer</button></p>
+        <button class="modal-close" data-dismiss="modal"><em>Fermer</em></button>
+    </div>
+
+                            
+            <script src="http://assets.20mn.fr/components/blazy/blazy.min.js?edf52d3"></script>
+            <script type="text/javascript">
+                // Lazyload pictures in priority
+                var bLazy = new Blazy({
+                    selector: '.teaser-media, .media-item, .image',
+                    src: 'data-bg-src'
+                });
+                var assetsUrl = "http://assets.20mn.fr";
+            </script>
+
+                            <script type="text/javascript" src="http://assets.20mn.fr/js/all.js?edf52d3"></script>
+                    
+            <script type="text/javascript" src="http://assets.20mn.fr/js/all_content.js?edf52d3"></script>
+    
+            <script type="text/javascript">
+        if (typeof BOOMR !== "undefined") {
+            BOOMR.plugins.RT.endTimer("t_body");
+        }
+        </script>
+    
+    <script type="text/javascript" src="http://assets.20mn.fr/components/galleria/src/galleria.js?edf52d3"></script>
+    <script type="text/javascript" src="http://assets.20mn.fr/bundles/etnaarticle/js/article-carousel.js?edf52d3"></script>
+    <script type="text/javascript" src="http://assets.20mn.fr/bundles/etnaarticle/js/live.js?edf52d3"></script>
+    <script type="text/javascript" src="http://widgets.outbrain.com/outbrain.js"></script>
+    <!-- xiti tag -->
+<div id="xiti-logo">
+    <script type="text/javascript">
+    <!--
+        xtnv = document;        //parent.document or top.document or document
+        xtsd = "http://logi4";
+        xtsite = "290428";
+        xtn2 = "1";        // level 2 site
+                xtpage = "Societe::20mn::Attaque_a_Charlie_Hebdo_Vous_direz_aux_medias_que_c_est_Al_Qaida_au_Yemen";        //page name (with the use of :: to create chapters)
+                xtdi = "";        //implication degree
+
+        xt_multc = "&x1&x2=1511879&x3=&x4=&x5=&x6=&x7=&x8=&x9=&x10=";
+        //do not modify below
+                    if (window.xtparam!=null){window.xtparam+=xt_multc;}
+            else{window.xtparam =xt_multc;};
+        
+                    xt_tags ="attentats|charlie_hebdo|societe";
+            if (window.xtparam!=null){window.xtparam+="&tag="+xt_tags;}
+            else {window.xtparam="&tag="+xt_tags;};
+        
+        
+                xt_pagetype = "1-1-0";
+        if (window.xtparam!=null) {window.xtparam+="&ptype="+xt_pagetype;}
+        else {xtparam = "&ptype="+xt_pagetype;};
+            //-->
+    </script>
+
+
+    <script type="text/javascript" src="http://cache.20minutes.fr/js/xiti.js"></script>
+    <noscript>
+        <div id="xiti-logo-noscript">
+            <img width="1" height="1" src="http://logi4.xiti.com/hit.xiti?s=290428&s2=1&p=Societe::20mn::Attaque_a_Charlie_Hebdo_Vous_direz_aux_medias_que_c_est_Al_Qaida_au_Yemen&di=&x1&x2=1511879&x3=&x4=&x5=&x6=&x7=&x8=&x9=&x10=" alt="XiTi" />
+        </div>
+    </noscript>
+
+</div>
+
+
+                                    <div id="cX-root" style="display:none"></div>
+                <script type="text/javascript">
+                var cX = cX || {}; cX.callQueue = cX.callQueue || [];
+                cX.callQueue.push(['setSiteId', '9222350969905870877']);
+                cX.callQueue.push(['sendPageViewEvent']);
+                </script>
+                <script type="text/javascript">
+                (function() { try { var scriptEl = document.createElement('script'); scriptEl.type = 'text/javascript'; scriptEl.async = 'async';
+                scriptEl.src = ('https:' == location.protocol) ? 'https://scdn.cxense.com/cx.js' : 'http://cdn.cxense.com/cx.js';
+                var targetEl = document.getElementsByTagName('script')[0]; targetEl.parentNode.insertBefore(scriptEl, targetEl); } catch (e) {};} ());
+                </script>
+                    
+                <script type="text/javascript">
+            (function(w, d) { var a = function() { var a = d.createElement('script'); a.type = 'text/javascript';
+            a.async = 'async'; a.src = '//' + ((w.location.protocol === 'https:') ? 's3.amazonaws.com/cdx-radar/' :
+            'radar.cedexis.com/') + '01-10005-radar10.min.js'; d.body.appendChild(a); };
+            if (w.addEventListener) { w.addEventListener('load', a, false); }
+            else if (w.attachEvent) { w.attachEvent('onload', a); }
+            }(window, document));
+        </script>
+        
+                <script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+            ga('create', 'UA-3222681-1', 'auto');
+            ga('send', 'pageview');
+        </script>
+        
+                <!--Visual Revenue Reader Response Tracking Script (v6) -->
+        <script type="text/javascript">
+            var _vrq = _vrq || [];
+            _vrq.push(['id', 145]);
+            _vrq.push(['automate', false]);
+            _vrq.push(['track', function(){}]);
+            (function(d, a){
+                var s = d.createElement(a),
+                x = d.getElementsByTagName(a)[0];
+                s.async = true;
+                s.src = 'http://a.visualrevenue.com/vrs.js';
+                x.parentNode.insertBefore(s, x);
+            })(document, 'script');
+        </script>
+        <!-- End of VR RR Tracking Script - All rights reserved -->
+            </body>
+</html>

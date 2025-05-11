@@ -1,0 +1,1080 @@
+HTTP/1.1 200 OK
+Server: Apache
+Vary: Accept-Encoding
+Content-Type: text/html; charset=ISO-8859-1
+Content-Encoding: gzip
+Content-Language: en-GB
+X-Powered-By: Servlet/2.4 JSP/2.0
+X-C4-Cache-Control: Short
+Cache-Control: max-age=300
+Date: Tue, 24 Mar 2015 11:14:16 GMT
+Content-Length: 14598
+Connection: keep-alive
+
+<!DOCTYPE html>
+<!--[if lt IE 7]><html class="no-js lt-ie9 lt-ie8 lt-ie7 ie6" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if IE 7]><html class="no-js lt-ie9 lt-ie8 ie7" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if IE 8]><html class="no-js lt-ie9 ie8" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en" xmlns:fb="http://ogp.me/ns/fb#"> <!--<![endif]-->
+<head>
+	<meta charset="utf-8">
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	
+	<title>Gun attack on French satirical magazine kills 12 - Channel 4 News</title>
+	<meta name="google-site-verification" content="e4TWgY6lK5mcVTmwGU_QJU-k82lcCv8U-og5pStkA9w" />
+	<!-- News Head -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+	<meta name="title" content="Gun attack on French satirical magazine kills 12"/><meta name="synopsis" content="Gunmen armed with assault rifles kill 12 people in an attack on the offices of French satirical magazine Charlie Hebdo."/><meta name="description" content="Gunmen armed with assault rifles kill 12 people in an attack on the offices of French satirical magazine Charlie Hebdo."/>
+	 <meta name="keywords" content="Channel 4 News, France"/>
+	 <meta name="news_keywords" content="Channel 4 News, France"/>
+	<meta name="articleId" content="504399416" /><meta name="imageUrl" content="/media/images/Channel4/c4-news/2015/January/07/07_charliehebdo_victims2_r_w--(None)_A4.jpg"/><link rel="image_src" href="/media/images/Channel4/c4-news/2015/January/07/07_charliehebdo_victims2_r_w--(None).jpg"/><meta name="contentType" content="Feature"/><meta name="publishDate" content="2015-01-07"/>
+	<meta name="OriginalPublicationDate" content="2015-01-07"/><meta name="Channel 4 News" content="Channel 4 News"/> <meta name="France" content="France"/> <meta name="countryTagDisplayName" content="France"/>
+	<meta name="countryTagWebSafeName" content="france"/>
+	<meta name="countryTagPageUrl" content="/france"/><meta name="authorTagDisplayName" content="Channel 4 News"/>
+	<meta name="authorTagWebSafeName" content="channel-4-news"/>
+
+	<!-- Twitter Card & OG metadata -->
+
+	        <meta name="twitter:card" content="summary_large_image">
+
+	    <meta name="twitter:site" content="@channel4news">
+	    <meta name="twitter:creator:id" content="14569869">
+	    <meta name="twitter:title" content="Gun attack on French satirical magazine kills 12">
+	<meta name="twitter:description" content="Gunmen armed with assault rifles kill 12 people in an attack on the offices of French satirical magazine Charlie Hebdo.">
+	<meta name="twitter:image:src" content="http://www.channel4.com/media/images/Channel4/c4-news/2015/January/07/07_charliehebdo_victims2_r_w--(None).jpg">
+	    <meta name="twitter:domain" content="channel4.com">
+
+	    <meta property="og:title" content="Gun attack on French satirical magazine kills 12" />
+	    <meta property="og:type" content="article" />
+	        <meta property="og:url" content="http://www.channel4.com/news/gun-attack-on-french-satirical-magazine-kills-at-least-10" />
+	    <meta property="og:site_name" content="Channel 4 News" />
+	<meta property="og:image" content="http://www.channel4.com/media/images/Channel4/c4-news/2015/January/07/07_charliehebdo_victims2_r_w--(None).jpg"/> 
+	<!-- bip head -->
+	<!-- bip head -->
+	<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+	<link rel="apple-touch-icon" href="/static/news/news/images/global/apple-touch-icon.png" />
+	<link rel="shortcut icon" href="/static/news/news/images/global/apple-touch-icon.png" />
+	<!-- Connonical URL -->
+	<link rel="canonical" href="http://www.channel4.com/news/gun-attack-on-french-satirical-magazine-kills-at-least-10" />
+	<meta name="FourIdDomain" content="4id.channel4.com" />
+	<script>
+	var C4Nav = C4Nav || {};
+	C4Nav.Config =
+	{
+	Identity : true,
+	Widget : false,
+	Responsive : true,
+	Search : false,
+	CookieLinks : true,
+	ViewerServices : true,
+	Static : false
+	};
+	</script>
+	<link type="text/css" href="//d8si6upl43lp1.cloudfront.net/static/4nav/6.0.1/css/min-4nav.css" rel="stylesheet" />
+	<script src="//d8si6upl43lp1.cloudfront.net/static/4nav/6.0.1/js/min-4nav.js"></script>
+	<script>
+	C4Nav.initModule('Identity', { xdUrl: 'https://4id.channel4.com/xdcomm', fourIdUrl: 'https://4id.channel4.com' });
+	</script>
+	<script src="//service.maxymiser.net/cdn/channel4/js/mmcore.js"></script>
+	<div id="fb-root"></div>
+	<script type="text/javascript" src="//connect.facebook.net/en_GB/all.js"></script>
+	<script type="text/javascript">
+	// <![CDATA[
+	if(window.FB && FB.init) {
+	FB.init({
+	appId  : "380105902791",
+	status : true, // check login status
+	cookie : true, // enable cookies to allow the server to access the session
+	xfbml  : true, // parse XFBML
+	oauth  : true
+	});
+	}
+	// ]]>
+	</script>
+	<link rel="stylesheet" href="http://f.fontdeck.com/s/css/7AQAmpoM/M3IEPycSkaAddZRXbw/www.channel4.com/22479.css" type="text/css" />
+	<link type="text/css" rel="stylesheet" href="/static/news/news/css/main.css" />
+	<!--link rel="stylesheet" type="text/css" media="print" href="/static/news/news/css/layout/print.css" /-->
+	<script type="text/javascript">
+	if(navigator.userAgent.match(/c4newsapp/)){ // if user-agent contains either the C4 News iOS or Android app
+	document.write('<style type="text/css"> #network-header { display: none; } #network-footer { display: none; } </style>');
+	}
+	</script>
+	
+</head>
+<body>
+	
+	<div id="site-wrapper">
+
+		<div id="skipLinks">
+					<ul>
+						<li><a tabindex="0" href="#site-body">Skip to Channel 4 News main content</a></li>
+						<li><a tabindex="1" href="#freetext">Skip to Channel 4 News search</a></li>
+						<li><a tabindex="2" href="#explore-contents">Skip to Channel 4 News navigation</a></li>
+						<li><a tabindex="3" href="#network-header">Skip to Channel 4 navigation</a></li>
+					</ul>
+				</div>
+
+				<div id="network-header" class="receptacle">
+
+					<div class="inner">
+						<!-- c4 global nav -->
+						<div id="gn-header" class="gn gn-wrapper gn-responsive gn-services-on">
+						    <div class="gn-header">
+
+
+						        <div class="gn-header-wrap gn-clear">
+
+						                <a href="#" class="gn-channels-button"><span>Channels</span></a>
+						            <div class="gn-channels gn-clear">
+						                 <a href="http://www.channel4.com" title="CHANNEL 4"><img src="//d8si6upl43lp1.cloudfront.net/static/4nav/6.0.1/images/header-c4.png" alt="CHANNEL 4" /></a>
+						                 <a href="http://www.channel4.com/4seven" title="4SEVEN"><img src="//d8si6upl43lp1.cloudfront.net/static/4nav/6.0.1/images/header-47.png" alt="4SEVEN" /></a>
+						                 <a href="http://www.e4.com" title="E4"><img src="//d8si6upl43lp1.cloudfront.net/static/4nav/6.0.1/images/header-e4.png" alt="E4" /></a>
+						                 <a href="http://www.more4.com" title="MORE4"><img src="//d8si6upl43lp1.cloudfront.net/static/4nav/6.0.1/images/header-more4.png" alt="MORE4" /></a>
+						                 <a href="http://www.film4.com" title="FILM4"><img src="//d8si6upl43lp1.cloudfront.net/static/4nav/6.0.1/images/header-film4.png" alt="FILM4" /></a>
+						                 <a href="http://www.4music.com" title="4MUSIC"><img src="//d8si6upl43lp1.cloudfront.net/static/4nav/6.0.1/images/header-4music.png" alt="4MUSIC" /></a>
+						                 <a href="http://www.channel4.com/programmes/4od" title="4oD" class="gn-last"><img src="//d8si6upl43lp1.cloudfront.net/static/4nav/6.0.1/images/header-4od.png" alt="4oD" /></a>
+						             </div>
+
+						            <div class="gn-options">
+						                    <div id="gn-identity" class="gn-identity  gn-no-search">
+						                            <span id="gn-login" class="gn-signin-button">
+						                                <a href="https://4id.channel4.com/login" class="c4id-widget" data-insert="overlay">Sign in</a>
+						                            </span>
+						                        <ul class="gn-clear gn-identity-links">
+						                            <li id="gn-register"><a href="https://4id.channel4.com/registration">Register</a></li>
+						                                <li id="gn-why"><a href="https://4id.channel4.com/http/why-register">Why register?</a></li>
+						                                <li id="gn-cookies-link" class="gn-last"><a href="http://www.channel4.com/4viewers/cookies">Cookies</a></li>
+
+						                        </ul>
+						                    </div>
+						                    <script>
+						                        C4Nav.initModule('IdentityLinks', {
+						                            logoutUrl: 'https://4id.channel4.com/logout',
+						                            accountUrl: 'https://4id.channel4.com/account'
+						                        });
+						                    </script>
+
+						            </div>
+
+
+						        </div>
+
+						             <div class="gn-services">
+						                                              <ul class="gn-clear">
+						                                                  <li><a href="http://www.channel4.com/tv-listings">TV Listings</a></li>
+						                                                  <li class="gn-watch-live"><a href="http://watchlive.channel4.com">Watch Live</a></li>
+						                                                  <li><a href="http://www.channel4.com/programmes">All Programmes</a></li>
+						                                                  <li><a href="http://www.channel4.com/programmes/4shorts">Shorts</a></li>
+						                                                  <li><a href="http://www.channel4.com/news">News</a></li>
+						                                                  <li class="gn-last"><a href="http://apps.channel4.com">Apps</a></li>
+						                                              </ul>
+						                                    </div>
+
+						    </div>
+						</div>
+
+					</div>
+
+				</div>
+
+				<div id="site-masthead" class="receptacle header site-masthead">
+					<div class="inner">
+						<div class="section">
+							<a class="site-brand" href="/news/">Channel 4 News</a>
+
+							<div class="find">
+
+								<p class="listings"><a href="http://watchlive.channel4.com/" class="watch-live">Watch live</a> 7pm weekdays, weekend timings see <a href="/tv-listings">TV listings</a></p>
+								
+								<form action="/news/search" method="get" class="search">
+									<input value="news" type="hidden" name="coreSiteName">
+									<div class="container">
+										<label for="search-freetext">Search:</label>
+										<input name="freetext" id="search-freetext" class="keywords" type="search" placeholder="Search News" size="34">
+									</div>							
+									<button type="submit"><span>Go</span></button>
+								</form>
+								
+							</div>
+							
+							<div class="quicklinks">
+						
+							<ul class="nav block-nav">
+								<li class="nav-item weather">
+									<a href="/weather/" class="item-link">
+										<i class="icon icon--weather"></i>
+										<p><span class="nav-title">Weather</span>
+											<span class="nav-desc">The weather for the next 5 days</span></p>
+									</a>
+								</li>
+								<li class="nav-item catchup">
+									<a href="/news/catch-up/" class="item-link">
+										<i class="icon icon--catchup"></i>
+										<p><span class="nav-title">Catch Up</span>
+											<span class="nav-desc">Watch from the last 7 days</span></p>
+									</a>
+								</li>
+								<li class="nav-item snowmail">
+									<a href="http://mailing.channel4.com/public/snowmail/remotebox.jsp" class="item-link">
+										<i class="icon icon--snowmail"></i>
+										<p><span class="nav-title">Snowmail</span>
+											<span class="nav-desc">Delivered daily to your inbox</span></p>
+									</a>
+								</li>
+							</ul>
+						
+							</div>
+						</div>
+						
+						<a href="/news/news-team/" class="team-promo"><img src="/static/news/news/images/global/presenters.png" alt="Presenters"></a>
+
+						<div id="navContainer">
+						    <a href="#mobileFooter" id="mobile-explore" title="expand menu"><span>Explore</span></a>
+							<div class="navigation">
+								<ul>
+									<li class="navtopics listitem uk">
+										<a class="item" href="/news/uk">UK</a>
+										<div style="display: none;" class="richDrops" id="richd0"><div class="ddloader"></div></div>
+									</li>
+									<li class="navtopics listitem world">
+										<a class="item" href="/news/world">World</a>
+										<div style="display: none;" class="richDrops" id="richd1"><div class="ddloader"></div></div>
+									</li>
+									<li class="navtopics listitem politics">
+										<a class="item" href="/news/politics">Politics</a>
+										<div style="display: none;" class="richDrops" id="richd2"><div class="ddloader"></div></div>
+									</li>
+									<li class="navtopics listitem business">
+										<a class="item" href="/news/business">Business</a>
+										<div style="display: none;" class="richDrops" id="richd3"><div class="ddloader"></div></div>
+									</li>
+									<li class="navtopics listitem science">
+										<a class="item" href="/news/science">Science</a>
+										<div style="display: none;" class="richDrops" id="richd4"><div class="ddloader"></div></div>
+									</li>
+									<li class="navtopics listitem technology">
+										<a class="item" href="/news/technology">Tech<span id="nology">nology</span></a>
+										<div style="display: none;" class="richDrops" id="richd5"><div class="ddloader"></div></div>
+									</li>
+									<li class="navtopics listitem culture last">
+										<a class="item" href="/news/culture">Culture</a>
+										<div style="display: none;" class="richDrops" id="richd6"><div class="ddloader"></div></div>
+									</li>
+									<li class="navtypes listitem videos">
+										<a class="item" href="/news/videos">Video</a>
+										<div style="display: none;" class="richDrops" id="richd7"><div class="ddloader"></div></div>
+									</li>
+									<li class="navtypes listitem blogs">
+										<a class="item" href="http://blogs.channel4.com/news">Blogs</a>
+										<div style="display: none;" class="richDrops" id="richd8"><div class="ddloader"></div></div>
+									</li>
+									<li class="navtypes listitem factcheck">
+										<a class="item" href="http://blogs.channel4.com/factcheck">FactCheck</a>
+										<div style="display: none;" class="richDrops" id="richd9"><div class="ddloader"></div></div>
+									</li>
+									<li class="navtypes listitem reports">
+										<a class="item" href="/news/special-reports">Special Reports</a>
+										<div style="display: none;" class="richDrops" id="richd10"><div class="ddloader"></div></div>
+									</li>
+									<li class="navtypes more">
+										<a class="item" href="#">
+											<span class="blogs-and">Blogs &amp; </span>More
+											<span class="blogs-and">...</span>
+										</a>
+										<span class="down-arrow"></span>
+										<div style="display: none;" class="richDrops" id="richd11">
+											<p>
+												<a href="/news/videos">Video</a>
+											</p>
+											<p>
+												<a href="http://blogs.channel4.com/news">Blogs</a>
+											</p>
+											<p>
+												<a href="http://blogs.channel4.com/factcheck">FactCheck</a>
+											</p>
+											<p>
+												<a href="/news/special-reports">Special Reports</a>
+											</p>
+										</div>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+		
+		<div id="site-body" class="receptacle body layout-wrapper layout-article">
+
+			<div class="inner">
+
+				<div class="section primary">
+
+					<div class="section-inner">
+					
+						<div class="main">
+							<div class="article" itemscope itemtype="http://schema.org/NewsItem">
+								<div class="article-header">
+									<div class="meta">
+										<span class="pubDateTime">
+											<span class="day">Wednesday</span> <span class="date">07 January 2015</span>
+										</span>
+										<span class="tags">
+
+																<a class="country" href="/news/france">France</a>
+										</span>
+									</div>
+										<h1 itemprop="headline">Gun attack on French satirical magazine kills 12</h1><div class="social-buttons">
+											<div class="social-button twitter">
+												<a href="https://twitter.com/share" data-text="Gun attack on French satirical magazine kills 12 - #c4news" class="twitter-share-button">Tweet</a>
+												<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>		
+											</div>
+											<div class="social-button facebook">
+												<fb:like send="false" layout="button_count" width="90" show_faces="false" action="recommend"></fb:like>
+											</div>
+										    <div class="social-button google-plus">
+										        <!-- Place this tag where you want the +1 button to render. -->
+										        <div class="g-plusone" data-size="medium"></div>
+
+										        <!-- Place this tag after the last +1 button tag. -->
+										        <script type="text/javascript">
+										            window.___gcfg = {lang: 'en-GB'};
+
+										            (function() {
+										                var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+										                po.src = 'https://apis.google.com/js/plusone.js';
+										                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+										            })();
+										        </script>
+										    </div>
+										</div>
+
+
+								</div>
+								
+								<div class="article-body">
+									<p class="synopsis">Gunmen armed with assault rifles kill 12 people in an attack on the offices of French satirical magazine Charlie Hebdo.</p>
+
+										<div id="cms:504400878" class="module groupID-AV c1 moduleID-AV01">
+											<div class="componentRow">
+
+
+												<div class="component">	
+													<div class="currentVideoDisplay cf">
+
+																<div class="ads false video">	
+																	<div class="playerId-1677202496001-FLAV">
+																		<div id="assetId-3976083501001" class="video-recepticle ads-false">
+																			<p>Please wait while this video loads. If it doesn't load after a few seconds you may need to have Adobe Flash installed.</p>
+																
+																		</div>
+																	</div>
+																	
+																</div>
+																
+													</div>
+												</div>
+											</div>
+										</div> <div id="cms:504400407" class="module groupID-AR c1 moduleID-AT01">
+											<div class="componentRow">
+												<div class="component">
+													<p><em>(Warning: this video contains graphic scenes which some viewers may find distressing)</em></p>
+													<p>French President Francois Hollande has described the attack as being "without doubt a terrorist attack". Four more people are seriously injured.</p>
+													<p>Graphic footage has been posted on social media, showing two men  dressed in black shooting and injuring a police officer in the street  before running over to shoot the officer dead on the pavement. The two  men then return to a black car stopped in the road before the video  ends.</p>
+													<blockquote>
+													<p><strong>I don't understand how people can attack a newspaper with heavy weapons. A newspaper is not a weapon of war.</strong> <em>Gerard Biard, editor-in-chief of Charlie Hebdo</em></p>
+													</blockquote>
+													<p>French news website 20minutes.fr reported one eye witness as saying  the men shouted as they approached the building: "You say to the media  that it was al-Qaeda in Yemen".</p>
+													<h2>Confirmed deaths<br /></h2>
+													<p>Cartoonist Corine Rey told the French weekly Humanite that she was forced at gunpoint to open the office door, and then hid under a desk as the shooting took place. Her fellow cartoonists Stephanie "Charb" Charbonnier, Jean Cabu, Bernard  "Tignou" Verlhac and George Wolinski were reported to have been  killed in the attack, as well as economist Bernard Maris who was a Charlie Hebdo shareholder.</p>
+													<p>Mr  Charbonnier was editor in chief of the magazine when it was    targeted in  a 2011 arson attack after running a cartoon of the Prophet     Mohammed.</p> 		
+												</div>
+											</div>
+											
+										</div> <div id="cms:504401558" class="module groupID-AR c1 moduleID-AI06">
+											<div class="componentRow">
+
+												<div class="component right landscape">
+
+													<div class="image">
+
+															<img src="/media/images/Channel4/c4-news/2015/January/07/07_paris_wantedposter_270x270--(None)_SML.jpg" alt="News" />
+
+													</div>
+													
+													<p>He was included in a  2013 Wanted Dead or Alive for Crimes   Against Islam article published by al-Qaeda's magazine "Inspire".</p>
+													<p>Charlie Hebdo's editor-in-chief Gerard Biard, who was in London at   the  time of the attack, has told France Inter: "I don't understand how    people can attack a newspaper with heavy weapons. A newspaper is not a    weapon of war."</p>
+													<p>The French National Police is in pursuit of three suspects thought  responsible for the shooting, officials said on Wednesday. It seems the  attack was carefully planned as it apparently happened when an editorial  meeting was taking place, meaning more staff members than usual were in  the office.</p>
+													<pre><a href="http://www.channel4.com/news/cartoonists-pay-tribute-our-hearts-are-with-charlie-hebdo-paris-gun-attack">Cartoonists pay tribute: 'our hearts are with Charlie Hebdo'</a><br /></pre>
+													<p>Workers elsewhere in the building fled to the roof as the attack took place.</p>
+													<p> </p>	
+													
+												</div>
+
+											</div>
+										</div> <div id="cms:504399454" class="module c1 moduleID-AT04">
+											<div id="userContent">
+												<div class="componentRow">
+													<blockquote class="twitter-tweet tw-align-center" lang="en"><p>Photo of alleged Gunmen in France&#39;s <a href="https://twitter.com/hashtag/CharlieHebdo?src=hash">#CharlieHebdo</a> shooting (pic via <a href="https://twitter.com/hashtag/LeMonde?src=hash">#LeMonde</a>&#39;s <a href="https://twitter.com/EliseBarthet">@EliseBarthet</a>) <a href="http://t.co/BZETpanPSf">pic.twitter.com/BZETpanPSf</a></p>&mdash; Lisa Daftari (@LisaDaftari) <a href="https://twitter.com/LisaDaftari/status/552798938294915073">January 7, 2015</a></blockquote>
+													<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+													<blockquote class="twitter-tweet tw-align-center" lang="en"><p>Un homme &eacute;vacu&eacute; devant les journalistes <a href="https://twitter.com/hashtag/CharlieHebdo?src=hash">#CharlieHebdo</a> <a href="http://t.co/ZDlt0hImTK">pic.twitter.com/ZDlt0hImTK</a></p>&mdash; Mathieu Magnaudeix (@mathieu_m) <a href="https://twitter.com/mathieu_m/status/552785548465946624">January 7, 2015</a></blockquote>
+													<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+												</div>
+											</div>
+										</div> <div id="cms:504399479" class="module groupID-AR c1 moduleID-AI06">
+											<div class="componentRow">
+
+												<div class="component  landscape">
+
+													<div class="image">
+
+															<img src="/media/images/Channel4/c4-news/2015/January/07/07_shooting2_w--(None)_SML.jpg" alt="News" />
+
+													</div>
+													
+													<p>Eyewitness Benoit Bringer told French television channel iTELE "about  half an hour ago two black-hooded men entered the building with  Kalashnikovs." He described hearing a lot of shots a few minutes later.</p>
+													<p>Another witness said he had heard 40-50 gunshots before seeing two people fleeing in a Citroen C1.</p>
+													<p> </p>	
+													
+												</div>
+
+											</div>
+										</div> <div id="cms:504399463" class="module c1 moduleID-AT04">
+											<div id="userContent">
+												<div class="componentRow">
+													<blockquote class="twitter-tweet tw-align-center" lang="en"><p>Devant l&#39;immeuble, un t&eacute;moin a entendu &quot;40-50 coups de feu&quot;et vu deux personnes encagoul&eacute;es partir au volant d&#39;une C1 <a href="http://t.co/952OoSwy2s">pic.twitter.com/952OoSwy2s</a></p>&mdash; Mathieu Magnaudeix (@mathieu_m) <a href="https://twitter.com/mathieu_m/status/552788257961148416">January 7, 2015</a></blockquote>
+													<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+												</div>
+											</div>
+										</div> <div id="cms:504399491" class="module groupID-AR c1 moduleID-AT01">
+											<div class="componentRow">
+												<div class="component">
+													<p>Visiting the scene, the French President Francois Hollande said the country's threat level was now raised to the highest level and vowed to continue the fight against terrorism and promised to bring the perpetrators to justice. Police have launched a manhunt across the capital. Interior Minister Manuel Valls said three men were being sought.</p>
+													<p><a href="http://www.uoif-online.com/" target="_blank">The Union des Organisations Islamiques de France</a> (UOIF), which represents more than 250 Muslim organisations across France, condemned the killings.</p>
+													<blockquote>
+													<p><strong>Religions, like all other ideas deserve criticism, satire and, yes, our fearless disrespect</strong> <em>Salman Rushdie, author</em></p>
+													</blockquote>
+													<p>"Charlie Hebdo has just become the target of an appalling attack," the group said in a statement.  "The UOIF condemns, in the strongest possible terms, this criminal attack and these horrible murders.  "The UOIF offers its condolences to the families as well as the employees of Charlie Hebdo."</p>
+													<p> </p> 		
+												</div>
+											</div>
+											
+										</div> <div id="cms:504402010" class="module groupID-AR c1 moduleID-AI06">
+											<div class="componentRow">
+
+												<div class="component  landscape">
+
+													<div class="image">
+
+															<img src="/media/images/Channel4/c4-news/07_houellebecq_r_w--(None)_SML.jpg" alt="News" />
+
+													</div>
+													
+													<pre>The attack on Charlie Hebdo coincided with the publication of a controversial novel by French author Michel Houellebecq, whose latest work Submission has been branded Islamophobic by critics.<br /><br />Houellebecq, whose caricature featured on the front cover of this week's edition of Charlie Hebdo, imagines France in 2022, with the leader of a fictional Muslim party winning the presidential election and curtailing civil liberties. Houellebecq has been accused of giving succour to the far right, but has denied charges of Islamophobia.</pre>	
+													
+												</div>
+
+											</div>
+										</div> <div id="cms:504399510" class="module groupID-AR c1 moduleID-AT01">
+											<div class="componentRow">
+												<div class="component">
+													<p>Speaking in London, Prime Minister David Cameron said: "The murders  in Paris are sickening. We stand with the French people in the fight  against terror and defending the freedom of the press."</p>
+													<p>US President Barack Obama said he "strongly condemns" the horrific  shooting, and promised to provide any assistance needed to "help bring  these terrorists to justice".</p>
+													<pre><strong><a href="http://blogs.channel4.com/snowblog/charlie-hebdo-shooting-ferociously-shocking-moment/24929">Read more: Jon Snow 'Charlie Hebdo shooting is a ferociously shocking moment'</a><br /></strong></pre>
+													<p>The mayor of Paris, Anne Hidalgo, condemned the attack and called for people <a href="https://www.facebook.com/HidalgoAnne/posts/10152795840149597" target="_blank">to join a silent protest march on Thursday</a>.</p>
+													<p>Charlie Hebdo has previously <a href="http://www.nytimes.com/2011/11/03/world/europe/charlie-hebdo-magazine-in-paris-is-firebombed.html?src=tp&amp;_r=1&amp;" target="_blank">been firebombed after publishing a spoof edition in 2011</a> "guest edited" by the Prophet Mohammed. It showed a cartoon of Mohammed, with the words "100 lashes if you don't die of laughter."</p>
+													<p>In 2006, the magazine, which prides itself on being offensive to practically everyone, republished cartoons of the Prophet Mohammed which had caused controversy when they first appeared in a Danish newspaper.</p>
+													<p>The last tweet sent from the Charlie Hebdo account sent "best wishes" to the leader of the Islamic State militant group, Abu Bakr al-Baghdadi.</p>
+													<p>Reports in France have suggested the attack was carried out during editorial conference to discuss the next issue of the magazine - an Islam-themed edition.</p>
+													<p>Author Salman Rushdie said in a statement: "I stand with Charlie  Hebdo, as we all must, to defend the art of satire, which has always  been a force for liberty and against tyranny, dishonesty and stupidity.  'Respect for religion' has become a code phrase meaing 'fear of  religion.'</p>
+													<p>"Religions, like all other ideas deserve criticism, satire and, yes, our fearless disrespect."</p> 		
+												</div>
+											</div>
+											
+										</div> <div id="cms:504399717" class="module c1 moduleID-AT04">
+											<div id="userContent">
+												<div class="componentRow">
+													<blockquote class="twitter-tweet tw-align-center" lang="en"><p>Meilleurs vœux, au fait. <a href="http://t.co/a2JOhqJZJM">pic.twitter.com/a2JOhqJZJM</a></p>&mdash; Charlie Hebdo (@Charlie_Hebdo_) <a href="https://twitter.com/Charlie_Hebdo_/status/552773881283764224">January 7, 2015</a></blockquote>
+													<script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+												</div>
+											</div>
+										</div> 
+
+										<div class="module mi13 groupID-VL c moduleID-VL13">
+											<h3 class="cufon">Article Tags</h3>
+											<div class="component">
+												<a href="/news/search/display/freetext/channel-4-news" itemprop="about">Channel 4 News</a>, <a href="/news/france" itemprop="about">France</a>		
+											</div>
+										</div> <div id="cms:504399455" class="module groupID-FL minilist c moduleID-FL01-list">
+											<h3>More on this story</h3>
+
+																<div class="component">
+																	<ul>
+
+																				<li class="article">
+																					<a class="image" href="/news/cartoonists-pay-tribute-our-hearts-are-with-charlie-hebdo-paris-gun-attack">
+																						<img alt="News" src="/media/images/Channel4/c4-news/2015/January/07/07_cartoon_charliehebdo_w--(None)_SML.jpg">
+																					</a>
+																					
+																					<div class="article">
+																						<h4><a href="/news/cartoonists-pay-tribute-our-hearts-are-with-charlie-hebdo-paris-gun-attack">Cartoonists pay tribute: 'our hearts are with Charlie Hebdo'</a></h4>
+																		 
+																						<span class="pubDateTime">07 January 2015</span> 
+																					
+																					
+																					</div>
+																					
+																				</li>
+																				
+																				<li class="article">
+																					<a class="image" href="/news/iraq-isis-islamic-state-abu-bakr-al-baghdadi-video">
+																						<img alt="Video purporting to show Abu Bakr al-Baghdadi" src="/media/images/Channel4/c4-news/2014/July/05/05_baghdadi_g_w_SML.jpg">
+																					</a>
+																					
+																					<div class="article">
+																						<h4><a href="/news/iraq-isis-islamic-state-abu-bakr-al-baghdadi-video">Is this Islamic State leader Abu Bakr al-Baghdadi?</a></h4>
+																		 
+																						<span class="pubDateTime">05 July 2014</span> 
+																					
+																					
+																					</div>
+																					
+																				</li>
+																				
+																				<li class="article">
+																					<a class="image" href="/news/france-braced-for-protest-over-mohammed-cartoons">
+																						<img alt="The offices of Charlie Hebdo are being protected by riot police (pic: Reuters)" src="/media/images/Channel4/c4-news/2012/Sep/19/19_newriots_r_w_SML.jpg">
+																					</a>
+																					
+																					<div class="article">
+																						<h4><a href="/news/france-braced-for-protest-over-mohammed-cartoons">France braced for protest over Mohammed cartoons</a></h4>
+																		 
+																						<span class="pubDateTime">19 September 2012</span> 
+																					
+																					
+																					</div>
+																					
+																				</li>
+																						
+																	</ul>
+																</div>
+															
+													
+												
+										</div> <div id="cms:504399456" class="module mi15 groupID-VL c1 moduleID-VL15">
+											<div class="componentRow">
+
+												<div class="rowHead">
+													<h3>Recommended Reading</h3>
+												</div>
+
+												<div class="component">
+													<ul class="standlist">
+
+																<li>
+																	<a href="http://www.independent.co.uk/voices/comment/its-charlie-hebdos-right-to-draw-muhammad-but-they-missed-the-opportunity-to-do-something-profound-8435693.html" target="_blank">Charlie Hebo missed the opportunity to do something profound</a>
+																	
+															
+																	
+																</li>
+																		
+													</ul>
+												</div>
+											</div>
+										</div> 
+
+								</div>
+							</div>
+						</div>
+						
+					</div>
+
+				</div>
+
+				<div class="section secondary">
+				
+					<div class="section-inner">
+						<div class="supporting">
+						<div class="aside">
+							<div id="advert-mpu" class="advert-mpu">
+								<span class="advert-text">Advertisement</span>
+							</div>
+						</div>
+
+							<div class="module mi1 groupID-FL c moduleID-FL01-list">
+								<h3 class="cufon">Today's latest articles</h3>
+								<div class="componentRow">
+									<div class="component">
+										<ul>
+
+													<li class="article">
+														<a href="/news/airbus-a320-plane-crash-france-alps-germanwings-passengers" class="image" >
+															<img src="/media/images/Channel4/c4-news/BREAKING_NEWS/BreakingNewsW620_348--(None)_SML.jpg" alt="News">
+														</a>
+														<div class="article">
+															<h4><a href="/news/airbus-a320-plane-crash-france-alps-germanwings-passengers" >Airbus A320 crashes in French Alps with 148 on board</a></h4>
+															<p class="pubDateTime">24 Mar 2015</p>
+														</div>
+													</li>
+													
+													<li class="article">
+														<a href="/news/jeremy-clarkson-top-gear-time-line-fracas-producer" class="image" >
+															<img src="/media/images/Channel4/c4-news/2015/March/23/23_clarkson_g_w--(None)_SML.jpg" alt="News">
+														</a>
+														<div class="article">
+															<h4><a href="/news/jeremy-clarkson-top-gear-time-line-fracas-producer" >Jeremy Clarkson 'fracas': from steak row to tank - timeline</a></h4>
+															<p class="pubDateTime">24 Mar 2015</p>
+														</div>
+													</li>
+													
+													<li class="article">
+														<a href="/news/ukip-mep-vows-to-fight-expulsion-over-expense-fraud-claims" class="image" >
+															<img src="/media/images/Channel4/c4-news/2015/March/24/24_atkinson_w--(None)_SML.jpg" alt="News">
+														</a>
+														<div class="article">
+															<h4><a href="/news/ukip-mep-vows-to-fight-expulsion-over-expense-fraud-claims" >Ukip MEP vows to fight expulsion over expense fraud claims</a></h4>
+															<p class="pubDateTime">24 Mar 2015</p>
+														</div>
+													</li>
+													
+													<li class="article">
+														<a href="/news/general-election-whats-wrong-with-our-mps" class="image" >
+															<img src="/media/images/Channel4/c4-news/23_politicianscomposite_w--(None)_SML.jpg" alt="David Cameron, Ed Miliband and Nick Clegg">
+														</a>
+														<div class="article">
+															<h4><a href="/news/general-election-whats-wrong-with-our-mps" >What's wrong with our MPs?</a></h4>
+															<p class="pubDateTime">23 Mar 2015</p>
+														</div>
+													</li>
+													
+													<li class="article">
+														<a href="/news/politics-doorstep-interview-blair-bloom-clegg-shapps-video" class="image" >
+															<img src="/media/images/Channel4/c4-news/2015/March/23/23_doorsteps_w--(None)_SML.jpg" alt="News">
+														</a>
+														<div class="article">
+															<h4><a href="/news/politics-doorstep-interview-blair-bloom-clegg-shapps-video" >Blair to Bloom: the best political 'doorstep' interviews</a></h4>
+															<p class="pubDateTime">23 Mar 2015</p>
+														</div>
+													</li>
+															
+										</ul>
+									</div>
+								</div>
+							</div> <!--
+							<[CDATA[
+							MODULE ERROR:
+							Module Name: "OM01"
+							Error Description: ""
+							]]>
+							--> 
+
+						</div>
+					</div>
+
+				</div>
+				
+
+			</div>
+
+		</div>
+		
+		<div id="site-footer" class="receptacle site-footer">
+		    <div class="inner">
+		        <a class="site-brand" href="/news/"><img src="/static/news/news/images/global/4news-logo-footer.png" width="70" height="89" alt="Channel 4 News"></a>
+		        			
+		        	<h4 class="explore-title"><a href="#network-header" class="to-top">back to top &uarr;</a></h4>
+		        			
+		        	<div id="primary-nav" class="section">
+		        				
+		        		<div id="quicklinks-content">
+		        								
+		        			<ul class="nav block-nav">
+		        				<li class="nav-item weather">
+		        						
+		        				</li>
+		        				<li class="nav-item catchup">
+		        					<a href="/news/catch-up/" class="item-link">
+		        						<i class="icon icon--catchup"></i>
+		        						<p><span class="nav-title">Catch Up</span>
+		        							<span class="nav-desc">Watch from the last 7 days</span></p>
+		        					</a>
+		        				</li>
+		        				<li class="nav-item snowmail">
+		        					<a href="http://mailing.channel4.com/public/snowmail/remotebox.jsp" class="item-link">
+		        						<i class="icon icon--snowmail"></i>
+		        						<p><span class="nav-title">Snowmail</span>
+		        							<span class="nav-desc">Delivered daily to your inbox</span></p>
+		        					</a>
+		        				</li>
+		        				<li class="nav-item blogs">
+		        					<a href="http://blogs.channel4.com/news/" class="item-link">
+		        						<i class="icon icon--blogs"></i>
+		        						<p><span class="nav-title">Blogs</span>
+		        							<span class="nav-desc">Insight from the news team</span></p>
+		        					</a>
+		        				</li>
+		        				
+		        			</ul>
+
+		        		</div>
+		        				
+		        		<div id="explore-content">
+		        										
+		        					<div class="nav">
+		        						
+		        						<ul class="hublinks">
+		        							<li><a href="http://blogs.channel4.com/news/">Blogs</a></li>
+		        							<li><a href="/news/news-team">News Team</a></li>
+		        							<li><a href="/news/special-reports">Special Reports</a></li>
+		        							<li><a href="/news/categories">Categories</a></li>							
+		        							<li><a href="/news/countries">Featured Countries</a></li>
+		        						</ul>
+		        						
+		        					</div>
+		        					
+		        				</div>
+		        				
+		        			</div>
+		        			
+		        			<div id="secondary-nav" class="section">
+		        				
+		        				<ul class="nav">
+		        					<li class="standlist">
+		        						<h5 class="title">About</h5>
+		        						<ul class="items">
+		        							<li><a href="/news/about-channel-4-news">About the programme</a></li>
+		        							<li><a href="/news/frequently-asked-questions">Frequently asked questions</a></li>
+		        							<li><a href="/news/contact-channel-4-news">Contact us</a></li>
+		        							<li><a href=" http://www.channel4.com/4viewers/cookies" target="_blank">Cookies</a></li>
+		        						</ul>
+		        					</li>
+		        					<li class="standlist">
+		        						<h5 class="title">Network</h5>
+		        						<ul class="items">
+		        							<li><a href="http://blogs.channel4.com/factcheck/">FactCheck</a></li>
+		        							<li><a href="/programmes/unreported-world/">Unreported World</a></li>
+		        							<li><a href="/programmes/dispatches/">Dispatches</a></li>
+		        						</ul>
+		        					</li>
+		        					<li class="sociallist">
+		        						<h5 class="title">Elsewhere</h5>
+		        						<ul class="items">
+		        							<li><a href="http://plus.google.com/+Channel4News/"><i class="social googleplus"></i>Google+</a></li>
+		        							<li><a href="http://twitter.com/channel4news"><i class="social twitter"></i>Twitter</a></li>
+		        							<li><a href="http://www.facebook.com/Channel4News"><i class="social facebook"></i>Facebook</a></li>
+		        							<li><a href="http://www.youtube.com/user/channel4news"><i class="social youtube"></i>YouTube</a></li>
+		        							<li><a href="http://instagram.com/c4news"><i class="social instagram"></i>Instagram</a></li>
+		        							<li><a href="/news/rss"><i class="social rss"></i>RSS Feeds</a></li>
+		        						</ul>
+		        					</li>
+		        				</ul>
+		        			
+		        			</div>
+
+		        			<div id="mobile-detect"></div>
+		    </div>
+		</div>
+		<div id="network-footer" class="receptacle c4nwkLight">
+		    <div class="inner">
+
+		        <div class="gn gn-footer gn-footer-white">
+
+		            <div class="gn-footer-wrapper">
+
+		                <div class="gn-footer-disclaimer">
+
+
+
+		                    <ul class="gn-footer-logos">
+
+		                        <li>
+		                            <a href="http://www.channel4.com" title="Channel 4" class="gn-c4"> Channel 4 </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.channel4.com/4seven" title="4Seven" class="gn-47"> 4Seven </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.e4.com" title="E4" class="gn-e4"> E4 </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.more4.com" title="More4" class="gn-more4"> More4 </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.film4.com" title="Film4" class="gn-film4"> Film4 </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.4music.com" title="4Music" class="gn-4music"> 4Music </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.channel4.com/programmes/4od" title="4oD" class="gn-4od"> 4oD </a>
+		                        </li>
+
+		                    </ul>
+
+
+
+		                    <p class="gn-footer-copyright"> Channel 4 &copy; 2015. We have updated our <a href="http://www.channel4.com/4viewers/ts-and-cs">terms and conditions</a>, <a href="http://www.channel4.com/4viewers/privacy">privacy policy</a> and <a href="http://www.channel4.com/4viewers/cookies">cookies policy</a>. Please ensure you read all these documents before using our Digital Products and Services. </p>
+
+		                </div>
+
+
+
+		                <ul class="gn-footer-services gn-footer-column">
+
+		                    <li>
+		                        <a href="http://www.channel4.com/tv-listings"> TV Listings </a>
+		                    </li>
+
+		                    <li class="gn-watch-live">
+		                        <a href="http://watchlive.channel4.com"> Watch Live </a>
+		                    </li>
+
+		                    <li>
+		                        <a href="http://www.channel4.com/programmes"> All Programmes </a>
+		                    </li>
+
+		                    <li>
+		                        <a href="http://www.channel4.com/programmes/4shorts"> Shorts </a>
+		                    </li>
+
+		                    <li>
+		                        <a href="http://www.channel4.com/news"> News </a>
+		                    </li>
+
+		                    <li>
+		                        <a href="http://apps.channel4.com"> Apps </a>
+		                    </li>
+
+		                </ul>
+
+
+
+		                    <a href="" class="gn-footer-show-useful-links"> Useful links </a>
+
+
+
+
+		                <div class="gn-footer-viewers gn-footer-column gn-footer-useful-links">
+
+		                    <h2> <a href="http://www.channel4.com/4viewers"> Viewers </a> </h2>
+
+		                    <ul>
+
+		                        <li>
+		                            <a href="http://www.channel4.com/4viewers/ts-and-cs"> Terms and Conditions </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.channel4.com/4viewers/privacy"> Privacy Policy </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.channel4.com/4viewers/cookies"> Cookies Policy </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.channel4.com/static/global/html/parentalContent.html"> Parental Control </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.channel4.com/accessibility"> Accessibility </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.channel4.com/blogs"> Blogs </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.channel4.com/4viewers/contact-us"> Contact Us </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.channel4.com/4viewers/faq"> FAQs </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.channel4.com/4store"> C4 Store </a>
+		                        </li>
+
+		                    </ul>
+
+		                </div>
+
+
+
+		                <div class="gn-footer-corporate gn-footer-column gn-footer-useful-links">
+
+		                    <h2> <a href="http://www.channel4.com/info/corporate"> Corporate </a> </h2>
+
+		                    <ul>
+
+		                        <li>
+		                            <a href="http://www.channel4.com/info"> Info </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.channel4.com/info/press"> Press </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.channel4.com/info/commissioning"> Commissioning </a>
+		                        </li>
+
+
+		                        <li>
+		                            <a href="http://www.channel4.com/info/corporate/corporate-responsibility"> Corporate Responsibility </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.channel4.com/info/corporate/legal/foi-home"> Freedom of Information </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.channel4.com/about4/diversity.html"> Diversity </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.channel4.com/4talent"> Talent </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.channel4.com/4careers/4careers_new"> Jobs </a>
+		                        </li>
+
+		                        <li>
+		                            <a href="http://www.channel4sales.com/home"> Sales </a>
+		                        </li>
+
+		                    </ul>
+
+		                </div>
+
+
+		                    <p class="gn-footer-copyright-responsive"> Channel 4 &copy; 2015. For more information please read our <a href="http://www.channel4.com/4viewers/ts-and-cs">terms and conditions</a> and <a href="http://www.channel4.com/4viewers/privacy">privacy policy</a>. </p>
+
+
+		            </div>
+
+		        </div>
+		    </div>
+		</div>
+
+		<script src="/static/news/news/js/lib/modernizr.js"></script>
+		<script>
+		    Modernizr.load([{
+		        test: window.matchMedia,
+		        nope: '/static/news/news/js/lib/polyfills/matchmedia.js'
+		    },{
+		        test: ('__proto__' in {}),
+		        yep: '/static/news/news/js/lib/zepto/zepto.min.js',
+		        nope: '/static/news/news/js/lib/jquery/jquery-1.7.1.min.js',
+		        complete: function(){
+		            if ( "Zepto" in window ) {
+		                window.jQuery = Zepto;
+		                window.$ = Zepto;
+		            }
+		            Modernizr.load({
+		                load : [
+		                    'http://admin.brightcove.com/js/BrightcoveExperiences_all.js',
+		                    '/static/news/news/js/compiled.js'
+		                ]
+		            });
+		        }
+		    },{
+		        test: (navigator.userAgent.match(/iPhone/i) || navigator.userAgent.match(/iPad/i)),
+		        yep: '/static/news/news/js/lib/polyfills/orientation-change-patch.js'
+		    },{
+		        test: Modernizr.input.placeholder,
+		        nope: '/static/news/news/js/lib/polyfills/placeholder.js'
+		    }
+		    ]);
+		</script>
+
+		<!-- DB01 -->
+		<!-- head -->
+
+		<script type="text/javascript" src="http://www.channel4.com/media/scripts/freewheel/adverts.js"></script>
+		<!-- SiteCatalyst code version: H.17.
+			Copyright 1997-2006 Omniture, Inc. More info available at
+			http://www.omniture.com -->
+		    <script type="text/javascript" src="/static/global/js/lib/omniture/jptag.js"></script>
+		    <script type="text/javascript" src="/static/global/js/lib/omniture/s_code.js"></script>
+
+			<script type="text/javascript"><!-- 
+			/* You may give each page an identifying name, server, and channel on
+			the next lines. */
+			s.pageName=c4props("pagename");
+			s.server=c4props("server");
+			s.pageType="";
+			s.channel=c4props("vertical");
+			s.prop1=c4props("domain");
+			s.prop2=c4props("vertical");
+			s.prop3=c4props(3);
+			s.prop4=c4props(4);
+			s.prop5=c4props(5);
+			s.prop6=c4props(6);
+			s.prop7="ID:504399414|ARTICLEID:504399416|SITE:" + s.prop2;  
+			s.prop8=c4props(8);
+			s.prop9=c4props(9);
+			s.prop13=c4props(13);
+			s.prop15=c4props(15);
+			s.prop16=c4props(16);
+			s.prop18=c4props(18);
+			s.prop34=c4props(34);
+			s.prop36=c4props(36);
+			s.prop42=c4props(42);
+			s.prop48=c4props(48);
+
+			/* E-commerce Variables */
+			s.campaign="";
+			s.state="";
+			s.zip="";
+			s.events="";
+			s.products="";
+			s.purchaseID="";
+			s.eVar1=c4props("domain");
+			s.eVar2=c4props("vertical");
+			s.eVar3=c4props(3);
+			s.eVar4=c4props(4);
+			s.eVar5=c4props(5);
+			s.eVar6=c4props(6);
+			s.eVar7=s.prop7;
+			s.eVar8=c4props(8);
+			s.eVar18 = s.prop18;
+			s.eVar25 = s.prop25;
+			s.eVar26 = s.prop26;
+			s.eVar27 = s.prop27;
+			s.eVar34 = s.prop34;
+			s.eVar36 = s.prop36;
+			s.eVar42 = s.prop42;
+			s.eVar48 = s.prop48;
+			
+			c4pageInfluenceEvent();
+			c4searchResultsEvent();
+			
+			s.hier1=c4props("hier");
+			/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+			if(window.location.href.indexOf('fb_xd_fragment') === -1) {
+		        	var s_code=s.t();
+		        	if(s_code) { 
+		           	 	document.write(s_code);
+		       		}
+		    	}
+		    	//--></script>
+			<script type="text/javascript"><!--
+			if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-');
+			//--></script><!--/DO NOT REMOVE/-->
+			<!-- End SiteCatalyst code version: H.17. -->
+
+	</div>	
+	
+</body>
+</html>

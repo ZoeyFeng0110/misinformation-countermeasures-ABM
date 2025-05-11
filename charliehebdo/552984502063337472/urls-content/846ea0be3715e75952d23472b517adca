@@ -1,0 +1,43 @@
+HTTP/1.1 301 Moved Permanently
+Date: Tue, 24 Mar 2015 10:59:19 GMT
+Server: Apache
+Location: https://au.news.yahoo.com/world/a/25928482/three-men-including-two-brothers-identified-in-france-newspaper-attack-source/
+Content-Length: 0
+Connection: close
+Content-Type: text/html; charset=UTF-8
+
+HTTP/1.1 404 Not Found
+Date: Tue, 24 Mar 2015 10:59:21 GMT
+Set-Cookie: B=6d7ll79ah2gs9&b=3&s=7o; expires=Fri, 24-Mar-2017 10:59:22 GMT; path=/; domain=.yahoo.com
+P3P: policyref="http://info.yahoo.com/w3c/p3p.xml", CP="CAO DSP COR CUR ADM DEV TAI PSA PSD IVAi IVDi CONi TELo OTPi OUR DELi SAMi OTRi UNRi PUBi IND PHY ONL UNI PUR FIN COM NAV INT DEM CNT STA POL HEA PRE LOC GOV"
+Set-Cookie: tz=d=fC1_0w_EhX6aUUesDD0G6mQDP71c8aImwWdGiriyXmGTbyYB4L5SiwYLvuTkk52ZApJ9wmtGQQ--&v=1; expires=Fri, 24-Apr-2015 11:59:21 GMT; path=/; domain=au.news.yahoo.com
+Vary: Accept-Encoding
+Connection: close
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=utf-8
+Cache-Control: private
+
+<html>
+    <head>
+        <title>404 - Not Found</title>
+        <meta http-equiv="refresh" content="2;url=https://au.search.yahoo.com/404handler?src=newsau&fr=404_news_au&ref=http%3A%2F%2Fu.afp.com%2FRhs&url=http%3A%2F%2Fau.news.yahoo.com%2Fworld%2Fa%2F25928482%2Fthree-men-including-two-brothers-identified-in-france-newspaper-attack-source%2F" />
+    </head>
+    <body>
+        Oooops! Sorry we couldn't find the requested page...now searching for your results!<br>
+        If your browser doesn't automatically redirect you, please <a href="https://au.search.yahoo.com/404handler?src=newsau&fr=404_news_au&ref=http%3A%2F%2Fu.afp.com%2FRhs&url=http%3A%2F%2Fau.news.yahoo.com%2Fworld%2Fa%2F25928482%2Fthree-men-including-two-brothers-identified-in-france-newspaper-attack-source%2F">click here.</a>
+
+        <!-- Yahoo! Web Analytics - All rights reserved -->
+        <script type="text/javascript" src="https://s.yimg.com/mi/ywa.js" </script>
+        <script type="text/javascript">
+            var YWATracker = YWA.getTracker("1000579267015");
+            YWATracker.setDocumentName("newsau");
+            YWATracker.setDocumentGroup("404 Error Page");
+            YWATracker.submit();
+        </script>
+        <noscript>
+            <div><img src="//a.analytics.yahoo.com/p.pl?a=1000579267015&js=no" width="1" height="1" alt="" /></div>
+        </noscript>
+        <!-- End of Yahoo! Web Analytics Code -->
+    </body>
+</html>
+<!-- pres31.news.aue.yahoo.com uncompressed/chunked Tue Mar 24 21:59:21 EST 2015 -->

@@ -1,0 +1,28 @@
+HTTP/1.1 200 OK
+Server: Apache/2.2.20 (Unix)
+Last-Modified: Sun, 31 May 2015 22:58:31 GMT
+ETag: "1fdec7-d69-51768a5e773c0"
+Accept-Ranges: bytes
+Content-Type: text/html
+Accept-Ranges: bytes
+X-Varnish: 576956642
+x-cachemod-currenttl: 
+objttl: 
+X-origcc: max-age=60
+X-origd: Mon, 15 Jun 2015 12:56:51 GMT
+X-ws: docache5,solcda13a
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=60
+Expires: Mon, 15 Jun 2015 12:57:51 GMT
+Date: Mon, 15 Jun 2015 12:56:51 GMT
+Content-Length: 1222
+Connection: keep-alive
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" manifest="/adaptive_assets/sun.appcache"><head><link rel="icon" type="image/png" href="/adaptive_assets/51/images/favicon.ico"><link rel="apple-touch-icon-precomposed" sizes="57x57" href="/adaptive_assets/51/images/appleIcons/AppIcon57x57.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="/adaptive_assets/51/images/appleIcons/AppIcon72x72.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="/adaptive_assets/51/images/appleIcons/AppIcon57x57@2x.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="/adaptive_assets/51/images/appleIcons/AppIcon72x72@2x.png"><title>The Sun</title><script type="text/javascript">if (window.applicationCache) {window._SUN = window._SUN || {};_SUN.needsUpdate = false;applicationCache.addEventListener('updateready', function () {_SUN.needsUpdate = true;});} window.___gcfg = {lang: 'en-GB',parsetags: 'explicit'};</script><meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1"><meta name="description" content="The Sun"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta property="fb:admins" content="732200166"><meta property="fb:app_id" content="1416508838601952"><link rel="stylesheet" href="/adaptive_assets/51/styles/main.css"><script src="/adaptive_assets/51/scripts/helpers/modernizr.js"></script><link rel="stylesheet" href="http://widget.cloud.opta.net/2.0/css/widgets.opta.css" type="text/css"><!--[if IE 9]><link rel="stylesheet" type="text/css" href="http://widget.cloud.opta.net/2.0/css/ie9.widgets.opta.css" media="screen" /><![endif]--><!--[if IE 8]><link rel="stylesheet" type="text/css" href="http://widget.cloud.opta.net/2.0/css/ie8-widgets.opta.css" media="screen" /><![endif]--><!--[if IE 7]><link rel="stylesheet" type="text/css" href="http://widget.cloud.opta.net/2.0/css/ie7.widgets.opta.css" media="screen" /><![endif]--></head><body><div id="fb-root"></div><script src="/adaptive_assets/51/config.js"></script><script src="/adaptive_assets/51/sun.min.js"></script><div id="bodyBackGroundStyle" class="bodyBackGroundStyle"></div><div class="bodyBackground"></div><div id="topMenuHolder" class="topMenuHolder staticPos"></div><div id="mandelaBlockHolder" class="mandelaBlockHolder"></div><div id="leaderboardWrapper" class="leaderboardWrapper"><div id="ad-holder-leaderboard" class="topLeader" style="margin: 0 auto"></div></div><div id="settingsMenu" class="settingsMenu"></div><div id="bodyMainHolder" class="totalWrapper mainBodyHolder"><div id="fireplace" class="fireplace"></div><div id="optionsHolder" class="optionsHolder"></div><div id="mainContent" class="fullSize mainBody"></div></div><div id="ad-holder-bottomleaderboard" class="bottomLeaderboard" style="margin: 0 auto"></div><div id="copyrightPanel" class="footer"></div><span class="adph-delay" id="adpl-1x1"></span><div id="advertScriptHolder"></div><div id="overlayHolder" class="overlayHolder"></div><div id="ad-holder-pixel" style="display: none"></div><style>#videoCarouselPlayermandela .innerWrapper,
+        #mandelaVideoPlayer .innerWrapper {
+            z-index: 10;
+        }
+        .fyre .fyre-stream-sort .fyre-stream-sort-options a {
+            color: #FFFFFF !important;
+        }</style><link href="http://fonts.googleapis.com/css?family=Open+Sans:400italic,400,300,700" rel="stylesheet" type="text/css"></body></html>
